@@ -1,17 +1,19 @@
 from pathlib import Path
-from pprint import pprint
+from pprint import pformat
 
 import typer as typer
 import yaml
+from loguru import logger
 
 from automation.models import Config
 
 
-def main(config: Path):
+def load_config(config: Path) -> Config:
     with open(config) as config_file:
         config = Config.parse_obj(yaml.load(config_file, Loader=yaml.CLoader))
-        pprint(config.languages)
+        logger.debug(pformat(config.languages))
+        return config
 
 
 if __name__ == "__main__":
-    typer.run(main)
+    typer.run(load_config)

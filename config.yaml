@@ -12,7 +12,7 @@ languages:
     encoding: latin1
 
   - name: Polish
-    code: po
+    code: pl
     encoding: latin2
 
   - name: Russian
