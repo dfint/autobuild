@@ -1,0 +1,22 @@
+languages:
+  - name: Belarusian
+    code: be
+    encoding: cp1251
+  - name: Esperanto
+    code: eo
+    encoding: latin3
+  - name: Italian
+    code: it
+    encoding: latin1
+  - name: Polish
+    code: po
+    encoding: latin2
+  - name: Russian
+    code: ru
+    encoding: cp1251
+  - name: Spanish
+    code: es
+    encoding: latin1
+  - name: Ukrainian
+    code: uk
+    encoding: cp1251
