@@ -1,7 +1,9 @@
 import asyncio
+import io
 from pathlib import Path
 from pprint import pformat
 
+import df_gettext_toolkit.convert.po_to_csv
 import httpx
 import typer
 from loguru import logger
@@ -14,7 +16,7 @@ project = "dwarf-fortress-steam"
 resource_name = "hardcoded_steam"
 
 
-async def fetch(language_code: str):
+async def fetch(language_code: str) -> bytes:
     async with httpx.AsyncClient() as client:
         url = base_url + f"{project}/{resource_name}/{language_code}.po"
         response = await client.get(url, follow_redirects=True)
@@ -22,8 +24,21 @@ async def fetch(language_code: str):
         return response.content
 
 
+async def convert(po_data: bytes, encoding: str) -> str:
+    po_data = io.StringIO(po_data.decode(encoding="utf-8"))
+    result = io.StringIO()
+    await asyncio.to_thread(df_gettext_toolkit.convert.po_to_csv.convert, po_data, result, encoding)
+    return result.getvalue()
+
+
+async def process(language: LanguageInfo):
+    po_data = await fetch(language_code=language.code)
+    csv_data = await convert(po_data, language.encoding)
+    ...  # TODO: write into a file
+
+
 async def fetch_all(languages: list[LanguageInfo]):
-    results = await asyncio.gather(*(fetch(language_code=language.code) for language in languages))
+    results = await asyncio.gather(*(process(language) for language in languages))
     logger.debug(pformat([x.decode("utf-8")[:20] for x in results]))
 
 
