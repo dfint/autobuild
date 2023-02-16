@@ -26,7 +26,7 @@ async def fetch(language_code: str) -> bytes:
 
 async def convert(po_data: bytes, encoding: str) -> str:
     po_data = io.StringIO(po_data.decode(encoding="utf-8"))
-    result = io.StringIO()
+    result = io.StringIO(newline="")
     await asyncio.to_thread(df_gettext_toolkit.convert.po_to_csv.convert, po_data, result, encoding)
     return result.getvalue()
 
