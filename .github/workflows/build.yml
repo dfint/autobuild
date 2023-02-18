@@ -46,7 +46,7 @@ jobs:
 
     - name: Download and process po files
       run: |
-        cd automation/progress
+        cd automation
         poetry run python -m automation.download ../
 
     - name: Push changes to the repository
