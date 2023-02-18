@@ -48,10 +48,14 @@ async def process_all(working_directory: Path, languages: list[LanguageInfo]):
     await asyncio.gather(*(process(working_directory, language) for language in languages))
 
 
+app = typer.Typer()
+
+
+@app.command()
 def main(working_directory: Optional[Path]):
     config = load_config(working_directory / "config.yaml")
     asyncio.run(process_all(working_directory, config.languages))
 
 
 if __name__ == "__main__":
-    typer.run(main)
+    app()

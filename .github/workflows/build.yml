@@ -47,7 +47,7 @@ jobs:
     - name: Download and process po files
       run: |
         cd automation
-        poetry run python -m automation.process ../
+        poetry run process ../
 
     - name: Push changes to the repository
       uses: EndBug/add-and-commit@v9.1.1
