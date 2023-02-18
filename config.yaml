@@ -7,6 +7,10 @@ languages:
     code: eo
     encoding: latin3
 
+  - name: French
+    code: fr
+    encoding: latin9
+
   - name: Italian
     code: it
     encoding: latin1
@@ -14,6 +18,10 @@ languages:
   - name: Polish
     code: pl
     encoding: latin2
+    
+  - name: Portuguese (Brazil)
+    code: pt_BR
+    encoding: cp850
 
   - name: Russian
     code: ru
