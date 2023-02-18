@@ -3,6 +3,10 @@ languages:
     code: be
     encoding: cp1251
 
+  - name: Czech
+    code: cs
+    encoding: cp852
+
   - name: Esperanto
     code: eo
     encoding: latin3
@@ -17,8 +21,8 @@ languages:
 
   - name: Polish
     code: pl
-    encoding: latin2
-    
+    encoding: cp852
+
   - name: Portuguese (Brazil)
     code: pt_BR
     encoding: cp850
