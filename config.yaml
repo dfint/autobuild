@@ -13,7 +13,7 @@ languages:
 
   - name: Italian
     code: it
-    encoding: latin1
+    encoding: cp850
 
   - name: Polish
     code: pl
@@ -29,7 +29,7 @@ languages:
 
   - name: Spanish
     code: es
-    encoding: latin1
+    encoding: cp850
 
   - name: Ukrainian
     code: uk
