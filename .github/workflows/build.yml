@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 jobs:
-  pull-translations:
+  process-translations:
     runs-on: ubuntu-latest
 
     strategy:
