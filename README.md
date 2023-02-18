@@ -1,4 +1,4 @@
 # autobuild
 ```commandline
-poetry run python -m automation.download ../config.yaml
+poetry run python -m automation.download ../
 ```

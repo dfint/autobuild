@@ -34,7 +34,7 @@ async def convert(po_data: bytes, encoding: str) -> str:
 async def process(working_directory: Path, language: LanguageInfo):
     po_data = await fetch(language_code=language.code)
     csv_data = await convert(po_data, language.encoding)
-    directory = working_directory / "build" / language.name
+    directory = working_directory / "translation_build" / language.name
     directory.mkdir(parents=True, exist_ok=True)
     file = directory / "dfint_dictionary.csv"
 
