@@ -1,7 +1,7 @@
 import asyncio
 import io
 from pathlib import Path
-from pprint import pformat
+from typing import Optional
 
 import df_gettext_toolkit.convert.po_to_csv
 import httpx
@@ -31,20 +31,26 @@ async def convert(po_data: bytes, encoding: str) -> str:
     return result.getvalue()
 
 
-async def process(language: LanguageInfo):
+async def process(working_directory: Path, language: LanguageInfo):
     po_data = await fetch(language_code=language.code)
     csv_data = await convert(po_data, language.encoding)
-    ...  # TODO: write into a file
+    directory = working_directory / "build" / language.name
+    directory.mkdir(parents=True, exist_ok=True)
+    file = directory / "dfint_dictionary.csv"
+
+    with open(directory / "dfint_dictionary.csv", "w", encoding=language.encoding) as csv_file:
+        csv_file.write(csv_data)
+
+    logger.info(f"{file} written")
 
 
-async def fetch_all(languages: list[LanguageInfo]):
-    results = await asyncio.gather(*(process(language) for language in languages))
-    logger.debug(pformat([x.decode("utf-8")[:20] for x in results]))
+async def process_all(working_directory: Path, languages: list[LanguageInfo]):
+    await asyncio.gather(*(process(working_directory, language) for language in languages))
 
 
-def main(config: Path):
-    config = load_config(config)
-    asyncio.run(fetch_all(config.languages))
+def main(working_directory: Optional[Path]):
+    config = load_config(working_directory / "config.yaml")
+    asyncio.run(process_all(working_directory, config.languages))
 
 
 if __name__ == "__main__":
