@@ -3,6 +3,14 @@ languages:
     code: be
     encoding: cp1251
 
+  - name: Chinese Simplified
+    code: zh-Hans
+    encoding: utf-8
+
+  - name: Chinese Traditional
+    code: zh-Hant
+    encoding: utf-8
+
   - name: Czech
     code: cs
     encoding: cp852
@@ -15,6 +23,22 @@ languages:
     code: fr
     encoding: latin9
 
+  - name: Japanese
+    code: ja
+    encoding: utf-8
+
+  - name: Korean
+    code: ko
+    encoding: utf-8
+
+  - name: German
+    code: de
+    encoding: cp437
+
+  - name: Hungarian
+    code: hu
+    encoding: cp852
+
   - name: Italian
     code: it
     encoding: cp850
@@ -25,6 +49,10 @@ languages:
 
   - name: Portuguese (Brazil)
     code: pt_BR
+    encoding: cp850
+
+  - name: Portuguese
+    code: pt
     encoding: cp850
 
   - name: Russian
