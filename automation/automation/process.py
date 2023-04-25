@@ -41,7 +41,7 @@ async def process(working_directory: Path, language: LanguageInfo):
     with open(file_path, "w", encoding=language.encoding) as csv_file:
         csv_file.write(csv_data)
 
-    logger.info(f"{file} written")
+    logger.info(f"{file_path} written")
 
 
 async def process_all(working_directory: Path, languages: list[LanguageInfo]):
