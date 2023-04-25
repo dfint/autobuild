@@ -8,11 +8,11 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 httpx = "^0.23.3"
-pyyaml = "^6.0"
 typer = "^0.7.0"
 loguru = "^0.6.0"
 pydantic = "^1.10.7"
 df-gettext-toolkit = {url = "https://github.com/dfint/df-gettext-toolkit/releases/download/0.4.0/df_gettext_toolkit-0.4.0-py3-none-any.whl"}
+strictyaml = "^1.7.3"
 
 [tool.poetry.group.dev.dependencies]
 isort = "^5.12.0"
