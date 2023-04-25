@@ -36,9 +36,9 @@ async def process(working_directory: Path, language: LanguageInfo):
     csv_data = await convert(po_data, language.encoding)
     directory = working_directory / "translation_build" / language.name
     directory.mkdir(parents=True, exist_ok=True)
-    file = directory / "dfint_dictionary.csv"
+    file_path = directory / "dfint_dictionary.csv"
 
-    with open(directory / "dfint_dictionary.csv", "w", encoding=language.encoding) as csv_file:
+    with open(file_path, "w", encoding=language.encoding) as csv_file:
         csv_file.write(csv_data)
 
     logger.info(f"{file} written")
