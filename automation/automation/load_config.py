@@ -1,16 +1,22 @@
 from pathlib import Path
 
-import typer as typer
-import yaml
+import typer
+import strictyaml
 
 from automation.models import Config
 
 
 def load_config(config_path: Path) -> Config:
     with open(config_path) as config_file:
-        config = Config.parse_obj(yaml.load(config_file, Loader=yaml.CLoader))
+        yaml = strictyaml.load(config_file.read())
+        config = Config.parse_obj(yaml.data)
         return config
 
 
+def main(config_path: Path) -> None:
+    from pprint import pprint
+    pprint(load_config(config_path).dict(), width=120)
+
+
 if __name__ == "__main__":
-    typer.run(load_config)
+    typer.run(main)
