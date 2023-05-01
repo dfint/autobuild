@@ -50,7 +50,7 @@ jobs:
         poetry run process ../
 
     - name: Push changes to the repository
-      uses: EndBug/add-and-commit@v9.1.1
+      uses: EndBug/add-and-commit@v9.1.2
       with:
         author_name: github-actions[bot]
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
