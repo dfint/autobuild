@@ -10,7 +10,7 @@ python = "^3.10"
 httpx = "^0.24.0"
 typer = "^0.7.0"
 loguru = "^0.6.0"
-pydantic = "^1.10.7"
+pydantic = "^1.10.8"
 df-gettext-toolkit = {url = "https://github.com/dfint/df-gettext-toolkit/releases/download/0.4.0/df_gettext_toolkit-0.4.0-py3-none-any.whl"}
 strictyaml = "^1.7.3"
 
