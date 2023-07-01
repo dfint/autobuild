@@ -10,6 +10,15 @@ on:
     - '/config.yaml'
     - '.github/workflows/dry_run.yml'
 
+  pull_request:
+    branches: [ "main" ]
+    paths:
+      - 'pyproject.toml'
+      - 'poetry.lock'
+      - '**.py'
+      - '/config.yaml'
+      - '.github/workflows/dry_run.yml'
+
 jobs:
   process-translations:
     runs-on: ubuntu-latest
