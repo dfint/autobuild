@@ -1,3 +1,8 @@
+source:
+  base_url: "https://github.com/dfint/translations-backup/raw/main/translations/"
+  project: dwarf-fortress-steam
+  resource_name: hardcoded_steam
+
 languages:
   - name: Belarusian
     code: be

@@ -9,16 +9,13 @@ import typer
 from loguru import logger
 
 from automation.load_config import load_config
+from automation.models import Config, SourceInfo
 from automation.models import LanguageInfo
 
-base_url = "https://github.com/dfint/translations-backup/raw/main/translations/"
-project = "dwarf-fortress-steam"
-resource_name = "hardcoded_steam"
 
-
-async def fetch(language_code: str) -> bytes:
+async def fetch(language_code: str, config: SourceInfo) -> bytes:
     async with httpx.AsyncClient() as client:
-        url = base_url + f"{project}/{resource_name}/{language_code}.po"
+        url = config.base_url + f"{config.project}/{config.resource_name}/{language_code}.po"
         response = await client.get(url, follow_redirects=True)
         response.raise_for_status()
         return response.content
@@ -31,8 +28,8 @@ async def convert(po_data: bytes, encoding: str) -> str:
     return result.getvalue()
 
 
-async def process(working_directory: Path, language: LanguageInfo):
-    po_data = await fetch(language_code=language.code)
+async def process(working_directory: Path, language: LanguageInfo, config: SourceInfo):
+    po_data = await fetch(language_code=language.code, config=config)
     csv_data = await convert(po_data, language.encoding)
     directory = working_directory / "translation_build" / language.name
     directory.mkdir(parents=True, exist_ok=True)
@@ -44,8 +41,8 @@ async def process(working_directory: Path, language: LanguageInfo):
     logger.info(f"{file_path} written")
 
 
-async def process_all(working_directory: Path, languages: list[LanguageInfo]):
-    await asyncio.gather(*(process(working_directory, language) for language in languages))
+async def process_all(working_directory: Path, config: Config):
+    await asyncio.gather(*(process(working_directory, language, config.source) for language in config.languages))
 
 
 app = typer.Typer()
@@ -54,7 +51,7 @@ app = typer.Typer()
 @app.command()
 def main(working_directory: Optional[Path]):
     config = load_config(working_directory / "config.yaml")
-    asyncio.run(process_all(working_directory, config.languages))
+    asyncio.run(process_all(working_directory, config))
 
 
 if __name__ == "__main__":

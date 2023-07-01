@@ -10,6 +10,13 @@ class LanguageInfo(BaseModel):
     encoding: str
 
 
+class SourceInfo(BaseModel):
+    base_url: str
+    project: str
+    resource_name: str
+
+
 class Config(BaseModel):
+    source: SourceInfo
     working_directory: Optional[Path]
     languages: list[LanguageInfo]
