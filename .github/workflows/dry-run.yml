@@ -8,7 +8,7 @@ on:
     - 'automation/poetry.lock'
     - '**.py'
     - '/config.yaml'
-    - '.github/workflows/dry_run.yml'
+    - '.github/workflows/dry-run.yml'
 
   pull_request:
     branches: [ "main" ]
@@ -17,7 +17,7 @@ on:
       - 'automation/poetry.lock'
       - '**.py'
       - '/config.yaml'
-      - '.github/workflows/dry_run.yml'
+      - '.github/workflows/dry-run.yml'
 
 jobs:
   process-translations:
