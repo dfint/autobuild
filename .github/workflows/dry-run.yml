@@ -4,8 +4,8 @@ on:
   push:
     branches: [ main ]
     paths:
-    - 'pyproject.toml'
-    - 'poetry.lock'
+    - 'automation/pyproject.toml'
+    - 'automation/poetry.lock'
     - '**.py'
     - '/config.yaml'
     - '.github/workflows/dry_run.yml'
@@ -13,8 +13,8 @@ on:
   pull_request:
     branches: [ "main" ]
     paths:
-      - 'pyproject.toml'
-      - 'poetry.lock'
+      - 'automation/pyproject.toml'
+      - 'automation/poetry.lock'
       - '**.py'
       - '/config.yaml'
       - '.github/workflows/dry_run.yml'
