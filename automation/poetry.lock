@@ -1012,6 +1012,20 @@ socks = ["pysocks (>=1.5.6,!=1.5.7,<2.0)"]
 zstd = ["zstandard (>=0.18.0)"]
 
 [[package]]
+name = "viscii-codec"
+version = "0.1.0"
+description = "Codec for Vietnamese DOS encoding"
+optional = false
+python-versions = ">=3.8.1,<4.0.0"
+files = [
+    {file = "viscii_codec-0.1.0-py3-none-any.whl", hash = "sha256:de404cea5b0a625a0b125b8b7082ef2372bfaeddd3643df8b478c5df528ccd94"},
+]
+
+[package.source]
+type = "url"
+url = "https://github.com/dfint/viscii_codec/releases/download/0.1.0/viscii_codec-0.1.0-py3-none-any.whl"
+
+[[package]]
 name = "webencodings"
 version = "0.5.1"
 description = "Character encoding aliases for legacy web content"
@@ -1039,4 +1053,4 @@ dev = ["black (>=19.3b0)", "pytest (>=4.6.2)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "60b5846f374a0b942cf7b3401663020f1826caeb27122912b329cc88dc01dcd8"
+content-hash = "d0a90df735489fcd74b06acf3a4c070544c95ac7bfe1f041577a22d2d77c348b"

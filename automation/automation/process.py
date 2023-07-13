@@ -1,7 +1,13 @@
 import asyncio
+import codecs
 import io
 from pathlib import Path
 from typing import Optional
+
+import viscii_codec
+
+viscii_codec.register()
+
 
 import df_gettext_toolkit.convert.po_to_csv
 import httpx
@@ -9,8 +15,7 @@ import typer
 from loguru import logger
 
 from automation.load_config import load_config
-from automation.models import Config, SourceInfo
-from automation.models import LanguageInfo
+from automation.models import Config, LanguageInfo, SourceInfo
 
 
 async def fetch(language_code: str, config: SourceInfo) -> bytes:
@@ -35,8 +40,8 @@ async def process(working_directory: Path, language: LanguageInfo, config: Sourc
     directory.mkdir(parents=True, exist_ok=True)
     file_path = directory / "dfint_dictionary.csv"
 
-    with open(file_path, "w", encoding=language.encoding) as csv_file:
-        csv_file.write(csv_data)
+    with open(file_path, "wb") as csv_file:
+        csv_file.write(codecs.encode(csv_data, encoding=language.encoding))
 
     logger.info(f"{file_path} written")
 

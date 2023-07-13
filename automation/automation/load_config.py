@@ -1,7 +1,7 @@
 from pathlib import Path
 
-import typer
 import strictyaml
+import typer
 
 from automation.models import Config
 
@@ -15,6 +15,7 @@ def load_config(config_path: Path) -> Config:
 
 def main(config_path: Path) -> None:
     from pprint import pprint
+
     pprint(load_config(config_path).dict(), width=120)
 
 

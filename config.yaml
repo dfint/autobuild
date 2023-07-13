@@ -71,3 +71,7 @@ languages:
   - name: Ukrainian
     code: uk
     encoding: cp1251
+
+  - name: Vietnamese
+    code: vi
+    encoding: viscii
