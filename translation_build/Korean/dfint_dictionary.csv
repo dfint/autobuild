@@ -21108,7 +21108,6 @@
 "Failed to find CREATURE_GRAPHICS creature ","CREATURE_GRAPHICS 생물을 찾지 못했습니다. "
 "Failed to find CREATURE_CASTE_GRAPHICS creature caste ","CREATURE_CASTE_GRAPHICS 생물 계급을 찾지 못했습니다. "
 "Failed to find CREATURE_CASTE_GRAPHICS creature ","CREATURE_CASTE_GRAPHICS 생물을 찾지 못했습니다. "
-"No items found in CONDITION_ITEM_WORN: ","CONDITION_ITEM_WORN에서 항목을 찾을 수 없습니다. "
 "Body part not found in caste(s): ","카스트에서 찾을 수 없는 신체 부위: "
 "Tileset not found","타일셋을 찾을 수 없음"
 "Image not found","이미지를 찾을 수 없음"

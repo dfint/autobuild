@@ -21415,7 +21415,6 @@
 "Failed to find CREATURE_GRAPHICS creature ","无法找到 CREATURE_GRAPHICS 生物 "
 "Failed to find CREATURE_CASTE_GRAPHICS creature caste ","无法找到 CREATURE_CASTE_GRAPHICS 生物的社会团体 "
 "Failed to find CREATURE_CASTE_GRAPHICS creature ","无法找到 CREATURE_CASTE_GRAPHICS 生物 "
-"No items found in CONDITION_ITEM_WORN: ","没有在 CONDITION_ITEM_WORN 找到物品: "
 "Body part not found in caste(s): ","在种姓中无法找到身体部位: "
 "Tileset not found","贴图未找到"
 "Image not found","未找到图像"
