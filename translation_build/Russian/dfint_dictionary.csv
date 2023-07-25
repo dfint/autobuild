@@ -11383,7 +11383,6 @@
 "Broken repeat request: ","Прерванный повторяющийся запрос: "
 "Broken unicode: ","Неверный юникод: "
 "Broken button (should be [BUTTON:#:#]): ","Неверная клавиша (должна быть [BUTTON:#:#]): "
-"Broken mousewheel (should be [MOUSEWHEEL:#:UP|DOWN]: ","Неправильное значение mousewheel (должно быть [MOUSEWHEEL:#:UP|DOWN]: "
 "Unknown binding: ","Неизвестная привязка: "
 "Saving bindings to ","Сохранение привязки клавиш в "
 "Binding name unknown while loading macro: ","Неизвестное имя для привязки во время загрузки макроса: "
