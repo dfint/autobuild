@@ -5,17 +5,15 @@ from pathlib import Path
 from typing import Optional
 
 import aiofiles
-import viscii_codec
-
-viscii_codec.register()
-
-
 import df_gettext_toolkit.convert.po_to_csv
 import typer
+import viscii_codec
 from loguru import logger
 
 from automation.load_config import load_config
 from automation.models import Config, LanguageInfo
+
+viscii_codec.register()
 
 
 async def load_file(language_code: str, config: Config) -> bytes:
