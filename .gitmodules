@@ -1,0 +1,3 @@
+[submodule "translations-backup"]
+	path = translations-backup
+	url = https://github.com/dfint/translations-backup
