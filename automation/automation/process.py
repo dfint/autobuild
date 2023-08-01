@@ -11,20 +11,11 @@ viscii_codec.register()
 
 
 import df_gettext_toolkit.convert.po_to_csv
-import httpx
 import typer
 from loguru import logger
 
 from automation.load_config import load_config
-from automation.models import Config, LanguageInfo, SourceInfo
-
-
-async def fetch(language_code: str, config: SourceInfo) -> bytes:
-    async with httpx.AsyncClient() as client:
-        url = config.base_url + f"{config.project}/{config.resource_name}/{language_code}.po"
-        response = await client.get(url, follow_redirects=True)
-        response.raise_for_status()
-        return response.content
+from automation.models import Config, LanguageInfo
 
 
 async def load_file(language_code: str, config: Config) -> bytes:
