@@ -45,8 +45,8 @@ async def process(language: LanguageInfo, config: Config):
     directory.mkdir(parents=True, exist_ok=True)
     file_path = directory / "dfint_dictionary.csv"
 
-    with open(file_path, "wb") as csv_file:
-        csv_file.write(codecs.encode(csv_data, encoding=language.encoding))
+    async with aiofiles.open(file_path, "wb") as csv_file:
+        await csv_file.write(codecs.encode(csv_data, encoding=language.encoding))
 
     logger.info(f"{file_path} written")
 
