@@ -37,7 +37,12 @@ jobs:
         cd automation
         poetry install --no-interaction --no-dev
 
-    - name: Download and process po files
+    - name: Fetch translations
+      run: |
+        git submodule init
+        git submodule update --remote
+
+    - name: Process po files
       run: |
         cd automation
         poetry run process ../
