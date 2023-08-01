@@ -4,6 +4,7 @@ import io
 from pathlib import Path
 from typing import Optional
 
+import aiofiles
 import viscii_codec
 
 viscii_codec.register()
@@ -26,6 +27,16 @@ async def fetch(language_code: str, config: SourceInfo) -> bytes:
         return response.content
 
 
+async def load_file(language_code: str, config: Config) -> bytes:
+    source = config.source
+    file_path = (
+        config.working_directory / "translations-backup" / source.project / source.resource_name / f"{language_code}.po"
+    )
+
+    async with aiofiles.open(file_path, "rb") as file:
+        return await file.read()
+
+
 async def convert(po_data: bytes, encoding: str) -> str:
     po_data = io.StringIO(po_data.decode(encoding="utf-8"))
     result = io.StringIO(newline="")
@@ -33,8 +44,8 @@ async def convert(po_data: bytes, encoding: str) -> str:
     return result.getvalue()
 
 
-async def process(working_directory: Path, language: LanguageInfo, config: SourceInfo):
-    po_data = await fetch(language_code=language.code, config=config)
+async def process(working_directory: Path, language: LanguageInfo, config: Config):
+    po_data = await load_file(language_code=language.code, config=config)
     csv_data = await convert(po_data, language.encoding)
     directory = working_directory / "translation_build" / language.name
     directory.mkdir(parents=True, exist_ok=True)
@@ -47,7 +58,7 @@ async def process(working_directory: Path, language: LanguageInfo, config: Sourc
 
 
 async def process_all(working_directory: Path, config: Config):
-    await asyncio.gather(*(process(working_directory, language, config.source) for language in config.languages))
+    await asyncio.gather(*(process(working_directory, language, config) for language in config.languages))
 
 
 app = typer.Typer()
