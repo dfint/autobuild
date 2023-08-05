@@ -1,7 +1,13 @@
 # autobuild
 
-An automated repository which builds csv files with a translation for several languages to use with [dfint/df-steam-hook](https://github.com/dfint/df-steam-hook). Updates once a day on data from [dfint/translations-backup](https://github.com/dfint/translations-backup).
+An automated repository which builds csv files with a translation for several languages to use with [dfint/df-steam-hook](https://github.com/dfint/df-steam-hook). It updates once a day on data from [dfint/translations-backup](https://github.com/dfint/translations-backup).
 
-It uses encodings specified in [config.yaml](config.yaml). For some of the languages the encoding is set to utf-8 (even though utf-8 is not supported by df-steam-hook), just to do at least some automation for these languages.
+Ready to use csv files are in the [translation_build](https://github.com/dfint/autobuild/tree/main/translation_build) directory. To download a file you need to open it (click on it in the file list), then click on "Download raw file" icon button in the top right area of the file area.
 
-In the future here will be implemented an autobuild of a mod group to translate external files (`Dwarf Fortress/data/vanilla`) and autogeneration of a graphic font using [dfint/df-font-generator](https://github.com/dfint/df-font-generator).
+Files are encoded in encodings specified in [config.yaml](config.yaml). For some of the languages the encoding is set to utf-8 (even though utf-8 is not supported by df-steam-hook), just to do at least some automation for these languages.
+
+If your language is missing, although it is present on transifex and [dfint/translations-backup](https://github.com/dfint/translations-backup), please create an [issue](https://github.com/dfint/autobuild/issues) and specify your language and desired encoding (we'll try best to figure out the encoding, if you are not sure which encoding do you need).
+
+KKeep in mind, that some languages cannot be used with Dwarf Fortress at the moment: in particular, no languages with rigt-to-left and hieroglyphic wrighting systems are supported.
+
+There are forks of **df-steam-hook** for [Korean](https://github.com/Kheeman/df-steam-hook) and [Chinese](https://github.com/trotsky1997/df-steam-hook), so for these languages try to contact owners of these repositories.
