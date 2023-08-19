@@ -12,6 +12,7 @@ import viscii_codec
 from loguru import logger
 
 from automation.load_config import load_config
+from automation.logger_context_manager import logger_add
 from automation.models import Config, LanguageInfo
 
 viscii_codec.register()
@@ -61,8 +62,15 @@ async def process(language: LanguageInfo, config: Config):
     csv_with_objects_directory = config.working_directory / "translation_build" / "csv_with_objects" / language.name
     csv_with_objects_directory.mkdir(parents=True, exist_ok=True)
 
+    log_path = csv_with_objects_directory / "errors.txt"
+    if log_path.exists():
+        log_path.unlink()
+
     po_data = await load_file(language_code=language.code, resource_name="objects", config=config)
-    csv_with_objects_data = await convert_objects(po_data)
+
+    with logger_add(log_path):
+        csv_with_objects_data = await convert_objects(po_data)
+
     file_path = csv_with_objects_directory / "dfint_dictionary.csv"
     async with aiofiles.open(file_path, "wb") as csv_file:
         await csv_file.write(codecs.encode(csv_data, encoding=language.encoding))
