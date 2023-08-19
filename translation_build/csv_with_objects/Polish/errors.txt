@@ -8,16 +8,10 @@ Tag pair: '[CV_NEW_TAG:CDI:VERB:pet:pets:pets]', '[CV_NEW_TAG: CDI:VERB:ulubieni
 Error: Part 'CDI' should not be translated
 Tag pair: '[CV_NEW_TAG:CDI:VERB:pet:pets:pets]', '[CV_NEW_TAG: CDI:VERB:ulubieniec:ulubieńcy:ulubieńcze]'
 Error: Part 'CDI' should not be translated
-Tag pair: '[CASTE_NAME:bluejay man:bluejay men:bluejay man]', '[CASTE_NAME:sójko-mężczyzna błękitny:sójko-mężczyzna błękitny:sójko-mężczyzna błękitny] '
+Tag pair: '[CASTE_NAME:bluejay man:bluejay men:bluejay man]', '[CASTE_NAME:modrosójkomężczyzna:modrosójkomężczyzni:modrosójkomęski] '
 Error: Wrong tag translation format
-Tag pair: '[CASTE_NAME:bluejay woman:bluejay women:bluejay woman]', '[CASTE_NAME:sójko-kobieta błękitna:sójko-kobiety błękitne:sójko-kobieta błękitna] '
+Tag pair: '[CASTE_NAME:bluejay woman:bluejay women:bluejay woman]', '[CASTE_NAME:modrosójkokobieta:modrosójkokobiety:modrosójkokobiecy] '
 Error: Wrong tag translation format
-Tag pair: '[NAME:bluejay man:bluejay men:bluejay man]', '[NAME:sójko-człowiek błękitny:sójko-ludzie błękitni:sójko-człowiek błękitny] '
-Error: Wrong tag translation format
-Tag pair: '[NAME:giant bluejay:giant bluejays:giant bluejay]', '[NAME:gigantyczna błękitna sójka;gigantyczne błękitne sójki;gigantyczna błękitna sójka]'
-Error: Tag parts count mismatch
-Tag pair: '[CASTE_NAME:giant bluejay:giant bluejays:giant bluejay]', '[CASTE_NAME:gigantyczna błękitna jaskółka;gigantyczne błękitne jaskółki;gigantyczna błękitna jaskółka]'
-Error: Tag parts count mismatch
 Tag pair: '[CASTE_NAME:giant ostrich cock:giant ostrich cocks:giant ostrich cock]', '[CASTE_NAME:gigantyczny samiec strusia:gigantyczne samce strusia]'
 Error: Tag parts count mismatch
 Tag pair: '[GENERAL_CHILD_NAME:eaglet:eaglets]', '1[GENERAL_CHILD_NAME:orlik:orlęta]'
@@ -46,6 +40,10 @@ Tag pair: '[CASTE_NAME:troll:trolls:troll]', 'troll:trolle:trolle]'
 Error: Wrong tag translation format
 Tag pair: '[DESCRIPTION:A gigantic reptilian creature.  It is magical and can breathe fire.  These monsters can live for thousands of years.]', '[DESCRIPTION:Gigantyczna jaszczuro-podobna istota. Jest magiczna i może ziać ogniem. Te potwory mogą żyć tysiące lat.]\n\xa0'
 Error: Wrong tag translation format
+Tag pair: '[NAME:fairy:fairies:fairy]', '[NAME:wróżka;wróżki:wróżkowy]'
+Error: Tag parts count mismatch
+Tag pair: '[CASTE_NAME:fairy:fairies:fairy]', '[CASTE_NAME:wróżka;wróżki:wróżkowy]'
+Error: Tag parts count mismatch
 Tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] '
 Error: Wrong tag translation format
 Tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] '
