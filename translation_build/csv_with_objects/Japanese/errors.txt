@@ -1,0 +1,516 @@
+Tag pair: '[BP:RHD:right head:STP]', '[BP:HD1:右頭:STP]'
+Error: Part 'RHD' should not be translated
+Tag pair: '[BP:RHD:right head:STP]', '[BP:HD1:右頭:STP]'
+Error: Part 'RHD' should not be translated
+Tag pair: '[BP:RT:right tentacle:STP]', ' [BP:RT:右の触手:STP] '
+Error: Wrong tag translation format
+Tag pair: '[BP:LUT:left upper tentacle:STP]', '[BP:RUT:左上の触手:STP]'
+Error: Part 'LUT' should not be translated
+Tag pair: '[BP:RLT:right lower tentacle:STP]', '[BP:LUTC:右下の触手:STP]'
+Error: Part 'RLT' should not be translated
+Tag pair: '[BP:TAIL:tail:STP]', '[BP:尾:尻尾:STP]'
+Error: Part 'TAIL' should not be translated
+Tag pair: '[BP:TAIL:tail:STP]', '[BP:尾:尻尾:STP]'
+Error: Part 'TAIL' should not be translated
+Tag pair: '[BP:TAIL_STINGER:stinger:STP]', '[BP:尾_S錫GER:尾針:STP]'
+Error: Part 'TAIL_STINGER' should not be translated
+Tag pair: '[BODYGLOSS:CLAW_FOOT:foot:claw:feet:claws]', '[BODYGLOSS:CLAW_足:足:爪:足:爪]'
+Error: Part 'CLAW_FOOT' should not be translated
+Tag pair: '[BP:LIVER:liver:STP]', '[BP:肝臓:肝臓:STP]'
+Error: Part 'LIVER' should not be translated
+Tag pair: '[BP:THROAT:throat:STP]', '[BP:THRカラス麦:喉:STP]'
+Error: Part 'THROAT' should not be translated
+Tag pair: '[BP:UPPERSPINE:middle spine:STP]', '[BP:UPPERSPAIN:背骨上部:STP]'
+Error: Part 'UPPERSPINE' should not be translated
+Tag pair: '[BP:LOWERSPINE:lower spine:STP]', '[BP:LOWERSPAIN:背骨下部:STP]'
+Error: Part 'LOWERSPINE' should not be translated
+Tag pair: '[BP:HEAD_HORN:horn:STP]', '[BP:頭_HORN:角:STP]'
+Error: Part 'HEAD_HORN' should not be translated
+Tag pair: '[BP:LHORN:left antler:STP]', '[BP:LHORN:右角STP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:RRTOE2:second right toe:STP]', '[BP:RRTOE2右人差趾:STP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:L_FLOATING_RIB:left floating rib:STP]', '[BP:L_FLカラス麦ING_RIB:左浮袋rib:STP]'
+Error: Part 'L_FLOATING_RIB' should not be translated
+Tag pair: '[BP:R_FLOATING_RIB:right floating rib:STP]', '[BP:R_FLカラス麦ING_RIB:右浮袋 rib:STP]'
+Error: Part 'R_FLOATING_RIB' should not be translated
+Tag pair: '[BP:TAIL:tail:STP]', '[BP:尾:尾:STP]'
+Error: Part 'TAIL' should not be translated
+Tag pair: '[BP:TAIL_1:left tail:STP]', '[BP:尾_1:左尾:STP]'
+Error: Part 'TAIL_1' should not be translated
+Tag pair: '[BP:TAIL_2:right tail:STP]', '[BP:尾_2:右尾:STP]'
+Error: Part 'TAIL_2' should not be translated
+Tag pair: '[BP:TAIL_1:left tail:STP]', '[BP:尾_1:左尾:STP]'
+Error: Part 'TAIL_1' should not be translated
+Tag pair: '[BP:TAIL_2:center tail:STP]', '[BP:尾_2:中央尾:STP]'
+Error: Part 'TAIL_2' should not be translated
+Tag pair: '[BP:TAIL_3:right tail:STP]', '[BP:尾_3:右尾:STP]'
+Error: Part 'TAIL_3' should not be translated
+Tag pair: '[BP:TAIL_STINGER:stinger:STP]', '[BP:尾_S錫GER:尾針:STP]'
+Error: Part 'TAIL_STINGER' should not be translated
+Tag pair: '[BP:LOWER_BODY_STINGER:stinger:STP]', '[BP:LOWER_BODY_S錫GER:尾針:STP]'
+Error: Part 'LOWER_BODY_STINGER' should not be translated
+Tag pair: '[BP:HEAD_HORN:horn:STP]', '[BP:頭_HORN:角:STP]'
+Error: Part 'HEAD_HORN' should not be translated
+Tag pair: '[BP:HEAD_HORN_1:left horn:STP]', '[BP:頭_HORN_1:左角:STP]'
+Error: Part 'HEAD_HORN_1' should not be translated
+Tag pair: '[BP:HEAD_HORN_2:right horn:STP]', '[BP:頭_HORN_2:右角:STP]'
+Error: Part 'HEAD_HORN_2' should not be translated
+Tag pair: '[BP:HEAD_HORN_1:first horn:STP]', '[BP:頭_HORN_1:第一角:STP]'
+Error: Part 'HEAD_HORN_1' should not be translated
+Tag pair: '[BP:HEAD_HORN_2:second horn:STP]', '[BP:頭_HORN_2:第二角:STP]'
+Error: Part 'HEAD_HORN_2' should not be translated
+Tag pair: '[BP:HEAD_HORN_3:third horn:STP]', '[BP:頭_HORN_3:第三角:STP]'
+Error: Part 'HEAD_HORN_3' should not be translated
+Tag pair: '[BP:HEAD_HORN_1:first horn:STP]', '[BP:頭_HORN_1:第一角:STP]'
+Error: Part 'HEAD_HORN_1' should not be translated
+Tag pair: '[BP:HEAD_HORN_2:second horn:STP]', '[BP:頭_HORN_2:第二角:STP]'
+Error: Part 'HEAD_HORN_2' should not be translated
+Tag pair: '[BP:HEAD_HORN_3:third horn:STP]', '[BP:頭_HORN_3:第三角:STP]'
+Error: Part 'HEAD_HORN_3' should not be translated
+Tag pair: '[BP:HEAD_HORN_4:fourth horn:STP]', '[BP:頭_HORN_4:第四角:STP]'
+Error: Part 'HEAD_HORN_4' should not be translated
+Tag pair: '[BP:UPPERSPINE:middle spine:STP]', '[BP:UPPERとげ:上部脊椎:STP]'
+Error: Part 'UPPERSPINE' should not be translated
+Tag pair: '[BP:LOWERSPINE:lower spine:STP]', '[BP:LOWERとげ:下部脊椎:STP]'
+Error: Part 'LOWERSPINE' should not be translated
+Tag pair: '[BP:L_FLOATING_RIB:left floating rib:STP]', '[BP:L_FLOA錫G_RIB:左浮動肋骨:STP]'
+Error: Part 'L_FLOATING_RIB' should not be translated
+Tag pair: '[BP:R_FLOATING_RIB:right floating rib:STP]', '[BP:R_FLOA錫G_RIB:右浮動肋骨:STP]'
+Error: Part 'R_FLOATING_RIB' should not be translated
+Tag pair: '[BP:L_FLOATING_RIB:left floating rib:STP]', '[BP:L_FLOA錫G_RIB:左浮動肋骨:STP]'
+Error: Part 'L_FLOATING_RIB' should not be translated
+Tag pair: '[BP:R_FLOATING_RIB:right floating rib:STP]', '[BP:R_FLOA錫G_RIB:右浮動肋骨:STP]'
+Error: Part 'R_FLOATING_RIB' should not be translated
+Tag pair: '[BP:HEAD_ANTLER_1:left antler:STP]', '[BP:頭_角_1:左角:STP]'
+Error: Part 'HEAD_ANTLER_1' should not be translated
+Tag pair: '[BP:HEAD_ANTLER_2:right antler:STP]', '[BP:頭_角_2:右角:STP]'
+Error: Part 'HEAD_ANTLER_2' should not be translated
+Tag pair: '[DESCRIPTION:A squat amphibian with leathery skin, found in relatively dry areas.]', '[DESCRIPTION:A squat amphibian with leathery skin, found in relatively dry areas.][DESCRIPTION:乾いた革のような肌の四足両生類。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny burrowing creature, found in moist soil.  It is legless, long and thin.]', '[DESCRIPTION:A tiny burrowing creature, found in moist soil.  It is legless, long and thin.][DESCRIPTION:湿地に住む、平べったくて長い体をした芋虫だ。地中に穴を掘る。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small blue-crested bird living in temperate woodlands, known for its harsh chirps.]', '[DESCRIPTION:A small blue-crested bird living in temperate woodlands, known for its harsh chirps.][DESCRIPTION:全長30センチほどの鮮やかな青いカラスの仲間だ。温帯の森に棲息し、耳障りな鳴き声で鳴く。'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small bright red bird with a distinctive crest, found in temperate forests.]', '[DESCRIPTION:A small bright red bird with a distinctive crest, found in temperate forests.][DESCRIPTION:全長２０センチほどの艶やかな赤色のスズメの仲間だ。温暖な森に棲息する。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small yellow and black bird.  They feed in the canopy of the forest.]', '[DESCRIPTION:A small yellow and black bird.  They feed in the canopy of the forest.][DESCRIPTION:全長２５センチほどの、黄色い体に黒い隈が特徴的なスズメの仲間だ。群れを作り、森に棲息する。'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small black bird with bright red markings under the wings.  They live in the marshland.]', '[DESCRIPTION:A small black bird with bright red markings under the wings.  They live in the marshland.][DESCRIPTION:黒い体に、羽根の付け根の赤い模様が目立つ小さなムクドリの仲間だ。湿地帯に棲息する。'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small flightless bird, blue in color, that lives on arctic shorelines.]', '[DESCRIPTION:A small flightless bird, blue in color, that lives on arctic shorelines.][DESCRIPTION:青い体の小さな飛べない鳥だ。極地の海岸に棲息する。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small flightless bird, it is the largest of the natural penguins.  It is known for its treks through leagues of glacial ice.]', '[DESCRIPTION:A small flightless bird, it is the largest of the natural penguins.  It is known for its treks through leagues of glacial ice.][DESCRIPTION:小さな飛べない鳥だが、野生のペンギンの中では最も巨大だ。氷の上を移り住むことで有名。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A humanoid with the head, feet, and feathers of a penguin.]', 'ペンギンの頭と翼と足を持った人間だ。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small bird of prey that is capable of great speed.  They dive on unsuspecting vermin.]', '[DESCRIPTION:A small bird of prey that is capable of great speed.  They dive on unsuspecting vermin.][DESCRIPTION:速い速度で飛翔する猛禽類だ。獲物目がけてダイブする。'
+Error: Wrong tag translation format
+Tag pair: '[NAME:giant peregrine falcon:giant peregrine falcons:giant peregrine falcon]', '[NAME:隼のような体の巨大な怪物だ。]'
+Error: Tag parts count mismatch
+Tag pair: '[DESCRIPTION:A large bird monster that is the same shape as a peregrine falcon.]', '[DESCRIPTION:A large bird monster that is the same shape as a peregrine falcon.][NAME:隼のような体の巨大な雌の怪物だ。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small, brown, flightless bird.  It eats insects and grubs and is known for its keen sense of smell.]', '[DESCRIPTION:A small, brown, flightless bird.  It eats insects and grubs and is known for its keen sense of smell.][DESCRIPTION:褐色の小さな空を飛べない鳥だ。虫を捕食し、匂いに敏感なことで知られている。]'
+Error: Wrong tag translation format
+Tag pair: '[NAME:kiwi:kiwis:kiwi]', '[NAMEキウイ:キウイ:キウイ]'
+Error: First part of a tag should not be translated
+Tag pair: '[GENERAL_CHILD_NAME:kiwi chick:kiwi chicks]', '[GENERAL_CHILD_NAMEキウイの雛:キウイの雛]'
+Error: First part of a tag should not be translated
+Tag pair: '[DESCRIPTION:A large flightless bird that runs through the savanna.  It has a long neck and legs.]', '[DESCRIPTION:A large flightless bird that runs through the savanna.  It has a long neck and legs.][DESCRIPTION:長い足と首を持った、大きな飛べない鳥だ。サバンナに棲息し、足がとても速い。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:This is a medium-sized creature with legs and arms, but the long neck and head of an ostrich.]', '[DESCRIPTION:This is a medium-sized creature with legs and arms, but the long neck and head of an ostrich.][DESCRIPTION:人間の体にダチョウの首と頭が生えた生物だ。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small black bird that feeds on carrion.  It is social, very intelligent and knows how to use tools.]', '[DESCRIPTION:A small black bird that feeds on carrion.  It is social, very intelligent and knows how to use tools.][DESCRIPTION:腐肉を漁る黒い小さな鳥だ。非常に知能が高く、社会性があったり道具を使ったりする。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A large bird-like monster, even more deadly when found in groups.]', '[DESCRIPTION:A large bird-like monster, even more deadly when found in groups.][DESCRIPTION:大きな怪鳥だ。群れで襲われたら、非常に危険。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small, foreboding black bird that feeds on carrion.  It is social, very intelligent, and knows how to use tools.]', '[DESCRIPTION:A small, foreboding black bird that feeds on carrion.  It is social, very intelligent, and knows how to use tools.][DESCRIPTION:腐肉を漁る黒い鳥だ。とても知能が高く、社会性を持ち、道具を使う。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A large bird-like monster, even more deadly when found in groups.]', '[DESCRIPTION:A large bird-like monster, even more deadly when found in groups.][DESCRIPTION:巨大な怪鳥だ。群れに見つかると非常に危険。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small white bird that hunts in the coldest reaches of the world.]', '[DESCRIPTION:A small white bird that hunts in the coldest reaches of the world.][DESCRIPTION:全長６０センチほどの白い鳥だ。極地で狩りをする。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small bird with long legs and bill, and a extremely long wingspan.]', '[DESCRIPTION:A small bird with long legs and bill, and a extremely long wingspan.][DESCRIPTION:長い足とくちばし、そしてとても長い尾羽を持った、白いコウノトリの仲間だ。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A person with the head and wings of a stork, also standing on long legs.]', '[DESCRIPTION:A person with the head and wings of a stork, also standing on long legs.][DESCRIPTION:コウノトリの頭と翼を持った人間だ。常に長い脚で立っている。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small water bird found in remote lakes.  It is known for its haunting call.]', '[DESCRIPTION:A small water bird found in remote lakes.  It is known for its haunting call.][DESCRIPTION:狩りの獲物になる、湖沼に棲息する灰褐色の水鳥だ。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small, nocturnal bird of prey found in woodland regions.  Its hunger for rodents drives it to take residence in buildings.]', '[DESCRIPTION:A small, nocturnal bird of prey found in woodland regions.  Its hunger for rodents drives it to take residence in buildings.][DESCRIPTION:全長３７センチほどの白い猛禽類だ。げっ歯類を主食とするため、人里の近くに棲息する。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny parrot found in flocks of many hundreds.  Exceptional birds can be taught to speak.]', '[DESCRIPTION:A tiny parrot found in flocks of many hundreds.  Exceptional birds can be taught to speak.][DESCRIPTION:数百匹の群れを成す小鳥だ。稀に、教えると言葉を覚える個体もいる。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small flightless green parrot.  It is nocturnal and counts itself among the longest-lived birds.]', '[DESCRIPTION:A small flightless green parrot.  It is nocturnal and counts itself among the longest-lived birds.][DESCRIPTION:体長６０センチほどの、飛べないオウムの仲間だ。最も長寿な鳥の一つとして有名。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny diving bird found living on seaside cliffs in the colder climates.]', '[DESCRIPTION:A tiny diving bird found living on seaside cliffs in the colder climates.][DESCRIPTION:全長３５センチほどの白黒の鳥だ。社会性を持ち、寒冷地の海辺の崖に棲息する。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny, brightly colored parrot.  They are clever and learn many tricks.]', '[DESCRIPTION:A tiny, brightly colored parrot.  They are clever and learn many tricks.][DESCRIPTION:鮮やかな色をしたインコだ。よく懐き、様々な芸を覚える。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A colorful person with the head and wings of a peach-faced lovebird.]', '[DESCRIPTION:A colorful person with the head and wings of a peach-faced lovebird.][DESCRIPTION:コザクラインコの頭と翼を持った色鮮やかな体の人間だ。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny bird of prey.  It hovers above the ground and swoops down to snatch rodents and mice.]', '[DESCRIPTION:A tiny bird of prey.  It hovers above the ground and swoops down to snatch rodents and mice.][DESCRIPTION:小さな猛禽類だ。大空からげっ歯類を狙って急降下する。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small sea bird with great wings.  It soars through the sky and dives for food on the surface of the water.]', '[DESCRIPTION:A small sea bird with great wings.  It soars through the sky and dives for food on the surface of the water.][DESCRIPTION:大きな翼の海鳥だ。大空から魚を狙って水面に飛び込む。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A feathered person with the head and wings of a great horned owl.]', '[DESCRIPTION:ワシミミズクの頭と翼を持つ羽毛の生えた人間だ。'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny insect which uses its powerful legs to leap and make noise.]', '[DESCRIPTION:A tiny insect which uses its powerful legs to leap and make noise.][DESCRIPTION:足を使って大きく跳ねたり、鳴き声を出したりする昆虫だ。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny yellow bug.  It has pincers and a stinging tail which can prove fatal.]', '[DESCRIPTION:A tiny yellow bug.  It has pincers and a stinging tail which can prove fatal.][DESCRIPTION:はさみと尻尾に毒針を持つ、黄色い虫だ。その一刺しは命を奪う。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny green insect.  It has long, distinctive forelimbs that it uses to catch its prey.]', '[DESCRIPTION:A tiny green insect.  It has long, distinctive forelimbs that it uses to catch its prey.][DESCRIPTION:鎌のような前足を持つ緑の昆虫だ。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny land mollusk.  It can be found under rotten logs and in gardens.]', '[DESCRIPTION:A tiny land mollusk.  It can be found under rotten logs and in gardens.][DESCRIPTION:倒木や庭に棲息する、小さな陸生軟体動物。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A great slug with the torso of a man.  It pulls itself across the ground with its hands for greater speed.]', '[DESCRIPTION:A great slug with the torso of a man.  It pulls itself across the ground with its hands for greater speed.][DESCRIPTION:人間の上半身を持った大きなナメクジだ。素早く移動するために、自身の手で体を引っ張る。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny pest insect.  It uses its long nose to suck blood from its host.]', '[DESCRIPTION:A tiny pest insect.  It uses its long nose to suck blood from its host.][DESCRIPTION:針のような口を使って吸血する、小さな害虫だ。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny black bug that lacks a web but can leap short distances.]', '[DESCRIPTION:A tiny black bug that lacks a web but can leap short distances.][DESCRIPTION:糸を出さないが、跳ねて移動できる小さな黒いクモだ。]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny insect capable of destroying large wooden structures when in large numbers.]', '[DESCRIPTION:A tiny insect capable of destroying large wooden structures when in large numbers.][DESCRIPTION:小さな昆虫だが、沢山居ると大きな建造物を食い荒らして倒壊させる。'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny, brightly-colored lizard.]', '[DESCRIPTION:茶色の小さなトカゲだ。'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small rodent with no tail.  It can be found roaming the grassland in herds.  It has three toes on its hind feet.]', '[DESCRIPTION:斧ない小さなげっ歯類。群れを作り、草原に棲息する'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A small migratory bird.  It has a very long neck and can be found in lakes and other bodies of water.]', '[DESCRIPTION小さな渡り鳥だ。首が非常に長く、水辺に棲息する。]'
+Error: First part of a tag should not be translated
+Tag pair: '[DESCRIPTION:A large domestic pack animal.  It has a long neck.  It is prized for its hair.]', '[DESCRIPTION:首が長い大きな草食動物。毛の価値が高い'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A large rodent that lives in groups in the high mountains.]', '群れを作る大きなげっ歯類。鉱山に棲む。'
+Error: Wrong tag translation format
+Tag pair: "[DESCRIPTION:A tiny, jolly humanoid creature that dwells in the fair mountains.  They are known to enjoy drinking liquor and don't care whether it's theirs or not.]", 'きれいな山々に住む、小さくて陽気な人型生物。彼らはお酒を楽しむことで知られており、それが彼らのものであるかどうかを気にしません。'
+Error: Wrong tag translation format
+Tag pair: '[CDI:VERB:pet:pets:pets]', '[CDI:VERB:ペット:ペット:]'
+Error: Translation should not be empty
+Tag pair: '[DESCRIPTION:A tiny, foul-tempered humanoid creature that dwells in the evil mountains.  They are known to enjoy drinking liquor and will take any unguarded supplies of booze.]', '[DESCRIPTION:邪悪な山岳地方に住む、邪悪な小型人型生物だ。酒に目がなく、酔うと隙を見せる。'
+Error: Wrong tag translation format
+Tag pair: '[SOUND:PEACEFUL_INTERMITTENT:100:10000:VOCALIZATION:whistle:whistles:whistling]', '[SOUND:PEACEFUL_INTERMITTENT:100:10000:VOCALIZATION:ピーピー鳴いた:ピーピー鳴いた:ピーピー鳴いた'
+Error: Wrong tag translation format
+Tag pair: '[SOUND:PEACEFUL_INTERMITTENT:200:10000:VOCALIZATION:whistle:whistles:deep whistling]', '[SOUND:PEACEFUL_INTERMITTENT:200:10000:VOCALIZATION:ピーピー鳴いた:ピーピー鳴いた:大きくピーピー鳴いた'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A spotted person with the head and tail of a leopard.]', '[DESCRIPTION:ヒョウの頭と体を持つ、斑点のある体をした人間だ'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A spotted person with the head and tail of a jaguar.]', '[DESCRIPTION:ジャガーの頭と体を持つ、斑点のある体をした人間だ'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A huge intelligent ape found in the tropical forests.  It is bright red and found living in the trees.]', '[DESCRIPTIONジャングルに棲息する大型類人猿。樹上生活を営み、明るい赤色をしている。]'
+Error: First part of a tag should not be translated
+Tag pair: '[CASTE_NAME:gigantic tortoise:gigantic tortoises:gigantic tortoise]', '[CASTE_NAME巨大ゾウガメ:巨大ゾウガメ:巨大ゾウガメ]'
+Error: First part of a tag should not be translated
+Tag pair: '[NAME:hungry head:hungry heads:hungry head]', '[NAMEハングリーヘッド:ハングリーヘッド:ハングリーヘッド]'
+Error: First part of a tag should not be translated
+Tag pair: '[CASTE_NAME:hungry head:hungry heads:hungry head]', '[CASTE_NAMEハングリーヘッド:ハングリーヘッド:ハングリーヘッド]'
+Error: First part of a tag should not be translated
+Tag pair: '[DESCRIPTION:A small bat-like creature with the head of an insect.  It is found deep underground.]', '[DESCRIPTION地下深くに棲息する、昆虫の頭をしたコウモリのような生き物。]'
+Error: First part of a tag should not be translated
+Tag pair: '[PREFSTRING:freakish insect heads]', '[PREFSTRINGグロテスクな昆虫の頭]'
+Error: First part of a tag should not be translated
+Tag pair: '[DESCRIPTION:A person with an octopus in place of a head.]', '[DESCRIPTIONタコの頭を持った人間だ。]'
+Error: First part of a tag should not be translated
+Tag pair: '[DESCRIPTION:A tiny sea mollusk.  It can change color and skin patterns for communication.]', '[DESCRIPTION:小さな海の軟体動物。コミュニケーションのために色や肌の模様を変えることができます。'
+Error: Wrong tag translation format
+Tag pair: '[CASTE_NAME:giant horseshoe crab:giant horseshoe crabs:giant horseshoe crab]', '[CASTE_NAME:巨大カブトガニ:巨大カブトガニの]'
+Error: Tag parts count mismatch
+Tag pair: '[DESCRIPTION:A long-bodied person with the head and tail of a skink.]', '[DESCRIPTION:オオトカゲの頭と尾をもつ、胴体の長い人間だ'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny colorful fish found in tropical lakes and rivers.]', '[DESCRIPTION熱帯の川や池に棲むカラフルな小魚。]'
+Error: First part of a tag should not be translated
+Tag pair: '[PROFESSION_NAME:CROSSBOWMAN:marksdwarf:marksdwarves]', '[PROFESSION_NAME:ドワーフの弩士:ドワーフの弩士]'
+Error: Tag parts count mismatch
+Tag pair: '[PREFSTRING:graceful leaps]', '[PREFSTRING:優美な跳躍'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny amphibian, found in underground streams.]', '[DESCRIPTION地下の川に棲む小型両生類。]'
+Error: First part of a tag should not be translated
+Tag pair: '[DESCRIPTION:A small feline predator with a shortened tail.]', '[DESCRIPTION短いを持った小型のネコ科動物。]'
+Error: First part of a tag should not be translated
+Tag pair: '[ADJ:tall]', '[ADJ:高い'
+Error: Wrong tag translation format
+Tag pair: '[NAME:general:generals]', '[NAME:将軍:将軍:将軍]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:lieutenant:lieutenants]', '[NAME:副官:副官:副官]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:captain:captains]', '[NAME:隊長:隊長:隊長]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:militia commander:militia commanders]', '[NAME:要塞指揮官:要塞指揮官:要塞指揮官]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:militia captain:militia captains]', '[NAME:民兵隊長:民兵隊長:民兵隊長]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:sheriff:sheriffs]', '[NAME:保安官:保安官:保安官]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:captain of the guard:captains of the guard]', '[NAME:刑務軍長:刑務軍長:刑務軍長]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:expedition leader:expedition leaders]', '[NAME:首領:首領:首領]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:mayor:mayors]', '[NAME:市長:市長:市長]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:manager:managers]', '[NAME:計画監理官:計画監理官:計画監理官]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:chief medical dwarf:chief medical dwarves]', '[NAME:医務長:医務長:医務長]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:broker:brokers]', '[NAME:交易鑑定人:交易鑑定人:交易鑑定人]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:bookkeeper:bookkeepers]', '[NAME:在庫管理者:在庫管理者:在庫管理者]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:outpost liaison:outpost liaisons]', '[NAME:本国特使:本国特使:本国特使]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:diplomat:diplomats]', '[NAME:外交官:外交官:外交官]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:champion:champions]', '[NAME:軍事教官:軍事教官:軍事教官]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:hammerer:hammerers]', '[NAME:処刑人:処刑人:処刑人]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:dungeon master:dungeon masters]', '[NAME:ダンジョンマスター:ダンジョンマスター:ダンジョンマスター]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:druid:druids]', '[NAME:ドルイド:ドルイド:ドルイド]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:acolyte:acolytes]', '[NAME:僧侶:僧侶:僧侶]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:princess:princesses]', '[NAME:王女:王女:王女]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:queen:queens]', '[NAME:女王:女王:女王]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:diplomat:diplomats]', '[NAME:エルフ文明の特使:エルフ文明の特使:エルフ文明の特使]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:ranger captain:ranger captains]', '[NAME:レンジャー長:レンジャー長:レンジャー長]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:bolt:bolts]', '[NAME:ボルト:ボルト:ボルト]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:arrow:arrows]', '[NAME:矢:矢:矢]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:blowdart:blowdarts]', '[NAME:吹き矢:吹き矢:吹き矢]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:breastplate:breastplates]', '[NAME:胸甲:胸甲:胸甲]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:mail shirt:mail shirts]', '[NAME:鎖帷子:鎖帷子:鎖帷子]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:armor:armor]', '[NAME:防具:防具:防具]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:coat:coats]', '[NAME:コート:コート:コート]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:shirt:shirts]', '[NAME:シャツ:シャツ:シャツ]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:cloak:cloaks]', '[NAME:マント:マント:マント]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:tunic:tunics]', '[NAME:チュニック:チュニック:チュニック]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:toga:togas]', '[NAME:トーガ:トーガ:トーガ]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:cape:capes]', '[NAME:ケープ:ケープ:ケープ]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:vest:vests]', '[NAME:ベスト:ベスト:ベスト]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:dress:dresses]', '[NAME:礼服:礼服:礼服]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:robe:robes]', '[NAME:ローブ:ローブ:ローブ]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:gauntlet:gauntlets]', '[NAME:籠手:籠手:籠手]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:glove:gloves]', '[NAME:手袋:手袋:手袋]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:mitten:mittens]', '[NAME:ミトン:ミトン:ミトン]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:helm:helms]', '[NAME:兜:兜:兜]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:cap:caps]', '[NAME:帽子:帽子:帽子]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:hood:hoods]', '[NAME:頭巾:頭巾:頭巾]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:turban:turbans]', '[NAME:ターバン:ターバン:ターバン]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:mask:masks]', '[NAME:仮面:仮面:仮面]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:head veil:head veils]', '[NAME:ヘッドベール:ヘッドベール:ヘッドベール]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:face veil:face veils]', '[NAME:フェイスベール:フェイスベール:フェイスベール]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:headscarf:headscarves]', '[NAME:スカーフ:スカーフ:スカーフ]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:trousers:trousers]', '[NAME:ズボン:ズボン:ズボン]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:greaves:greaves]', '[NAME:脛甲:脛甲:脛甲]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:leggings:leggings]', '[NAME:すね当て:すね当て:すね当て]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:loincloth:loincloths]', '[NAME:下履き:下履き:下履き]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:thong:thongs]', '[NAME:紐:紐:紐]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:skirt:skirts]', '[NAME:スカート:スカート:スカート]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:skirt:skirts]', '[NAME:スカート:スカート:スカート]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:skirt:skirts]', '[NAME:スカート:スカート:スカート]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:braies:braies]', '[NAME:ブレー:ブレー:ブレー]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:shield:shields]', '[NAME:盾:盾:盾]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:buckler:bucklers]', '[NAME:丸盾:丸盾:丸盾]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:shoe:shoes]', '[NAME:靴:靴:靴]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:high boot:high boots]', '[NAME:ハイブーツ:ハイブーツ:ハイブーツ]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:low boot:low boots]', '[NAME:ブーツ:ブーツ:ブーツ]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:sandal:sandals]', '[NAME:サンダル:サンダル:サンダル]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:chausse:chausses]', '[NAME:スリッパ:スリッパ:スリッパ]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:sock:socks]', '[NAME:靴下:靴下:靴下]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:ballista arrow:ballista arrows]', '[NAME:バリスタの矢:バリスタの矢:バリスタの矢]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:cauldron:cauldrons]', '[NAME:大釜:大釜:大釜]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:ladle:ladles]', '[NAME:柄杓:柄杓:柄杓]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:bowl:bowls]', '[NAME:ボウル:ボウル:ボウル]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:mortar:mortars]', '[NAME:乳鉢:乳鉢:乳鉢]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:pestle:pestles]', '[NAME:乳棒:乳棒:乳棒]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:carving knife:carving knives]', '[NAME:彫刻刀:彫刻刀:彫刻刀]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:boning knife:boning knives]', '[NAME:骨スキ包丁:骨スキ包丁:骨スキ包丁]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:slicing knife:slicing knives]', '[NAME:スライスナイフ:スライスナイフ:スライスナイフ]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:meat cleaver:meat cleavers]', '[NAME:肉きり包丁:肉きり包丁:肉きり包丁]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:carving fork:carving forks]', '[NAME:フォーク:フォーク:フォーク]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:nest box:nest boxes]', '[NAME:巣箱:巣箱:巣箱]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:jug:jugs]', '[NAME:水差し:水差し:水差し]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:pot:pots]', '[NAME:ポット:ポット:ポット]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:hive:hives]', '[NAME:蜂の巣:蜂の巣:蜂の巣]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:honeycomb:honeycombs]', '[NAME:ミツバチの巣:ミツバチの巣:ミツバチの巣]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:pouch:pouches]', '[NAME:ポーチ:ポーチ:ポーチ]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:minecart:minecarts]', '[NAME:トロッコ:トロッコ:トロッコ]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:wheelbarrow:wheelbarrows]', '[NAME:手押し車:手押し車:手押し車]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:stepladder:stepladders]', '[NAME:脚立:脚立:脚立]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:scroll rollers:scroll rollers]', '[NAME:巻軸:巻軸:巻軸]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:book binding:book bindings]', '[NAME:ブックバインディング:ブックバインディング:ブックバインディング]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:scroll:scrolls]', '[NAME:巻物:巻物:巻物]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:quire:quires]', '[NAME:クワイア:クワイア:クワイア]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:bookcase:bookcases]', '[NAME:本棚:本棚:本棚]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:helve:helves]', '[NAME:柄:柄:柄]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:axe:axes]', '[NAME:石斧:石斧:石斧]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:pedestal:pedestals]', '[NAME:台座:台座:台座]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:display case:display cases]', '[NAME:展示ケース:展示ケース:展示ケース]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:altar:altars]', '[NAME:祭壇:祭壇:祭壇]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:die:dice]', '[NAME:さいころ:さいころ:さいころ]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:puzzlebox:puzzleboxes]', '[NAME:からくり箱:からくり箱:からくり箱]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:toy boat:toy boats]', '[NAME:おもちゃの船:おもちゃの船:おもちゃの船]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:toy hammer:toy hammers]', '[NAME:おもちゃのハンマー:おもちゃのハンマー:おもちゃのハンマー]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:toy axe:toy axes]', '[NAME:おもちゃの斧:おもちゃの斧:おもちゃの斧]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:mini-forge:mini-forges]', '[NAME:おもちゃの鍜治場:おもちゃの鍜治場:おもちゃの鍜治場]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:axe blade:axe blades]', '[NAME:斧刃:斧刃:斧刃]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:corkscrew:corkscrews]', '[NAME:コルク栓抜き:コルク栓抜き:コルク栓抜き]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:ball:balls]', '[NAME:球:球:球]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:disc:discs]', '[NAME:円盤:円盤:円盤]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:spike:spikes]', '[NAME:スパイク:スパイク:スパイク]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:whip:whips]', '[NAME:鞭:鞭:鞭]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:battle axe:battle axes]', '[NAME:バトルアクス:バトルアクス:バトルアクス]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:war hammer:war hammers]', '[NAME:ウォーハンマー:ウォーハンマー:ウォーハンマー]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:short sword:short swords]', '[NAME:ショートソード:ショートソード:ショートソード]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:spear:spears]', '[NAME:槍:槍:槍]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:mace:maces]', '[NAME:メイス:メイス:メイス]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:crossbow:crossbows]', '[NAME:クロスボウ:クロスボウ:クロスボウ]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:pick:picks]', '[NAME:つるはし:つるはし:つるはし]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:bow:bows]', '[NAME:弓:弓:弓]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:blowgun:blowguns]', '[NAME:吹き矢筒:吹き矢筒:吹き矢筒]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:pike:pikes]', '[NAME:パイク:パイク:パイク]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:halberd:halberds]', '[NAME:ハルバード:ハルバード:ハルバード]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:two-handed sword:two-handed swords]', '[NAME:ツーハンデッドソード:ツーハンデッドソード:ツーハンデッドソード]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:long sword:long swords]', '[NAME:ロングソード:ロングソード:ロングソード]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:maul:mauls]', '[NAME:大槌:大槌:大槌]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:great axe:great axes]', '[NAME:グレートアクス:グレートアクス:グレートアクス]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:dagger:daggers]', '[NAME:ダガー:ダガー:ダガー]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:scourge:scourges]', '[NAME:ばら鞭:ばら鞭:ばら鞭]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:flail:flails]', '[NAME:フレイル:フレイル:フレイル]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:morningstar:morningstars]', '[NAME:モーニングスター:モーニングスター:モーニングスター]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:scimitar:scimitars]', '[NAME:シミター:シミター:シミター]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:training axe:training axes]', '[NAME:訓練用の木斧:訓練用の木斧:訓練用の木斧]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:training sword:training swords]', '[NAME:訓練用の木剣:訓練用の木剣:訓練用の木剣]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:training spear:training spears]', '[NAME:訓練用の木槍:訓練用の木槍:訓練用の木槍]'
+Error: Tag parts count mismatch
+Tag pair: '[STATE_NAME_ADJ:ALL_SOLID:flax seed]', '[STATE_NAME_ADJ:ALL_SOLID:亜麻の種:]'
+Error: Tag parts count mismatch
+Tag pair: '[STATE_NAME_ADJ:ALL_SOLID:hemp seed]', '[STATE_NAME_ADJ:ALL_SOLID:麻の種:]'
+Error: Tag parts count mismatch
+Tag pair: '[STATE_NAME_ADJ:SOLID_PASTE:hemp seed paste]', '[STATE_NAME_ADJ:SOLID_PASTE:麻の種のペース'
+Error: Wrong tag translation format
+Tag pair: '[STATE_NAME_ADJ:ALL_SOLID:cotton seed]', '[STATE_NAME_ADJ:ALL_SOLID:綿の種:]'
+Error: Tag parts count mismatch
+Tag pair: '[STATE_NAME_ADJ:SOLID_PASTE:cotton seed paste]', '[STATE_NAME_ADJ:SOLID_PASTE:綿の種のペース'
+Error: Wrong tag translation format
+Tag pair: '[STATE_NAME_ADJ:ALL_SOLID:kenaf seed]', '[STATE_NAME_ADJ:ALL_SOLID:洋麻の種:]'
+Error: Tag parts count mismatch
+Tag pair: '[STATE_NAME_ADJ:SOLID_PASTE:kenaf seed paste]', '[STATE_NAME_ADJ:SOLID_PASTE:洋麻の種のペース'
+Error: Wrong tag translation format
+Tag pair: '[PREFSTRING:lens-shaped seeds]', '[PREFSTRING:レンズ豆の種:]'
+Error: Tag parts count mismatch
+Tag pair: '[STATE_NAME_ADJ:SOLID_PASTE:rock nut paste]', '[STATE_NAME_ADJ:SOLID_PASTE:rock nut pasteのペース'
+Error: Wrong tag translation format
+Tag pair: '[PREFSTRING:acorns]', '[PREFSTRING:種'
+Error: Wrong tag translation format
+Tag pair: '[PRODUCT:100:1:BED:NONE:GET_MATERIAL_FROM_REAGENT:log:]', '[PRODUCT:100:1BED:NONE:GET_MATERIAL_FROM_REAGENT:log:]'
+Error: Tag parts count mismatch
+Tag pair: '[PRODUCT:100:1:AMULET:NONE:GET_MATERIAL_FROM_REAGENT:bone:]', '[PRODUCT:100:1:AラバT:NONE:GET_MATERIAL_FROM_REAGENT:bone:]'
+Error: Part 'AMULET' should not be translated

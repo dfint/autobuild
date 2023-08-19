@@ -1,0 +1,222 @@
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LA:left front leg:STP]', '[BP:RA:lewa przednia noga:lewe przednie nogi]'
+Error: Part 'LA' should not be translated
+Tag pair: '[BP:RH:right front foot:right front feet]', '[BP:RA:prawa przednia stopa:prawe przednie stopy]'
+Error: Part 'RH' should not be translated
+Tag pair: '[BP:LH:left front foot:left front feet]', '[BP:RA:lewa przednia stopa:lewe przednie stopy]'
+Error: Part 'LH' should not be translated
+Tag pair: '[BP:RL:right rear leg:STP]', '[BP:RA:prawa tylna noga:prawe tylne nogi]'
+Error: Part 'RL' should not be translated
+Tag pair: '[BP:LL:left rear leg:STP]', '[BP:RA:lewa tylna noga:lewe tylne nogi]'
+Error: Part 'LL' should not be translated
+Tag pair: '[BP:LF:left rear foot:left rear feet]', '[BP:RF:lewa tylna stopa:lewe tylne stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left hoof:left hooves]', '[BP:RF:lewe kopyto:lewe kopyta]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left hoof:left hooves]', '[BP:RF:lewe kopyto:lewe kopyta]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LUA3:third left upper arm:STP]', '[BP:LLA3:trzecie lewe przedramię:lewe przedramiona]'
+Error: Part 'LUA3' should not be translated
+Tag pair: '[BP:RLA3:third right lower arm:STP]', '[BP:RUA3:trzecie prawe ramię:trzecie prawe ramiona]'
+Error: Part 'RLA3' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LA:left front leg:STP]', '[BP:RA:lewa przednia noga:lewe przednie nogi]'
+Error: Part 'LA' should not be translated
+Tag pair: '[BP:RH:right front foot:right front feet]', '[BP:RA:prawa przednia stopa:prawe przednie stopy]'
+Error: Part 'RH' should not be translated
+Tag pair: '[BP:LH:left front foot:left front feet]', '[BP:RA:lewa przednia stopa:lewe przednie stopy]'
+Error: Part 'LH' should not be translated
+Tag pair: '[BP:RL:right rear leg:STP]', '[BP:RA:prawa tylna noga:prawe tylne nogi]'
+Error: Part 'RL' should not be translated
+Tag pair: '[BP:LL:left rear leg:STP]', '[BP:RA:lewa tylna noga:lewe tylne nogi]'
+Error: Part 'LL' should not be translated
+Tag pair: '[BP:LF:left rear foot:left rear feet]', '[BP:RF:tylnia lewa stopa:tylnie lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LA:left front leg:STP]', '[BP:RA:lewa przednia noga:lewe przednie nogi]'
+Error: Part 'LA' should not be translated
+Tag pair: '[BP:RH:right front foot:right front feet]', '[BP:RA:prawa przednia stopa:prawe przednie stopy]'
+Error: Part 'RH' should not be translated
+Tag pair: '[BP:LH:left front foot:left front feet]', '[BP:RA:lewa przednia stopa:lewe przednie stopy]'
+Error: Part 'LH' should not be translated
+Tag pair: '[BP:RL:right rear leg:STP]', '[BP:RA:prawa tylna noga:prawe tylne nogi]'
+Error: Part 'RL' should not be translated
+Tag pair: '[BP:LL:left rear leg:STP]', '[BP:RA:lewa tylna noga:lewe tylne nogi]'
+Error: Part 'LL' should not be translated
+Tag pair: '[BP:LF:left rear foot:left rear feet]', '[BP:RF:lewa tylna stopa:lewe tylne stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LA:left front leg:STP]', '[BP:RA:lewa przednia noga:lewe przednie nogi]'
+Error: Part 'LA' should not be translated
+Tag pair: '[BP:RH:right front foot:right front feet]', '[BP:RA:prawa przednia stopa:prawe przednie stopy]'
+Error: Part 'RH' should not be translated
+Tag pair: '[BP:LH:left front foot:left front feet]', '[BP:RA:lewa przednia stopa:lewe przednie stopy]'
+Error: Part 'LH' should not be translated
+Tag pair: '[BP:RL:right rear leg:STP]', '[BP:RA:prawa tylna noga:prawe tylne nogi]'
+Error: Part 'RL' should not be translated
+Tag pair: '[BP:LL:left rear leg:STP]', '[BP:RA:lewa tylna noga:lewe tylne nogi]'
+Error: Part 'LL' should not be translated
+Tag pair: '[BP:LF:left rear foot:left rear feet]', '[BP:RF:lewa tylna stopa:lewe tylne stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LA:left front leg:STP]', '[BP:RA:lewa przednia noga:lewe przednie nogi]'
+Error: Part 'LA' should not be translated
+Tag pair: '[BP:RL:right rear leg:STP]', '[BP:RA:prawa tylnia noga:prawe tylnie nogi]'
+Error: Part 'RL' should not be translated
+Tag pair: '[BP:LL:left rear leg:STP]', '[BP:RA:lewa tylnia noga:lewe tylnie nogi]'
+Error: Part 'LL' should not be translated
+Tag pair: '[BP:RLA_J:right elbow:STP]', '[BP:RLA_J:prawy łokiećSTP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:LHORN:left antler:STP]', '[BP:RHORN:lewy jeleni róg:STP]'
+Error: Part 'LHORN' should not be translated
+Tag pair: '[BP:FINGER2:second finger:STP]', '[BP:FINGER2drugi palec:STP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:TOE3:third toe:STP]', '[BP:TOE3:trzeci palec u stopySTP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:TOE3:third toe:STP]', '[BP:TOE3:trzeci palec u stopySTP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:TOE3:third toe:STP]', '[BP:TOE3:trzeci palec u stopySTP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:R_CHEEK:right cheek:STP]', '[BP:R_CHEEKprawy policzek:STP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:R_CHEEK:right cheek:STP]', '[BP:R_CHEEKprawy policzek:STP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:L_L_B_TOOTH:lower left back tooth:lower left back teeth]', '[BP:U_L_B_TOOTH:dolny lewy tylni ząb:dolne lewe tylne zęby]'
+Error: Part 'L_L_B_TOOTH' should not be translated
+Tag pair: '[BP:LA:left front leg:STP]', '[BP:RA:przednia lewa noga:STP]'
+Error: Part 'LA' should not be translated
+Tag pair: '[BP:RL:right rear leg:STP]', '[BP:RA:tylnia prawa noga:STP]'
+Error: Part 'RL' should not be translated
+Tag pair: '[BP:LL:left rear leg:STP]', '[BP:RA:tylnia lewa noga:STP]'
+Error: Part 'LL' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LA:left front leg:STP]', '[BP:RA:przednia lewa noga:STP]'
+Error: Part 'LA' should not be translated
+Tag pair: '[BP:RH:right front foot:right front feet]', '[BP:RA:przednia prawa stopa:STP]'
+Error: Part 'RH' should not be translated
+Tag pair: '[BP:LH:left front foot:left front feet]', '[BP:RA:przednia lewa stopa:STP]'
+Error: Part 'LH' should not be translated
+Tag pair: '[BP:LA:left front leg:STP]', '[BP:RA:przednia lewa noga:STP]'
+Error: Part 'LA' should not be translated
+Tag pair: '[BP:RH:right front foot:right front feet]', '[BP:RA:przednia prawa stopa:STP]'
+Error: Part 'RH' should not be translated
+Tag pair: '[BP:LH:left front foot:left front feet]', '[BP:RA:przednia lewa stopa:STP]'
+Error: Part 'LH' should not be translated
+Tag pair: '[BP:RL:right rear leg:STP]', '[BP:RA:tylnia prawa noga:STP]'
+Error: Part 'RL' should not be translated
+Tag pair: '[BP:LL:left rear leg:STP]', '[BP:RA:tylnia lewa noga:STP]'
+Error: Part 'LL' should not be translated
+Tag pair: '[BP:LF:left rear foot:left rear feet]', '[BP:RF:tylnia lewa stopa:tylnie lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:L_ANT:left antenna:STP]', '[BP:R_ANT:lewy czułek:STP]'
+Error: Part 'L_ANT' should not be translated
+Tag pair: '[BP:TOE3:third toe:STP]', '[BP:TOE3:trzeci palec u stopySTP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:TOE3:third toe:STP]', '[BP:TOE3:trzeci palec u stopySTP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:TOE3:third toe:STP]', '[BP:TOE3:trzeci palec u stopySTP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:TOE3:third toe:STP]', '[BP:TOE3:trzeci palec u stopySTP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:TOE3:third toe:STP]', '[BP:TOE3:trzeci palec u stopySTP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:TOE3:third toe:STP]', '[BP:TOE3:trzeci palec u stopySTP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:TOE3:third toe:STP]', '[BP:TOE3:trzeci palec u stopySTP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:TOE3:third toe:STP]', '[BP:TOE3:trzeci palec u stopySTP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:TOE3:third toe:STP]', '[BP:TOE3:trzeci palec u stopySTP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:FINGER2:second finger:STP]', '[BP:FINGER2drugi palec:STP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:FINGER2:second finger:STP]', '[BP:FINGER2drugi palec:STP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:FINGER2:second finger:STP]', '[BP:FINGER2drugi palec:STP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:FINGER2:second finger:STP]', '[BP:FINGER2drugi palec:STP]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:R_CHEEK:right cheek:STP]', '[BP:R_CHEEKprawy policzek:STP]'
+Error: Tag parts count mismatch
+Tag pair: '[CV_NEW_TAG:CDI:VERB:pet:pets:pets]', '[CV_NEW_TAG: CDI:VERB:ulubieniec:ulubieńce:ulubieńce]'
+Error: Part 'CDI' should not be translated
+Tag pair: '[CASTE_NAME:bluejay man:bluejay men:bluejay man]', '[CASTE_NAME:sójko-mężczyzna błękitny:sójko-mężczyzna błękitny:sójko-mężczyzna błękitny] '
+Error: Wrong tag translation format
+Tag pair: '[CASTE_NAME:bluejay woman:bluejay women:bluejay woman]', '[CASTE_NAME:sójko-kobieta błękitna:sójko-kobiety błękitne:sójko-kobieta błękitna] '
+Error: Wrong tag translation format
+Tag pair: '[NAME:bluejay man:bluejay men:bluejay man]', '[NAME:sójko-człowiek błękitny:sójko-ludzie błękitni:sójko-człowiek błękitny] '
+Error: Wrong tag translation format
+Tag pair: '[NAME:giant bluejay:giant bluejays:giant bluejay]', '[NAME:gigantyczna błękitna sójka;gigantyczne błękitne sójki;gigantyczna błękitna sójka]'
+Error: Tag parts count mismatch
+Tag pair: '[CASTE_NAME:giant bluejay:giant bluejays:giant bluejay]', '[CASTE_NAME:gigantyczna błękitna jaskółka;gigantyczne błękitne jaskółki;gigantyczna błękitna jaskółka]'
+Error: Tag parts count mismatch
+Tag pair: '[CASTE_NAME:giant ostrich cock:giant ostrich cocks:giant ostrich cock]', '[CASTE_NAME:gigantyczny samiec strusia:gigantyczne samce strusia]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:eaglet:eaglets]', '1[GENERAL_CHILD_NAME:orlik:orlęta]'
+Error: Wrong tag translation format
+Tag pair: '[VERMIN_BITE:1:bitten:]', '[VERMIN_BITE:10:ukąszony:]'
+Error: Part '1' should not be translated
+Tag pair: "[STATE_NAME:GAS:boiling goat's milk]", '[STATE_NAME:GAS:gotujące się kozie mleko:]'
+Error: Tag parts count mismatch
+Tag pair: "[STATE_ADJ:GAS:boiling goat's milk]", '[STATE_ADJ:GAS:gotujące się kozie mleczny:]'
+Error: Tag parts count mismatch
+Tag pair: '[CASTE_NAME:coelacanth:coelacanths:coelacanth]', '[CASTE_NAME:celekant:celekanty:celekancki] '
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A gigantic feline predator, similar to its cousins in all but size.  It can be found in the savage wilderness.]', '[DESCRIPTION:Gigantyczny, koci drapieżnik, podobny do jego kuzynów we wszystki poza rozmiarem. Można go znaleźć w głębokiej dziczy.] '
+Error: Wrong tag translation format
+Tag pair: '[STATE_ADJ:SOLID:one-humped camel cheese]', '[STATE_ADJ:SOLID:SOLID:serowy wielbłąda jednogarbnego]'
+Error: Tag parts count mismatch
+Tag pair: '[RETRACT_INTO_BP:BY_CATEGORY:SHELL:retract into <pro_pos> shell:retracts into <pro_pos> shell:come out of <pro_pos> shell:comes out of <pro_pos> shell]', '[RETRACT_INTO_BP:BY_CATEGORY:SHELL:chowasz się do <pro_pos> muszli:chowa się do <pro_pos> muszli:wychodzisz z<pro_pos> wychodzi z <pro_pos> muszli]'
+Error: Tag parts count mismatch
+Tag pair: '[STATE_NAME:LIQUID:squid ink]', '[STATE_NAME:ciecz:atrament kałamarnicy]'
+Error: Part 'LIQUID' should not be translated
+Tag pair: '[NAME:troll:trolls:troll]', 'troll:trole:troll'
+Error: Wrong tag translation format
+Tag pair: '[CASTE_NAME:troll:trolls:troll]', 'troll:trolle:trolle]'
+Error: Wrong tag translation format
+Tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] '
+Error: Wrong tag translation format
+Tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] '
+Error: Wrong tag translation format
+Tag pair: '[STATE_NAME_ADJ:ALL_SOLID:cinnabar]', 'ALL_SOLID: cynober]'
+Error: Wrong tag translation format
+Tag pair: '[ALL_NAMES:hair grass]', 'trawa do włosów]'
+Error: Wrong tag translation format
+Tag pair: '[ALL_NAMES:bentgrass]', 'miotła]'
+Error: Wrong tag translation format
+Tag pair: '[SEED:plum pit:plum pits:]', '[SEED:nasionko śliwy:nasiona śliwy]'
+Error: Tag parts count mismatch
+Tag pair: '[ADJ:sweet pod]', '[ADJ:strongowiec cukrowy'
+Error: Wrong tag translation format
+Tag pair: '[NAME:press honey from honeycomb]', '[NAME:wyciśnij miód z plastra miodu] '
+Error: Wrong tag translation format
+Tag pair: '[REAGENT:milk of lime:]', '[REAGENT:mleko wapienne]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:make quire]', '[NAME:zrób libre:]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:carve bone cabochon]', '[NAME:wyrzęźbiony z kości kaboszon] '
+Error: Wrong tag translation format
+Tag pair: '[NAME:carve wooden helve from branch]', '[NAME: wyrzeźbiony drewniany trzonek z gałęzi] '
+Error: Wrong tag translation format

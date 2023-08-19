@@ -1,0 +1,78 @@
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:RH:right front foot:right front feet]', '[BP:RH:chân phải trước:nhiều chân phải trước] '
+Error: Wrong tag translation format
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều chân trái]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:LF:left hoof:left hooves]', '[BP:RF:móng trái:nhiều móng trái]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:LF:left hoof:left hooves]', '[BP:RF:móng trái:nhiều móng trái]'
+Error: Part 'LF' should not be translated
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Error: Tag parts count mismatch
+Tag pair: '[BP:RH:right front foot:right front feet]', '[BP:RH:chân phải trước:nhiều chân phải trước] '
+Error: Wrong tag translation format
+Tag pair: '[BP:RH:right front foot:right front feet]', '[BP:RH:chân phải trước:nhiều chân phải trước] '
+Error: Wrong tag translation format
+Tag pair: '[BP:RH:right front foot:right front feet]', '[BP:RH:chân phải trước:nhiều chân phải trước] '
+Error: Wrong tag translation format
+Tag pair: '[BP:RA1:right first leg:STP]', '[BP:RL1:chân phải đầu tiên:STP]'
+Error: Part 'RA1' should not be translated
+Tag pair: '[BP:RA2:right second leg:STP]', '[BP:RL2:chân phải thứ hai:STP]'
+Error: Part 'RA2' should not be translated
+Tag pair: '[BP:RA3:right third leg:STP]', '[BP:RL3:chân phải thứ ba:STP]'
+Error: Part 'RA3' should not be translated
+Tag pair: '[BP:RUA:right upper foreleg:STP]', '[BP:RUL:bắp đùi phía trước phải:STP]'
+Error: Part 'RUA' should not be translated
+Tag pair: '[BP:RA2:right second leg:STP]', '[BP:RL2:chân phải thứ hai:STP]'
+Error: Part 'RA2' should not be translated
+Tag pair: '[BP:RA3:right third leg:STP]', '[BP:RL3:chân phải thứ ba:STP]'
+Error: Part 'RA3' should not be translated
+Tag pair: '[BP:RA1:right first leg:STP]', '[BP:RL1:chân phải đầu tiên:STP]'
+Error: Part 'RA1' should not be translated
+Tag pair: '[BP:RA2:right second leg:STP]', '[BP:RL2:chân phải thứ hai:STP]'
+Error: Part 'RA2' should not be translated
+Tag pair: '[BP:RA3:right third leg:STP]', '[BP:RL3:chân phải thứ ba:STP]'
+Error: Part 'RA3' should not be translated
+Tag pair: '[BP:RA4:right fourth leg:STP]', '[BP:RL4:chân phải thứ tư:STP]'
+Error: Part 'RA4' should not be translated
+Tag pair: '[BP:RA1:right first leg:STP]', '[BP:RL1:chân phải đầu tiên:STP]'
+Error: Part 'RA1' should not be translated
+Tag pair: '[BP:RA2:right second leg:STP]', '[BP:RL2:chân phải thứ hai:STP]'
+Error: Part 'RA2' should not be translated
+Tag pair: '[BP:RA3:right third leg:STP]', '[BP:RL3:chân phải thứ ba:STP]'
+Error: Part 'RA3' should not be translated
+Tag pair: '[BP:RA4:right fourth leg:STP]', '[BP:RL4:chân phải thứ tư:STP]'
+Error: Part 'RA4' should not be translated
+Tag pair: '[BP:LFF:left front foot:left front feet]', '[BP:LH:chân trái trước:nhiều chân trái trước]'
+Error: Part 'LFF' should not be translated
+Tag pair: '[BP:RA1:right first leg:STP]', '[BP:RL1:chân phải đầu tiên:STP]'
+Error: Part 'RA1' should not be translated
+Tag pair: '[BP:RA1:right first leg:STP]', '[BP:RL1:chân phải đầu tiên:STP]'
+Error: Part 'RA1' should not be translated
+Tag pair: '[BP:RA2:right second leg:STP]', '[BP:RL2:chân phải thứ hai:STP]'
+Error: Part 'RA2' should not be translated
+Tag pair: '[BP:RA3:right third leg:STP]', '[BP:RL3:chân phải thứ ba:STP]'
+Error: Part 'RA3' should not be translated
+Tag pair: '[BP:RA4:right fourth leg:STP]', '[BP:RL4:chân phải thứ tư:STP]'
+Error: Part 'RA4' should not be translated
+Tag pair: '[BP:RA5:right fifth leg:STP]', '[BP:RL5:chân phải thứ năm:STP]'
+Error: Part 'RA5' should not be translated

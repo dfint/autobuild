@@ -1,0 +1,56 @@
+Tag pair: '[BP:HEAD_HORN_4:fourth horn:STP]', '[BP:kapo_HORN_4:kvara korno:kvaraj kornoj]'
+Error: Part 'HEAD_HORN_4' should not be translated
+Tag pair: '[CV_NEW_TAG:GAIT:WALK:Slow Crawl:]', '[CV_NEW_TAG:GAIT:WALK:Malrapida Rampo]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:ostrich man:ostrich men:ostrich man]', '[CASTE_NAME:homstruto:homstrutoj:de homstruto]'
+Error: First part of a tag should not be translated
+Tag pair: '[NAME:swan:swans:swan]', '[NAME:cigno:cignoj:de cigno] '
+Error: Wrong tag translation format
+Tag pair: '[ATTACK_VERB:kick:kicks]', '[ATTACK_VERB:ATTACK_VERB:piedbatas:piedbatas]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:nurse shark pup:nurse shark pups]', '[GENERAL_CHILD_NAME:ginglimostomido:ginglimostomidoj:de ginglimostomo]'
+Error: Tag parts count mismatch
+Tag pair: '[DESCRIPTION:A huge predatory mammal covered in white hair.  It hunts the shores along tundra and glaciers.]', '[DESCRIPTION:Grandega predanta mamulo kovrita kun blanka hararo. Ĝi ĉasas laŭ la bordojn de la tundroj kaj la glaciejoj.}'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A tiny underground creature made of a mass of appendages resembling human fingers.  It creeps across the ground like a starfish and eats with a mouth on the bottom of its body.]', '1[DESCRIPTION:Eta subtera kreatiĵo farita el membromaso simila al homa manfingroj. Ĝi rampas trans la tereno kiel asterio kaj ĝi manĝas per buŝo en la fundo de sia korpo.]'
+Error: Wrong tag translation format
+Tag pair: '[STATE_NAME:GAS:boiling corrupted blood]', '[STATE_NAME:GAS:bolanta koruptita sango'
+Error: Wrong tag translation format
+Tag pair: '[STATE_NAME:ALL_SOLID:frozen cave blob fluid]', '[STATE_NAME:ALL:SOLID:glaciiĝita fluaĵo de kavbulo]'
+Error: Tag parts count mismatch
+Tag pair: '[STATE_NAME_ADJ:ALL_SOLID:frozen cave blob fluid]', '[STATE_NAME_ADJ:ALL:SOLID:de glaciiĝita fluaĵo de kavbulo]'
+Error: Tag parts count mismatch
+Tag pair: '[STATE_ADJ:GAS:boiling mog juice]', '[STATE_ADJ:GAS:GAS:de bolanta mogsuko]'
+Error: Tag parts count mismatch
+Tag pair: '[DESCRIPTION:A relatively large lizard.  It can be found in most climates, foraging for bugs during daylight hours.]', '[DESCRIPTION:Relative granda lacerto. Ĝi troviĝas en la plimulto de la klimatoj, ĉasante je insektojn tage.] '
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A large reptile with a thick ridged shell.  It has been known to consume snakes and smaller turtles, and its bite can amputate fingers.]', '1[DESCRIPTION:Granda reptilio kun dika tubera karapaco. Ĝi estas konita por konsumi serpentojn kaj pli malgrandajn testudojn, kaj ĝia mordo povas amputi fingrojn.]'
+Error: Wrong tag translation format
+Tag pair: '[ROOT_AROUND:BY_CATEGORY:NOSE:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:BEAK:furaĝas en:furaĝas en]'
+Error: Part 'NOSE' should not be translated
+Tag pair: '[STATE_NAME:GAS:boiling dwarven cheese]', '[STATE_NAME:GAS:bolanta dvarfa fromaĝo'
+Error: Wrong tag translation format
+Tag pair: '[NAME:monitor lizard man:monitor lizard men:monitor lizard man]', '[NAME:homvarano:homvaranoj]'
+Error: Tag parts count mismatch
+Tag pair: '[ROOT_AROUND:BY_CATEGORY:NOSE:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:BEAK:furaĝas en:furaĝas en]'
+Error: Part 'NOSE' should not be translated
+Tag pair: '[PREPLURAL:suits of]', '[PREPLURAL::kunaĵoj de]'
+Error: Tag parts count mismatch
+Tag pair: '[PREPLURAL:pairs of]', '[PREPLURAL:]'
+Error: Translation should not be empty
+Tag pair: '[ATTACK:EDGE:500:300:slash:slashes:NO_SUB:]', '[ATTACK:EDGE:500:500:tranĉvundas:tranĉvundas:NO_SUB:]'
+Error: Part '300' should not be translated
+Tag pair: '[ATTACK:BLUNT:20000:6000:bash:bashes:shaft:]', '[ATTACK:BLUNT:20000:6000:frapas:frapas:fusto]'
+Error: Tag parts count mismatch
+Tag pair: '[IS_GEM:yellow jasper:STP:]', '[IS_GEM:flava jaspo:flavaj jaspoj]'
+Error: Tag parts count mismatch
+Tag pair: '[GROWTH_NAME:bilberry flower:STP]', '[GROWTH_NAME:floro de mirtelofloroj de mirtelo]'
+Error: Tag parts count mismatch
+Tag pair: '[GROWTH_NAME:apricot leaf:apricot leaves]', '[GROWTH_NAME:folio de abrikoto:folioj de abrikoto:]'
+Error: Tag parts count mismatch
+Tag pair: '[GROWTH_NAME:ginkgo seed:STP]', '[GROWTH_NAME:semo de ginko:semoj de ginko:]'
+Error: Tag parts count mismatch
+Tag pair: '[REAGENT:liquid container:]', '[REAGENT:likvaĵujo]'
+Error: Tag parts count mismatch
+Tag pair: '[REAGENT:milk of lime:]', '[REAGENT:kalklakto]'
+Error: Tag parts count mismatch

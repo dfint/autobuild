@@ -1,0 +1,166 @@
+Tag pair: '[TOOLTIP:A useful workshop for pressing liquids from various sources. Some plants might need to be milled first before they can be used.  Empty jugs are required to store the liquid products.]', '[TOOLTIP:여러 재료에서 액체를 짜내는 유용한 기구입니다. 몇 식물들은 여기서 가공되기 전에 먼저 제분을 해야하기도 합니다. 액체를 짜내는 작업에는 그것을 담을 빈 병이 필요합니다.'
+Error: Wrong tag translation format
+Tag pair: '[CV_NEW_TAG:GAIT:CRAWL:Fast Crawl:]', '[CV_NEW_TAG:GAIT:CRAWL:빠르게 기어가기]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:giant penguin chick:giant penguin chicks]', '[GENERAL_CHILD_NAME:새끼 거대 펭귄:새끼 거대 펭귄떼:새끼 거대 펭귄]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:peregrine falcon chick:peregrine falcon chicks]', '[GENERAL_CHILD_NAME:새끼 송골매:새끼 송골매떼:새끼 송골매]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME:white stork man:white stork men:white stork man]', '[CASTE_NAME:흰 황새 인간:흰 황세 인간들:흰 황새 인간]'
+Error: First part of a tag should not be translated
+Tag pair: '[NAME:barn owl man:barn owl men:barn owl man]', '[CASTE_NAME:원숭이올빼미인간:원숭이올빼미인간들:원숭이올빼미인간.]'
+Error: First part of a tag should not be translated
+Tag pair: '[DESCRIPTION:A tiny parrot found in flocks of many hundreds.  Exceptional birds can be taught to speak.]', '[DESCRIPTION:수백 마리씩 무리 지어 다니는 작은 앵무새. 말할 수 있는 것으로 생각 되는 특별한 새이다.'
+Error: Wrong tag translation format
+Tag pair: '[SOUND:PEACEFUL_INTERMITTENT:50:1000:VOCALIZATION:ching:chings:a metallic ching]', '[SOUND:\nPEACEFUL_INTERMITTENT:50:1000:VOCALIZATION:칭:칭:금속성 칭]'
+Error: Part 'PEACEFUL_INTERMITTENT' should not be translated
+Tag pair: '[CASTE_NAME:giant grey parrot:giant grey parrots:giant grey parrot]', '[NAME:거대 회색앵무:거대 회색앵무떼:거대 회색앵무]'
+Error: First part of a tag should not be translated
+Tag pair: '[DESCRIPTION:A tiny diving bird found living on seaside cliffs in the colder climates.]', '잠수할 수 있는 작은 새, 추운 지방의 해안 절벽에 서식한다.'
+Error: Wrong tag translation format
+Tag pair: '[CASTE_NAME:giant puffin:giant puffins:giant puffin]', '[NAME:거대 바다쇠오리:거대 바다쇠오리떼:거대 바다쇠오리]'
+Error: First part of a tag should not be translated
+Tag pair: '[GENERAL_CHILD_NAME:giant puffin chick:giant puffin chicks]', '[GENERAL_CHILD_NAME:새끼 거대 바다쇠오리:새끼 거대 바다쇠오리떼:새끼 거대 바다쇠오리]'
+Error: Tag parts count mismatch
+Tag pair: '[DESCRIPTION:A tiny, brightly-colored tree parrot.  It uses its tongue to feed on plants.]', '[DESCRIPTION:나무에 사는 밝은 색의 작은 앵무새, 혀를 이용해 먹이를 먹는다.'
+Error: Wrong tag translation format
+Tag pair: '[CASTE_NAME:giant wren:giant wrens:giant wren]', '[NAME:거대 굴뚝새:거대 굴뚝새떼:거대 굴뚝새]'
+Error: First part of a tag should not be translated
+Tag pair: '[NAME:bark scorpion:bark scorpions:bark scorpion]', '[NAME:바크전갈:바크전갈들:바크전갈] '
+Error: Wrong tag translation format
+Tag pair: '[CASTE_NAME:bark scorpion:bark scorpions:bark scorpion]', '[CASTE_NAME:바크전갈:바크전갈들:바크전갈] '
+Error: Wrong tag translation format
+Tag pair: '[CASTE_NAME:giant brown recluse spider:giant brown recluse spiders:giant brown recluse spider]', '[NAME:거대 갈색은둔거미:거대 갈색은둔거미들:거대 갈색은둔거미]'
+Error: First part of a tag should not be translated
+Tag pair: '[GENERAL_CHILD_NAME:gila monster hatchling:gila monster hatchlings]', '[GENERAL_CHILD_NAME:아메리카독도마뱀 새끼:아메리카독도마뱀 새끼들:아메리카독도마뱀 새끼]'
+Error: Tag parts count mismatch
+Tag pair: '[STATE_NAME:ALL_SOLID:frozen gila monster venom]', '[STATE_NAME:ALL_SOLID얼어붙은 아메리카독도마뱀 독]'
+Error: Tag parts count mismatch
+Tag pair: '[STATE_ADJ:ALL_SOLID:frozen gila monster venom]', '[STATE_ADJ:ALL_SOLID얼어붙은 아메리카독도마뱀 독]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:giant gila monster hatchling:giant gila monster hatchlings]', '[GENERAL_CHILD_NAME:거대 아메리카독도마뱀 새끼:거대 아메리카독도마뱀 새끼들:거대 아메리카독도마뱀 새끼]'
+Error: Tag parts count mismatch
+Tag pair: '[PREFSTRING:snorts]', '코웃음]'
+Error: Wrong tag translation format
+Tag pair: '[PREFSTRING:sense of smell]', '후각'
+Error: Wrong tag translation format
+Tag pair: '[PREFSTRING:scratching]', '긁어내기]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A large mammalian herbivore.  It has long fur and curving horns.  It can be found in the mountains.]', '대형 포유류 초식동물. 긴 털과 구부러진 뿔을 가지고 있으며 산에서 발견될 수 있습니다.]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A large domestic pack animal.  It has a long neck.  It is prized for its hair.]', '대형 가축 무리의 동물. 긴 목과 귀중한 털을 가지고 있습니다.]'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A large domestic animal with a long neck.  It has been bred for its valuable hair.]', '긴 목을 가진 큰 가축. 그 동물은 귀중한 털 때문에 길러졌습니다.]'
+Error: Wrong tag translation format
+Tag pair: '[GENERAL_CHILD_NAME:mountain goat kid:mountain goat kids]', '[GENERAL_CHILD_NAME:새끼 흰바위산양:새끼 흰바위산양들:새끼 흰바위산양]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:giant mountain goat kid:giant mountain goat kids]', '[GENERAL_CHILD_NAME:새끼 거대 흰바위산양:새끼 거대 흰바위산양들:새끼 거대 흰바위산양]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:groundhog pup:groundhog pups]', '[GENERAL_CHILD_NAME:새끼 마멋:새끼 마멋들:새끼 마멋]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:giant groundhog pup:giant groundhog pups]', '[GENERAL_CHILD_NAME:새끼 거대마멋:새끼 거대마멋들:새끼 거대마멋]'
+Error: Tag parts count mismatch
+Tag pair: '[CASTE_NAME:giant moose cow:giant moose cows:giant moose cow]', '[CASTE_NAME:암컷 거대 말코손바닥사슴:암컷 거대 말코손바닥사슴들]'
+Error: Tag parts count mismatch
+Tag pair: '[CASTE_NAME:giant moose bull:giant moose bulls:giant moose bull]', '[CASTE_NAME:수컷 거대 말코손바닥사슴:수컷 거대 말코손바닥사슴들]'
+Error: Tag parts count mismatch
+Tag pair: '[DESCRIPTION:A person with the head and neck of a giraffe.]', '[DESCRIPTION:기린의 머리와 목을 가진 인간.] '
+Error: Wrong tag translation format
+Tag pair: '[NAME:floating guts:floating guts:floating guts]', '[NAME:이상한 부유물:이상한 부유물들]'
+Error: Tag parts count mismatch
+Tag pair: '[CASTE_NAME:floating guts:floating guts:floating guts]', '[CASTE_NAME:이상한 부유물:이상한 부유물들]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:giant orca calf:giant orca calves]', '[GENERAL_CHILD_NAME:새끼 거대 범고래:새끼 거대 범고래떼:새끼 거대 범고래]'
+Error: Tag parts count mismatch
+Tag pair: '[CASTE_NAME:giant sperm whale:giant sperm whales:giant sperm whale]', '[CASTE_NAME:[NAME:거대 향고래:거대 향고래들:거대 향고래]'
+Error: Wrong tag translation format
+Tag pair: '[GENERAL_CHILD_NAME:giant elephant seal pup:giant elephant seal pups]', '[GENERAL_CHILD_NAME:새끼 거대 코끼리물범:새끼 거대 코끼리물범들:]'
+Error: Tag parts count mismatch
+Tag pair: '[CASTE_NAME:harp seal:harp seals:harp seal]', '[CASTE_NAME:[NAME:하프물범:하프물범들:하프물범]'
+Error: Wrong tag translation format
+Tag pair: '[GAIT:WALK:Wamble:]', '[GAIT:WALK:비틀비틀 걷기]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:giant chipmunk pup:giant chipmunk pups]', '[GENERAL_CHILD_NAME:새끼 거대 다람쥐:새끼 거대 다람쥐들:새끼 거대 다람쥐]'
+Error: Tag parts count mismatch
+Tag pair: '[DESCRIPTION:A creature from the evil swamp.  It resembles a squat, wingless bird with powerful beak and legs.  Its blotchy skin is brightly colored.]', '[DESCRIPTION:사악한 늪지에서 서식하는 생물. 짜리몽당하고 날개없는 새의 형태를 하고있으며, 강력한 부리와 다리가 특징이다. 밝은 색의 피부가 얼룩덜룩하다.'
+Error: Wrong tag translation format
+Tag pair: '[DESCRIPTION:A man-shaped creature with the legs of a goat and the empty-eyed skull of a goat.]', '[DESCRIPTION:눈알이 빠진 염소의 해골을 닮은 머리와 다리를 가진 인간형태의 생물.'
+Error: Wrong tag translation format
+Tag pair: "[DESCRIPTION:A monster in the shape of a woman with a bird's wings in place of arms and talons for feet.]", '[DESCRIPTION:인간 여성의 몸에 팔과 다리가 있어야 할 자리에 각각 새의 날개와 발톱이 자리하고 있는 괴물.'
+Error: Wrong tag translation format
+Tag pair: '[PREFSTRING:fearsome talons]', '[PREFSTRING:무시무시한 발톱'
+Error: Wrong tag translation format
+Tag pair: '[CASTE_NAME:mermaid:mermaids:mermaid]', '[CASTE_NAME:인어;인어들:인어]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:naked mole puppy:naked mole puppies]', '[GENERAL_CHILD_NAME:새끼 벌거숭이 두더지개:새끼 벌거숭이 두더지개들:새끼 벌거숭이 두더지개]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:giant mole pup:giant mole pups]', '[GENERAL_CHILD_NAME:새끼 거대 두더지:새끼 거대 두더지들:새끼 거대 두더지]'
+Error: Tag parts count mismatch
+Tag pair: '[DESCRIPTION:A huge monster in the shape of a gray langur.]', '회색 랑구르의 모습을 한 거대한 괴수.]'
+Error: Wrong tag translation format
+Tag pair: '[GENERAL_CHILD_NAME:giant skunk kit:giant skunk kits]', '[GENERAL_CHILD_NAME:새끼 거대 스컹크:새끼 거대 스컹크들:새끼 거대 스컹크]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:giant mongoose pup:giant mongoose pups]', '[GENERAL_CHILD_NAME:새끼 거대 몽구스:새끼 거대 몽구스들:'
+Error: Wrong tag translation format
+Tag pair: '[GENERAL_CHILD_NAME:giant hyena cub:giant hyena cubs]', '[GENERAL_CHILD_NAME:새끼 거대 하이에나:새끼 거대 하이에나떼:새끼 거대 하이에나]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:monitor lizard hatchling:monitor lizard hatchlings]', '[GENERAL_CHILD_NAME:새끼 왕도마뱀:새끼 왕도마뱀들:새끼 왕도마뱀]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:giant ocelot kitten:giant ocelot kittens]', '[GENERAL_CHILD_NAME:새끼 거대 오셀롯:새끼 거대 오셀롯들:새끼 거대 오셀롯]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:giant sloth bear cub:giant sloth bear cubs]', '[GENERAL_CHILD_NAME:새끼 거대 느림보곰:새끼 거대 느림보곰들:새끼 거대 느림보곰]'
+Error: Tag parts count mismatch
+Tag pair: '[GENERAL_CHILD_NAME:giant tapir calf:giant tapir calves]', '[GENERAL_CHILD_NAME:새끼 거대 맥:새끼 거대 맥들'
+Error: Wrong tag translation format
+Tag pair: '[GENERAL_CHILD_NAME:giant stoat kit:giant stoat kits]', '[GENERAL_CHILD_NAME:새끼 거대 북방족제비:새끼 거대 북방족제비들'
+Error: Wrong tag translation format
+Tag pair: '[NAME:war hammer:war hammers]', '[NAME:전투망치:전투망치들'
+Error: Wrong tag translation format
+Tag pair: '[IS_GEM:milk quartz:milk quartzes:]', '[IS_GEM:우유석영:우유석영들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:rice:rice:]', '[SEED:볍 씨:볍 씨]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:foxtail millet:foxtail millet:]', '[SEED:조:]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:bitter melon seed:bitter melon seeds:]', '[SEED:여주 씨:여주 씨들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:carrot seed:carrot seeds:]', '[SEED:당근 씨:당근 씨들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:cucumber seed:cucumber seeds:]', '[SEED:오이 씨:오이 씨들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:horned melon seed:horned melon seeds:]', '[SEED:키와노 씨:키와노 씨들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:muskmelon seed:muskmelon seeds:]', '[SEED:메론 씨:메론 씨들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:onion seed:onion seeds:]', '[SEED:양파 씨:양파 씨들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:potato seed:potato seeds:]', '[SEED:감자 씨:감자 씨들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:red bean:red beans:]', '[SEED:팥:팥들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:spinach seed:spinach seeds:]', '[SEED:시금치 씨:시금치 씨들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:sweet potato seed:sweet potato seeds:]', '[SEED:고구마 씨:고구마 씨들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:winter melon seed:winter melon seeds:]', '[SEED:겨울호박 씨:겨울호박 씨들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:passion fruit seed:passion fruit seeds:]', '[SEED:패션후르츠 씨:패션후르츠 씨들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:grape seed:grape seeds:]', '[SEED:포도 씨:포도 씨들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:blueberry seed:blueberry seeds:]', '[SEED:블루베리 씨앗:블루베리 씨앗들]'
+Error: Tag parts count mismatch
+Tag pair: '[NAME_PLURAL:blackberry bushes]', '[NAME_PLURAL:블랙베리 덤불들'
+Error: Wrong tag translation format
+Tag pair: '[SEED:banana seed:banana seeds:]', '[SEED:바나나 씨:바나나 씨들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:strawberry seed:strawberry seeds:]', '[SEED:딸기 씨앗:딸기 씨앗들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:sun berry seed:sun berry seeds:]', '[SEED:선베리 씨앗:선베리 씨앗들]'
+Error: Tag parts count mismatch
+Tag pair: '[SEED:whip vine seed:whip vine seeds:]', '[SEED:채찍 넝쿨 씨:채찍 넝쿨 씨들]'
+Error: Tag parts count mismatch
+Tag pair: '[PRODUCT:100:1:BLOCKS:NONE:GET_MATERIAL_FROM_REAGENT:clay:]', '[PRODUCT:100:1:BLOCKS:NONE:GET_MATERIAL_FROM_REAGENT:점토]'
+Error: Tag parts count mismatch
+Tag pair: '[PRODUCT:100:1:STATUE:NONE:GET_MATERIAL_FROM_REAGENT:clay:]', '[PRODUCT:100:1:STATUE:NONE:GET_MATERIAL_FROM_REAGENT:점토]'
+Error: Tag parts count mismatch
