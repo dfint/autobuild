@@ -70,6 +70,9 @@ async def process(language: LanguageInfo, config: Config):
     with errors_file_path.open("w", encoding="utf-8") as errors_file:
         csv_with_objects_data = await convert_objects(po_data, errors_file)
 
+    if errors_file_path.stat().st_size == 0:
+        errors_file_path.unlink()
+
     file_path = csv_with_objects_directory / "dfint_dictionary.csv"
     async with aiofiles.open(file_path, "wb") as csv_file:
         await csv_file.write(codecs.encode(csv_data, encoding=language.encoding))
