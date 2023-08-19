@@ -1,31 +1,3 @@
-Tag pair: '[BP:LTC:left tentacle club:STP]', '[BP:RTC:Ліве бойове щупальце:STP]'
-Error: Part 'LTC' should not be translated
-Tag pair: '[BP:L_UB_PINCER:left pincer:STP]', '[BP:R_UB_PINCER:ліва клешня:ліві клешні]'
-Error: Part 'L_UB_PINCER' should not be translated
-Tag pair: '[BP:L_UB_PINCER:left pincer:STP]', '[BP:R_UB_PINCER:ліва клешня:ліві клешні]'
-Error: Part 'L_UB_PINCER' should not be translated
-Tag pair: '[CHILDNAME:bull calf:bull calves]', '[GENERAL_CHILD_NAME:бичок:бички]'
-Error: First part of a tag should not be translated
-Tag pair: '[ADJECTIVE:short]', '[ADJECTIVE:коротка:короткі]'
-Error: Tag parts count mismatch
-Tag pair: '[ADJECTIVE:long]', '[ADJECTIVE:довга:довгі]'
-Error: Tag parts count mismatch
-Tag pair: '[STATE_NAME:ALL_SOLID:stone]', '[STATE_NAME:ALL_SOLID:камінь:камені]'
-Error: Tag parts count mismatch
-Tag pair: '[STATE_ADJ:GAS:boiling magma]', '[STATE_NAME:GAS:з киплячої магми]'
-Error: First part of a tag should not be translated
-Tag pair: '[STATE_NAME:ALL_SOLID:metal]', '[STATE_NAME:ALL_SOLID:метал:метали]'
-Error: Tag parts count mismatch
-Tag pair: '[STATE_NAME:LIQUID:molten metal]', '[STATE_NAME:LIQUID:розплавлений метал:розплавлені метали]'
-Error: Tag parts count mismatch
-Tag pair: '[STATE_NAME:GAS:boiling metal]', '[STATE_NAME:GAS:киплячий метал:киплячі метали]'
-Error: Tag parts count mismatch
-Tag pair: '[STATE_NAME:ALL_SOLID:wood]', '[STATE_NAME:ALL_SOLID:дерево:дерева]'
-Error: Tag parts count mismatch
-Tag pair: '[STATE_NAME:ALL_SOLID:fat]', '[STATE_NAME:ALL_SOLID:жир:жири]'
-Error: Tag parts count mismatch
-Tag pair: '[STATE_NAME:LIQUID:grease]', '[STATE_NAME:LIQUID:мастило:мастила]'
-Error: Tag parts count mismatch
 Tag pair: '[STATE_NAME:ALL_SOLID:muscle]', "[STATE_NAME:ALL_SOLID:м'яз:м'язи]"
 Error: Tag parts count mismatch
 Tag pair: '[STATE_NAME:ALL_SOLID:sinew]', '[STATE_NAME:ALL_SOLID:сухожилля:сухожилля]'
@@ -36,8 +8,6 @@ Tag pair: '[STATE_NAME:POWDER:bone meal]', '[STATE_NAME:POWDER:кісткове 
 Error: Tag parts count mismatch
 Tag pair: '[STATE_NAME:ALL_SOLID:cartilage]', '[STATE_NAME:ALL_SOLID:хрящ:хрящі]'
 Error: Tag parts count mismatch
-Tag pair: '[STATE_ADJ:GAS:boiling magma]', '[STATE_NAME:GAS:з киплячої магми]'
-Error: First part of a tag should not be translated
 Tag pair: '[STATE_NAME:LIQUID:egg yolk]', '[STATE_NAME:LIQUID:яєчний жовток:яєчні жовтки]'
 Error: Tag parts count mismatch
 Tag pair: '[STATE_NAME:LIQUID:vegetable oil]', '[STATE_NAME:LIQUID:олія:олії]'
