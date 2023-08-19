@@ -10,7 +10,7 @@ python = "^3.10"
 typer = "^0.9.0"
 loguru = "^0.7.0"
 pydantic = "^2.0"
-df-gettext-toolkit = {url = "https://github.com/dfint/df-gettext-toolkit/releases/download/0.6.1/df_gettext_toolkit-0.6.1-py3-none-any.whl"}
+df-gettext-toolkit = {url = "https://github.com/dfint/df-gettext-toolkit/releases/download/0.6.2/df_gettext_toolkit-0.6.2-py3-none-any.whl"}
 strictyaml = "^1.7.3"
 viscii-codec = {url = "https://github.com/dfint/viscii_codec/releases/download/0.1.0/viscii_codec-0.1.0-py3-none-any.whl"}
 aiofiles = "^23.1.0"

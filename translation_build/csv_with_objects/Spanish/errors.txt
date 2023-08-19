@@ -1,276 +1,276 @@
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:RUA2:segundo brazo izquierdo:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LUA2' should not be translated
-Tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RUA2:segundo antebrazo derecho:STP]'
+Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:RUA2:segundo brazo izquierdo:STP]'
 Error: Part 'RLA2' should not be translated
-Tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:RUA2:segundo antebrazo izquierdo:STP]'
+Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RUA2:segundo antebrazo derecho:STP]'
 Error: Part 'LLA2' should not be translated
-Tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:RUA2:segundo brazo izquierdo:STP]'
+Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:RUA2:segundo antebrazo izquierdo:STP]'
 Error: Part 'LUA2' should not be translated
-Tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RUA2:segundo antebrazo derecho:STP]'
+Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:RUA2:segundo brazo izquierdo:STP]'
 Error: Part 'RLA2' should not be translated
-Tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:RUA2:segundo antebrazo izquierdo:STP]'
+Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RUA2:segundo antebrazo derecho:STP]'
 Error: Part 'LLA2' should not be translated
-Tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:RUA2:segundo brazo izquierdo:STP]'
+Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:RUA2:segundo antebrazo izquierdo:STP]'
 Error: Part 'LUA2' should not be translated
-Tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RUA2:segundo antebrazo derecho:STP]'
+Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:RUA2:segundo brazo izquierdo:STP]'
 Error: Part 'RLA2' should not be translated
-Tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:RUA2:segundo antebrazo izquierdo:STP]'
+Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RUA2:segundo antebrazo derecho:STP]'
 Error: Part 'LLA2' should not be translated
-Tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:RUA2:segundo brazo izquierdo:STP]'
+Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:RUA2:segundo antebrazo izquierdo:STP]'
 Error: Part 'LUA2' should not be translated
-Tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RUA2:segundo antebrazo derecho:STP]'
+Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:RUA2:segundo brazo izquierdo:STP]'
 Error: Part 'RLA2' should not be translated
-Tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:RUA2:segundo antebrazo izquierdo:STP]'
+Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RUA2:segundo antebrazo derecho:STP]'
 Error: Part 'LLA2' should not be translated
-Tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:RUA2:segundo brazo izquierdo:STP]'
+Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:RUA2:segundo antebrazo izquierdo:STP]'
 Error: Part 'LUA2' should not be translated
-Tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RUA2:segundo antebrazo derecho:STP]'
+Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:RUA2:segundo brazo izquierdo:STP]'
 Error: Part 'RLA2' should not be translated
-Tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:RUA2:segundo antebrazo izquierdo:STP]'
+Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RUA2:segundo antebrazo derecho:STP]'
 Error: Part 'LLA2' should not be translated
-Tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:RUA2:segundo brazo izquierdo:STP]'
+Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:RUA2:segundo antebrazo izquierdo:STP]'
 Error: Part 'LUA2' should not be translated
-Tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RUA2:segundo antebrazo derecho:STP]'
+Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:RUA2:segundo brazo izquierdo:STP]'
 Error: Part 'RLA2' should not be translated
-Tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:RUA2:segundo antebrazo izquierdo:STP]'
+Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RUA2:segundo antebrazo derecho:STP]'
 Error: Part 'LLA2' should not be translated
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
+Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:RUA2:segundo antebrazo izquierdo:STP]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Wrong tag translation format
-Tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
+Problematic tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
 Error: Wrong tag translation format
-Tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
+Problematic tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
 Error: Wrong tag translation format
-Tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
+Problematic tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
 Error: Wrong tag translation format
-Tag pair: '[BP:ARM2:second arm:STP]', '[BP:ARM2:segundo brazo:STP]\n\n\nNo hay instrucciones aún.'
+Problematic tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
 Error: Wrong tag translation format
-Tag pair: '[BP:ARM7:seventh arm:STP]', '[BP:ARM7:séptimo brazo:STP]\n\n\nNo hay instrucciones aún.'
+Problematic tag pair: '[BP:ARM2:second arm:STP]', '[BP:ARM2:segundo brazo:STP]\n\n\nNo hay instrucciones aún.'
 Error: Wrong tag translation format
-Tag pair: '[BP:LTC:left tentacle club:STP]', '[BP:RTC:gancho de tentáculo izquierdo:STP]'
+Problematic tag pair: '[BP:ARM7:seventh arm:STP]', '[BP:ARM7:séptimo brazo:STP]\n\n\nNo hay instrucciones aún.'
 Error: Part 'LTC' should not be translated
-Tag pair: '[BP:LMTC:left middle claw:STP]', '[BP:RMTC:garra central izquierda:STP]'
+Problematic tag pair: '[BP:LTC:left tentacle club:STP]', '[BP:RTC:gancho de tentáculo izquierdo:STP]'
 Error: Part 'LMTC' should not be translated
-Tag pair: '[BP:HUMP2:rear hump:STP]', '[BP:HUMP1:joroba posterior:STP]'
+Problematic tag pair: '[BP:LMTC:left middle claw:STP]', '[BP:RMTC:garra central izquierda:STP]'
 Error: Part 'HUMP2' should not be translated
-Tag pair: '[BP:L_F_TOOTH:lower front tooth:lower front teeth]', '[BP:U_F_TOOTH:diente frontal inferior:dientes frontales inferiores]'
+Problematic tag pair: '[BP:HUMP2:rear hump:STP]', '[BP:HUMP1:joroba posterior:STP]'
 Error: Part 'L_F_TOOTH' should not be translated
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
+Problematic tag pair: '[BP:L_F_TOOTH:lower front tooth:lower front teeth]', '[BP:U_F_TOOTH:diente frontal inferior:dientes frontales inferiores]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
-Tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Wrong tag translation format
-Tag pair: '[CV_NEW_TAG:CDI:ADV_NAME:Pet animal]', 'CDI:ADV_NOMBRE:Animal mascota]'
+Problematic tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
 Error: Wrong tag translation format
-Tag pair: '[CV_NEW_TAG:CDI:VERB:pet:pets:pets]', 'CDI:VERBO:mascota:mascotas:mascotas]'
+Problematic tag pair: '[CV_NEW_TAG:CDI:ADV_NAME:Pet animal]', 'CDI:ADV_NOMBRE:Animal mascota]'
 Error: Wrong tag translation format
-Tag pair: '[CV_NEW_TAG:GAIT:CLIMB:Scramble:]', '[CV_NEW_TAG:GAIT:TREPAR:Trepar arrastrándose:]'
+Problematic tag pair: '[CV_NEW_TAG:CDI:VERB:pet:pets:pets]', 'CDI:VERBO:mascota:mascotas:mascotas]'
 Error: Part 'CLIMB' should not be translated
-Tag pair: '[CV_NEW_TAG:GAIT:CLIMB:Faster Climb:]', '[CV_NEW_TAG:GAIT:TREPAR:Trepar más Rápido:]'
+Problematic tag pair: '[CV_NEW_TAG:GAIT:CLIMB:Scramble:]', '[CV_NEW_TAG:GAIT:TREPAR:Trepar arrastrándose:]'
 Error: Part 'CLIMB' should not be translated
-Tag pair: '[CV_NEW_TAG:GAIT:CLIMB:Fast Climb:]', '[CV_NEW_TAG:GAIT:TREPAR:Trepar Rápido:]'
+Problematic tag pair: '[CV_NEW_TAG:GAIT:CLIMB:Faster Climb:]', '[CV_NEW_TAG:GAIT:TREPAR:Trepar más Rápido:]'
 Error: Part 'CLIMB' should not be translated
-Tag pair: '[CV_NEW_TAG:GAIT:CLIMB:Slow Climb:]', '[CV_NEW_TAG:GAIT:TREPAR:Trepar Despacio:]'
+Problematic tag pair: '[CV_NEW_TAG:GAIT:CLIMB:Fast Climb:]', '[CV_NEW_TAG:GAIT:TREPAR:Trepar Rápido:]'
 Error: Part 'CLIMB' should not be translated
-Tag pair: '[CV_NEW_TAG:GAIT:CLIMB:Creep:]', '[CV_NEW_TAG:GAIT:TREPAR:Arrastrarse:]'
+Problematic tag pair: '[CV_NEW_TAG:GAIT:CLIMB:Slow Climb:]', '[CV_NEW_TAG:GAIT:TREPAR:Trepar Despacio:]'
 Error: Part 'CLIMB' should not be translated
-Tag pair: '[CV_NEW_TAG:GAIT:CRAWL:Scramble:]', '[CV_NEW_TAG:GAIT:GATEAR:Trepar gateando:]'
+Problematic tag pair: '[CV_NEW_TAG:GAIT:CLIMB:Creep:]', '[CV_NEW_TAG:GAIT:TREPAR:Arrastrarse:]'
 Error: Part 'CRAWL' should not be translated
-Tag pair: '[CV_NEW_TAG:GAIT:CRAWL:Faster Crawl:]', '[CV_NEW_TAG:GAIT:GATEAR:Gatear más Rápido:]'
+Problematic tag pair: '[CV_NEW_TAG:GAIT:CRAWL:Scramble:]', '[CV_NEW_TAG:GAIT:GATEAR:Trepar gateando:]'
 Error: Part 'CRAWL' should not be translated
-Tag pair: '[CV_NEW_TAG:GAIT:CRAWL:Fast Crawl:]', '[CV_NEW_TAG:GAIT:GATEAR:Gatear Rápido:]'
+Problematic tag pair: '[CV_NEW_TAG:GAIT:CRAWL:Faster Crawl:]', '[CV_NEW_TAG:GAIT:GATEAR:Gatear más Rápido:]'
 Error: Part 'CRAWL' should not be translated
-Tag pair: '[CV_NEW_TAG:GAIT:CRAWL:Slow Crawl:]', '[CV_NEW_TAG:GAIT:GATEAR:Gatear Despacio:]'
+Problematic tag pair: '[CV_NEW_TAG:GAIT:CRAWL:Fast Crawl:]', '[CV_NEW_TAG:GAIT:GATEAR:Gatear Rápido:]'
 Error: Part 'CRAWL' should not be translated
-Tag pair: '[CV_NEW_TAG:GAIT:FLY:Hover:]', '[CV_NEW_TAG:GAIT:VOLAR:Flotar:]'
+Problematic tag pair: '[CV_NEW_TAG:GAIT:CRAWL:Slow Crawl:]', '[CV_NEW_TAG:GAIT:GATEAR:Gatear Despacio:]'
 Error: Part 'FLY' should not be translated
-Tag pair: '[GENERAL_CHILD_NAME:giant bluejay hatchling:giant bluejay hatchlings]', '[GENERAL_CHILD_NAME:cria de urraca azul gigante:crias de urraca azul gigante:cria de urraca azul gigante]'
+Problematic tag pair: '[CV_NEW_TAG:GAIT:FLY:Hover:]', '[CV_NEW_TAG:GAIT:VOLAR:Flotar:]'
 Error: Tag parts count mismatch
-Tag pair: '[GENERAL_CHILD_NAME:penguin chick:penguin chicks]', '[GENERAL_CHILD_NAME:cría de pingüino:crías de pingüinos:cría de pingüino]'
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant bluejay hatchling:giant bluejay hatchlings]', '[GENERAL_CHILD_NAME:cria de urraca azul gigante:crias de urraca azul gigante:cria de urraca azul gigante]'
 Error: Tag parts count mismatch
-Tag pair: '[CASTE_NAME:raven:ravens:raven]', '[NAME:cuervo:cuervos:de cuervo]'
-Error: First part of a tag should not be translated
-Tag pair: '[CASTE_NAME:brown recluse spider man:brown recluse spider men:brown recluse spider man]', '[CASTE_NAME::hombre araña reclusa parda:hombres araña reclusa parda:de hombre araña reclusa parda]'
+Problematic tag pair: '[GENERAL_CHILD_NAME:penguin chick:penguin chicks]', '[GENERAL_CHILD_NAME:cría de pingüino:crías de pingüinos:cría de pingüino]'
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:raven:ravens:raven]', '[NAME:cuervo:cuervos:de cuervo]'
 Error: Tag parts count mismatch
-Tag pair: '[DESCRIPTION:A person with the head and fingers of a gecko.]', '[DESCRIPTION::Una persona con la cabeza y los dedos de un geco.]'
+Problematic tag pair: '[CASTE_NAME:brown recluse spider man:brown recluse spider men:brown recluse spider man]', '[CASTE_NAME::hombre araña reclusa parda:hombres araña reclusa parda:de hombre araña reclusa parda]'
 Error: Tag parts count mismatch
-Tag pair: '[STATE_NAME:SOLID:donkey cheese]', '[STATE_NAME:SOLID:donkey cheese] '
+Problematic tag pair: '[DESCRIPTION:A person with the head and fingers of a gecko.]', '[DESCRIPTION::Una persona con la cabeza y los dedos de un geco.]'
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[STATE_NAME:SOLID:donkey cheese]', '[STATE_NAME:SOLID:donkey cheese] '
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[DESCRIPTION:A small lagomorph with long ears.  It has powerful hind legs which it uses to swiftly avoid predators.  It can be found anywhere from forests to deserts.]', ' [DESCRIPTION:Un pequeño lagomorfo con orejas largas. Tiene poderosas patas traseras las cuales usa para evitar los depredadores con rapidez. Se puede encontrar en cualquier lugar; desde bosques hasta desiertos.]'
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[NAME:dragonfly:dragonflies:dragonfly]', ' [NAME:libélula:libélulas:de libélula]'
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[NAME:dragonfly man:dragonfly men:dragonfly man]', ' [NAME:hombre libélula:hombres libélula:de hombre libélula]'
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[NAME:giant dragonfly:giant dragonflies:giant dragonfly]', ' [NAME:libélula gigante:libélulas gigantes:de libélula gigante]'
+Error: Tag parts count mismatch
+Problematic tag pair: '[GENERAL_CHILD_NAME:mountain goat kid:mountain goat kids]', '[GENERAL_CHILD_NAME:cabrito montes:cabritos montes:de cabrito montes]'
+Error: Tag parts count mismatch
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant mountain goat kid:giant mountain goat kids]', '[GENERAL_CHILD_NAME:cabrito montes gigante:cabrito montes gigantes:de cabrito montes gigante]'
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:great barracuda:great barracudas:great barracuda]', '[GENERAL_CHILD_NAME:Gran barracuda:Grandes barracudas:Gran barracuda]'
+Error: Tag parts count mismatch
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant raccoon pup:giant raccoon pups]', '[GENERAL_CHILD_NAME:cria de mapache gigante:crias de mapache gigante:cria de mapache gigante]'
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant badger boar:giant badger boars:giant badger boar]', '[NAME:tejón gigante:tejones gigantes:tejón gigantes]'
 Error: Wrong tag translation format
-Tag pair: '[DESCRIPTION:A small lagomorph with long ears.  It has powerful hind legs which it uses to swiftly avoid predators.  It can be found anywhere from forests to deserts.]', ' [DESCRIPTION:Un pequeño lagomorfo con orejas largas. Tiene poderosas patas traseras las cuales usa para evitar los depredadores con rapidez. Se puede encontrar en cualquier lugar; desde bosques hasta desiertos.]'
-Error: Wrong tag translation format
-Tag pair: '[NAME:dragonfly:dragonflies:dragonfly]', ' [NAME:libélula:libélulas:de libélula]'
-Error: Wrong tag translation format
-Tag pair: '[NAME:dragonfly man:dragonfly men:dragonfly man]', ' [NAME:hombre libélula:hombres libélula:de hombre libélula]'
-Error: Wrong tag translation format
-Tag pair: '[NAME:giant dragonfly:giant dragonflies:giant dragonfly]', ' [NAME:libélula gigante:libélulas gigantes:de libélula gigante]'
-Error: Wrong tag translation format
-Tag pair: '[GENERAL_CHILD_NAME:mountain goat kid:mountain goat kids]', '[GENERAL_CHILD_NAME:cabrito montes:cabritos montes:de cabrito montes]'
+Problematic tag pair: '[NAME:elephant:elephants:elephant]', 'elefante'
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:lion man:lion men:lion man]', '[CASTE_NAME:hombre león:hombres león:hombre león]'
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:jaguar man:jaguar men:jaguar man]', '[CASTE_NAME:hombre jaguar:hombres jaguar:hombre jaguar]'
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:white-handed gibbon:white-handed gibbons:white-handed gibbon]', '[NAME:Gibón blanco:Gibónes blancos:Gibón blanco]'
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:black-handed gibbon:black-handed gibbons:black-handed gibbon]', '[NAME:Gibón negro:Gibónes negros:Gibón negro]'
 Error: Tag parts count mismatch
-Tag pair: '[GENERAL_CHILD_NAME:giant mountain goat kid:giant mountain goat kids]', '[GENERAL_CHILD_NAME:cabrito montes gigante:cabrito montes gigantes:de cabrito montes gigante]'
-Error: Tag parts count mismatch
-Tag pair: '[CASTE_NAME:great barracuda:great barracudas:great barracuda]', '[GENERAL_CHILD_NAME:Gran barracuda:Grandes barracudas:Gran barracuda]'
-Error: First part of a tag should not be translated
-Tag pair: '[GENERAL_CHILD_NAME:giant raccoon pup:giant raccoon pups]', '[GENERAL_CHILD_NAME:cria de mapache gigante:crias de mapache gigante:cria de mapache gigante]'
-Error: Tag parts count mismatch
-Tag pair: '[CASTE_NAME:giant badger boar:giant badger boars:giant badger boar]', '[NAME:tejón gigante:tejones gigantes:tejón gigantes]'
-Error: First part of a tag should not be translated
-Tag pair: '[NAME:elephant:elephants:elephant]', 'elefante'
-Error: Wrong tag translation format
-Tag pair: '[NAME:lion man:lion men:lion man]', '[CASTE_NAME:hombre león:hombres león:hombre león]'
-Error: First part of a tag should not be translated
-Tag pair: '[NAME:jaguar man:jaguar men:jaguar man]', '[CASTE_NAME:hombre jaguar:hombres jaguar:hombre jaguar]'
-Error: First part of a tag should not be translated
-Tag pair: '[CASTE_NAME:white-handed gibbon:white-handed gibbons:white-handed gibbon]', '[NAME:Gibón blanco:Gibónes blancos:Gibón blanco]'
-Error: First part of a tag should not be translated
-Tag pair: '[CASTE_NAME:black-handed gibbon:black-handed gibbons:black-handed gibbon]', '[NAME:Gibón negro:Gibónes negros:Gibón negro]'
-Error: First part of a tag should not be translated
-Tag pair: '[GENERAL_CHILD_NAME:giant giraffe calf:giant giraffe calves]', '[GENERAL_CHILD_NAME:Jirafa gigante: jirafas gigantes: jirafa gigante]'
-Error: Tag parts count mismatch
-Tag pair: '[CASTE_NAME:bugbat:bugbats:bugbat]', '[CASTE_NAME:bugbat:bugbats:]'
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant giraffe calf:giant giraffe calves]', '[GENERAL_CHILD_NAME:Jirafa gigante: jirafas gigantes: jirafa gigante]'
 Error: Translation should not be empty
-Tag pair: '[GENERAL_CHILD_NAME:blind cave bear cub:blind cave bear cubs]', '[GENERAL_CHILD_NAME:oso ciego de cueva:osos ciegos de cueva:oso ciego de cueva]'
+Problematic tag pair: '[CASTE_NAME:bugbat:bugbats:bugbat]', '[CASTE_NAME:bugbat:bugbats:]'
 Error: Tag parts count mismatch
-Tag pair: '[STATE_ADJ:ALL_SOLID:plump helmet man tissue]', '[STATE_NAME:ALL_SOLID:tejido de hombre-galerina]'
-Error: First part of a tag should not be translated
-Tag pair: '[STATE_NAME:LIQUID:melted plump helmet man tissue]', '[STATE_NAME:ALL_SOLID:tejido de hombre-galerina derretido]'
+Problematic tag pair: '[GENERAL_CHILD_NAME:blind cave bear cub:blind cave bear cubs]', '[GENERAL_CHILD_NAME:oso ciego de cueva:osos ciegos de cueva:oso ciego de cueva]'
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:plump helmet man tissue]', '[STATE_NAME:ALL_SOLID:tejido de hombre-galerina]'
 Error: Part 'LIQUID' should not be translated
-Tag pair: '[STATE_NAME:ALL_SOLID:frozen octopus ink]', '[STATE_NAME:TODO_SÓLIDO: tinta de pulpo congelado]'
+Problematic tag pair: '[STATE_NAME:LIQUID:melted plump helmet man tissue]', '[STATE_NAME:ALL_SOLID:tejido de hombre-galerina derretido]'
 Error: Part 'ALL_SOLID' should not be translated
-Tag pair: '[STATE_ADJ:ALL_SOLID:frozen octopus ink]', '[STATE_ADJ:TODO_SÓLIDO: tinta de pulpo congelado]'
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen octopus ink]', '[STATE_NAME:TODO_SÓLIDO: tinta de pulpo congelado]'
 Error: Part 'ALL_SOLID' should not be translated
-Tag pair: '[STATE_NAME:LIQUID:octopus ink]', '[STATE_NAME:LÍQUIDO: tinta de pulpo]'
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen octopus ink]', '[STATE_ADJ:TODO_SÓLIDO: tinta de pulpo congelado]'
 Error: Part 'LIQUID' should not be translated
-Tag pair: '[STATE_ADJ:LIQUID:octopus ink]', '[STATE_ADJ:LÍQUIDO: tinta de pulpo]'
+Problematic tag pair: '[STATE_NAME:LIQUID:octopus ink]', '[STATE_NAME:LÍQUIDO: tinta de pulpo]'
 Error: Part 'LIQUID' should not be translated
-Tag pair: '[CASTE_NAME:crab woman:crab women:crab woman]', '[CASTE:NAME:mujer cangrejo:mujeres cangrejo:mujer cangrejo]'
-Error: First part of a tag should not be translated
-Tag pair: '[STATE_NAME:ALL_SOLID:frozen cuttlefish ink]', '[STATE_NAME:TODO_SOLIDO:tinta de sepia helada]'
-Error: Part 'ALL_SOLID' should not be translated
-Tag pair: '[STATE_ADJ:ALL_SOLID:frozen cuttlefish ink]', '[STATE_ADJ:TODO_SOLIDO:tinta de sepia helada]'
-Error: Part 'ALL_SOLID' should not be translated
-Tag pair: '[STATE_NAME:LIQUID:cuttlefish ink]', '[STATE_NAME:LÍQUIDO:tinta de sepia]'
-Error: Part 'LIQUID' should not be translated
-Tag pair: '[STATE_ADJ:LIQUID:cuttlefish ink]', '[STATE_ADJ:LÍQUIDO:tinta de sepia]'
-Error: Part 'LIQUID' should not be translated
-Tag pair: '[CASTE_NAME:sperm whale man:sperm whale men:sperm whale man]', '[CASTE_NAME:hombre cachalote:hombres cachalotes]'
+Problematic tag pair: '[STATE_ADJ:LIQUID:octopus ink]', '[STATE_ADJ:LÍQUIDO: tinta de pulpo]'
 Error: Tag parts count mismatch
-Tag pair: '[NAME:sperm whale man:sperm whale men:sperm whale man]', '[NAME:hombre cachalote:hombres cachalotes]'
+Problematic tag pair: '[CASTE_NAME:crab woman:crab women:crab woman]', '[CASTE:NAME:mujer cangrejo:mujeres cangrejo:mujer cangrejo]'
+Error: Part 'ALL_SOLID' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen cuttlefish ink]', '[STATE_NAME:TODO_SOLIDO:tinta de sepia helada]'
+Error: Part 'ALL_SOLID' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen cuttlefish ink]', '[STATE_ADJ:TODO_SOLIDO:tinta de sepia helada]'
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:cuttlefish ink]', '[STATE_NAME:LÍQUIDO:tinta de sepia]'
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:cuttlefish ink]', '[STATE_ADJ:LÍQUIDO:tinta de sepia]'
 Error: Tag parts count mismatch
-Tag pair: '[PREFSTRING:adorable pups]', '[PREFSTRING:cachorros adorables]\n\n\nNo hay instrucciones aún.'
+Problematic tag pair: '[CASTE_NAME:sperm whale man:sperm whale men:sperm whale man]', '[CASTE_NAME:hombre cachalote:hombres cachalotes]'
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:sperm whale man:sperm whale men:sperm whale man]', '[NAME:hombre cachalote:hombres cachalotes]'
 Error: Wrong tag translation format
-Tag pair: '[PREFSTRING:adorable pups]', '[PREFSTRING:cachorros adorables]\n\n\nNo hay instrucciones aún.'
+Problematic tag pair: '[PREFSTRING:adorable pups]', '[PREFSTRING:cachorros adorables]\n\n\nNo hay instrucciones aún.'
 Error: Wrong tag translation format
-Tag pair: '[CASTE_NAME:axolotl woman:axolotl women:axolotl woman]', '[CASTE_NAME:mujer axolote:mujeres axolote::mujer axolote]'
+Problematic tag pair: '[PREFSTRING:adorable pups]', '[PREFSTRING:cachorros adorables]\n\n\nNo hay instrucciones aún.'
 Error: Tag parts count mismatch
-Tag pair: '[STATE_NAME:ALL_SOLID:frozen squid ink]', '[STATE_NAME:TODO_SOLIDO:tinta de calamar helada]'
+Problematic tag pair: '[CASTE_NAME:axolotl woman:axolotl women:axolotl woman]', '[CASTE_NAME:mujer axolote:mujeres axolote::mujer axolote]'
 Error: Part 'ALL_SOLID' should not be translated
-Tag pair: '[STATE_ADJ:ALL_SOLID:frozen squid ink]', '[STATE_ADJ:TODO_SOLIDO:tinta de calamar helada]'
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen squid ink]', '[STATE_NAME:TODO_SOLIDO:tinta de calamar helada]'
 Error: Part 'ALL_SOLID' should not be translated
-Tag pair: '[STATE_NAME:LIQUID:squid ink]', '[STATE_NAME:LIQUIDO:tinta de calamar]'
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen squid ink]', '[STATE_ADJ:TODO_SOLIDO:tinta de calamar helada]'
 Error: Part 'LIQUID' should not be translated
-Tag pair: '[STATE_ADJ:LIQUID:squid ink]', '[STATE_ADJ:LIQUIDO:tinta de calamar]'
+Problematic tag pair: '[STATE_NAME:LIQUID:squid ink]', '[STATE_NAME:LIQUIDO:tinta de calamar]'
 Error: Part 'LIQUID' should not be translated
-Tag pair: '[NAME:squid man:squid men:squid man]', '[NAME:mujer calamar::mujeres calamar::mujere calamar]'
+Problematic tag pair: '[STATE_ADJ:LIQUID:squid ink]', '[STATE_ADJ:LIQUIDO:tinta de calamar]'
 Error: Tag parts count mismatch
-Tag pair: '[PROFESSION_NAME:AXEMAN:axedwarf:axedwarves]', '[PROFESSION_NAME:HOMBRE DE HACHAS:enano hachero:enanos hacheros]'
+Problematic tag pair: '[NAME:squid man:squid men:squid man]', '[NAME:mujer calamar::mujeres calamar::mujere calamar]'
 Error: Part 'AXEMAN' should not be translated
-Tag pair: '[PROFESSION_NAME:MASTER_CROSSBOWMAN:Elite Marksdwarf:Elite Marksdwarves]', '[PROFESSION_NAME:MASTER_CROSSBOWMAN::enano ballestero de élite:enanos ballesteros de élite]'
+Problematic tag pair: '[PROFESSION_NAME:AXEMAN:axedwarf:axedwarves]', '[PROFESSION_NAME:HOMBRE DE HACHAS:enano hachero:enanos hacheros]'
 Error: Tag parts count mismatch
-Tag pair: '[MANNERISM_TONGUE:tongue]', '[MANNERISM_LEG:lengua]'
-Error: First part of a tag should not be translated
-Tag pair: '[MANNERISM_TONGUE:tongue]', '[MANNERISM_LEG:lengua]'
-Error: First part of a tag should not be translated
-Tag pair: '[MANNERISM_TONGUE:tongue]', '[MANNERISM_LEG:lengua]'
-Error: First part of a tag should not be translated
-Tag pair: '[MANNERISM_TONGUE:tongue]', '[MANNERISM_LEG:lengua]'
-Error: First part of a tag should not be translated
-Tag pair: '[MANNERISM_TONGUE:tongue]', '[MANNERISM_LEG:lengua]'
-Error: First part of a tag should not be translated
-Tag pair: '[DESCRIPTION:A giant humanoid monster found stomping about in the evil plains.  Their low howls can be heard long before they are seen.]', '[DESCRIPTION:Un gigantesco monstruo humanoide, visto caminando en las llanuras malignas. Sus graves aullidos pueden escucharse mucho antes de ser vistos.] '
-Error: Wrong tag translation format
-Tag pair: '[DESCRIPTION:A man-shaped creature with the legs of a goat and the empty-eyed skull of a goat.]', '[DESCRIPTION:Una criatura antropomorfa con las piernas de una cabra y el craneo de ojos vacíos de una cabra.] '
-Error: Wrong tag translation format
-Tag pair: '[CASTE_NAME:olm:olms:olm]', '[CASTE_NAME:]'
+Problematic tag pair: '[PROFESSION_NAME:MASTER_CROSSBOWMAN:Elite Marksdwarf:Elite Marksdwarves]', '[PROFESSION_NAME:MASTER_CROSSBOWMAN::enano ballestero de élite:enanos ballesteros de élite]'
+Error: Part 'MANNERISM_TONGUE' should not be translated
+Problematic tag pair: '[MANNERISM_TONGUE:tongue]', '[MANNERISM_LEG:lengua]'
+Error: Part 'MANNERISM_TONGUE' should not be translated
+Problematic tag pair: '[MANNERISM_TONGUE:tongue]', '[MANNERISM_LEG:lengua]'
+Error: Part 'MANNERISM_TONGUE' should not be translated
+Problematic tag pair: '[MANNERISM_TONGUE:tongue]', '[MANNERISM_LEG:lengua]'
+Error: Part 'MANNERISM_TONGUE' should not be translated
+Problematic tag pair: '[MANNERISM_TONGUE:tongue]', '[MANNERISM_LEG:lengua]'
+Error: Part 'MANNERISM_TONGUE' should not be translated
+Problematic tag pair: '[MANNERISM_TONGUE:tongue]', '[MANNERISM_LEG:lengua]'
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[DESCRIPTION:A giant humanoid monster found stomping about in the evil plains.  Their low howls can be heard long before they are seen.]', '[DESCRIPTION:Un gigantesco monstruo humanoide, visto caminando en las llanuras malignas. Sus graves aullidos pueden escucharse mucho antes de ser vistos.] '
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[DESCRIPTION:A man-shaped creature with the legs of a goat and the empty-eyed skull of a goat.]', '[DESCRIPTION:Una criatura antropomorfa con las piernas de una cabra y el craneo de ojos vacíos de una cabra.] '
 Error: Tag parts count mismatch
-Tag pair: '[GENERAL_CHILD_NAME:giant cave swallow hatchling:giant cave swallow hatchlings]', '[GENERAL_CHILD_NAME:polluelo de golondrina gigante de cueva:polluelos de golondrinas gigantes de cueva:polluelo golondrina gigante de cueva]'
+Problematic tag pair: '[CASTE_NAME:olm:olms:olm]', '[CASTE_NAME:]'
 Error: Tag parts count mismatch
-Tag pair: '[CASTE_NAME:drone ant man:drone ant men:drone ant man]', '[CASTE_NAME:hombre hormiga zángano:hombres hormiga zángano:de hombre hormiga zángano:]'
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant cave swallow hatchling:giant cave swallow hatchlings]', '[GENERAL_CHILD_NAME:polluelo de golondrina gigante de cueva:polluelos de golondrinas gigantes de cueva:polluelo golondrina gigante de cueva]'
 Error: Tag parts count mismatch
-Tag pair: '[NAME:kangaroo man:kangaroo men:kangaroo man]', '[NAME:]'
+Problematic tag pair: '[CASTE_NAME:drone ant man:drone ant men:drone ant man]', '[CASTE_NAME:hombre hormiga zángano:hombres hormiga zángano:de hombre hormiga zángano:]'
 Error: Tag parts count mismatch
-Tag pair: '[GENERAL_CHILD_NAME:giant echidna puggle:giant echidna puggles]', '[GENERAL_CHILD_NAME:cría de equidna gigante:crías de equidna gigante:cría de equidna gigante]'
+Problematic tag pair: '[NAME:kangaroo man:kangaroo men:kangaroo man]', '[NAME:]'
 Error: Tag parts count mismatch
-Tag pair: '[CASTE_NAME:giant kingsnake:giant kingsnakes:giant kingsnake]', '[CASTE:NAME:serpiente real gigante:serpientes reales gigantes:serpiente real gigante]'
-Error: First part of a tag should not be translated
-Tag pair: '[CASTE_NAME:bobcat woman:bobcat women:bobcat woman]', '[CASTE:NAME:mujer gato montés:mujeres gato montés:mujer gato montés]'
-Error: First part of a tag should not be translated
-Tag pair: '[GENERAL_CHILD_NAME:skunk kit:skunk kits]', '[GENERAL_CHILD_NAME:cría de mofeta:crías de mofeta:cría de mofeta]'
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant echidna puggle:giant echidna puggles]', '[GENERAL_CHILD_NAME:cría de equidna gigante:crías de equidna gigante:cría de equidna gigante]'
 Error: Tag parts count mismatch
-Tag pair: '[GENERAL_CHILD_NAME:baby opossum:baby opossums]', '[GENERAL_CHILD_NAME:zarigüeya bebe:zarigüeyas bebes:zarigüeya bebe]'
+Problematic tag pair: '[CASTE_NAME:giant kingsnake:giant kingsnakes:giant kingsnake]', '[CASTE:NAME:serpiente real gigante:serpientes reales gigantes:serpiente real gigante]'
 Error: Tag parts count mismatch
-Tag pair: '[GENERAL_CHILD_NAME:baby giant opossum:baby giant opossums]', '[GENERAL_CHILD_NAME:zarigüeya gigante bebe:zarigüeyas gigantes bebes:zarigüeya gigante bebe]'
+Problematic tag pair: '[CASTE_NAME:bobcat woman:bobcat women:bobcat woman]', '[CASTE:NAME:mujer gato montés:mujeres gato montés:mujer gato montés]'
 Error: Tag parts count mismatch
-Tag pair: '[CASTE_NAME:giant black mamba:giant black mambas:giant black mamba]', '[NAME:serpiente mamba negra gigante:serpientes mamba negra gigantes:serpiente mamba negra gigante]'
-Error: First part of a tag should not be translated
-Tag pair: '[GENERAL_CHILD_NAME:giant lynx cub:giant lynx cubs]', '[GENERAL_CHILD_NAME:cachorro de lince gigante:cachorros de linces gigantes:cachorro de lince gigante]'
+Problematic tag pair: '[GENERAL_CHILD_NAME:skunk kit:skunk kits]', '[GENERAL_CHILD_NAME:cría de mofeta:crías de mofeta:cría de mofeta]'
 Error: Tag parts count mismatch
-Tag pair: '[NAME:militia captain:militia captains]', '[NAME:capitán de la milicia:capitanes de la milicia] '
-Error: Wrong tag translation format
-Tag pair: '[STATE_ADJ:ALL_SOLID:metal]', '[STATE_NAME:ALL_SOLID:de metal]'
-Error: First part of a tag should not be translated
-Tag pair: '[STATE_ADJ:ALL_SOLID:wooden]', '[STATE_NAME:ALL_SOLID:de madera]'
-Error: First part of a tag should not be translated
-Tag pair: '[STATE_NAME:ALL_SOLID:plant powder]', '[STATE_NAME:SOLID_POWDER:polvo de planta]'
+Problematic tag pair: '[GENERAL_CHILD_NAME:baby opossum:baby opossums]', '[GENERAL_CHILD_NAME:zarigüeya bebe:zarigüeyas bebes:zarigüeya bebe]'
+Error: Tag parts count mismatch
+Problematic tag pair: '[GENERAL_CHILD_NAME:baby giant opossum:baby giant opossums]', '[GENERAL_CHILD_NAME:zarigüeya gigante bebe:zarigüeyas gigantes bebes:zarigüeya gigante bebe]'
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant black mamba:giant black mambas:giant black mamba]', '[NAME:serpiente mamba negra gigante:serpientes mamba negra gigantes:serpiente mamba negra gigante]'
+Error: Tag parts count mismatch
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant lynx cub:giant lynx cubs]', '[GENERAL_CHILD_NAME:cachorro de lince gigante:cachorros de linces gigantes:cachorro de lince gigante]'
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[NAME:militia captain:militia captains]', '[NAME:capitán de la milicia:capitanes de la milicia] '
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:metal]', '[STATE_NAME:ALL_SOLID:de metal]'
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:wooden]', '[STATE_NAME:ALL_SOLID:de madera]'
 Error: Part 'ALL_SOLID' should not be translated
-Tag pair: '[STATE_ADJ:ALL_SOLID:plant powder]', '[STATE_NAME:SOLID_POWDER:polvo de planta]'
-Error: First part of a tag should not be translated
-Tag pair: '[STATE_NAME:ALL_SOLID:frozen egg yolk]', '[STATE_ADJ:ALL_SOLID:yema congelada]'
-Error: First part of a tag should not be translated
-Tag pair: '[STATE_ADJ:LIQUID:egg yolk]', '[STATE_NAME:LIQUID:yema]'
-Error: First part of a tag should not be translated
-Tag pair: '[STATE_NAME_ADJ:SOLID_PASTE:hemp seed paste]', '[STATE_NAME_ADJ:ALL_SOLID: pasta de semilla de cáñamo]'
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:plant powder]', '[STATE_NAME:SOLID_POWDER:polvo de planta]'
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:plant powder]', '[STATE_NAME:SOLID_POWDER:polvo de planta]'
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen egg yolk]', '[STATE_ADJ:ALL_SOLID:yema congelada]'
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:egg yolk]', '[STATE_NAME:LIQUID:yema]'
 Error: Part 'SOLID_PASTE' should not be translated
-Tag pair: '[STATE_NAME_ADJ:SOLID_PASTE:cotton seed paste]', '[STATE_NAME_ADJ:ALL_SOLID: pasta de semilla de algodón]'
+Problematic tag pair: '[STATE_NAME_ADJ:SOLID_PASTE:hemp seed paste]', '[STATE_NAME_ADJ:ALL_SOLID: pasta de semilla de cáñamo]'
 Error: Part 'SOLID_PASTE' should not be translated
-Tag pair: '[STATE_ADJ:ALL_SOLID:almond wood]', '[STATE_ADJ:ALL_SOLID:de madera de almendro'
+Problematic tag pair: '[STATE_NAME_ADJ:SOLID_PASTE:cotton seed paste]', '[STATE_NAME_ADJ:ALL_SOLID: pasta de semilla de algodón]'
 Error: Wrong tag translation format
-Tag pair: '[STATE_NAME_ADJ:GAS:boiling plum wine]', '[STATE_NAME_ADJ:GASde :vino de ciruela hervido]'
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:almond wood]', '[STATE_ADJ:ALL_SOLID:de madera de almendro'
 Error: Part 'GAS' should not be translated
-Tag pair: '[SEED:plump helmet spawn:plump helmet spawn:]', '[SEED:semilla de galerina rollícea]'
+Problematic tag pair: '[STATE_NAME_ADJ:GAS:boiling plum wine]', '[STATE_NAME_ADJ:GASde :vino de ciruela hervido]'
 Error: Tag parts count mismatch
-Tag pair: '[STATE_NAME_ADJ:GAS:boiling fisher berry wine]', '[STATE_NAME_ADJ:GAS::de vino de baya del pescador hirviendo]'
+Problematic tag pair: '[SEED:plump helmet spawn:plump helmet spawn:]', '[SEED:semilla de galerina rollícea]'
 Error: Tag parts count mismatch
-Tag pair: '[SEED:rope reed seed:rope reed seeds:]', '[SEED:semilla de junco de cuerda:semillas de juncos de cuerda:SEED:]'
+Problematic tag pair: '[STATE_NAME_ADJ:GAS:boiling fisher berry wine]', '[STATE_NAME_ADJ:GAS::de vino de baya del pescador hirviendo]'
 Error: Tag parts count mismatch
-Tag pair: '[SEED:dimple cup spawn:dimple cup spawn:]', '[SEED:semilla de copica hoyuela:semillas de copica hoyuela]'
+Problematic tag pair: '[SEED:rope reed seed:rope reed seeds:]', '[SEED:semilla de junco de cuerda:semillas de juncos de cuerda:SEED:]'
 Error: Tag parts count mismatch
-Tag pair: '[SEED:candlenut:candlenuts:]', '[SEED:anacardo:anacardos]'
+Problematic tag pair: '[SEED:dimple cup spawn:dimple cup spawn:]', '[SEED:semilla de copica hoyuela:semillas de copica hoyuela]'
 Error: Tag parts count mismatch
-Tag pair: '[ADJ:cacao tree]', '[ADJ:de cacaotero'
+Problematic tag pair: '[SEED:candlenut:candlenuts:]', '[SEED:anacardo:anacardos]'
 Error: Wrong tag translation format
+Problematic tag pair: '[ADJ:cacao tree]', '[ADJ:de cacaotero'

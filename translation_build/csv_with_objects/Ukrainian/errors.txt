@@ -1,2 +1,2 @@
-Tag pair: '[PREFSTRING:taste]', 'PREFSTRING:смак]'
 Error: Wrong tag translation format
+Problematic tag pair: '[PREFSTRING:taste]', 'PREFSTRING:смак]'
