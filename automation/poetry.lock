@@ -347,12 +347,12 @@ files = [
 
 [[package]]
 name = "df-gettext-toolkit"
-version = "0.6.0"
+version = "0.6.1"
 description = "Toolset to convert text extracted from DF to gettext format and aback"
 optional = false
 python-versions = ">=3.10,<4.0"
 files = [
-    {file = "df_gettext_toolkit-0.6.0-py3-none-any.whl", hash = "sha256:729a062f44e007102e1fe6d9a56c0c7b963b86eadae5deaf11197586400dd0e6"},
+    {file = "df_gettext_toolkit-0.6.1-py3-none-any.whl", hash = "sha256:68e95d296e6ea9e93820d42efc779d2128d3e0ce417e20834436a5f5506b9933"},
 ]
 
 [package.dependencies]
@@ -366,7 +366,7 @@ Unidecode = ">=1.2.0,<2.0.0"
 
 [package.source]
 type = "url"
-url = "https://github.com/dfint/df-gettext-toolkit/releases/download/0.6.0/df_gettext_toolkit-0.6.0-py3-none-any.whl"
+url = "https://github.com/dfint/df-gettext-toolkit/releases/download/0.6.1/df_gettext_toolkit-0.6.1-py3-none-any.whl"
 
 [[package]]
 name = "idna"
@@ -944,4 +944,4 @@ dev = ["black (>=19.3b0)", "pytest (>=4.6.2)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "728a310740d2282b2fa5eac731fffb9c3f0cd2348eea0de8948adb8f704ede8e"
+content-hash = "87ec4b9a455b8027e45188ed4c5318305a43c9529f0459f5599b79f1734a002c"

@@ -12,7 +12,6 @@ import viscii_codec
 from loguru import logger
 
 from automation.load_config import load_config
-from automation.logger_context_manager import logger_add
 from automation.models import Config, LanguageInfo
 
 viscii_codec.register()
@@ -40,10 +39,10 @@ async def convert_hardcoded(po_data: bytes) -> str:
     return result.getvalue()
 
 
-async def convert_objects(po_data: bytes) -> str:
+async def convert_objects(po_data: bytes, errors_file) -> str:
     po_data = io.StringIO(po_data.decode(encoding="utf-8"))
     result = io.StringIO(newline="")
-    await asyncio.to_thread(df_gettext_toolkit.convert.objects_po_to_csv.convert, po_data, result)
+    await asyncio.to_thread(df_gettext_toolkit.convert.objects_po_to_csv.convert, po_data, result, errors_file)
     return result.getvalue()
 
 
@@ -62,14 +61,14 @@ async def process(language: LanguageInfo, config: Config):
     csv_with_objects_directory = config.working_directory / "translation_build" / "csv_with_objects" / language.name
     csv_with_objects_directory.mkdir(parents=True, exist_ok=True)
 
-    log_path = csv_with_objects_directory / "errors.txt"
-    if log_path.exists():
-        log_path.unlink()
+    errors_file_path = csv_with_objects_directory / "errors.txt"
+    if errors_file_path.exists():
+        errors_file_path.unlink()
 
     po_data = await load_file(language_code=language.code, resource_name="objects", config=config)
 
-    with logger_add(log_path):
-        csv_with_objects_data = await convert_objects(po_data)
+    with errors_file_path.open("w", encoding="utf-8") as errors_file:
+        csv_with_objects_data = await convert_objects(po_data, errors_file)
 
     file_path = csv_with_objects_directory / "dfint_dictionary.csv"
     async with aiofiles.open(file_path, "wb") as csv_file:
