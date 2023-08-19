@@ -6,6 +6,7 @@ from typing import Optional
 
 import aiofiles
 import df_gettext_toolkit.convert.hardcoded_po_to_csv
+import df_gettext_toolkit.convert.objects_po_to_csv
 import typer
 import viscii_codec
 from loguru import logger
@@ -16,14 +17,14 @@ from automation.models import Config, LanguageInfo
 viscii_codec.register()
 
 
-async def load_file(language_code: str, config: Config) -> bytes:
+async def load_file(language_code: str, resource_name: str, config: Config) -> bytes:
     source = config.source
     file_path = (
         config.working_directory
         / "translations-backup"
         / "translations"
         / source.project
-        / source.resource_name
+        / resource_name
         / f"{language_code}.po"
     )
 
@@ -38,17 +39,34 @@ async def convert_hardcoded(po_data: bytes) -> str:
     return result.getvalue()
 
 
-async def process(language: LanguageInfo, config: Config):
-    po_data = await load_file(language_code=language.code, config=config)
-    csv_data = await convert_hardcoded(po_data)
-    directory = config.working_directory / "translation_build" / "csv" / language.name
-    directory.mkdir(parents=True, exist_ok=True)
-    file_path = directory / "dfint_dictionary.csv"
+async def convert_objects(po_data: bytes) -> str:
+    po_data = io.StringIO(po_data.decode(encoding="utf-8"))
+    result = io.StringIO(newline="")
+    await asyncio.to_thread(df_gettext_toolkit.convert.objects_po_to_csv.convert, po_data, result)
+    return result.getvalue()
 
+
+async def process(language: LanguageInfo, config: Config):
+    csv_directory = config.working_directory / "translation_build" / "csv" / language.name
+    csv_directory.mkdir(parents=True, exist_ok=True)
+
+    po_data = await load_file(language_code=language.code, resource_name="hardcoded_steam", config=config)
+    csv_data = await convert_hardcoded(po_data)
+    file_path = csv_directory / "dfint_dictionary.csv"
     async with aiofiles.open(file_path, "wb") as csv_file:
         await csv_file.write(codecs.encode(csv_data, encoding=language.encoding))
 
     logger.info(f"{file_path} written")
+
+    csv_with_objects_directory = config.working_directory / "translation_build" / "csv_with_objects" / language.name
+    csv_with_objects_directory.mkdir(parents=True, exist_ok=True)
+
+    po_data = await load_file(language_code=language.code, resource_name="objects", config=config)
+    csv_with_objects_data = await convert_objects(po_data)
+    file_path = csv_with_objects_directory / "dfint_dictionary.csv"
+    async with aiofiles.open(file_path, "wb") as csv_file:
+        await csv_file.write(codecs.encode(csv_data, encoding=language.encoding))
+        await csv_file.write(codecs.encode(csv_with_objects_data, encoding=language.encoding))
 
 
 async def process_all(config: Config):
