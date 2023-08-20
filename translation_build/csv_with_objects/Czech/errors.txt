@@ -1,66 +1,99 @@
 Error: Part 'RUTC' should not be translated
 Problematic tag pair: '[BP:RUTC:right upper claw:STP]', '[BP:RULC:pravý horní dráp:STP]'
+
 Error: Part 'LUTC' should not be translated
 Problematic tag pair: '[BP:LUTC:left upper claw:STP]', '[BP:LULC:levý horní dráp:STP]'
+
 Error: Wrong tag translation format
 Problematic tag pair: '[BODYGLOSS:MAW:mouth:maw:mouths:maws]', 'MAW:ústa:chřtán:ústa:chřtán]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[BP:EYE:eye:STP]', '[BP:EYE:okoSTP]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[BP:EYE:eye:STP]', '[BP:EYE:okoSTP]'
+
 Error: Part 'LFF' should not be translated
 Problematic tag pair: '[BP:LFF:left front foot:left front feet]', '[BP:LH:levé přední chodidlo:levá přední chodidla]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[BP:EYE:eye:STP]', '[BP:EYE:okoSTP]'
+
 Error: Wrong tag translation format
 Problematic tag pair: '[TISSUE_NAME:ivory:NP]', '1[TISSUE_NAME:slonovina:NP]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[CV_NEW_TAG:ATTACK_VERB:kick:kicks]', '[CV_NEW_TAG:kopanec:kopance]'
+
 Error: Part 'ATTACK_VERB' should not be translated
 Problematic tag pair: '[CV_NEW_TAG:ATTACK_VERB:bite:bites]', '[CV_NEW_TAG:ATTACK_VER:kousat:kousnutí]'
+
 Error: Part 'ATTACK_VERB' should not be translated
 Problematic tag pair: '[CV_NEW_TAG:ATTACK_VERB:bite:bites]', '[CV_NEW_TAG:ATTACK_VER:kousat:kousnutí]'
+
 Error: Part 'ATTACK_VERB' should not be translated
 Problematic tag pair: '[CV_NEW_TAG:ATTACK_VERB:bite:bites]', '[CV_NEW_TAG:ATTACK_VER:kousat:kousnutí]'
+
 Error: Part 'ATTACK_VERB' should not be translated
 Problematic tag pair: '[CV_NEW_TAG:ATTACK_VERB:bite:bites]', '[CV_NEW_TAG:ATTACK_VER:kousat:kousnutí]'
+
 Error: Part 'ATTACK_VERB' should not be translated
 Problematic tag pair: '[CV_NEW_TAG:ATTACK_VERB:bite:bites]', '[CV_NEW_TAG:ATTACK_VER:kousat:kousnutí]'
+
 Error: Part 'ATTACK_VERB' should not be translated
 Problematic tag pair: '[CV_NEW_TAG:ATTACK_VERB:bite:bites]', '[CV_NEW_TAG:ATTACK_VER:kousat:kousnutí]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[CV_NEW_TAG:GAIT:CLIMB:Creep:]', '[CV_NEW_TAG:GAIT:CLIMB:Plížení]'
+
 Error: Part 'GAIT' should not be translated
 Problematic tag pair: '[CV_NEW_TAG:GAIT:SWIM:Creeping Swim:]', '[CV_NEW_TAG:IT:SWIM:Pomalé plavání:]'
+
 Error: Part 'CRAWL' should not be translated
 Problematic tag pair: '[GAIT:CRAWL:Crawl:]', '[GAIT:WALK:Plazení:]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:red-winged blackbird hatchling:red-winged blackbird hatchlings]', '[GENERAL_CHILD_NAME:vylíhlý kos rudokřídlý:vilíhlí kosi rudokřídlí:vylíhlý kos rudokřídlý]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant red-winged blackbird hatchling:giant red-winged blackbird hatchlings]', '[GENERAL_CHILD_NAME:mládě obrovského kosa rudokřídlého:mláďata obrovských kosů rudokřídlích:mládě obrovského kosa rudokřídlého]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:little penguin chick:little penguin chicks]', '[GENERAL_CHILD_NAME:malé mládě tučňáka:malé mláďata tučňáků:malé mládě tučňáka]'
+
 Error: Wrong tag translation format
 Problematic tag pair: '[DESCRIPTION:A small bird of prey that is capable of great speed.  They dive on unsuspecting vermin.]', 'Malý dravec, který je schopen velké rychlosti. Potápí se na nic netušící kořist.'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:peregrine falcon chick:peregrine falcon chicks]', '[GENERAL_CHILD_NAME:mládě sokola stěhovavého:mláďata sokolů stěhovavích:mládě sokola stěhovavého]'
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[CASTE_NAME:giant kiwi hen:giant kiwi hens:giant kiwi hen]', '[CASTE_NAME:obří kiwi slepice:obří kiwi slepice:obří kiwi slepice]\xa0'
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[STATE_NAME:LIQUID:n/a]', '[STATE_NAME:kapalina:n/a] '
+
 Error: Part 'GAS' should not be translated
 Problematic tag pair: '[STATE_NAME:GAS:n/a]', '[STATE_NAME:plyn:n/a]'
+
 Error: Part 'GAS' should not be translated
 Problematic tag pair: '[STATE_ADJ:GAS:n/a]', '[STATE_ADJ:plyn:n/a]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GROWTH_NAME:candlenut flower:STP]', '[GROWTH_NAME:květ tungovníku]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[REAGENT:lye container:]', '[REAGENT:nádoba s louhem]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[REAGENT:lye container:]', '[REAGENT:nádoba s louhem]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[REAGENT:oil:]', '[REAGENT:olej]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[REAGENT:oil container:]', '[REAGENT:nádoba s olejem]'
+
 Error: Wrong tag translation format
 Problematic tag pair: '[NAME:carve bone ring]', '[NAME:vyřezat prsten z kosti'
+

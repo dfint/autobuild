@@ -1,198 +1,297 @@
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'L_EAR' should not be translated
 Problematic tag pair: '[BP:L_EAR:left ear:STP]', '[BP:R_EAR:oreille gauche:STP]'
+
 Error: Part 'L_FLIP' should not be translated
 Problematic tag pair: '[BP:L_FLIP:left flipper:STP]', '[BP:R_FLIP:palme gauche:STP]'
+
 Error: Part 'RFFLIP' should not be translated
 Problematic tag pair: '[BP:RFFLIP:right front flipper:STP]', '[BP:R_FLIP:palme avant droite:STP]'
+
 Error: Part 'LFFLIP' should not be translated
 Problematic tag pair: '[BP:LFFLIP:left front flipper:STP]', '[BP:R_FLIP:palme gauche droite:STP]'
+
 Error: Part 'RRFLIP' should not be translated
 Problematic tag pair: '[BP:RRFLIP:right rear flipper:STP]', '[BP:R_FLIP:palme arrière droite:STP]'
+
 Error: Part 'LRFLIP' should not be translated
 Problematic tag pair: '[BP:LRFLIP:left rear flipper:STP]', '[BP:R_FLIP:palme arrière gauche:STP]'
+
 Error: Part 'R_TRUE_RIB' should not be translated
 Problematic tag pair: '[BP:R_TRUE_RIB:right true rib:STP]', '[BP:L_TRUE_RIB:vraie côte droite:STP]'
+
 Error: Part 'U_L_B_TOOTH' should not be translated
 Problematic tag pair: '[BP:U_L_B_TOOTH:upper left back tooth:upper left back teeth]', '[BP:L_R_B_TOOTH:dent arrière supérieure droite: dents arrières supérieurs droites]'
+
 Error: Part 'BILL' should not be translated
 Problematic tag pair: '[BP:BILL:bill:STP]', '[BP:FACTURE:facture:STP]'
+
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'RF5' should not be translated
 Problematic tag pair: '[BP:RF5:right fifth foot:right fifth feet]', '[BP:LA5:cinquième pied droit:STP]'
+
 Error: Part 'LF5' should not be translated
 Problematic tag pair: '[BP:LF5:left fifth foot:left fifth feet]', '[BP:LA5:cinquième pied gauche:STP]'
+
 Error: Part 'LUL' should not be translated
 Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:RUL: cuisse gauche:STP]'
+
 Error: Part 'RFFLIP' should not be translated
 Problematic tag pair: '[BP:RFFLIP:right front flipper:STP]', '[BP:R_FLIP:palme avant droite:STP]'
+
 Error: Part 'LFFLIP' should not be translated
 Problematic tag pair: '[BP:LFFLIP:left front flipper:STP]', '[BP:R_FLIP:palme gauche droite:STP]'
+
 Error: Part 'RRFLIP' should not be translated
 Problematic tag pair: '[BP:RRFLIP:right rear flipper:STP]', '[BP:R_FLIP:palme arrière droite:STP]'
+
 Error: Part 'LRFLIP' should not be translated
 Problematic tag pair: '[BP:LRFLIP:left rear flipper:STP]', '[BP:R_FLIP:palme arrière gauche:STP]'
+
 Error: Part 'R_TRUE_RIB' should not be translated
 Problematic tag pair: '[BP:R_TRUE_RIB:right true rib:STP]', '[BP:L_TRUE_RIB:vraie côte droite:STP]'
+
 Error: Part 'R_TRUE_RIB' should not be translated
 Problematic tag pair: '[BP:R_TRUE_RIB:right true rib:STP]', '[BP:L_TRUE_RIB:vraie côte droite:STP]'
+
 Error: Part 'BILL' should not be translated
 Problematic tag pair: '[BP:BILL:bill:STP]', '[BP:FACTURE:facture:STP]'
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[CASTE_NAME:red-winged blackbird woman:red-winged blackbird women:red-winged blackbird woman]', '[CASTE_NAME:femme-merle à ailes rouges:femmes-merles à ailes rouges:femme-merle à ailes rouges] '
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[NAME:red-winged blackbird man:red-winged blackbird men:red-winged blackbird man]', '[NAME:homme-merle à ailes rouges:hommes-merles à ailes rouges:homme-merle à ailes rouges] '
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[CASTE_NAME:giant red-winged blackbird:giant red-winged blackbirds:giant red-winged blackbird]', '[CASTE_NAME:merle à ailes rouges géant:merles à ailes rouges géant:merle à ailes rouges géant] '
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant red-winged blackbird hatchling:giant red-winged blackbird hatchlings]', '[GENERAL_CHILD_NAME:oisillon de merle à ailes rouges géant:oisillons de merle à ailes rouges géant] '
+
 Error: Wrong tag translation format
 Problematic tag pair: '[DESCRIPTION:A small flightless bird that lives on arctic shorelines.]', '1[DESCRIPTION: Un petit animal incapable de voler vivant sur les côtes arctiques.]'
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[GENERAL_CHILD_NAME:little penguin chick:little penguin chicks]', '[GENERAL_CHILD_NAME:poussin de petit pingouin:poussins de petit pingouin] '
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[PREFSTRING:way of flying through the water]', "[PREFSTRING:manière de voler à travers l'eau] "
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[NAME:emperor penguin:emperor penguins:emperor penguin]', '[NAME:manchot empereur :manchots empereur :manchot empereur] '
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[CASTE_NAME:emperor penguin:emperor penguins:emperor penguin]', '[CASTE_NAME:manchot empereur:manchots empereur:manchot empereur] '
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[PREFSTRING:way of flying through the water]', "[PREFSTRING:manière de voler à travers l'eau] "
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[PREFSTRING:way of flying through the water]', "[PREFSTRING:manière de voler à travers l'eau] "
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[DESCRIPTION:A small bird of prey that is capable of great speed.  They dive on unsuspecting vermin.]', "[DESCRIPTION:Un petit oiseau de proie capable d'une grande vitesse. Ils plongent sur les nuisibles imprudents.] "
+
 Error: Wrong tag translation format
 Problematic tag pair: '[DESCRIPTION:This is a medium-sized creature with legs and arms, but the long neck and head of an ostrich.]', "[DESCRIPTION:C'est une créature de taille moyenne avec des jambes et des bras, mais le long cou et la tête d'une autruche]."
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:crow woman:crow women:crow woman]', '[CASTE_NAME:femme-corneillefemmes-corneilles:femme-corneille]'
+
 Error: Wrong tag translation format
 Problematic tag pair: '[DESCRIPTION:A tiny, brightly-colored tree parrot.  It uses its tongue to feed on plants.]', '[DESCRIPTION:Un minuscule perroquet arboricole aux couleurs vives. Il utilise sa langue pour se nourrir de plantes].'
+
 Error: Wrong tag translation format
 Problematic tag pair: '[DESCRIPTION:A person with the head and arms of a brown recluse spider.]', "[DESCRIPTION: personne avec la tête et les bras d'une araignée recluse brune]."
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[STATE_ADJ:LIQUID:gila monster venom]', '[STATE_ADJ: LIQUID:venin de monstre de gila]\xa0'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:blue peahen:blue peahens:blue peahen]', '[CASTE_NAME:paonne:paonnes;paonne]'
+
 Error: Wrong tag translation format
 Problematic tag pair: '[DESCRIPTION:A legless person with the head and back flippers of a walrus.]', "[DESCRIPTION:une personne sans jambe avec la tête et les nageoires arrière d'un morse]."
+
 Error: Wrong tag translation format
 Problematic tag pair: '[PREFSTRING:ability to make one afraid to go into the water]', "[PREFSTRING:capacité à faire redouter l'entrée dans l'eau]."
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:spiny dogfish pup:spiny dogfish pups]', '[GENERAL_CHILD_NAME:jeune aiguillat commun:jeunes aiguillat commun:jeune aiguillat commun]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:common skate pup:common skate pups]', '[GENERAL_CHILD_NAME:bébé raie commune:raies communes:bébés raie commune]'
+
 Error: Wrong tag translation format
 Problematic tag pair: '[PREFSTRING:distinct markings]', 'marques distinctes'
+
 Error: Wrong tag translation format
 Problematic tag pair: '[PREFSTRING:bizarre appearance]', 'apparence bizarre]'
+
 Error: Part 'LIQUID' should not be translated
 Problematic tag pair: '[STATE_NAME:LIQUID:platypus venom]', "[STATE_NAME:LIQUID\\:venin d'ornithorynque]"
+
 Error: Part 'LIQUID' should not be translated
 Problematic tag pair: '[STATE_ADJ:LIQUID:platypus venom]', '[STATE_ADJ:LIQUID\\:platypus venom]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant alligator hatchling:giant alligator hatchlings]', '[GENERAL_CHILD_NAME:alligator géant nouveau-né:alligators géants nouveau-nés:alligator géant nouveau-né]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant moose calf:giant moose calves]', '[GENERAL_CHILD_NAME:jeune élan géant:jeunes élans géants:jeune élan géant]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[NAME:fire imp:fire imps:fire imp]', '[NAME:diablotin de feu:diablotins de feu]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:fire imp:fire imps:fire imp]', '[CASTE_NAME:diablotin de feu:diablotins de feu]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[CDI:ADV_NAME:Spray jet of fire]', '[CDI:jet de flamme]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[NAME:cave fish:cave fish:cave fish]', '[NAME:poisson des cavernes:poissons des cavernes]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:cave fish:cave fish:cave fish]', '[CASTE_NAME:poisson des cavernes:poissons des cavernes]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[CDI:ADV_NAME:Spray jet of fire]', '[CDI:jet de flamme]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:kangaroo doe:kangaroo does:kangaroo doe]', '[CASTE_NAME:fkangourou femelle:kangourous femelles]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ADJECTIVE:large, serrated]', '[ADJECTIVE:grand:dentelé]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[IS_GEM:milk quartz:milk quartzes:]', '[IS_GEM:quartz de lait:quartz de lait]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[IS_GEM:rose quartz:rose quartzes:]', '[IS_GEM:quartz rose:quartz rose]'
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:single-grain wheat flour]', '[STATE_NAME_ADJ:LIQUID:farine de blé monograine]'
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:two-grain wheat flour]', '[STATE_NAME_ADJ:LIQUID:farine de blé bicéréales]'
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:soft wheat flour]', '[STATE_NAME_ADJ:LIQUID:farine de blé tendre]'
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:hard wheat flour]', '[STATE_NAME_ADJ:LIQUID:farine de blé dur]'
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:spelt flour]', "[STATE_NAME_ADJ:LIQUID:farine d'épeautre]"
+
 Error: Part 'LIQUID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:barley wine]', "[STATE_NAME_ADJ:ALL_SOLID:vin d'orge]"
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:barley flour]', "[STATE_NAME_ADJ:LIQUID:farine d'orge]"
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:buckwheat flour]', '[STATE_NAME_ADJ:LIQUID:farine de sarrasin]'
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:pendant amaranth flour]', "[STATE_NAME_ADJ:LIQUID:farine d'amarante pendante]"
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:blood amaranth flour]', "[STATE_NAME_ADJ:LIQUID:farine d'amarante sanguine]"
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:purple amaranth flour]', "[STATE_NAME_ADJ:LIQUID:farine d'amarante pourpre]"
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:red spinach seed:red spinach seeds:]', "[SEED:graine d'épinard rouge:graines d'épinard rouge]"
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:pearl millet flour]', '[STATE_NAME_ADJ:LIQUID:farine de millet perlé]'
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:white millet flour]', '[STATE_NAME_ADJ:LIQUID:farine de millet blanc]'
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:foxtail millet flour]', '[STATE_NAME_ADJ:LIQUID:farine de millet sétaire]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:fonio:fonio:]', '[SEED:fonio:fonios]'
+
 Error: Part 'SOLID_PRESSED' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:SOLID_PRESSED:flax seed press cake]', '[STATE_NAME_ADJ:SOLID_PASTE:gâteau de graines de lin pressées]'
+
 Error: Part 'SOLID_PRESSED' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:SOLID_PRESSED:hemp seed press cake]', '[STATE_NAME_ADJ:SOLID_PASTE:gâteau de graines de chanvre pressées]'
+
 Error: Part 'SOLID_PRESSED' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:SOLID_PRESSED:cotton seed press cake]', '[STATE_NAME_ADJ:SOLID_PASTE:gâteau de graines de coton pressées]'
+
 Error: Part 'SOLID_PRESSED' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:SOLID_PRESSED:kenaf seed press cake]', '[STATE_NAME_ADJ:SOLID_PASTE:gâteau de graines de kénaf pressées]'
+
 Error: Part 'LIQUID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:artichoke wine]', "[STATE_NAME_ADJ:ALL_SOLID:vin d'artichaut]"
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:acorn:acorns:]', '[SEED:gland:glands]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:chestnut:chestnuts:]', '[SEED:châtaigne:châtaignes]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:candlenut:candlenuts:]', '[SEED:graine de bancoulier:graines de bancoulier]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:cacao bean:cacao beans:]', '[SEED:fève de cacao:fèves de cacao]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[REAGENT:scroll rollers:]', '[REAGENT:reouleaux de manuscrit]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[REAGENT:window:]', '[REAGENT:vitre]'
+
 Error: Part 'ITEM_TOOL_DISPLAY_CASE' should not be translated
 Problematic tag pair: '[PRODUCT:100:1:TOOL:ITEM_TOOL_DISPLAY_CASE:GET_MATERIAL_FROM_REAGENT:log:]', '[PRODUCT:100:1:TOOL:ITEM_TOOL_PEDESTAL:GET_MATERIAL_FROM_REAGENT:bûche:]'
+

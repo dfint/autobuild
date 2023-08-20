@@ -1,276 +1,414 @@
 Error: Part 'RF2' should not be translated
 Problematic tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RH2:右中脚:右中脚]'
+
 Error: Part 'LF4' should not be translated
 Problematic tag pair: '[BP:LF4:left fourth foot:left fourth feet]', '[BP:RF4:左第四脚:左第四脚]'
+
 Error: Part 'LF4' should not be translated
 Problematic tag pair: '[BP:LF4:left fourth foot:left fourth feet]', '[BP:RF4:左第四足:左第四足]'
+
 Error: Part 'LUT' should not be translated
 Problematic tag pair: '[BP:LUT:left tentacle:STP]', '[BP:RUT:左触角:STP]'
+
 Error: Part 'LT' should not be translated
 Problematic tag pair: '[BP:LT:left tentacle:STP]', '[BP:RT:左触手:STR]'
+
 Error: Part 'LLT' should not be translated
 Problematic tag pair: '[BP:LLT:left lower tentacle:STP]', '[BP:RLT:左下触手:STP]'
+
 Error: Part 'LLTC' should not be translated
 Problematic tag pair: '[BP:LLTC:left lower claw:STP]', '[BP:LUTC:左下爪:STP]'
+
 Error: Part 'LLT' should not be translated
 Problematic tag pair: '[BP:LLT:left lower tentacle:STP]', '[BP:RLT:左下触角:STP]'
+
 Error: Part 'LLTC' should not be translated
 Problematic tag pair: '[BP:LLTC:left lower claw:STP]', '[BP:LUTC:左下爪:STP]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[BP:LFTOE4:fourth left front toe:STP]', '[BP:LFTOE4左前脚无名趾:STP]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[BP:LRTOE5:fifth left rear toe:STP]', '[BP:: LRTOE5:左后脚小趾:STP]'
+
 Error: Part 'LFTOE1' should not be translated
 Problematic tag pair: '[BP:LFTOE1:first left finger:STP]', '[BP:RFTOE1:左手大拇指:STP]'
+
 Error: Part 'LFTOE2' should not be translated
 Problematic tag pair: '[BP:LFTOE2:second left finger:STP]', '[BP:RFTOE2:左手食指:STP]'
+
 Error: Part 'LFTOE3' should not be translated
 Problematic tag pair: '[BP:LFTOE3:third left finger:STP]', '[BP:RFTOE3:左手中指:STP]'
+
 Error: Part 'LFTOE4' should not be translated
 Problematic tag pair: '[BP:LFTOE4:fourth left finger:STP]', '[BP:RFTOE4:左手无名指:STP]'
+
 Error: Part 'LFTOE5' should not be translated
 Problematic tag pair: '[BP:LFTOE5:fifth left finger:STP]', '[BP:RFTOE5:左手小指:STP]'
+
 Error: Part 'LFTOE1' should not be translated
 Problematic tag pair: '[BP:LFTOE1:first left finger:STP]', '[BP:RFTOE1:左手大拇指:STP]'
+
 Error: Part 'LFTOE2' should not be translated
 Problematic tag pair: '[BP:LFTOE2:second left finger:STP]', '[BP:RFTOE2:左手食指:STP]'
+
 Error: Part 'LFTOE3' should not be translated
 Problematic tag pair: '[BP:LFTOE3:third left finger:STP]', '[BP:RFTOE3:左手中指:STP]'
+
 Error: Part 'LFTOE4' should not be translated
 Problematic tag pair: '[BP:LFTOE4:fourth left finger:STP]', '[BP:RFTOE4:左手无名指:STP]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[INDIVIDUAL_NAME:second lower left incisor:STP]', '[INDIVIDUAL_NAME:第二左下门牙STP]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[BP:U_R_B_TOOTH:upper right back tooth:upper right back teeth]', '[BP:U_R_B_TOOTH:右上臼齿：右上臼齿]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[BP:L_R_B_TOOTH:lower right back tooth:lower right back teeth]', '[BP:L_R_B_TOOTH:右下臼齿：右下臼齿]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[BP:U_L_B_TOOTH:upper left back tooth:upper left back teeth]', '[BP:U_L_B_TOOTH:左上臼齿：左上臼齿]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[BP:L_L_B_TOOTH:lower left back tooth:lower left back teeth]', '[BP:L_L_B_TOOTH:左下臼齿：左下臼齿]'
+
 Error: Part 'RFF' should not be translated
 Problematic tag pair: '[BP:RFF:right front foot:right front feet]', '[BP:RH:右前脚:右前脚]'
+
 Error: Part 'LL' should not be translated
 Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:RL:左后腿:STP]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[BP:RRF:right rear foot:right rear feet]', '[BP:RL:右后脚:右后脚:STP]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[BP:LRF:left rear foot:left rear feet]', '[BP:RL:左后脚:左后脚:STP]'
+
 Error: Part 'L_MAND' should not be translated
 Problematic tag pair: '[BP:L_MAND:left mandible:STP]', '[BP:R_MAND:左颌骨:STP]'
+
 Error: Part 'LF4' should not be translated
 Problematic tag pair: '[BP:LF4:left fourth foot:left fourth feet]', '[BP:RF4:左第四脚:左第四脚]'
+
 Error: Part 'LF5' should not be translated
 Problematic tag pair: '[BP:LF5:left fifth foot:left fifth feet]', '[BP:RF5:左第五脚:左第五脚]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[CV_NEW_TAG:GAIT:FLY:Fly:]', '[CV_NEW_TAG:GAIT:FLY:飞行]'
+
 Error: Part 'WALK' should not be translated
 Problematic tag pair: '[CV_NEW_TAG:GAIT:WALK:Fast Crawl:]', '[CV_NEW_TAG:GAIT:CRAWL:快速爬动:]'
+
 Error: Part 'WALK' should not be translated
 Problematic tag pair: '[CV_NEW_TAG:GAIT:WALK:Slow Crawl:]', '[CV_NEW_TAG:GAIT:CRAWL:慢爬:]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Part 'BEAK' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:尖喙:翻找:翻找]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[TLCM_NOUN:head and neck down:SINGULAR]', '[TLCM_NOUN:头颈以下]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Part 'NOSE' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:NOSE:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:鼻子:翻找:翻找]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Part 'STANCE' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_TYPE:STANCE:scratch:scratches]', '[ROOT_AROUND:BY_TYPE:姿态:挠:挠]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Part 'BEAK' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:尖喙:翻找:翻找]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Part 'BEAK' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:尖喙:翻找:翻找]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Part 'BEAK' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:尖喙:翻找:翻找]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Part 'BEAK' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:尖喙:翻找:翻找]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Part 'BEAK' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:尖喙:翻找:翻找]'
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[PREFSTRING:buzzing]', '[PREFSTRING:嗡嗡作响] '
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[NAME:mountain gnome:mountain gnomes:mountain gnome]', '[NAME:山地精;山地精:山地精]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:mountain gnome:mountain gnomes:mountain gnome]', '[CASTE_NAME:山地精;山地精:山地精]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[NAME:capybara man:capybara men:capybara man]', '[NAME:水豚人:水豚人水豚人]'
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[DESCRIPTION:A medium-sized, walking red panda with arms and a tail.  It prefers the forest and its beloved trees.]', '[DESCRIPTION:一只中等大小、会走路、有胳膊和尾巴的小熊猫。它喜欢森林和它心爱的树木。]\n\xa0'
+
 Error: Wrong tag translation format
 Problematic tag pair: "[PREFSTRING:calves' spirited antics]", '小牛精力充沛的滑稽动作]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant tortoise hatchling:giant tortoise hatchlings]', '[GENERAL_CHILD_NAME:陆龟幼崽:陆龟幼崽:陆龟幼崽]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:armadillo pup:armadillo pups]', '[GENERAL_CHILD_NAME:犰狳幼崽:犰狳幼崽:]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GAIT:WALK:Creep:]', '[GAIT:WALK:蠕动]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GAIT:CRAWL:Creep:]', '[GAIT:CRAWL:蠕动]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Wrong tag translation format
 Problematic tag pair: '[DESCRIPTION:A tiny underground creature made of a mass of appendages resembling human fingers.  It creeps across the ground like a starfish and eats with a mouth on the bottom of its body.]', '[DESCRIPTION:一种由很多人类手指一样的附肢组成的极小的地底生物。它像海星一样在地上爬行，并且用长在身体底部的嘴进食。'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:stab at:stabs at]', '[ATTACK_VERB:戳刺]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:leopard seal pup:leopard seal pups]', '[GENERAL_CHILD_NAME:豹形海豹幼崽:豹形海豹幼崽:]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant leopard seal pup:giant leopard seal pups]', '[GENERAL_CHILD_NAME:巨豹形海豹幼崽:巨豹形海豹幼崽:]'
+
 Error: Wrong tag translation format
 Problematic tag pair: '[STATE_ADJ:GAS:boiling phantom spider venom]', '[STATE_ADJ:GAS:幻影蜘蛛毒液]的'
+
 Error: Part 'BODY_UPPER' should not be translated
 Problematic tag pair: '[RETRACT_INTO_BP:BY_CATEGORY:BODY_UPPER:roll into a ball:rolls into a ball:unroll:unrolls]', '[RETRACT_INTO_BP:BY_CATEGORY:SHELL:团成球:团成球:展开自己:展开自己]'
+
 Error: Part 'NOSE' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:NOSE:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:鼻子:翻找:翻找]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen squid ink]', '[STATE_ADJ:冷冻鱿鱼墨]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[STATE_ADJ:LIQUID:squid ink]', '[STATE_ADJ:鱿鱼墨汁]'
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[PREFSTRING:fearsome talons]', ' [PREFSTRING:可怕的利爪]'
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[ATTACK_VERB:snatch:snatches]', '\t[ATTACK_VERB:拽:拽]。'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[CDI:ADV_NAME:Hurl fireball]', '[CDI:投掷火球]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:wild boar piglet:wild boar piglets]', '[GENERAL_CHILD_NAME:野猪幼崽:野猪幼崽:野猪幼崽]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[STATE_ADJ:LIQUID:melted kangaroo cheese]', '[STATE_ADJ:LIQUID溶化的袋鼠奶奶酪]'
+
 Error: Part 'NOSE' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:NOSE:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:鼻子:翻找:翻找]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[NAME:militia commander:militia commanders]', '[NAME:军事指挥官：军事指挥官]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[NAME:high boot:high boots]', '[NAME:高靴：高靴]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK:EDGE:2:400:stab:stabs:NO_SUB:]', '[ATTACK:EDGE:2:400刺:刺:NO_SUB:]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ADJECTIVE:large, serrated]', '[ADJECTIVE:巨大:锯齿状]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK:EDGE:20000:4000:slash:slashes:NO_SUB:]', '[ATTACK:EDGE:20000:4000挥砍:挥砍:NO_SUB:]'
+
 Error: Part 'EDGE' should not be translated
 Problematic tag pair: '[ATTACK:EDGE:50:2000:stab:stabs:NO_SUB:]', '[ATTACK:DGE:50:2000:刺:刺:NO_SUB:]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[NAME:scimitar:scimitars]', '[NAME:短弯刀;短弯刀]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[NAME:training spear:training spears]', '[NAME:训练短矛]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[STATE_NAME:SOLID:gold]', '[STATE_NAME:SOLID;金]'
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:nail]', '[STATE_NAME:ALL_SOLID:指甲] '
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:eggplant seed:eggplant seeds:]', '[SEED:茄子种子:茄子种子]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:garden cress seed:garden cress seeds:]', '[SEED:水芹种子:水芹种子]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:garlic seed:garlic seeds:]', '[SEED:大蒜种子:大蒜种子]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GROWTH_NAME:bayberry seed catkin:STP]', '[GROWTH_NAME:杨梅种子絮]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GROWTH_NAME:larch needle:STP]', '[GROWTH_NAME:落叶松松针]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:chestnut:chestnuts:]', '[SEED:板栗:板栗]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:alder]', '[STATE_ADJ:桤树的]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GROWTH_NAME:alder pollen catkin:STP]', '[GROWTH_NAME:桤树花粉絮]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GROWTH_NAME:alder seed catkin:STP]', '[GROWTH_NAME:桤树种子絮]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:birchen]', '[STATE_ADJ:桦树的]'
+
 Error: Part 'FIGURINE' should not be translated
 Problematic tag pair: '[PRODUCT:100:1:FIGURINE:NONE:GET_MATERIAL_FROM_REAGENT:bone:]', '[PRODUCT:100:1:CROWN:NONE:GET_MATERIAL_FROM_REAGENT:骨骼:]'
+
 Error: Part 'RING' should not be translated
 Problematic tag pair: '[PRODUCT:100:1:RING:NONE:GET_MATERIAL_FROM_REAGENT:bone:]', '[PRODUCT:100:1:CROWN:NONE:GET_MATERIAL_FROM_REAGENT:骨骼:]'
+
 Error: Part 'EARRING' should not be translated
 Problematic tag pair: '[PRODUCT:100:1:EARRING:NONE:GET_MATERIAL_FROM_REAGENT:bone:]', '[PRODUCT:100:1:CROWN:NONE:GET_MATERIAL_FROM_REAGENT:骨骼:]'
+
 Error: Part 'SCEPTER' should not be translated
 Problematic tag pair: '[PRODUCT:100:1:SCEPTER:NONE:GET_MATERIAL_FROM_REAGENT:bone:]', '[PRODUCT:100:1:AMULET:NONE:GET_MATERIAL_FROM_REAGENT:骨骼:]'
+
 Error: Part 'BRACELET' should not be translated
 Problematic tag pair: '[PRODUCT:100:1:BRACELET:NONE:GET_MATERIAL_FROM_REAGENT:bone:]', '[PRODUCT:100:1:CROWN:NONE:GET_MATERIAL_FROM_REAGENT:骨骼:]'
+
