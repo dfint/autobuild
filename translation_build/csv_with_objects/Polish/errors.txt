@@ -1,49 +1,9 @@
-Error: Part 'LF' should not be translated
-Problematic tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
-Error: Part 'LF' should not be translated
-Problematic tag pair: '[BP:LF:left foot:left feet]', '[BP:RF:lewa stopa:lewe stopy]'
-Error: Part 'LHORN' should not be translated
-Problematic tag pair: '[BP:LHORN:left antler:STP]', '[BP:RHORN:lewa rosocha:lewe rosochy]'
-Error: Part 'CDI' should not be translated
-Problematic tag pair: '[CV_NEW_TAG:CDI:VERB:pet:pets:pets]', '[CV_NEW_TAG: CDI:VERB:ulubieniec:ulubieńcy:ulubieńcze]'
-Error: Part 'CDI' should not be translated
-Problematic tag pair: '[CV_NEW_TAG:CDI:VERB:pet:pets:pets]', '[CV_NEW_TAG: CDI:VERB:ulubieniec:ulubieńcy:ulubieńcze]'
-Error: Extra spaces at the beginning or at the end of the translation
-Problematic tag pair: '[CASTE_NAME:bluejay man:bluejay men:bluejay man]', '[CASTE_NAME:modrosójkomężczyzna:modrosójkomężczyzni:modrosójkomęski] '
-Error: Extra spaces at the beginning or at the end of the translation
-Problematic tag pair: '[CASTE_NAME:bluejay woman:bluejay women:bluejay woman]', '[CASTE_NAME:modrosójkokobieta:modrosójkokobiety:modrosójkokobiecy] '
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:giant ostrich cock:giant ostrich cocks:giant ostrich cock]', '[CASTE_NAME:gigantyczny samiec strusia:gigantyczne samce strusia]'
-Error: Wrong tag translation format
-Problematic tag pair: '[GENERAL_CHILD_NAME:eaglet:eaglets]', '1[GENERAL_CHILD_NAME:orlik:orlęta]'
-Error: Part '1' should not be translated
-Problematic tag pair: '[VERMIN_BITE:1:bitten:]', '[VERMIN_BITE:10:ukąszony:]'
-Error: Tag parts count mismatch
-Problematic tag pair: "[STATE_NAME:GAS:boiling goat's milk]", '[STATE_NAME:GAS:gotujące się kozie mleko:]'
-Error: Tag parts count mismatch
-Problematic tag pair: "[STATE_ADJ:GAS:boiling goat's milk]", '[STATE_ADJ:GAS:gotujące się kozie mleczny:]'
-Error: Extra spaces at the beginning or at the end of the translation
-Problematic tag pair: '[CASTE_NAME:coelacanth:coelacanths:coelacanth]', '[CASTE_NAME:celekant:celekanty:celekancki] '
-Error: Extra spaces at the beginning or at the end of the translation
-Problematic tag pair: '[DESCRIPTION:A gigantic feline predator, similar to its cousins in all but size.  It can be found in the savage wilderness.]', '[DESCRIPTION:Gigantyczny, koci drapieżnik, podobny do jego kuzynów we wszystki poza rozmiarem. Można go znaleźć w głębokiej dziczy.] '
-Error: Tag parts count mismatch
-Problematic tag pair: '[STATE_ADJ:SOLID:one-humped camel cheese]', '[STATE_ADJ:SOLID:SOLID:serowy wielbłąda jednogarbnego]'
 Error: Tag parts count mismatch
 Problematic tag pair: '[RETRACT_INTO_BP:BY_CATEGORY:SHELL:retract into <pro_pos> shell:retracts into <pro_pos> shell:come out of <pro_pos> shell:comes out of <pro_pos> shell]', '[RETRACT_INTO_BP:BY_CATEGORY:SHELL:chowasz się do <pro_pos> muszli:chowa się do <pro_pos> muszli:wychodzisz z<pro_pos> wychodzi z <pro_pos> muszli]'
-Error: Part 'LIQUID' should not be translated
-Problematic tag pair: '[STATE_NAME:LIQUID:squid ink]', '[STATE_NAME:ciecz:atrament kałamarnicy]'
-Error: Part 'LIQUID' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:squid ink]', '[STATE_ADJ:CIECZ:atrament kałamarnicy]'
-Error: Wrong tag translation format
-Problematic tag pair: '[NAME:troll:trolls:troll]', 'troll:trole:troll'
-Error: Wrong tag translation format
-Problematic tag pair: '[CASTE_NAME:troll:trolls:troll]', 'troll:trolle:trolle]'
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[DESCRIPTION:A gigantic reptilian creature.  It is magical and can breathe fire.  These monsters can live for thousands of years.]', '[DESCRIPTION:Gigantyczna jaszczuro-podobna istota. Jest magiczna i może ziać ogniem. Te potwory mogą żyć tysiące lat.]\n\xa0'
-Error: Tag parts count mismatch
-Problematic tag pair: '[NAME:fairy:fairies:fairy]', '[NAME:wróżka;wróżki:wróżkowy]'
-Error: Tag parts count mismatch
-Problematic tag pair: '[CASTE_NAME:fairy:fairies:fairy]', '[CASTE_NAME:wróżka;wróżki:wróżkowy]'
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] '
 Error: Extra spaces at the beginning or at the end of the translation
