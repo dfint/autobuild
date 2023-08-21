@@ -1,0 +1,63 @@
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[BP:UB:thorax:thoraxes]', ' [BP:UB:torace:toraci] '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[BP:UB:thorax:thoraxes]', ' [BP:UB:torace:toraci] '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[BP:EYE:eye:STP]', ' [BP:EYE:occhio:STP] '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[BP:EYE:eye:STP]', ' [BP:EYE:occhio:STP] '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[BP:UB:thorax:thoraxes]', ' [BP:UB:torace:toraci] '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[BP:EYE:eye:STP]', ' [BP:EYE:occhio:STP] '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[TISSUE_NAME:feather:STP]', '  [TISSUE_NAME:piuma:STP]  '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[TISSUE_NAME:scale:STP]', '  [TISSUE_NAME:scaglia:STP]  '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[TISSUE_NAME:nail:NP]', '  [TISSUE_NAME:unghia:NP]  '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[TISSUE_NAME:claw:NP]', '  [TISSUE_NAME:artiglio:NP]  '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[TISSUE_NAME:talon:NP]', '  [TISSUE_NAME:grinfia:NP]  '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[TISSUE_NAME:tooth:NP]', '  [TISSUE_NAME:dente:NP]  '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[PREFSTRING:bright coloration]', '[PREFSTRING:colorazione accesa] '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[PREFSTRING:bright coloration]', '[PREFSTRING:colorazione accesa] '
+
+Error: Wrong tag translation format
+Problematic tag pair: '[DESCRIPTION:A small bird of prey with black markings on its eyes.  It hunts near bodies of water.]', "[DESCRIPTION:Un piccolo rapace con segni neri sugli occhi.  Caccia in prossimità di specchi d'acqua]."
+
+Error: Wrong tag translation format
+Problematic tag pair: '[DESCRIPTION:A small, nocturnal bird of prey with large eyes and protruding feathers.]', '[DESCRIPTION:Un piccolo rapace notturno con grandi occhi e piume sporgenti].'
+
+Error: Wrong tag translation format
+Problematic tag pair: '[DESCRIPTION:A medium-sized semi-aquatic rodent.  It lives in large herds and barks when alarmed.]', '[DESCRIPTION:Un roditore semiacquatico di medie dimensioni.  Vive in grandi gruppi e abbaia quando è allarmato.'
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[TISSUE_NAME:claw:NP]', '  [TISSUE_NAME:artiglio:NP]  '
+
+Error: Part 'CRAFTSMAN' should not be translated
+Problematic tag pair: '[PROFESSION_NAME:CRAFTSMAN:craftsdwarf:craftsdwarves]', '[PROFESSION_NAME:ARTIGIANO:nanoartigiano:naniartigiani]'
+
+Error: Part 'FISHERMAN' should not be translated
+Problematic tag pair: '[PROFESSION_NAME:FISHERMAN:fisherdwarf:fisherdwarves]', '[PROFESSION_NAME:PESCATORE:nanopescatore:nanipescatori]'
+
+Error: Tag parts count mismatch
+Problematic tag pair: '[SEED:muck root seed:muck root seeds:]', '[SEED:seme di radice fangosa:semi di radice fangosa]'
+

@@ -12,7 +12,6 @@ class LanguageInfo(BaseModel):
 
 class SourceInfo(BaseModel):
     project: str
-    resource_name: str
 
 
 class Config(BaseModel):

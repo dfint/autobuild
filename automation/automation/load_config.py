@@ -16,7 +16,7 @@ def load_config(config_path: Path) -> Config:
 def main(config_path: Path) -> None:
     from pprint import pprint
 
-    pprint(load_config(config_path).dict(), width=120)
+    pprint(load_config(config_path).model_dump(), width=120)
 
 
 if __name__ == "__main__":

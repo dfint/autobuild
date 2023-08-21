@@ -1,0 +1,48 @@
+Error: Tag parts count mismatch
+Problematic tag pair: '[CASTE_NAME:giant ostrich cock:giant ostrich cocks:giant ostrich cock]', '[CASTE_NAME:gigantyczny samiec strusia:gigantyczne samce strusia]'
+
+Error: Tag parts count mismatch
+Problematic tag pair: '[RETRACT_INTO_BP:BY_CATEGORY:SHELL:retract into <pro_pos> shell:retracts into <pro_pos> shell:come out of <pro_pos> shell:comes out of <pro_pos> shell]', '[RETRACT_INTO_BP:BY_CATEGORY:SHELL:chowasz się do <pro_pos> muszli:chowa się do <pro_pos> muszli:wychodzisz z<pro_pos> wychodzi z <pro_pos> muszli]'
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[DESCRIPTION:A gigantic reptilian creature.  It is magical and can breathe fire.  These monsters can live for thousands of years.]', '[DESCRIPTION:Gigantyczna jaszczuro-podobna istota. Jest magiczna i może ziać ogniem. Te potwory mogą żyć tysiące lat.]\n\xa0'
+
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:giant cave toad:giant cave toads:giant cave toad]', '[NAME:Gigantyczny drapieżnik-płaz znaleziony pod ziemią.]'
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] '
+
+Error: Wrong tag translation format
+Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:cinnabar]', 'ALL_SOLID: cynober]'
+
+Error: Wrong tag translation format
+Problematic tag pair: '[ALL_NAMES:hair grass]', 'trawa do włosów]'
+
+Error: Wrong tag translation format
+Problematic tag pair: '[ALL_NAMES:bentgrass]', 'miotła]'
+
+Error: Tag parts count mismatch
+Problematic tag pair: '[SEED:plum pit:plum pits:]', '[SEED:nasionko śliwy:nasiona śliwy]'
+
+Error: Wrong tag translation format
+Problematic tag pair: '[ADJ:sweet pod]', '[ADJ:strongowiec cukrowy'
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[NAME:press honey from honeycomb]', '[NAME:wyciśnij miód z plastra miodu] '
+
+Error: Tag parts count mismatch
+Problematic tag pair: '[REAGENT:milk of lime:]', '[REAGENT:mleko wapienne]'
+
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:make quire]', '[NAME:zrób libre:]'
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[NAME:carve bone cabochon]', '[NAME:wyrzęźbiony z kości kaboszon] '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[NAME:carve wooden helve from branch]', '[NAME: wyrzeźbiony drewniany trzonek z gałęzi] '
+

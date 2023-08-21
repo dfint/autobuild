@@ -1,6 +1,5 @@
 source:
   project: dwarf-fortress-steam
-  resource_name: hardcoded_steam
 
 languages:
   - name: Belarusian
