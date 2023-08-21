@@ -5,6 +5,8 @@ An automated repository which builds csv files with a translation for several la
 Ready to use csv files are in the [translation_build](https://github.com/dfint/autobuild/tree/main/translation_build) directory.
 It contains two more directories: `csv` and `csv_with_objects`. The first one contains csv files with text only from `hardcoded` resource on transifex (only text from the exe file of the game). The second one additionaly contains text from the `objects` resource (animals, ores, stones, plants and other things).
 
+Also, next to csv files in the `csv_with_objects` directory there are files with list of errors which were found during processing the objects.po resource file.
+
 To download a file you need to open it (click on it in the file list), then click on "Download raw file" icon button in the top right area of the file area.
 
 Files are encoded in encodings specified in [config.yaml](config.yaml). For some of the languages the encoding is set to utf-8 (even though utf-8 is not supported by df-steam-hook), just to do at least some automation for these languages.
