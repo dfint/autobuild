@@ -14,11 +14,12 @@ strictyaml = "^1.7.3"
 aiofiles = "^23.1.0"
 df-gettext-toolkit = {version = "^0.6.3", source = "dfint"}
 viscii-codec = {version = "^0.1.0", source = "dfint"}
+langcodes = {extras = ["data"], version = "^3.3.0"}
+scour = "^0.38.2"
 
 [tool.poetry.group.dev.dependencies]
 isort = "^5.12.0"
 black = "^23.3.0"
-
 
 [[tool.poetry.source]]
 name = "dfint"
