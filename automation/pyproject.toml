@@ -10,14 +10,20 @@ python = "^3.10"
 typer = "^0.9.0"
 loguru = "^0.7.0"
 pydantic = "^2.0"
-df-gettext-toolkit = {url = "https://github.com/dfint/df-gettext-toolkit/releases/download/0.6.3/df_gettext_toolkit-0.6.3-py3-none-any.whl"}
 strictyaml = "^1.7.3"
-viscii-codec = {url = "https://github.com/dfint/viscii_codec/releases/download/0.1.0/viscii_codec-0.1.0-py3-none-any.whl"}
 aiofiles = "^23.1.0"
+df-gettext-toolkit = {version = "^0.6.3", source = "dfint"}
+viscii-codec = {version = "^0.1.0", source = "dfint"}
 
 [tool.poetry.group.dev.dependencies]
 isort = "^5.12.0"
 black = "^23.3.0"
+
+
+[[tool.poetry.source]]
+name = "dfint"
+url = "https://dfint.github.io/pypi-index/"
+priority = "explicit"
 
 [build-system]
 requires = ["poetry-core"]

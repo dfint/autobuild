@@ -347,12 +347,12 @@ files = [
 
 [[package]]
 name = "df-gettext-toolkit"
-version = "0.6.2"
+version = "0.6.3"
 description = "Toolset to convert text extracted from DF to gettext format and aback"
 optional = false
 python-versions = ">=3.10,<4.0"
 files = [
-    {file = "df_gettext_toolkit-0.6.2-py3-none-any.whl", hash = "sha256:272053f180150664d244078beec37dced27c5c882bcc8cbf8ea18e60b07efd55"},
+    {file = "df_gettext_toolkit-0.6.3-py3-none-any.whl", hash = "sha256:d9e8a3cea18fa72206eff2b0d10fe1afd1dcfa79d4d6436ba4c26cefad885c3d"},
 ]
 
 [package.dependencies]
@@ -365,8 +365,9 @@ typer = ">=0.9.0,<0.10.0"
 Unidecode = ">=1.2.0,<2.0.0"
 
 [package.source]
-type = "url"
-url = "https://github.com/dfint/df-gettext-toolkit/releases/download/0.6.2/df_gettext_toolkit-0.6.2-py3-none-any.whl"
+type = "legacy"
+url = "https://dfint.github.io/pypi-index"
+reference = "dfint"
 
 [[package]]
 name = "idna"
@@ -913,8 +914,9 @@ files = [
 ]
 
 [package.source]
-type = "url"
-url = "https://github.com/dfint/viscii_codec/releases/download/0.1.0/viscii_codec-0.1.0-py3-none-any.whl"
+type = "legacy"
+url = "https://dfint.github.io/pypi-index"
+reference = "dfint"
 
 [[package]]
 name = "webencodings"
@@ -944,4 +946,4 @@ dev = ["black (>=19.3b0)", "pytest (>=4.6.2)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "745314aab08d7330a2d67342a3952ce8215e4488f396df32ddd3ad221ae85711"
+content-hash = "5a76f86aa72a83e86216a91d5590ab6c1f0dca541c2cc0b5168de5451abdd977"
