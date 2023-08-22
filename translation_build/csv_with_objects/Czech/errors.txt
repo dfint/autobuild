@@ -70,15 +70,6 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:peregrine falcon chick:peregrine falc
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[CASTE_NAME:giant kiwi hen:giant kiwi hens:giant kiwi hen]', '[CASTE_NAME:obří kiwi slepice:obří kiwi slepice:obří kiwi slepice]\xa0'
 
-Error: Extra spaces at the beginning or at the end of the translation
-Problematic tag pair: '[STATE_NAME:LIQUID:n/a]', '[STATE_NAME:kapalina:n/a] '
-
-Error: Part 'GAS' should not be translated
-Problematic tag pair: '[STATE_NAME:GAS:n/a]', '[STATE_NAME:plyn:n/a]'
-
-Error: Part 'GAS' should not be translated
-Problematic tag pair: '[STATE_ADJ:GAS:n/a]', '[STATE_ADJ:plyn:n/a]'
-
 Error: Tag parts count mismatch
 Problematic tag pair: '[GROWTH_NAME:candlenut flower:STP]', '[GROWTH_NAME:květ tungovníku]'
 
