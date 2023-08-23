@@ -74,7 +74,7 @@ jobs:
     - name: Generate diagram
       run: |
         cd automation
-        poetry run progress_diagram ../translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.svg
+        poetry run progress_diagram ../translations-backup/translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.svg
 
     - name: Push changes to the repository
       uses: EndBug/add-and-commit@v9.1.3
