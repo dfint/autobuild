@@ -49,28 +49,6 @@ jobs:
         author_name: github-actions[bot]
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
 
-  update-diagram:
-    runs-on: ubuntu-latest
-    needs: process-translations
-
-    steps:
-    - uses: actions/checkout@v3
-
-    - name: Install Poetry
-      run: pipx install poetry
-
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.*
-        cache: "poetry"
-        cache-dependency-path: automation/poetry.lock
-
-    - name: Install library and dependencies
-      run: |
-        cd automation
-        poetry install --no-interaction --no-dev
-
     - name: Generate diagram
       run: |
         cd automation
