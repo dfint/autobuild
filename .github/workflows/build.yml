@@ -15,20 +15,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 60
 
-    strategy:
-      matrix:
-        python-version: ["3.10"]
-
     steps:
     - uses: actions/checkout@v3
 
     - name: Install Poetry
       run: pipx install poetry
 
-    - name: Set up Python ${{ matrix.python-version }}
+    - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: ${{ matrix.python-version }}
+        python-version: 3.*
         cache: "poetry"
         cache-dependency-path: automation/poetry.lock
 
@@ -52,3 +48,38 @@ jobs:
       with:
         author_name: github-actions[bot]
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
+
+  update-diagram:
+    runs-on: ubuntu-latest
+    needs: process-translations
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Install Poetry
+      run: pipx install poetry
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.*
+        cache: "poetry"
+        cache-dependency-path: automation/poetry.lock
+
+    - name: Install library and dependencies
+      run: |
+        cd automation
+        poetry install --no-interaction --no-dev
+
+    - name: Generate diagram
+      run: |
+        cd automation
+        poetry run progress_diagram ../translations-backup/translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.svg
+
+    - name: Push changes to the repository
+      uses: EndBug/add-and-commit@v9.1.3
+      with:
+        author_name: github-actions[bot]
+        author_email: 41898282+github-actions[bot]@users.noreply.github.com
+        add: images/*
+        message: Update progress diagram
