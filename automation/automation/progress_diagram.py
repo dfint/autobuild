@@ -110,9 +110,9 @@ app = typer.Typer()
 
 @app.command()
 def generate_chart(source_dir: Path, output: Path):
-    logger.info(f"source_dir: {source_dir.resolve().absolute()}")
-    logger.info(f"output: {output.resolve().absolute()}")
-    assert source_dir.exists()
+    logger.info(f"source_dir: {source_dir.resolve()}")
+    assert source_dir.resolve().exists()
+    logger.info(f"output: {output.resolve()}")
     output.parent.mkdir(exist_ok=True, parents=True)
 
     dataset, languages, total_lines = prepare_dataset(source_dir)
