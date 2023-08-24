@@ -16,6 +16,12 @@ Problematic tag pair: '[STATE_NAME:LIQUID:giant cave spider venom]', '[STATE_NAM
 Error: Part 'LIQUID' should not be translated
 Problematic tag pair: '[STATE_ADJ:LIQUID:giant cave spider venom]', '[STATE_ADJ:PŁYN:jad gigantycznego pająka jaskiniowego]'
 
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:cave spider venom]', '[STATE_NAME:PŁYN:jad pająka jaskiniowego]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:cave spider venom]', '[STATE_ADJ:PŁYN:jad pająka jaskiniowego]'
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] '
 
