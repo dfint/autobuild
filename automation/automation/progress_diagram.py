@@ -69,11 +69,11 @@ def prepare_chart_data(data: dict[str, dict[str, float]], labels: list[str], max
     )
 
 
-def get_chart(chart_data: dict[str, Any], file_format: str = "png") -> bytes:
+def get_chart(chart_data: dict[str, Any], file_format: str = "png", width: int = 800, height: int = 800) -> bytes:
     url = "https://quickchart.io/chart"
     payload = dict(
-        width=600,
-        height=600,
+        width=width,
+        height=height,
         backgroundColor="rgb(255, 255, 255)",
         format=file_format,
         chart=chart_data,
@@ -109,7 +109,7 @@ app = typer.Typer()
 
 
 @app.command()
-def generate_chart(source_dir: Path, output: Path):
+def generate_chart(source_dir: Path, output: Path, minimal_percent: int = 0, width: int = 800, height: int = 800):
     logger.info(f"source_dir: {source_dir.resolve()}")
     assert source_dir.resolve().exists()
     logger.info(f"output: {output.resolve()}")
@@ -117,6 +117,12 @@ def generate_chart(source_dir: Path, output: Path):
 
     dataset, languages, total_lines = prepare_dataset(source_dir)
     count_by_language = {language: sum(item[language] for item in dataset.values()) for language in languages}
+
+    if minimal_percent:
+        languages = [
+            language for language in languages if count_by_language[language] / total_lines > minimal_percent / 100
+        ]
+
     languages = sorted(languages, key=lambda language: (-count_by_language[language], language))
     logger.info(f"resources={list(dataset.keys())}")
     logger.info(f"{languages=}")
@@ -125,7 +131,7 @@ def generate_chart(source_dir: Path, output: Path):
 
     chart_data = prepare_chart_data(dataset, languages, total_lines)
     file_format = output.suffix[1:]
-    chart = get_chart(chart_data, file_format=file_format)
+    chart = get_chart(chart_data, file_format=file_format, width=width, height=height)
 
     if file_format == "svg":
         chart = minify_svg(chart)
