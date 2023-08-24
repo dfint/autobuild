@@ -53,7 +53,7 @@ jobs:
       run: |
         cd automation
         poetry run progress_diagram ../translations-backup/translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.svg --width=600 --height=600
-        poetry run progress_diagram ../translations-backup/translations/dwarf-fortress-steam ../images/dwarf-fortress-steam-short.svg --minimal-percent=1 --width=600 --height=350
+        poetry run progress_diagram ../translations-backup/translations/dwarf-fortress-steam ../images/dwarf-fortress-steam-short.svg --minimal-percent=1 --width=600 --height=320
 
     - name: Push changes to the repository
       uses: EndBug/add-and-commit@v9.1.3
