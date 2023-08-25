@@ -22,6 +22,15 @@ Problematic tag pair: '[STATE_NAME:LIQUID:cave spider venom]', '[STATE_NAME:PŁY
 Error: Part 'LIQUID' should not be translated
 Problematic tag pair: '[STATE_ADJ:LIQUID:cave spider venom]', '[STATE_ADJ:PŁYN:jad pająka jaskiniowego]'
 
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:dwarven milk]', '[STATE_NAME: LIQUID:mleko krasnoludów]'
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[DESCRIPTION:Magma moving in the shape of a man.  It has a cracked black crust.]', '[DESCRIPTION:Magma poruszająca się w kształcie człowieka. Ma popękaną czarną skórę.]\n\xa0'
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[DESCRIPTION:A large white snake with the arms and torso of a man.  These creatures are evil and live far underground.]', '[DESCRIPTION:Duży biały wąż z rękami i torsem mężczyzny. Te stworzenia są złe i żyją głęboko pod ziemią.]\n\xa0'
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] '
 
