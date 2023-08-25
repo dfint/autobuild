@@ -347,12 +347,12 @@ files = [
 
 [[package]]
 name = "df-gettext-toolkit"
-version = "0.6.4"
+version = "0.6.5"
 description = "Toolset to convert text extracted from DF to gettext format and aback"
 optional = false
 python-versions = ">=3.10,<4.0"
 files = [
-    {file = "df_gettext_toolkit-0.6.4-py3-none-any.whl", hash = "sha256:cd27f6b6de91a85f99d94129b13a632f6202b64a430ec4b4f7c2e1b0f8e4e415"},
+    {file = "df_gettext_toolkit-0.6.5-py3-none-any.whl", hash = "sha256:e06f5132c93df34943bd70a75e4bb74987b173abad4ca482de51b4d637df5790"},
 ]
 
 [package.dependencies]
