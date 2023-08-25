@@ -19,6 +19,9 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:nurse shark pup:nurse shark pups]', '
 Error: Wrong tag translation format
 Problematic tag pair: '[DESCRIPTION:A huge predatory mammal covered in white hair.  It hunts the shores along tundra and glaciers.]', '[DESCRIPTION:Grandega predanta mamulo kovrita kun blanka hararo. Ĝi ĉasas laŭ la bordojn de la tundroj kaj la glaciejoj.}'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:flesh:SINGULAR]', '[TLCM_NOUN:karno:SiNGULAR]'
+
 Error: Wrong tag translation format
 Problematic tag pair: '[DESCRIPTION:A tiny underground creature made of a mass of appendages resembling human fingers.  It creeps across the ground like a starfish and eats with a mouth on the bottom of its body.]', '1[DESCRIPTION:Eta subtera kreatiĵo farita el membromaso simila al homa manfingroj. Ĝi rampas trans la tereno kiel asterio kaj ĝi manĝas per buŝo en la fundo de sia korpo.]'
 

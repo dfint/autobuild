@@ -205,11 +205,41 @@ Problematic tag pair: '[CV_NEW_TAG:GAIT:WALK:Slow Crawl:]', '[CV_NEW_TAG: MOVIME
 Error: Part 'GAIT' should not be translated
 Problematic tag pair: '[CV_NEW_TAG:GAIT:WALK:Creep:]', '[CV_NEW_TAG: MOVIMENTAÇÃO: CAMINHADA: Creep:]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'GAIT' should not be translated
 Problematic tag pair: '[GAIT:WALK:Crawl:]', '[MOVIMENTAÇÃO:CAMINHADA:Crawl:]'
 
 Error: Part 'GAIT' should not be translated
 Problematic tag pair: '[GAIT:CRAWL:Crawl:]', '[MOVIMENTAÇÃO:CRAWL:Crawl:]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Translation should not be empty
 Problematic tag pair: '[NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]', '[NAME:melros vermelho-voados::vermelho-voado melro de asas vermelhas]'
@@ -217,8 +247,110 @@ Problematic tag pair: '[NAME:red-winged blackbird:red-winged blackbirds:red-wing
 Error: Translation should not be empty
 Problematic tag pair: '[CASTE_NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]', '[CASTE_NAME:melros vermelho-voados::vermelho-voado melro de asas vermelhas]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'BEAK' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:BICO:raiz em torno de:raízes em torno de]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'VOCALIZATION' should not be translated
 Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:200:1000:VOCALIZATION:boom:booms:a low boom]', '[SOUND:PEACEFUL_INTERMITTENT:200:1000:VOCALIZAÇÃO:crescimento:booms:um boom baixo]'
@@ -226,8 +358,137 @@ Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:200:1000:VOCALIZATION:boom:b
 Error: Part 'VOCALIZATION' should not be translated
 Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:50:1000:VOCALIZATION:ching:chings:a metallic ching]', '[SOUND:PEACEFUL_INTERMITTENT:50:1000:VOCALIZAÇÃO:ching:Chings:a metálico ching]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Translation should not be empty
 Problematic tag pair: '[CASTE_NAME:peach-faced lovebird woman:peach-faced lovebird women:peach-faced lovebird woman]', '[CASTE_NAME:lovebird mulheres com cara de pêssego::peach-faced lovebird mulher mulher lovebird pêssego-faced]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
 
 Error: Translation should not be empty
 Problematic tag pair: '[NAME:thrips:thrips:thrips]', '[NAME:tripes:tripes tripes:]'
@@ -235,17 +496,104 @@ Problematic tag pair: '[NAME:thrips:thrips:thrips]', '[NAME:tripes:tripes tripes
 Error: Translation should not be empty
 Problematic tag pair: '[CASTE_NAME:thrips:thrips:thrips]', '[CASTE_NAME:tripes:tripes tripes:]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'VERB' should not be translated
 Problematic tag pair: '[CDI:VERB:lick:licks:lick each other]', '[CDI:VERBO:lamba:licks:lamber uns aos outros]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Wrong tag translation format
 Problematic tag pair: '[NAME:horse:horses:equine]', '[NAME:cavalo:cavalos:equino}'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'CHILDNAME' should not be translated
 Problematic tag pair: '[CHILDNAME:bull calf:bull calves]', '[ChildName:bezerro:bezerros]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'STANCE' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_TYPE:STANCE:scratch:scratches]', '[ROOT_AROUND:BY_TYPE:POSIÇÃO:Scratch:arranhões]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Translation should not be empty
 Problematic tag pair: '[GENERAL_CHILD_NAME:duckling:ducklings]', '[GENERAL_CHILD_NAME:patinho patinhos:]'
@@ -253,32 +601,239 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:duckling:ducklings]', '[GENERAL_CHILD
 Error: Part 'BEAK' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:BICO:raiz em torno de:raízes em torno de]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'BEAK' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:BICO:raiz em torno de:raízes em torno de]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Translation should not be empty
 Problematic tag pair: '[CASTE_NAME:yak bull:yak bulls:yak bull]', '[CASTE_NAME:touros iaque::touro yak yak touro]'
 
-Error: Part 'BEAK' should not be translated
-Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:BICO:raiz em torno de:raízes em torno de]'
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'BEAK' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:BICO:raiz em torno de:raízes em torno de]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'BEAK' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:BICO:raiz em torno de:raízes em torno de]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: Part 'BEAK' should not be translated
+Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:BICO:raiz em torno de:raízes em torno de]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'NA' should not be translated
 Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'NA' should not be translated
 Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: marfim]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:ivory]', '[STATE_ADJ: ALL_SOLID: marfim]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: marfim]'
@@ -289,11 +844,71 @@ Problematic tag pair: '[STATE_ADJ:ALL_SOLID:ivory]', '[STATE_ADJ: ALL_SOLID: mar
 Error: Part 'VERB' should not be translated
 Problematic tag pair: '[CDI:VERB:tusk:tusks:are tusking]', '[CDI:VERBO:presa:presas:são tusking]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: marfim]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:ivory]', '[STATE_ADJ: ALL_SOLID: marfim]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'GENERAL_CHILD_NAME' should not be translated
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant wolf pup:giant wolf pups]', '[GERAL_CHILD_NAME:filhote de lobo gigante:filhotes de lobo gigante]'
@@ -304,8 +919,23 @@ Problematic tag pair: '[NAME:groundhog:groundhogs:groundhog]', '[NAME:groundhog 
 Error: Translation should not be empty
 Problematic tag pair: '[CASTE_NAME:groundhog:groundhogs:groundhog]', '[CASTE_NAME:groundhog groundhogs::groundhog]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'GENERAL_CHILD_NAME' should not be translated
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant groundhog pup:giant groundhog pups]', '[GERAL_CHILD_NAME:filhote de marmota gigante:filhotes de marmota gigante]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'ALERT' should not be translated
 Problematic tag pair: '[SOUND:ALERT:100:1000:VOCALIZATION:bark:barks:a loud bark]', '[SOUND:ALERTA:100:1000:VOCALIZAÇÃO:Casca:latidos:um latido alto]'
@@ -322,6 +952,12 @@ Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:purr:pu
 Error: Part '10000' should not be translated
 Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:25:10000:NONE:click:clicks:a click]', '[SOUND:PEACEFUL_INTERMITTENT:25:10,000:NONE:clique:cliques:um clique]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'ALERT' should not be translated
 Problematic tag pair: '[SOUND:ALERT:200:1000:VOCALIZATION:bark:barks:a resounding bark]', '[SOUND:ALERTA:200:1000:VOCALIZAÇÃO:Casca:latidos:a casca retumbante]'
 
@@ -337,14 +973,35 @@ Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:purr:pu
 Error: Part '10000' should not be translated
 Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:50:10000:NONE:click:clicks:a loud click]', '[SOUND:PEACEFUL_INTERMITTENT:50:10,000:NONE:clique:cliques:um clique alto]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'VERB' should not be translated
 Problematic tag pair: '[CDI:VERB:lick:licks:lick each other]', '[CDI:VERBO:lamba:licks:lamber uns aos outros]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: marfim]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:ivory]', '[STATE_ADJ: ALL_SOLID: marfim]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[NAME:elephant man:elephant men:elephant man]', '[NAME:homem elefante:homens elefante:homem elefante] '
@@ -355,14 +1012,230 @@ Problematic tag pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: m
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:ivory]', '[STATE_ADJ: ALL_SOLID: marfim]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Translation should not be empty
 Problematic tag pair: '[CASTE_NAME:gazelle:gazelles:gazelle]', '[CASTE_NAME:gazela:gazela gazelas:]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'GAS' should not be translated
 Problematic tag pair: '[STATE_ADJ:GAS:boiling two-humped camel cheese]', '[STATE_ADJ:queijo de camelo ferver duas corcovas:GAS]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:giant elk:giant elk:giant elk]', '[CASTE_NAME:alce gigante:alce gigante:alce gigante:]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'VERB' should not be translated
 Problematic tag pair: '[CDI:VERB:spit a glob of molten rock:spits a glob of molten rock:NA]', '[CDI:VERBO:cuspir uma bola de rocha derretida:cospe uma bola de rocha derretida:NA]'
@@ -373,11 +1246,71 @@ Problematic tag pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: m
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:ivory]', '[STATE_ADJ: ALL_SOLID: marfim]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'GAIT' should not be translated
 Problematic tag pair: '[GAIT:WALK:Creep:]', '[MOVIMENTAÇÃO:CAMINHADA:Creep:]'
 
 Error: Part 'GAIT' should not be translated
 Problematic tag pair: '[GAIT:CRAWL:Creep:]', '[MOVIMENTAÇÃO:CRAWL:Creep:]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: marfim]'
@@ -388,14 +1321,65 @@ Problematic tag pair: '[STATE_ADJ:ALL_SOLID:ivory]', '[STATE_ADJ: ALL_SOLID: mar
 Error: Part 'NA' should not be translated
 Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'VERB' should not be translated
 Problematic tag pair: '[CDI:VERB:spray a stream of steaming juice:sprays a stream of steaming juice:NA]', '[CDI:VERBO:pulverizar um fluxo de suco de vapor:sprays um fluxo de suco de vapor:NA]'
 
-Error: Part 'VERB' should not be translated
-Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:NA]', '[CDI:VERBO:esguicho de tinta:jacto de tinta:NA]'
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'VERB' should not be translated
 Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:NA]', '[CDI:VERBO:esguicho de tinta:jacto de tinta:NA]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: Part 'VERB' should not be translated
+Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:NA]', '[CDI:VERBO:esguicho de tinta:jacto de tinta:NA]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'GAIT' should not be translated
 Problematic tag pair: '[GAIT:WALK:Stumble Bumble:]', '[MOVIMENTAÇÃO:CAMINHADA:Tropeço Bumble:]'
@@ -409,8 +1393,50 @@ Problematic tag pair: '[GAIT:CRAWL:Crawl:]', '[MOVIMENTAÇÃO:CRAWL:Crawl:]'
 Error: Part 'GAIT' should not be translated
 Problematic tag pair: '[GAIT:CLIMB:Climb:]', '[MOVIMENTAÇÃO:ESCALADA:Subida:]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part '10' should not be translated
 Problematic tag pair: '[VERMIN_BITE:10:bitten:]', '[VERMIN_BITE: 10: mordido:]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Translation should not be empty
 Problematic tag pair: '[CASTE_NAME:pond turtle man:pond turtle men:pond turtle man]', '[CASTE_NAME:homens Turtle Pond::Homem Turtle Pond homem tartaruga lagoa]'
@@ -418,20 +1444,104 @@ Problematic tag pair: '[CASTE_NAME:pond turtle man:pond turtle men:pond turtle m
 Error: Translation should not be empty
 Problematic tag pair: '[NAME:pond turtle man:pond turtle men:pond turtle man]', '[NAME:homens Turtle Pond::Homem Turtle Pond homem tartaruga lagoa]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A person with the head and fur of a hamster.]', '[DESCRPTION:Uma pessoa com a cabeça e pele de um hamster.]'
 
 Error: Part 'BY_CATEGORY' should not be translated
 Problematic tag pair: '[RETRACT_INTO_BP:BY_CATEGORY:BODY_UPPER:roll into a ball:rolls into a ball:unroll:unrolls]', '[RETRACT_INTO_BP: BY_CATEGORY: BODY_UPPER: Rolo em uma bola: rolos em uma bola: desenrole: desenrola]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'GENERAL_CHILD_NAME' should not be translated
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant red squirrel pup:giant red squirrel pups]', '[NAME:filhote de esquilo vermelho gigante:filhotes de esquilos vermelhos gigantes]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'VERB' should not be translated
 Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:NA]', '[CDI:VERBO:esguicho de tinta:jacto de tinta:NA]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'NA' should not be translated
 Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
 
 Error: Part 'BABYNAME' should not be translated
 Problematic tag pair: '[BABYNAME:dwarven baby:dwarven babies]', '[BabyName:bebê anão:bebês anões]'
@@ -454,26 +1564,197 @@ Problematic tag pair: '[PROFESSION_NAME:AXEMAN:axedwarf:axedwarves]', '[PROFESSI
 Error: Part 'PIKEMAN' should not be translated
 Problematic tag pair: '[PROFESSION_NAME:PIKEMAN:pikedwarf:pikedwarves]', '[PROFESSION_NAME:Piqueiro:pikedwarf:pikedwarves]'
 
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:beard:SINGULAR]', '[TSU_NOUN: barba: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:moustache:SINGULAR]', '[TSU_NOUN: bigode: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:sideburns:PLURAL]', '[TSU_NOUN: costeletas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:skin:SINGULAR]', '[APP_MOD_NOUN: pele: SINGULAR]'
 
 Error: Part 'NA' should not be translated
 Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
 
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:beard:SINGULAR]', '[TSU_NOUN: barba: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:moustache:SINGULAR]', '[TSU_NOUN: bigode: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:sideburns:PLURAL]', '[TSU_NOUN: costeletas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:skin:SINGULAR]', '[APP_MOD_NOUN: pele: SINGULAR]'
 
 Error: Part 'NA' should not be translated
 Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'NA' should not be translated
 Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: Part 'NA' should not be translated
+Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:skin:SINGULAR]', '[APP_MOD_NOUN: pele: SINGULAR]'
+
+Error: Part 'NA' should not be translated
+Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: marfim]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:ivory]', '[STATE_ADJ: ALL_SOLID: marfim]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[NAME:satyr:satyrs:satyr]', '[NAME:Sátiro; sátiros:sátiro]'
@@ -484,23 +1765,302 @@ Problematic tag pair: '[CASTE_NAME:satyr:satyrs:satyr]', '[CASTE_NAME:Sátiro; s
 Error: Part 'NA' should not be translated
 Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
 
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:beard:SINGULAR]', '[TSU_NOUN: barba: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:moustache:SINGULAR]', '[TSU_NOUN: bigode: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:sideburns:PLURAL]', '[TSU_NOUN: costeletas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'NA' should not be translated
 Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
 
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:beard:SINGULAR]', '[TSU_NOUN: barba: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:moustache:SINGULAR]', '[TSU_NOUN: bigode: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:sideburns:PLURAL]', '[TSU_NOUN: costeletas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'NA' should not be translated
 Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
 
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:eye:SINGULAR]', '[APP_MOD_NOUN: Olho: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:eyebrow:SINGULAR]', '[APP_MOD_NOUN: sobrancelha: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:beard:SINGULAR]', '[TSU_NOUN: barba: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:moustache:SINGULAR]', '[TSU_NOUN: bigode: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:sideburns:PLURAL]', '[TSU_NOUN: costeletas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'NA' should not be translated
 Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:beard:SINGULAR]', '[TSU_NOUN: barba: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:moustache:SINGULAR]', '[TSU_NOUN: bigode: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:sideburns:PLURAL]', '[TSU_NOUN: costeletas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: Part 'NA' should not be translated
+Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: Part 'NA' should not be translated
+Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: Part 'NA' should not be translated
+Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:beard:SINGULAR]', '[TSU_NOUN: barba: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:moustache:SINGULAR]', '[TSU_NOUN: bigode: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TSU_NOUN:sideburns:PLURAL]', '[TSU_NOUN: costeletas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:skin:SINGULAR]', '[APP_MOD_NOUN: pele: SINGULAR]'
 
 Error: Part 'CHILDNAME' should not be translated
 Problematic tag pair: '[CHILDNAME:sea serpent hatchling:sea serpent hatchlings]', '[ChildName: serpente hatchling mar: filhotes de serpente de mar]'
@@ -508,11 +2068,71 @@ Problematic tag pair: '[CHILDNAME:sea serpent hatchling:sea serpent hatchlings]'
 Error: Part 'CHILDNAME' should not be translated
 Problematic tag pair: '[CHILDNAME:sea monster hatchling:sea monster hatchlings]', '[ChildName: monstro hatchling mar: filhotes monstro de mar]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:nose bridge:SINGULAR]', '[APP_MOD_NOUN: ponte do nariz: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:ears:PLURAL]', '[APP_MOD_NOUN: Orelhas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[APP_MOD_NOUN:teeth:PLURAL]', '[APP_MOD_NOUN: Dentes: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'ADV_NAME' should not be translated
 Problematic tag pair: '[CDI:ADV_NAME:Hurl fireball]', '[CDI: ADV_NAME: arremessar bola de fogo]'
 
 Error: Part 'ADV_NAME' should not be translated
 Problematic tag pair: '[CDI:ADV_NAME:Spray jet of fire]', '[CDI: ADV_NAME: Pulverizador jato de fogo]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'ADV_NAME' should not be translated
 Problematic tag pair: '[CDI:ADV_NAME:Spray web]', '[CDI: ADV_NAME: Pulverizador web]'
@@ -523,6 +2143,9 @@ Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen giant cave spider venom]', '
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen giant cave spider venom]', '[STATE_ADJ: ALL_SOLID: gigante congelado veneno da aranha caverna]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen cave spider venom]', '[STATE_NAME: ALL_SOLID: caverna congelado aranha veneno]'
 
@@ -532,6 +2155,15 @@ Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen cave spider venom]', '[STATE_
 Error: Part '10' should not be translated
 Problematic tag pair: '[VERMIN_BITE:10:bitten:]', '[VERMIN_BITE: 10: mordido:]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
 Error: Part 'ALL' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL:liquid fire]', '[STATE_NAME: ALL: fogo líquido]'
 
@@ -540,6 +2172,18 @@ Problematic tag pair: '[STATE_ADJ:ALL:liquid fire]', '[STATE_ADJ: ALL: fogo líq
 
 Error: Part '10' should not be translated
 Problematic tag pair: '[VERMIN_BITE:10:bitten:]', '[VERMIN_BITE: 10: mordido:]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen dwarven milk]', '[STATE_NAME: ALL_SOLID: leite congelado anão]'
@@ -577,17 +2221,50 @@ Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen iron man gas]', '[STATE_NAME
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:frozen iron man gas]', '[STATE_NAME_ADJ: ALL_SOLID: Homem de ferro gás congelado]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen serpent man venom]', '[STATE_NAME: ALL_SOLID: Homem veneno serpente congelados]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen serpent man venom]', '[STATE_ADJ: ALL_SOLID: Homem veneno serpente congelados]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: marfim]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:ivory]', '[STATE_ADJ: ALL_SOLID: marfim]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Translation should not be empty
 Problematic tag pair: '[NAME:kangaroo:kangaroos:kangaroo]', '[NAME: canguru: cangurus canguru:]'
@@ -610,14 +2287,65 @@ Problematic tag pair: '[STATE_NAME:SOLID_POWDER:kangaroo cheese powder]', '[STAT
 Error: Part 'SOLID_POWDER' should not be translated
 Problematic tag pair: '[STATE_ADJ:SOLID_POWDER:kangaroo cheese powder]', '[STATE_ADJ: SOLID_POWDER: canguru queijo em pó]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'BY_CATEGORY' should not be translated
 Problematic tag pair: '[RETRACT_INTO_BP:BY_CATEGORY:BODY_UPPER:roll into a ball:rolls into a ball:unroll:unrolls]', '[RETRACT_INTO_BP: BY_CATEGORY: BODY_UPPER: Rolo em uma bola: rolos em uma bola: desenrole: desenrola]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Translation should not be empty
 Problematic tag pair: '[CASTE_NAME:porcupine:porcupines:porcupine]', '[CASTE_NAME: porco-espinho: porcos-espinhos de porco-espinho:]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:bobcat:bobcats:bobcat]', '[CASTE_NAME: Bobcat: Bobcat linces]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen rattlesnake venom]', '[STATE_NAME: ALL_SOLID: congelado veneno de cascavel]'
@@ -625,11 +2353,59 @@ Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen rattlesnake venom]', '[STATE
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen rattlesnake venom]', '[STATE_ADJ: ALL_SOLID: congelado veneno de cascavel]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen copperhead snake venom]', '[STATE_NAME: ALL_SOLID: copperhead congelado veneno de serpente]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen copperhead snake venom]', '[STATE_ADJ: ALL_SOLID: copperhead congelado veneno de serpente]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen king cobra venom]', '[STATE_NAME: ALL_SOLID: rei congelada veneno de cobra]'
@@ -637,14 +2413,62 @@ Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen king cobra venom]', '[STATE_
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen king cobra venom]', '[STATE_ADJ: ALL_SOLID: rei congelada veneno de cobra]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Part 'BY_CATEGORY' should not be translated
 Problematic tag pair: '[RETRACT_INTO_BP:BY_CATEGORY:BODY_UPPER:roll into a ball:rolls into a ball:unroll:unrolls]', '[RETRACT_INTO_BP: BY_CATEGORY: BODY_UPPER: Rolo em uma bola: rolos em uma bola: desenrole: desenrola]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:scales:SINGULAR]', '[TLCM_NOUN: Escalas: SINGULAR]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen black mamba venom]', '[STATE_NAME: ALL_SOLID: congelado mamba negra veneno]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen black mamba venom]', '[STATE_ADJ: ALL_SOLID: congelado mamba negra veneno]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen bushmaster venom]', '[STATE_NAME: ALL_SOLID: congelado veneno bushmaster]'
@@ -673,11 +2497,47 @@ Problematic tag pair: '[STATE_NAME:SOLID_POWDER:tapir cheese powder]', '[STATE_N
 Error: Part 'SOLID_POWDER' should not be translated
 Problematic tag pair: '[STATE_ADJ:SOLID_POWDER:tapir cheese powder]', '[STATE_ADJ: SOLID_POWDER: tapir queijo em pó]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
 Error: Translation should not be empty
 Problematic tag pair: '[NAME:impala:impalas:impala]', '[NAME: impala impalas:: Impala]'
 
 Error: Translation should not be empty
 Problematic tag pair: '[CASTE_NAME:impala:impalas:impala]', '[CASTE_NAME: impala impalas:: Impala]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Part '10' should not be translated
 Problematic tag pair: '[SQUAD:10:soldier:soldiers]', '[SQUAD: 10: soldado: soldados]'

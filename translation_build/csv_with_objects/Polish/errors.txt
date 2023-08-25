@@ -1,5 +1,11 @@
-Error: Tag parts count mismatch
-Problematic tag pair: '[CASTE_NAME:giant ostrich cock:giant ostrich cocks:giant ostrich cock]', '[CASTE_NAME:gigantyczny samiec strusia:gigantyczne samce strusia]'
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:belly:SINGULAR]', '[TLCM_NOUN:brzuch: SINGULAR]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN:chityna:POJEDYNCZA]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:eyes:PLURAL]', '[TLCM_NOUN:oczy:WIELE]'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[RETRACT_INTO_BP:BY_CATEGORY:SHELL:retract into <pro_pos> shell:retracts into <pro_pos> shell:come out of <pro_pos> shell:comes out of <pro_pos> shell]', '[RETRACT_INTO_BP:BY_CATEGORY:SHELL:chowasz się do <pro_pos> muszli:chowa się do <pro_pos> muszli:wychodzisz z<pro_pos> wychodzi z <pro_pos> muszli]'
@@ -16,11 +22,20 @@ Problematic tag pair: '[STATE_NAME:LIQUID:giant cave spider venom]', '[STATE_NAM
 Error: Part 'LIQUID' should not be translated
 Problematic tag pair: '[STATE_ADJ:LIQUID:giant cave spider venom]', '[STATE_ADJ:PŁYN:jad gigantycznego pająka jaskiniowego]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN:chityna:POJEDYNCZA]'
+
 Error: Part 'LIQUID' should not be translated
 Problematic tag pair: '[STATE_NAME:LIQUID:cave spider venom]', '[STATE_NAME:PŁYN:jad pająka jaskiniowego]'
 
 Error: Part 'LIQUID' should not be translated
 Problematic tag pair: '[STATE_ADJ:LIQUID:cave spider venom]', '[STATE_ADJ:PŁYN:jad pająka jaskiniowego]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN:chityna:POJEDYNCZA]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN:chityna:POJEDYNCZA]'
 
 Error: Part 'LIQUID' should not be translated
 Problematic tag pair: '[STATE_NAME:LIQUID:dwarven milk]', '[STATE_NAME: LIQUID:mleko krasnoludów]'
@@ -36,6 +51,12 @@ Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] 
 
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] '
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN:skóra:POJEDYNCZY]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:eyes:PLURAL]', '[TLCM_NOUN:oczy:WIELE]'
 
 Error: Wrong tag translation format
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:cinnabar]', 'ALL_SOLID: cynober]'

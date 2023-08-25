@@ -178,6 +178,18 @@ Problematic tag pair: '[STATE_ADJ:LIQUID:platypus venom]', '[STATE_ADJ:LIQUID\\:
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant alligator hatchling:giant alligator hatchlings]', '[GENERAL_CHILD_NAME:alligator géant nouveau-né:alligators géants nouveau-nés:alligator géant nouveau-né]'
 
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:hair around the eyes:SINGULAR]', '[TLCM_NOUN:cheveux autour des yeux:SINGULIER]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:ears:PLURAL]', '[TLCM_NOUN:oreilles:PLURIEL]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:upper body:SINGULAR]', '[TLCM_NOUN:haut du corps:SINGULIER]'
+
+Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Problematic tag pair: '[TLCM_NOUN:other hair:SINGULAR]', '[TLCM_NOUN:autres cheveux: SINGULIER]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant moose calf:giant moose calves]', '[GENERAL_CHILD_NAME:jeune élan géant:jeunes élans géants:jeune élan géant]'
 
