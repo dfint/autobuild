@@ -19,7 +19,7 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:nurse shark pup:nurse shark pups]', '
 Error: Wrong tag translation format
 Problematic tag pair: '[DESCRIPTION:A huge predatory mammal covered in white hair.  It hunts the shores along tundra and glaciers.]', '[DESCRIPTION:Grandega predanta mamulo kovrita kun blanka hararo. Ĝi ĉasas laŭ la bordojn de la tundroj kaj la glaciejoj.}'
 
-Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 Problematic tag pair: '[TLCM_NOUN:flesh:SINGULAR]', '[TLCM_NOUN:karno:SiNGULAR]'
 
 Error: Wrong tag translation format

@@ -1,10 +1,10 @@
-Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 Problematic tag pair: '[TLCM_NOUN:belly:SINGULAR]', '[TLCM_NOUN:brzuch: SINGULAR]'
 
-Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN:chityna:POJEDYNCZA]'
 
-Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 Problematic tag pair: '[TLCM_NOUN:eyes:PLURAL]', '[TLCM_NOUN:oczy:WIELE]'
 
 Error: Tag parts count mismatch
@@ -22,7 +22,7 @@ Problematic tag pair: '[STATE_NAME:LIQUID:giant cave spider venom]', '[STATE_NAM
 Error: Part 'LIQUID' should not be translated
 Problematic tag pair: '[STATE_ADJ:LIQUID:giant cave spider venom]', '[STATE_ADJ:PŁYN:jad gigantycznego pająka jaskiniowego]'
 
-Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN:chityna:POJEDYNCZA]'
 
 Error: Part 'LIQUID' should not be translated
@@ -31,10 +31,10 @@ Problematic tag pair: '[STATE_NAME:LIQUID:cave spider venom]', '[STATE_NAME:PŁY
 Error: Part 'LIQUID' should not be translated
 Problematic tag pair: '[STATE_ADJ:LIQUID:cave spider venom]', '[STATE_ADJ:PŁYN:jad pająka jaskiniowego]'
 
-Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN:chityna:POJEDYNCZA]'
 
-Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN:chityna:POJEDYNCZA]'
 
 Error: Part 'LIQUID' should not be translated
@@ -52,10 +52,10 @@ Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] 
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] '
 
-Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN:skóra:POJEDYNCZY]'
 
-Error: ('SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR',)
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 Problematic tag pair: '[TLCM_NOUN:eyes:PLURAL]', '[TLCM_NOUN:oczy:WIELE]'
 
 Error: Wrong tag translation format
