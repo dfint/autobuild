@@ -1,4 +1,4 @@
-Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:belly:SINGULAR]', '[TLCM_NOUN:brzuch: SINGULAR]'
 
 Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
@@ -37,7 +37,7 @@ Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN:chityna:POJEDYN
 Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN:chityna:POJEDYNCZA]'
 
-Error: Part 'LIQUID' should not be translated
+Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[STATE_NAME:LIQUID:dwarven milk]', '[STATE_NAME: LIQUID:mleko krasnoludów]'
 
 Error: Extra spaces at the beginning or at the end of the translation

@@ -19,7 +19,7 @@ Problematic tag pair: '[NAME:barn owl man:barn owl men:barn owl man]', '[CASTE_N
 Error: Wrong tag translation format
 Problematic tag pair: '[DESCRIPTION:A tiny parrot found in flocks of many hundreds.  Exceptional birds can be taught to speak.]', '[DESCRIPTION:수백 마리씩 무리 지어 다니는 작은 앵무새. 말할 수 있는 것으로 생각 되는 특별한 새이다.'
 
-Error: Part 'PEACEFUL_INTERMITTENT' should not be translated
+Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:50:1000:VOCALIZATION:ching:chings:a metallic ching]', '[SOUND:\nPEACEFUL_INTERMITTENT:50:1000:VOCALIZATION:칭:칭:금속성 칭]'
 
 Error: Part 'CASTE_NAME' should not be translated
