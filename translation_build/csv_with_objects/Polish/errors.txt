@@ -53,6 +53,9 @@ Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[DESCRIPTION:A medium-sized snake that lives in the trees.  It eats prey much larger than itself and slays them by crushing them to death.]', '[DESCRIPTION:Średniej wielkości wąż żyjący na drzewach. Zjada ofiarę znacznie większą od siebie i zabija ją, miażdżąc ją na śmierć.]\n\xa0'
 
 Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[DESCRIPTION:A medium-sized reptile.  They can be found foraging for food such as eggs or worms.  They are said to be the most intelligent of their kind.]', '[DESCRIPTION:Gad średniej wielkości. Można je znaleźć w poszukiwaniu pożywienia, takiego jak jaja lub robaki. Mówi się, że są najinteligentniejszymi w swoim rodzaju.]\n\xa0'
+
+Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] '
 
 Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
