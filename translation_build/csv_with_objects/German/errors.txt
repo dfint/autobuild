@@ -4,11 +4,77 @@ Problematic tag pair: '[BP:RRTOE1:first right toe:STP]', '[BP:RRZEH1:erst recht 
 Error: Tag parts count mismatch
 Problematic tag pair: '[BP:RRTOE4:fourth right toe:STP]', '[BP:RRTOE4Vierter Rechter Zeh: STP]'
 
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:HUMP1:front hump:STP]', '[BP:HUMP1:vorderer Höcker: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:HUMP2:rear hump:STP]', '[BP:HUMP2:hinterer Höcker: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:L_CHEEK:left cheek:STP]', '[BP:L_CHEEK:linke Wange: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:R_CHEEK:right cheek:STP]', '[BP:R_CHEEK:rechte Wange: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:L_EYELID:left eyelid:STP]', '[BP:L_EYELID:linkes Augenlid: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:L_LIP:lower lip:STP]', '[BP:L_LIP:Unterlippe: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:U_LIP:upper lip:STP]', '[BP:U_LIP:Oberlippe: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:L_CHEEK:left cheek:STP]', '[BP:L_CHEEK:linke Wange: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:R_CHEEK:right cheek:STP]', '[BP:R_CHEEK:rechte Wange: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:L_EYELID:left eyelid:STP]', '[BP:L_EYELID:linkes Augenlid: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:L_LIP:lower lip:STP]', '[BP:L_LIP:Unterlippe: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:U_LIP:upper lip:STP]', '[BP:U_LIP:Oberlippe: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:RL_INCISOR:right lower incisor:STP]', '[BP:RL_INCISOR:rechter unteren Schneidezahn: STP]'
+
 Error: Part 'L_L_B_TOOTH' should not be translated
 Problematic tag pair: '[BP:L_L_B_TOOTH:lower left back tooth:lower left back teeth]', '[BP:L_R_B_TOOTH:unterer linker Backenzahn:untere linke Backenzähne]'
 
 Error: Part 'LOWER_BODY_STINGER' should not be translated
 Problematic tag pair: '[BP:LOWER_BODY_STINGER:stinger:STP]', '[BP:TAIL_1:left tail:STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:HEAD_HORN_3:third horn:STP]', '[BP:HEAD_HORN_3:drittes\n Horn: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:HEAD_HORN_3:third horn:STP]', '[BP:HEAD_HORN_3:drittes\n Horn: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:HEAD_HORN_4:fourth horn:STP]', '[BP:HEAD_HORN_4:viertes Horn: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:L_CHEEK:left cheek:STP]', '[BP:L_CHEEK:linke Wange: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:R_CHEEK:right cheek:STP]', '[BP:R_CHEEK:rechte Wange: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:L_LIP:lower lip:STP]', '[BP:L_LIP:Unterlippe: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:U_LIP:upper lip:STP]', '[BP:U_LIP:Oberlippe: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:L_EYELID:left eyelid:STP]', '[BP:L_EYELID:linkes Augenlid: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[BP:L_EYELID:left eyelid:STP]', '[BP:L_EYELID:linkes Augenlid: STP]'
 
 Error: Part 'RCP_GLOSS_HOOF' should not be translated
 Problematic tag pair: '[BODYGLOSS:RCP_GLOSS_HOOF:foot:hoof:feet:hooves]', '[BODYGLOSS:HOOF:Fuß:Huf:Füße:Hufe]'
@@ -16,8 +82,11 @@ Problematic tag pair: '[BODYGLOSS:RCP_GLOSS_HOOF:foot:hoof:feet:hooves]', '[BODY
 Error: Part 'RCP_GLOSS_PAW' should not be translated
 Problematic tag pair: '[BODYGLOSS:RCP_GLOSS_PAW:foot:paw:feet:paws]', '[BODYGLOSS:PAW:Fuß:Pfote:Füße:Pfoten]'
 
-Error: Part 'HEAD_ANTLER_2' should not be translated
+Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[BP:HEAD_ANTLER_2:right antler:STP]', '[BP:HEAD_ANTLER_2\n:rechte Geweihstange:STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[TISSUE_NAME:hoof:NP]', '[TISSUE_NAME: Huf: NP]'
 
 Error: Wrong tag translation format
 Problematic tag pair: '[TOOLTIP:Use tallow (rendered fat) or oil here with lye to make soap.]', '[TOOLTIP: Verwenden hier Talg (geschmolzenes Fett) oder Öl mit Lauge, um Seife herzustellen].'
@@ -364,14 +433,35 @@ Problematic tag pair: '[STATE_NAME:LIQUID:none]', '[STATE_NAME:LIQUIDkeine]'
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:bitter vetch seed:bitter vetch seeds:]', '[SEED:Bitterwicken Samen:Bitterwicken Samen]'
 
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:pendant amaranth inflorescence:STP]', '[GROWTH_NAME:hängender Amaranth-Blütenstand: STP]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:foxtail millet:foxtail millet:]', '[SEED:Fuchsschwanz Hirse:Fuchsschwanz Hirse]'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:flax seed:flax seeds:]', '[SEED:Flachs Samen:Flachs Samen]'
 
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:jute flower:STP]', '[GROWTH_NAME:Jute Blüte: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:cucumber flower:STP]', '[GROWTH_NAME:Gurkenblüte: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:pebble plant bud:STP]', '[GROWTH_NAME:Kieselpflanzenknospe: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:pebble plant flower:STP]', '[GROWTH_NAME:Kieselpflanzenblume: STP]'
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[NAME:banana tree]', '[NAME:Bananenbaum] '
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:carambola flower:STP]', '[GROWTH_NAME:Karambolenblüte: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:cashew flower:STP]', '[GROWTH_NAME:Cashewblüte: STP]'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:paradise nut:paradise nuts:]', '[SEED:Paradiesnuss:Paradiesnüsse]'
@@ -394,6 +484,9 @@ Problematic tag pair: '[GROWTH_NAME:finger lime flower:STP]', '[GROWTH_NAME:Fing
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:round lime seed:round lime seeds:]', '[SEED:Rundlinden-Samen:Rundlinden-Samen]'
 
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:lychee flower:STP]', '[GROWTH_NAME:Litschiblüte: STP]'
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[NAME_PLURAL:olive trees]', '[NAME_PLURAL:Olivenbäume] '
 
@@ -403,11 +496,35 @@ Problematic tag pair: '[NAME_PLURAL:apple trees]', '[NAME_PLURAL:Apfelbäume] '
 Error: Tag parts count mismatch
 Problematic tag pair: '[ADJ:apricot tree]', '[ADJ::Aprikosenbaum]'
 
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:apricot flower:STP]', '[GROWTH_NAME:Aprikosenblüte: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:peach flower:STP]', '[GROWTH_NAME:Pfirsichblüte: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:pear flower:STP]', '[GROWTH_NAME:Birnenblüte: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:persimmon flower:STP]', '[GROWTH_NAME:Kakiblüte: STP]'
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:rat weed seed:rat weed seeds:]', '[SEED:Rattenkrautsamen:Rattenkrautsamen]'
 
 Error: Part 'ALL_SOLID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:sliver dye]', '[STATE_NAME_ADJ:ALLE FESTSTOFFE: Silberfarbstoff]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:oak flower cluster:STP]', '[GROWTH_NAME:Eichenblütentraube: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:maple flower cluster:STP]', '[GROWTH_NAME:Ahorn Blütenhaufen: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:feather tree egg:STP]', '[GROWTH_NAME:Federbaum-Ei: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:highwood flower:STP]', '[GROWTH_NAME:Hochholzblume: STP]'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[GROWTH_NAME:coconut palm frond blade:coconut palm frond blades]', '[GROWTH_NAME:Kokospalmenblattwedel:Kokospalmenblattwedel:Kokospalmenblattwedel]'

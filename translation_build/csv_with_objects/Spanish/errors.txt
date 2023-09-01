@@ -388,6 +388,21 @@ Problematic tag pair: '[STATE_NAME_ADJ:SOLID_PASTE:hemp seed paste]', '[STATE_NA
 Error: Part 'SOLID_PASTE' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:SOLID_PASTE:cotton seed paste]', '[STATE_NAME_ADJ:ALL_SOLID: pasta de semilla de algodón]'
 
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:chickpea pod:STP]', '[GROWTH_NAME: pod de garbanzo: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:cowpea flower:STP]', '[GROWTH_NAME: flor de caupí: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:garlic flower:STP]', '[GROWTH_NAME: flor de ajo: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:garlic bulb:STP]', '[GROWTH_NAME: bulbo de ajo: STP]'
+
+Error: Don't add extra spaces at the beginning or at the end of a tag part
+Problematic tag pair: '[GROWTH_NAME:abaca flower:STP]', '[GROWTH_NAME:flor de abacá: STP]'
+
 Error: Wrong tag translation format
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:almond wood]', '[STATE_ADJ:ALL_SOLID:de madera de almendro'
 
