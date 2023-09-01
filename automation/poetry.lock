@@ -346,13 +346,13 @@ files = [
 ]
 
 [[package]]
-name = "df-gettext-toolkit"
+name = "df-translation-toolkit"
 version = "0.6.6"
-description = "Toolset to convert text extracted from DF to gettext format and aback"
+description = "Toolset to convert text extracted from DF to translation format and aback"
 optional = false
 python-versions = ">=3.10,<4.0"
 files = [
-    {file = "df_gettext_toolkit-0.6.6-py3-none-any.whl", hash = "sha256:e427195a7794b516c49992f9316fa8535e6c5a84504e5e8027ded71713d687b1"},
+    {file = "df_translation_toolkit-0.6.6-py3-none-any.whl", hash = "sha256:e427195a7794b516c49992f9316fa8535e6c5a84504e5e8027ded71713d687b1"},
 ]
 
 [package.dependencies]

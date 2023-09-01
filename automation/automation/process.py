@@ -5,8 +5,8 @@ from pathlib import Path
 from typing import Optional
 
 import aiofiles
-import df_gettext_toolkit.convert.hardcoded_po_to_csv
-import df_gettext_toolkit.convert.objects_po_to_csv
+import df_translation_toolkit.convert.hardcoded_po_to_csv
+import df_translation_toolkit.convert.objects_po_to_csv
 import typer
 import viscii_codec
 from loguru import logger
@@ -35,14 +35,14 @@ async def load_file(language_code: str, resource_name: str, config: Config) -> b
 async def convert_hardcoded(po_data: bytes) -> str:
     po_data = io.StringIO(po_data.decode(encoding="utf-8"))
     result = io.StringIO(newline="")
-    await asyncio.to_thread(df_gettext_toolkit.convert.hardcoded_po_to_csv.convert, po_data, result)
+    await asyncio.to_thread(df_translation_toolkit.convert.hardcoded_po_to_csv.convert, po_data, result)
     return result.getvalue()
 
 
 async def convert_objects(po_data: bytes, errors_file) -> str:
     po_data = io.StringIO(po_data.decode(encoding="utf-8"))
     result = io.StringIO(newline="")
-    await asyncio.to_thread(df_gettext_toolkit.convert.objects_po_to_csv.convert, po_data, result, errors_file)
+    await asyncio.to_thread(df_translation_toolkit.convert.objects_po_to_csv.convert, po_data, result, errors_file)
     return result.getvalue()
 
 
