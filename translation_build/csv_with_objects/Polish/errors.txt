@@ -55,6 +55,27 @@ Problematic tag pair: '[DESCRIPTION:A medium-sized snake that lives in the trees
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[DESCRIPTION:A medium-sized reptile.  They can be found foraging for food such as eggs or worms.  They are said to be the most intelligent of their kind.]', '[DESCRIPTION:Gad średniej wielkości. Można je znaleźć w poszukiwaniu pożywienia, takiego jak jaja lub robaki. Mówi się, że są najinteligentniejszymi w swoim rodzaju.]\n\xa0'
 
+Error: Part 'ALL_SOLID' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen king cobra venom]', '[STATE_NAME: BRYŁA:zamrożony jad kobry królewskiej]'
+
+Error: Part 'ALL_SOLID' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen king cobra venom]', '[STATE_ADJ: BRYŁA:zamrożony jad kobry królewskiej]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:king cobra venom]', '[STATE_NAME: PŁYNNE:jad kobry królewskiej]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:king cobra venom]', '[STATE_ADJ: PŁYNNE:jad kobry królewskiej]'
+
+Error: Part 'GAS' should not be translated
+Problematic tag pair: '[STATE_NAME:GAS:boiling king cobra venom]', '[STATE_NAME: GAZOWE:wrzący jad kobry królewskiej]'
+
+Error: Part 'GAS' should not be translated
+Problematic tag pair: '[STATE_ADJ:GAS:boiling king cobra venom]', '[STATE_ADJ: GAZOWE:wrzący jad kobry królewskiej]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[TLCM_NOUN:scales:PLURAL]', '[TLCM_NOUN: skala:MNOGIE]'
+
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włosy:SINGULAR] '
 
