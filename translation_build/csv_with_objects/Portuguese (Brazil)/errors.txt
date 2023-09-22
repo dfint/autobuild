@@ -811,9 +811,6 @@ Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
-
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
 
@@ -834,9 +831,6 @@ Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SI
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
-
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
@@ -1348,9 +1342,6 @@ Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
-Error: Part 'VERB' should not be translated
-Problematic tag pair: '[CDI:VERB:spit a glob of molten rock:spits a glob of molten rock:NA]', '[CDI:VERBO:cuspir uma bola de rocha derretida:cospe uma bola de rocha derretida:NA]'
-
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: marfim]'
 
@@ -1432,23 +1423,14 @@ Problematic tag pair: '[STATE_ADJ:ALL_SOLID:ivory]', '[STATE_ADJ: ALL_SOLID: mar
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TISSUE_NAME:ivory:NP]', '[TISSUE_NAME: marfim: NP]'
 
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
-
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
-
-Error: Part 'VERB' should not be translated
-Problematic tag pair: '[CDI:VERB:spray a stream of steaming juice:sprays a stream of steaming juice:NA]', '[CDI:VERBO:pulverizar um fluxo de suco de vapor:sprays um fluxo de suco de vapor:NA]'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TISSUE_NAME:skin:NP]', '[TISSUE_NAME: pele: NP]'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
-
-Error: Part 'VERB' should not be translated
-Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:NA]', '[CDI:VERBO:esguicho de tinta:jacto de tinta:NA]'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
@@ -1458,9 +1440,6 @@ Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGU
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
-
-Error: Part 'VERB' should not be translated
-Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:NA]', '[CDI:VERBO:esguicho de tinta:jacto de tinta:NA]'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
@@ -1639,14 +1618,8 @@ Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
-Error: Part 'VERB' should not be translated
-Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:NA]', '[CDI:VERBO:esguicho de tinta:jacto de tinta:NA]'
-
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
-
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
@@ -1705,9 +1678,6 @@ Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:skin:SINGULAR]', '[APP_MOD_NOUN: pele: SINGULAR]'
 
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
-
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
 
@@ -1744,9 +1714,6 @@ Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:skin:SINGULAR]', '[APP_MOD_NOUN: pele: SINGULAR]'
 
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
-
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
 
@@ -1768,9 +1735,6 @@ Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SI
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
-
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
 
@@ -1791,9 +1755,6 @@ Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN: cabelo: SI
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
-
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
@@ -1812,9 +1773,6 @@ Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:skin:SINGULAR]', '[APP_MOD_NOUN: pele: SINGULAR]'
-
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
@@ -1879,9 +1837,6 @@ Problematic tag pair: '[NAME:satyr:satyrs:satyr]', '[NAME:Sátiro; sátiros:sát
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:satyr:satyrs:satyr]', '[CASTE_NAME:Sátiro; sátiros:sátiro]'
 
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
-
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
 
@@ -1915,9 +1870,6 @@ Problematic tag pair: '[TSU_NOUN:sideburns:PLURAL]', '[TSU_NOUN: costeletas: PLU
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
-
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
 
@@ -1950,9 +1902,6 @@ Problematic tag pair: '[TSU_NOUN:sideburns:PLURAL]', '[TSU_NOUN: costeletas: PLU
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
-
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:eye:SINGULAR]', '[APP_MOD_NOUN: Olho: SINGULAR]'
@@ -1993,9 +1942,6 @@ Problematic tag pair: '[TSU_NOUN:sideburns:PLURAL]', '[TSU_NOUN: costeletas: PLU
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
-
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
 
@@ -2029,9 +1975,6 @@ Problematic tag pair: '[TSU_NOUN:sideburns:PLURAL]', '[TSU_NOUN: costeletas: PLU
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
-
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
 
@@ -2118,9 +2061,6 @@ Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
-
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
@@ -2139,9 +2079,6 @@ Problematic tag pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
-
-Error: Part 'NA' should not be translated
-Problematic tag pair: '[CDI:VERB:spit:spits:NA]', '[CDI:VERB:cuspo:cospe:cospem]'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
