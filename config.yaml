@@ -22,6 +22,10 @@ languages:
     code: cs
     encoding: cp852
 
+  - name: Dutch
+    code: nl
+    encoding: cp857
+
   - name: Esperanto
     code: eo
     encoding: latin3
