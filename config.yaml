@@ -70,6 +70,10 @@ languages:
     code: es
     encoding: cp850
 
+  - name: Turkish
+    code: tr
+    encoding: cp857
+
   - name: Ukrainian
     code: uk
     encoding: cp1251
