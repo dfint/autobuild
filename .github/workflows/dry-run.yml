@@ -7,7 +7,7 @@ on:
     - 'automation/pyproject.toml'
     - 'automation/poetry.lock'
     - '**.py'
-    - '/config.yaml'
+    - 'config.yaml'
     - '.github/workflows/dry-run.yml'
 
   pull_request:
@@ -16,7 +16,7 @@ on:
       - 'automation/pyproject.toml'
       - 'automation/poetry.lock'
       - '**.py'
-      - '/config.yaml'
+      - 'config.yaml'
       - '.github/workflows/dry-run.yml'
 
 jobs:
