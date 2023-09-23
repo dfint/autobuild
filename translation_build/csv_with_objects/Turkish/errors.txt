@@ -1,0 +1,3 @@
+Error: Tag parts count mismatch
+Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:sol ön bacak:STP]'
+

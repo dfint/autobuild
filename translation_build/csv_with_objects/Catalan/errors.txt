@@ -1,0 +1,3 @@
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[TLCM_NOUN:eyes:PLURAL]', '[TLCM_NOUN\\:ulls\\:PLURAL] '
+
