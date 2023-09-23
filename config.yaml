@@ -5,6 +5,10 @@ languages:
   - name: Belarusian
     code: be
     encoding: cp1251
+  
+  - name: Catalan
+    code: ca
+    encoding: cp850
 
   - name: Chinese Simplified
     code: zh-Hans
