@@ -12,7 +12,7 @@ loguru = "^0.7.2"
 pydantic = "^2.4"
 strictyaml = "^1.7.3"
 aiofiles = "^23.1.0"
-df-translation-toolkit = {version = "^0.6.7", source = "dfint"}
+df-translation-toolkit = {version = "^0.6.8", source = "dfint"}
 viscii-codec = {version = "^0.1.0", source = "dfint"}
 langcodes = {extras = ["data"], version = "^3.3.0"}
 scour = "^0.38.2"
