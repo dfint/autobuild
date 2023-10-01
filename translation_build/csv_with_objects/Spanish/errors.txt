@@ -421,6 +421,15 @@ Problematic tag pair: '[SEED:rope reed seed:rope reed seeds:]', '[SEED:semilla d
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:dimple cup spawn:dimple cup spawn:]', '[SEED:semilla de copica hoyuela:semillas de copica hoyuela]'
 
+Error: Wrong tag translation format
+Problematic tag pair: '[NAME:feather tree]', '[NAME:Árbol de plumas'
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[NAME_PLURAL:feather trees]', '[NAME_PLURAL:Arboles de plumas '
+
+Error: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[ADJ:feather tree]', '[ADJ:Árbol de plumas '
+
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:candlenut:candlenuts:]', '[SEED:anacardo:anacardos]'
 
