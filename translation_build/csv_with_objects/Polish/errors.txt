@@ -85,19 +85,19 @@ Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN:skóra:POJEDYNCZY
 Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 Problematic tag pair: '[TLCM_NOUN:eyes:PLURAL]', '[TLCM_NOUN:oczy:WIELE]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:cinnabar]', 'ALL_SOLID: cynober]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[ALL_NAMES:hair grass]', 'trawa do włosów]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[ALL_NAMES:bentgrass]', 'miotła]'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:plum pit:plum pits:]', '[SEED:nasionko śliwy:nasiona śliwy]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[ADJ:sweet pod]', '[ADJ:strongowiec cukrowy'
 
 Error: Extra spaces at the beginning or at the end of the translation

@@ -1,4 +1,4 @@
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[TOOLTIP:A useful workshop for pressing liquids from various sources. Some plants might need to be milled first before they can be used.  Empty jugs are required to store the liquid products.]', '[TOOLTIP:여러 재료에서 액체를 짜내는 유용한 기구입니다. 몇 식물들은 여기서 가공되기 전에 먼저 제분을 해야하기도 합니다. 액체를 짜내는 작업에는 그것을 담을 빈 병이 필요합니다.'
 
 Error: Tag parts count mismatch
@@ -16,7 +16,7 @@ Problematic tag pair: '[NAME:white stork man:white stork men:white stork man]', 
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:barn owl man:barn owl men:barn owl man]', '[CASTE_NAME:원숭이올빼미인간:원숭이올빼미인간들:원숭이올빼미인간.]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny parrot found in flocks of many hundreds.  Exceptional birds can be taught to speak.]', '[DESCRIPTION:수백 마리씩 무리 지어 다니는 작은 앵무새. 말할 수 있는 것으로 생각 되는 특별한 새이다.'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
@@ -25,7 +25,7 @@ Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:50:1000:VOCALIZATION:ching:c
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:giant grey parrot:giant grey parrots:giant grey parrot]', '[NAME:거대 회색앵무:거대 회색앵무떼:거대 회색앵무]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny diving bird found living on seaside cliffs in the colder climates.]', '잠수할 수 있는 작은 새, 추운 지방의 해안 절벽에 서식한다.'
 
 Error: Part 'CASTE_NAME' should not be translated
@@ -34,7 +34,7 @@ Problematic tag pair: '[CASTE_NAME:giant puffin:giant puffins:giant puffin]', '[
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant puffin chick:giant puffin chicks]', '[GENERAL_CHILD_NAME:새끼 거대 바다쇠오리:새끼 거대 바다쇠오리떼:새끼 거대 바다쇠오리]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny, brightly-colored tree parrot.  It uses its tongue to feed on plants.]', '[DESCRIPTION:나무에 사는 밝은 색의 작은 앵무새, 혀를 이용해 먹이를 먹는다.'
 
 Error: Part 'CASTE_NAME' should not be translated
@@ -61,22 +61,22 @@ Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen gila monster venom]', '[STATE
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant gila monster hatchling:giant gila monster hatchlings]', '[GENERAL_CHILD_NAME:거대 아메리카독도마뱀 새끼:거대 아메리카독도마뱀 새끼들:거대 아메리카독도마뱀 새끼]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[PREFSTRING:snorts]', '코웃음]'
 
 Error: Too short or empty translation
 Problematic tag pair: '[PREFSTRING:sense of smell]', '후각'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[PREFSTRING:scratching]', '긁어내기]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A large mammalian herbivore.  It has long fur and curving horns.  It can be found in the mountains.]', '대형 포유류 초식동물. 긴 털과 구부러진 뿔을 가지고 있으며 산에서 발견될 수 있습니다.]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A large domestic pack animal.  It has a long neck.  It is prized for its hair.]', '대형 가축 무리의 동물. 긴 목과 귀중한 털을 가지고 있습니다.]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A large domestic animal with a long neck.  It has been bred for its valuable hair.]', '긴 목을 가진 큰 가축. 그 동물은 귀중한 털 때문에 길러졌습니다.]'
 
 Error: Tag parts count mismatch
@@ -109,13 +109,13 @@ Problematic tag pair: '[CASTE_NAME:floating guts:floating guts:floating guts]', 
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant orca calf:giant orca calves]', '[GENERAL_CHILD_NAME:새끼 거대 범고래:새끼 거대 범고래떼:새끼 거대 범고래]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[CASTE_NAME:giant sperm whale:giant sperm whales:giant sperm whale]', '[CASTE_NAME:[NAME:거대 향고래:거대 향고래들:거대 향고래]'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant elephant seal pup:giant elephant seal pups]', '[GENERAL_CHILD_NAME:새끼 거대 코끼리물범:새끼 거대 코끼리물범들:]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[CASTE_NAME:harp seal:harp seals:harp seal]', '[CASTE_NAME:[NAME:하프물범:하프물범들:하프물범]'
 
 Error: Tag parts count mismatch
@@ -124,16 +124,16 @@ Problematic tag pair: '[GAIT:WALK:Wamble:]', '[GAIT:WALK:비틀비틀 걷기]'
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant chipmunk pup:giant chipmunk pups]', '[GENERAL_CHILD_NAME:새끼 거대 다람쥐:새끼 거대 다람쥐들:새끼 거대 다람쥐]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A creature from the evil swamp.  It resembles a squat, wingless bird with powerful beak and legs.  Its blotchy skin is brightly colored.]', '[DESCRIPTION:사악한 늪지에서 서식하는 생물. 짜리몽당하고 날개없는 새의 형태를 하고있으며, 강력한 부리와 다리가 특징이다. 밝은 색의 피부가 얼룩덜룩하다.'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A man-shaped creature with the legs of a goat and the empty-eyed skull of a goat.]', '[DESCRIPTION:눈알이 빠진 염소의 해골을 닮은 머리와 다리를 가진 인간형태의 생물.'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: "[DESCRIPTION:A monster in the shape of a woman with a bird's wings in place of arms and talons for feet.]", '[DESCRIPTION:인간 여성의 몸에 팔과 다리가 있어야 할 자리에 각각 새의 날개와 발톱이 자리하고 있는 괴물.'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[PREFSTRING:fearsome talons]', '[PREFSTRING:무시무시한 발톱'
 
 Error: Tag parts count mismatch
@@ -145,13 +145,13 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:naked mole puppy:naked mole puppies]'
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant mole pup:giant mole pups]', '[GENERAL_CHILD_NAME:새끼 거대 두더지:새끼 거대 두더지들:새끼 거대 두더지]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A huge monster in the shape of a gray langur.]', '회색 랑구르의 모습을 한 거대한 괴수.]'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant skunk kit:giant skunk kits]', '[GENERAL_CHILD_NAME:새끼 거대 스컹크:새끼 거대 스컹크들:새끼 거대 스컹크]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant mongoose pup:giant mongoose pups]', '[GENERAL_CHILD_NAME:새끼 거대 몽구스:새끼 거대 몽구스들:'
 
 Error: Tag parts count mismatch
@@ -166,13 +166,13 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:giant ocelot kitten:giant ocelot kitt
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant sloth bear cub:giant sloth bear cubs]', '[GENERAL_CHILD_NAME:새끼 거대 느림보곰:새끼 거대 느림보곰들:새끼 거대 느림보곰]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant tapir calf:giant tapir calves]', '[GENERAL_CHILD_NAME:새끼 거대 맥:새끼 거대 맥들'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant stoat kit:giant stoat kits]', '[GENERAL_CHILD_NAME:새끼 거대 북방족제비:새끼 거대 북방족제비들'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[NAME:war hammer:war hammers]', '[NAME:전투망치:전투망치들'
 
 Error: Tag parts count mismatch
@@ -226,7 +226,7 @@ Problematic tag pair: '[SEED:grape seed:grape seeds:]', '[SEED:포도 씨:포도
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:blueberry seed:blueberry seeds:]', '[SEED:블루베리 씨앗:블루베리 씨앗들]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[NAME_PLURAL:blackberry bushes]', '[NAME_PLURAL:블랙베리 덤불들'
 
 Error: Tag parts count mismatch

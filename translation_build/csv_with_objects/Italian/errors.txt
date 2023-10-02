@@ -40,13 +40,13 @@ Problematic tag pair: '[PREFSTRING:bright coloration]', '[PREFSTRING:colorazione
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[PREFSTRING:bright coloration]', '[PREFSTRING:colorazione accesa] '
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small bird of prey with black markings on its eyes.  It hunts near bodies of water.]', "[DESCRIPTION:Un piccolo rapace con segni neri sugli occhi.  Caccia in prossimità di specchi d'acqua]."
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small, nocturnal bird of prey with large eyes and protruding feathers.]', '[DESCRIPTION:Un piccolo rapace notturno con grandi occhi e piume sporgenti].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A medium-sized semi-aquatic rodent.  It lives in large herds and barks when alarmed.]', '[DESCRIPTION:Un roditore semiacquatico di medie dimensioni.  Vive in grandi gruppi e abbaia quando è allarmato.'
 
 Error: Extra spaces at the beginning or at the end of the translation

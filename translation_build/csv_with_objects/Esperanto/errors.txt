@@ -16,16 +16,16 @@ Problematic tag pair: '[ATTACK_VERB:kick:kicks]', '[ATTACK_VERB:ATTACK_VERB:pied
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:nurse shark pup:nurse shark pups]', '[GENERAL_CHILD_NAME:ginglimostomido:ginglimostomidoj:de ginglimostomo]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A huge predatory mammal covered in white hair.  It hunts the shores along tundra and glaciers.]', '[DESCRIPTION:Grandega predanta mamulo kovrita kun blanka hararo. Ĝi ĉasas laŭ la bordojn de la tundroj kaj la glaciejoj.}'
 
 Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 Problematic tag pair: '[TLCM_NOUN:flesh:SINGULAR]', '[TLCM_NOUN:karno:SiNGULAR]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny underground creature made of a mass of appendages resembling human fingers.  It creeps across the ground like a starfish and eats with a mouth on the bottom of its body.]', '1[DESCRIPTION:Eta subtera kreatiĵo farita el membromaso simila al homa manfingroj. Ĝi rampas trans la tereno kiel asterio kaj ĝi manĝas per buŝo en la fundo de sia korpo.]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[STATE_NAME:GAS:boiling corrupted blood]', '[STATE_NAME:GAS:bolanta koruptita sango'
 
 Error: Tag parts count mismatch
@@ -40,13 +40,13 @@ Problematic tag pair: '[STATE_ADJ:GAS:boiling mog juice]', '[STATE_ADJ:GAS:GAS:d
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[DESCRIPTION:A relatively large lizard.  It can be found in most climates, foraging for bugs during daylight hours.]', '[DESCRIPTION:Relative granda lacerto. Ĝi troviĝas en la plimulto de la klimatoj, ĉasante je insektojn tage.] '
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A large reptile with a thick ridged shell.  It has been known to consume snakes and smaller turtles, and its bite can amputate fingers.]', '1[DESCRIPTION:Granda reptilio kun dika tubera karapaco. Ĝi estas konita por konsumi serpentojn kaj pli malgrandajn testudojn, kaj ĝia mordo povas amputi fingrojn.]'
 
 Error: Part 'NOSE' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:NOSE:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:BEAK:furaĝas en:furaĝas en]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[STATE_NAME:GAS:boiling dwarven cheese]', '[STATE_NAME:GAS:bolanta dvarfa fromaĝo'
 
 Error: Tag parts count mismatch

@@ -130,43 +130,43 @@ Problematic tag pair: '[BP:HEAD_ANTLER_1:left antler:STP]', '[BP:頭_角_1:左�
 Error: Part 'HEAD_ANTLER_2' should not be translated
 Problematic tag pair: '[BP:HEAD_ANTLER_2:right antler:STP]', '[BP:頭_角_2:右角:STP]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A squat amphibian with leathery skin, found in relatively dry areas.]', '[DESCRIPTION:A squat amphibian with leathery skin, found in relatively dry areas.][DESCRIPTION:乾いた革のような肌の四足両生類。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny burrowing creature, found in moist soil.  It is legless, long and thin.]', '[DESCRIPTION:A tiny burrowing creature, found in moist soil.  It is legless, long and thin.][DESCRIPTION:湿地に住む、平べったくて長い体をした芋虫だ。地中に穴を掘る。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small blue-crested bird living in temperate woodlands, known for its harsh chirps.]', '[DESCRIPTION:A small blue-crested bird living in temperate woodlands, known for its harsh chirps.][DESCRIPTION:全長30センチほどの鮮やかな青いカラスの仲間だ。温帯の森に棲息し、耳障りな鳴き声で鳴く。'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small bright red bird with a distinctive crest, found in temperate forests.]', '[DESCRIPTION:A small bright red bird with a distinctive crest, found in temperate forests.][DESCRIPTION:全長２０センチほどの艶やかな赤色のスズメの仲間だ。温暖な森に棲息する。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small yellow and black bird.  They feed in the canopy of the forest.]', '[DESCRIPTION:A small yellow and black bird.  They feed in the canopy of the forest.][DESCRIPTION:全長２５センチほどの、黄色い体に黒い隈が特徴的なスズメの仲間だ。群れを作り、森に棲息する。'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small black bird with bright red markings under the wings.  They live in the marshland.]', '[DESCRIPTION:A small black bird with bright red markings under the wings.  They live in the marshland.][DESCRIPTION:黒い体に、羽根の付け根の赤い模様が目立つ小さなムクドリの仲間だ。湿地帯に棲息する。'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small flightless bird, blue in color, that lives on arctic shorelines.]', '[DESCRIPTION:A small flightless bird, blue in color, that lives on arctic shorelines.][DESCRIPTION:青い体の小さな飛べない鳥だ。極地の海岸に棲息する。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small flightless bird, it is the largest of the natural penguins.  It is known for its treks through leagues of glacial ice.]', '[DESCRIPTION:A small flightless bird, it is the largest of the natural penguins.  It is known for its treks through leagues of glacial ice.][DESCRIPTION:小さな飛べない鳥だが、野生のペンギンの中では最も巨大だ。氷の上を移り住むことで有名。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A humanoid with the head, feet, and feathers of a penguin.]', 'ペンギンの頭と翼と足を持った人間だ。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small bird of prey that is capable of great speed.  They dive on unsuspecting vermin.]', '[DESCRIPTION:A small bird of prey that is capable of great speed.  They dive on unsuspecting vermin.][DESCRIPTION:速い速度で飛翔する猛禽類だ。獲物目がけてダイブする。'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[NAME:giant peregrine falcon:giant peregrine falcons:giant peregrine falcon]', '[NAME:隼のような体の巨大な怪物だ。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A large bird monster that is the same shape as a peregrine falcon.]', '[DESCRIPTION:A large bird monster that is the same shape as a peregrine falcon.][NAME:隼のような体の巨大な雌の怪物だ。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small, brown, flightless bird.  It eats insects and grubs and is known for its keen sense of smell.]', '[DESCRIPTION:A small, brown, flightless bird.  It eats insects and grubs and is known for its keen sense of smell.][DESCRIPTION:褐色の小さな空を飛べない鳥だ。虫を捕食し、匂いに敏感なことで知られている。]'
 
 Error: Tag parts count mismatch
@@ -175,121 +175,121 @@ Problematic tag pair: '[NAME:kiwi:kiwis:kiwi]', '[NAMEキウイ:キウイ:キウ
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:kiwi chick:kiwi chicks]', '[GENERAL_CHILD_NAMEキウイの雛:キウイの雛]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A large flightless bird that runs through the savanna.  It has a long neck and legs.]', '[DESCRIPTION:A large flightless bird that runs through the savanna.  It has a long neck and legs.][DESCRIPTION:長い足と首を持った、大きな飛べない鳥だ。サバンナに棲息し、足がとても速い。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:This is a medium-sized creature with legs and arms, but the long neck and head of an ostrich.]', '[DESCRIPTION:This is a medium-sized creature with legs and arms, but the long neck and head of an ostrich.][DESCRIPTION:人間の体にダチョウの首と頭が生えた生物だ。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small black bird that feeds on carrion.  It is social, very intelligent and knows how to use tools.]', '[DESCRIPTION:A small black bird that feeds on carrion.  It is social, very intelligent and knows how to use tools.][DESCRIPTION:腐肉を漁る黒い小さな鳥だ。非常に知能が高く、社会性があったり道具を使ったりする。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A large bird-like monster, even more deadly when found in groups.]', '[DESCRIPTION:A large bird-like monster, even more deadly when found in groups.][DESCRIPTION:大きな怪鳥だ。群れで襲われたら、非常に危険。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small, foreboding black bird that feeds on carrion.  It is social, very intelligent, and knows how to use tools.]', '[DESCRIPTION:A small, foreboding black bird that feeds on carrion.  It is social, very intelligent, and knows how to use tools.][DESCRIPTION:腐肉を漁る黒い鳥だ。とても知能が高く、社会性を持ち、道具を使う。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A large bird-like monster, even more deadly when found in groups.]', '[DESCRIPTION:A large bird-like monster, even more deadly when found in groups.][DESCRIPTION:巨大な怪鳥だ。群れに見つかると非常に危険。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small white bird that hunts in the coldest reaches of the world.]', '[DESCRIPTION:A small white bird that hunts in the coldest reaches of the world.][DESCRIPTION:全長６０センチほどの白い鳥だ。極地で狩りをする。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small bird with long legs and bill, and a extremely long wingspan.]', '[DESCRIPTION:A small bird with long legs and bill, and a extremely long wingspan.][DESCRIPTION:長い足とくちばし、そしてとても長い尾羽を持った、白いコウノトリの仲間だ。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A person with the head and wings of a stork, also standing on long legs.]', '[DESCRIPTION:A person with the head and wings of a stork, also standing on long legs.][DESCRIPTION:コウノトリの頭と翼を持った人間だ。常に長い脚で立っている。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small water bird found in remote lakes.  It is known for its haunting call.]', '[DESCRIPTION:A small water bird found in remote lakes.  It is known for its haunting call.][DESCRIPTION:狩りの獲物になる、湖沼に棲息する灰褐色の水鳥だ。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small, nocturnal bird of prey found in woodland regions.  Its hunger for rodents drives it to take residence in buildings.]', '[DESCRIPTION:A small, nocturnal bird of prey found in woodland regions.  Its hunger for rodents drives it to take residence in buildings.][DESCRIPTION:全長３７センチほどの白い猛禽類だ。げっ歯類を主食とするため、人里の近くに棲息する。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny parrot found in flocks of many hundreds.  Exceptional birds can be taught to speak.]', '[DESCRIPTION:A tiny parrot found in flocks of many hundreds.  Exceptional birds can be taught to speak.][DESCRIPTION:数百匹の群れを成す小鳥だ。稀に、教えると言葉を覚える個体もいる。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small flightless green parrot.  It is nocturnal and counts itself among the longest-lived birds.]', '[DESCRIPTION:A small flightless green parrot.  It is nocturnal and counts itself among the longest-lived birds.][DESCRIPTION:体長６０センチほどの、飛べないオウムの仲間だ。最も長寿な鳥の一つとして有名。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny diving bird found living on seaside cliffs in the colder climates.]', '[DESCRIPTION:A tiny diving bird found living on seaside cliffs in the colder climates.][DESCRIPTION:全長３５センチほどの白黒の鳥だ。社会性を持ち、寒冷地の海辺の崖に棲息する。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny, brightly colored parrot.  They are clever and learn many tricks.]', '[DESCRIPTION:A tiny, brightly colored parrot.  They are clever and learn many tricks.][DESCRIPTION:鮮やかな色をしたインコだ。よく懐き、様々な芸を覚える。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A colorful person with the head and wings of a peach-faced lovebird.]', '[DESCRIPTION:A colorful person with the head and wings of a peach-faced lovebird.][DESCRIPTION:コザクラインコの頭と翼を持った色鮮やかな体の人間だ。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny bird of prey.  It hovers above the ground and swoops down to snatch rodents and mice.]', '[DESCRIPTION:A tiny bird of prey.  It hovers above the ground and swoops down to snatch rodents and mice.][DESCRIPTION:小さな猛禽類だ。大空からげっ歯類を狙って急降下する。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small sea bird with great wings.  It soars through the sky and dives for food on the surface of the water.]', '[DESCRIPTION:A small sea bird with great wings.  It soars through the sky and dives for food on the surface of the water.][DESCRIPTION:大きな翼の海鳥だ。大空から魚を狙って水面に飛び込む。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A feathered person with the head and wings of a great horned owl.]', '[DESCRIPTION:ワシミミズクの頭と翼を持つ羽毛の生えた人間だ。'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny insect which uses its powerful legs to leap and make noise.]', '[DESCRIPTION:A tiny insect which uses its powerful legs to leap and make noise.][DESCRIPTION:足を使って大きく跳ねたり、鳴き声を出したりする昆虫だ。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny yellow bug.  It has pincers and a stinging tail which can prove fatal.]', '[DESCRIPTION:A tiny yellow bug.  It has pincers and a stinging tail which can prove fatal.][DESCRIPTION:はさみと尻尾に毒針を持つ、黄色い虫だ。その一刺しは命を奪う。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny green insect.  It has long, distinctive forelimbs that it uses to catch its prey.]', '[DESCRIPTION:A tiny green insect.  It has long, distinctive forelimbs that it uses to catch its prey.][DESCRIPTION:鎌のような前足を持つ緑の昆虫だ。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny land mollusk.  It can be found under rotten logs and in gardens.]', '[DESCRIPTION:A tiny land mollusk.  It can be found under rotten logs and in gardens.][DESCRIPTION:倒木や庭に棲息する、小さな陸生軟体動物。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A great slug with the torso of a man.  It pulls itself across the ground with its hands for greater speed.]', '[DESCRIPTION:A great slug with the torso of a man.  It pulls itself across the ground with its hands for greater speed.][DESCRIPTION:人間の上半身を持った大きなナメクジだ。素早く移動するために、自身の手で体を引っ張る。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny pest insect.  It uses its long nose to suck blood from its host.]', '[DESCRIPTION:A tiny pest insect.  It uses its long nose to suck blood from its host.][DESCRIPTION:針のような口を使って吸血する、小さな害虫だ。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny black bug that lacks a web but can leap short distances.]', '[DESCRIPTION:A tiny black bug that lacks a web but can leap short distances.][DESCRIPTION:糸を出さないが、跳ねて移動できる小さな黒いクモだ。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny insect capable of destroying large wooden structures when in large numbers.]', '[DESCRIPTION:A tiny insect capable of destroying large wooden structures when in large numbers.][DESCRIPTION:小さな昆虫だが、沢山居ると大きな建造物を食い荒らして倒壊させる。'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny, brightly-colored lizard.]', '[DESCRIPTION:茶色の小さなトカゲだ。'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small rodent with no tail.  It can be found roaming the grassland in herds.  It has three toes on its hind feet.]', '[DESCRIPTION:斧ない小さなげっ歯類。群れを作り、草原に棲息する'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[DESCRIPTION:A small migratory bird.  It has a very long neck and can be found in lakes and other bodies of water.]', '[DESCRIPTION小さな渡り鳥だ。首が非常に長く、水辺に棲息する。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A large domestic pack animal.  It has a long neck.  It is prized for its hair.]', '[DESCRIPTION:首が長い大きな草食動物。毛の価値が高い'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A large rodent that lives in groups in the high mountains.]', '群れを作る大きなげっ歯類。鉱山に棲む。'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: "[DESCRIPTION:A tiny, jolly humanoid creature that dwells in the fair mountains.  They are known to enjoy drinking liquor and don't care whether it's theirs or not.]", 'きれいな山々に住む、小さくて陽気な人型生物。彼らはお酒を楽しむことで知られており、それが彼らのものであるかどうかを気にしません。'
 
 Error: Translation should not be empty
 Problematic tag pair: '[CDI:VERB:pet:pets:pets]', '[CDI:VERB:ペット:ペット:]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny, foul-tempered humanoid creature that dwells in the evil mountains.  They are known to enjoy drinking liquor and will take any unguarded supplies of booze.]', '[DESCRIPTION:邪悪な山岳地方に住む、邪悪な小型人型生物だ。酒に目がなく、酔うと隙を見せる。'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:100:10000:VOCALIZATION:whistle:whistles:whistling]', '[SOUND:PEACEFUL_INTERMITTENT:100:10000:VOCALIZATION:ピーピー鳴いた:ピーピー鳴いた:ピーピー鳴いた'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:200:10000:VOCALIZATION:whistle:whistles:deep whistling]', '[SOUND:PEACEFUL_INTERMITTENT:200:10000:VOCALIZATION:ピーピー鳴いた:ピーピー鳴いた:大きくピーピー鳴いた'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A spotted person with the head and tail of a leopard.]', '[DESCRIPTION:ヒョウの頭と体を持つ、斑点のある体をした人間だ'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A spotted person with the head and tail of a jaguar.]', '[DESCRIPTION:ジャガーの頭と体を持つ、斑点のある体をした人間だ'
 
 Error: Tag parts count mismatch
@@ -313,13 +313,13 @@ Problematic tag pair: '[PREFSTRING:freakish insect heads]', '[PREFSTRINGグロ�
 Error: Tag parts count mismatch
 Problematic tag pair: '[DESCRIPTION:A person with an octopus in place of a head.]', '[DESCRIPTIONタコの頭を持った人間だ。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny sea mollusk.  It can change color and skin patterns for communication.]', '[DESCRIPTION:小さな海の軟体動物。コミュニケーションのために色や肌の模様を変えることができます。'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:giant horseshoe crab:giant horseshoe crabs:giant horseshoe crab]', '[CASTE_NAME:巨大カブトガニ:巨大カブトガニの]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A long-bodied person with the head and tail of a skink.]', '[DESCRIPTION:オオトカゲの頭と尾をもつ、胴体の長い人間だ'
 
 Error: Tag parts count mismatch
@@ -328,7 +328,7 @@ Problematic tag pair: '[DESCRIPTION:A tiny colorful fish found in tropical lakes
 Error: Tag parts count mismatch
 Problematic tag pair: '[PROFESSION_NAME:CROSSBOWMAN:marksdwarf:marksdwarves]', '[PROFESSION_NAME:ドワーフの弩士:ドワーフの弩士]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[PREFSTRING:graceful leaps]', '[PREFSTRING:優美な跳躍'
 
 Error: Tag parts count mismatch
@@ -337,7 +337,7 @@ Problematic tag pair: '[DESCRIPTION:A tiny amphibian, found in underground strea
 Error: Tag parts count mismatch
 Problematic tag pair: '[DESCRIPTION:A small feline predator with a shortened tail.]', '[DESCRIPTION短いを持った小型のネコ科動物。]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[ADJ:tall]', '[ADJ:高い'
 
 Error: Tag parts count mismatch
@@ -742,28 +742,28 @@ Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:flax seed]', '[STATE_NAME_ADJ:A
 Error: Tag parts count mismatch
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:hemp seed]', '[STATE_NAME_ADJ:ALL_SOLID:麻の種:]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[STATE_NAME_ADJ:SOLID_PASTE:hemp seed paste]', '[STATE_NAME_ADJ:SOLID_PASTE:麻の種のペース'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:cotton seed]', '[STATE_NAME_ADJ:ALL_SOLID:綿の種:]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[STATE_NAME_ADJ:SOLID_PASTE:cotton seed paste]', '[STATE_NAME_ADJ:SOLID_PASTE:綿の種のペース'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:kenaf seed]', '[STATE_NAME_ADJ:ALL_SOLID:洋麻の種:]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[STATE_NAME_ADJ:SOLID_PASTE:kenaf seed paste]', '[STATE_NAME_ADJ:SOLID_PASTE:洋麻の種のペース'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[PREFSTRING:lens-shaped seeds]', '[PREFSTRING:レンズ豆の種:]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[STATE_NAME_ADJ:SOLID_PASTE:rock nut paste]', '[STATE_NAME_ADJ:SOLID_PASTE:rock nut pasteのペース'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[PREFSTRING:acorns]', '[PREFSTRING:種'
 
 Error: Tag parts count mismatch

@@ -643,7 +643,7 @@ Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[NAME:horse:horses:equine]', '[NAME:cavalo:cavalos:equino}'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part
@@ -4951,7 +4951,7 @@ Problematic tag pair: '[STATE_ADJ:ALL_SOLID:peach wood]', '[STATE_ADJ: ALL_SOLID
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:frozen peach cider]', '[STATE_NAME_ADJ: ALL_SOLID: cidra pêssego congelado]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[SEED:peach pit:peach pits:]', '[SEED: Peach Pit: caroços de pêssego]:'
 
 Error: Don't add extra spaces at the beginning or at the end of a tag part

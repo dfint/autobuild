@@ -109,7 +109,7 @@ Problematic tag pair: '[CASTE_NAME:giant red-winged blackbird:giant red-winged b
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant red-winged blackbird hatchling:giant red-winged blackbird hatchlings]', '[GENERAL_CHILD_NAME:oisillon de merle à ailes rouges géant:oisillons de merle à ailes rouges géant] '
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small flightless bird that lives on arctic shorelines.]', '1[DESCRIPTION: Un petit animal incapable de voler vivant sur les côtes arctiques.]'
 
 Error: Extra spaces at the beginning or at the end of the translation
@@ -133,16 +133,16 @@ Problematic tag pair: '[PREFSTRING:way of flying through the water]', "[PREFSTRI
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[DESCRIPTION:A small bird of prey that is capable of great speed.  They dive on unsuspecting vermin.]', "[DESCRIPTION:Un petit oiseau de proie capable d'une grande vitesse. Ils plongent sur les nuisibles imprudents.] "
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:This is a medium-sized creature with legs and arms, but the long neck and head of an ostrich.]', "[DESCRIPTION:C'est une créature de taille moyenne avec des jambes et des bras, mais le long cou et la tête d'une autruche]."
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:crow woman:crow women:crow woman]', '[CASTE_NAME:femme-corneillefemmes-corneilles:femme-corneille]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny, brightly-colored tree parrot.  It uses its tongue to feed on plants.]', '[DESCRIPTION:Un minuscule perroquet arboricole aux couleurs vives. Il utilise sa langue pour se nourrir de plantes].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A person with the head and arms of a brown recluse spider.]', "[DESCRIPTION: personne avec la tête et les bras d'une araignée recluse brune]."
 
 Error: Extra spaces at the beginning or at the end of the translation
@@ -151,10 +151,10 @@ Problematic tag pair: '[STATE_ADJ:LIQUID:gila monster venom]', '[STATE_ADJ: LIQU
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:blue peahen:blue peahens:blue peahen]', '[CASTE_NAME:paonne:paonnes;paonne]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A legless person with the head and back flippers of a walrus.]', "[DESCRIPTION:une personne sans jambe avec la tête et les nageoires arrière d'un morse]."
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[PREFSTRING:ability to make one afraid to go into the water]', "[PREFSTRING:capacité à faire redouter l'entrée dans l'eau]."
 
 Error: Tag parts count mismatch
@@ -163,10 +163,10 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:spiny dogfish pup:spiny dogfish pups]
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:common skate pup:common skate pups]', '[GENERAL_CHILD_NAME:bébé raie commune:raies communes:bébés raie commune]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[PREFSTRING:distinct markings]', 'marques distinctes'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[PREFSTRING:bizarre appearance]', 'apparence bizarre]'
 
 Error: Part 'LIQUID' should not be translated

@@ -88,10 +88,10 @@ Problematic tag pair: '[BP:HEAD_ANTLER_2:right antler:STP]', '[BP:HEAD_ANTLER_2\
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[TISSUE_NAME:hoof:NP]', '[TISSUE_NAME: Huf: NP]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[TOOLTIP:Use tallow (rendered fat) or oil here with lye to make soap.]', '[TOOLTIP: Verwenden hier Talg (geschmolzenes Fett) oder Öl mit Lauge, um Seife herzustellen].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[TOOLTIP:A useful workshop for pressing liquids from various sources. Some plants might need to be milled first before they can be used.  Empty jugs are required to store the liquid products.]', '[TOOLTIP: Eine nützliche Werkstatt zum Pressen von Flüssigkeiten aus verschiedenen Rohstoffen. Einige Pflanzen müssen möglicherweise erst gemahlen werden, bevor sie verwendet werden können. Zur Aufbewahrung der flüssigen Produkte werden leere Krüge benötigt].'
 
 Error: Extra spaces at the beginning or at the end of the translation
@@ -106,7 +106,7 @@ Problematic tag pair: '[CASTE_NAME:red-winged blackbird:red-winged blackbirds:re
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:penguin:penguins:penguin]', '[NAME:Pinguin:Pinguine:Pinguin]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[CASTE_NAME:ostrich woman:ostrich women:ostrich woman]', '[CASTE_NAME:Straußenweibchen:Straußenweibchen:Straußenweibchen]+'
 
 Error: Tag parts count mismatch
@@ -124,13 +124,13 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:loon chick:loon chicks]', '[GENERAL_C
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant loon chick:giant loon chicks]', '[GENERAL_CHILD_NAME:Riesenseetaucherküken:Riesenseetaucherküken:Riesenseetaucherküken]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A person with the head and wings of a kakapo.]', '[DESCRIPTION:Eine Person mit dem Kopf und den Flügeln eines Kakapos].'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant kakapo chick:giant kakapo chicks]', '[GENERAL_CHILD_NAME:Riesenkakapoküken:Riesenkakapoküken:Riesenkakapoküken]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:The most intelligent of birds.  It can be found in the rainforest.]', '[DESCRIPTION:Der intelligenteste aller Vögel. Man findet ihn im Regenwald].'
 
 Error: Tag parts count mismatch
@@ -211,28 +211,28 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:bushtit hatchling:bushtit hatchlings]
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant bushtit hatchling:giant bushtit hatchlings]', '[GENERAL_CHILD_NAME:Rießenbuschmeisenküken:Rießenbuschmeisenküken:Rießenbuschmeisenküken]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A person with the wings and head of a damselfly.]', '[DESCRIPTION:Ein Mensch mit den Flügeln und dem Kopf einer Kleinlibelle].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A person with the head and legs of a grasshopper.]', '[DESCRIPTION:Eine Mensch mit dem Kopf und den Beinen eines Grashüpfers].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A green person with the head and arms of a mantis.]', '[DESCRIPTION:Eine grüner Mensch mit dem Kopf und den Armen einer Gottesanbeterin].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A person with the head and legs of a louse.]', '[DESCRIPTION:Ein Mensch mit dem Kopf und den Beinen einer Laus].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A person with the head and wings of a mosquito.]', '[DESCRIPTION:Ein Mensch mit dem Kopf und den Flügeln einer Mücke].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A person with the head and arms of a jumping spider.]', '[DESCRIPTION:Ein Mensch mit dem Kopf und den Armen einer Springspinne].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A person with the head and arms of a brown recluse spider.]', '[DESCRIPTION:Ein Mensch mit dem Kopf und den Armen einer braunen Einsiedlerspinne].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A person with the head and fingers of a gecko.]', '[DESCRIPTION:Eine Person mit dem Kopf und den Fingern eines Geckos].'
 
 Error: Tag parts count mismatch
@@ -250,28 +250,28 @@ Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:NOSE:root around in:roots around
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:gander:ganders:gander]', '[CASTE_NAME:Gänserich:Gänseriche]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: "[DESCRIPTION:A small forest bird.  The male's tail creates an extravagant display for females.  At night, they roost in the trees.]", '[DESCRIPTION:Ein kleiner Waldvogel. Der Schwanz des Männchens ist ein extravagantes Schauspiel für die Weibchen. Nachts nächtigen sie in den Bäumen].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small forest bird known for the distinctive flaps of skin hanging from its face.  It is prized for its meat.]', '[DESCRIPTION:Ein kleiner Waldvogel, der für seine charakteristischen Hautlappen bekannt ist, die von seinem Gesicht herabhängen. Er wird für sein Fleisch geschätzt].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small lagomorph with long ears.  It has powerful hind legs which it uses to swiftly avoid predators.  It can be found anywhere from forests to deserts.]', '[DESCRIPTION:Ein kleines hasenartiges Tier mit langen Ohren. Er hat kräftige Hinterbeine, mit denen er Raubtieren schnell ausweichen kann. Man findet es überall, von Wäldern bis zu Wüsten].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A rolling platform for carrying passengers or cargo.]', '[DESCRIPTION:Eine rollende Plattform zur Beförderung von Personen oder Fracht].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny flying insect found around rotting meat and garbage.  These bugs are widely considered to be a nuisance.]', '[DESCRIPTION:Ein winziges fliegendes Insekt, das in der Nähe von verrottendem Fleisch und Müll zu finden ist. Diese Wanzen werden allgemein als lästig angesehen].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A person with the wings and head of a fly.]', '[DESCRIPTION:Eine Person mit den Flügeln und dem Kopf einer Fliege].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small insect that seeks out unwatched food and garbage.  They fear light.]', '[DESCRIPTION:Ein kleines Insekt, das unbeobachtete Nahrung und Abfälle sucht. Sie fürchten das Licht].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A person with the wings and head of a roach.]', '[DESCRIPTION:Eine Person mit den Flügeln und dem Kopf einer Kakerlake].'
 
 Error: Extra spaces at the beginning or at the end of the translation
@@ -298,22 +298,22 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:shortfin mako shark pup:shortfin mako
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:blue shark pup:blue shark pups]', '[GENERAL_CHILD_NAME:Blauhai-Welpe:Blauhai-Welpen:Blauhai-Welpe]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[CASTE_NAME:tigerfish:tigerfish:tigerfish]', '[CASTE_NAME:Tigerfische:Tigerfische:Tigerfische'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small carnivorous animal found in temperate climates.  It has orange fur and is known for its cleverness.]', '[DESCRIPTION:Ein kleines fleischfressendes Tier, das in gemäßigten Klimazonen vorkommt. Es hat ein orangefarbenes Fell und ist für seine Intelligenz bekannt].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A person with the head and tail of a fox.]', '[DESCRIPTION:Eine Person mit dem Kopf und Schwanz eines Fuchses].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small omnivorous animal with a bright mask of fur.  It is nocturnal and found in temperate forests.  It is a curious animal and has been known to steal from civilized areas.]', '[DESCRIPTION:Ein kleines, alles fressendes Tier mit einem hellen Fellkleid. Es ist nachtaktiv und kommt in temperierten Wäldern vor. Es ist ein neugieriges Tier und dafür bekannt, dass es aus zivilisierten Gebieten stiehlt].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A large solitary feline.  It is found most often in dense vegetation, ambushing its prey.]', '[DESCRIPTION:Eine große, einzelgängerische Raubkatze. Sie hält sich meist in der dichten Vegetation auf und lauert ihrer Beute auf.'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A person with the head and fur of a groundhog.]', '[DESCRIPTION:Eine Person mit dem Kopf und dem Fell eines Murmeltiers].'
 
 Error: Part 'ALERT' should not be translated
@@ -325,7 +325,7 @@ Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:25:10000:VOCALIZATION:grunt:
 Error: Part 'ALERT' should not be translated
 Problematic tag pair: '[SOUND:ALERT:200:1000:VOCALIZATION:bark:barks:a resounding bark]', '[SOUND:ALARM:200:1000:VOCALIZATION:bellen:bellt:ein schallendes Bellen]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A huge, hairless mammal, found grazing in grasslands in groups.  It eats plants which it lifts up with its long trunk.  When angered, it will attack with its long tusks.]', '[DESCRIPTION:Ein riesiges, unbehaartes Säugetier, das in Gruppen im Grasland weidet. Es frisst Pflanzen, die es mit seinem langen Rüssel hochhebt. Wenn es verärgert ist, greift es mit seinen langen Stoßzähnen an].'
 
 Error: Part 'CASTE_NAME' should not be translated
@@ -334,7 +334,7 @@ Problematic tag pair: '[CASTE_NAME:chinchilla:chinchillas:chinchilla]', '[NAME:C
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:giant chinchilla:giant chinchillas:giant chinchilla]', '[NAME:Riesenchinchilla:Riesenchinchillas:Riesenchinchilla]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small, round humanoid found wandering the caves deep underground.  Most of its body is taken up by a huge tusked mouth.]', '[DESCRIPTION:Ein kleiner, runder Humanoid, der in den Höhlen tief unter der Erde umherwandert. Der größte Teil seines Körpers wird von einem riesigen Maul mit Hauern eingenommen].'
 
 Error: Tag parts count mismatch
@@ -352,7 +352,7 @@ Problematic tag pair: '[GAIT:WALK:Wamble:]', '[GAIT:Walk:Wackeln:]'
 Error: Part 'NOSE' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:NOSE:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:BEAK:herumwühlt:herumwühlen]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[CASTE_NAME:red squirrel:red squirrels:red squirrel]', '[CASTE_NAME:rotes Eichhörnchen:rote Eichhörnchen:rotes Eichhörnchen'
 
 Error: Tag parts count mismatch
@@ -373,43 +373,43 @@ Problematic tag pair: '[MANNERISM_NOSE:nose]', '[MANNERISM_NOSE:Nase:]'
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:giant:giants:giant]', '[NAME:Riese:Riesen:Riese]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A large humanoid monster from the wild tundra.  It has translucent skin, icicles for teeth, red glowing eyes and pointed ears.]', '[DESCRIPTION:Ein großes humanoides Ungeheuer aus der wilden Tundra. Es hat durchscheinende Haut, Eiszapfen als Zähne, rot glühende Augen und spitze Ohren].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny, giggling humanoid with lacy wings.]', '[DESCRIPTION:Ein kleiner, kichernder Humanoid mit Spitzenflügeln].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A creature from the evil swamp.  It resembles a squat, wingless bird with powerful beak and legs.  Its blotchy skin is brightly colored.]', '[DESCRIPTION:Eine Kreatur aus dem Sumpf des Bösen. Er ähnelt einem hockenden, flügellosen Vogel mit kräftigem Schnabel und Beinen. Seine fleckige Haut ist hell gefärbt].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A man-shaped creature with the legs of a goat and the empty-eyed skull of a goat.]', '[DESCRIPTION:Eine menschenähnliche Kreatur mit den Beinen einer Ziege und einen Schädel ohne Augen einer Ziege].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A large, four-armed ape creature with three eyes and razor-sharp teeth.]', '[DESCRIPTION:Ein großes, vierarmiges Affenwesen mit drei Augen und rasiermesserscharfen Zähnen].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A flying monster with stretched skin over its emaciated body.  It has the head of a jackal with needle-like horns protruding through its mane.]', '[DESCRIPTION:Ein fliegendes Ungeheuer mit gespannter Haut über seinem ausgemergelten Körper. Es hat den Kopf eines Schakals mit nadelartigen Hörnern, die aus seiner Mähne herausragen].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: "[DESCRIPTION:A monster in the shape of a woman with a bird's wings in place of arms and talons for feet.]", '[DESCRIPTION:Ein Ungeheuer in Form einer Frau mit Vogelflügeln anstelle der Arme und Krallen als Füße].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A giant dragon-like monster with seven biting heads.]', '[DESCRIPTION:Ein riesiges drachenähnliches Monster mit sieben bissigen Köpfen].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A man-like creature with the tail of a fish instead of legs.]', '[DESCRIPTION:Eine menschenähnliche Kreatur mit dem Schwanz eines Fisches anstelle von Beinen].'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[CHILDNAME:sea serpent hatchling:sea serpent hatchlings]', '[CHILDNAME:Seeschlangenjunges:Seeschlangenjungen:Seeschlangenjunges]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A giant creature with many eyes and arms to terrify the sea.]', '[DESCRIPTION:Eine riesige Kreatur mit vielen Augen und Armen, um das Meer zu erschrecken].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A bird of prey so large and ferocious it dwarfs many dragons.  All beneath its mighty wings should fear the sky.]', '[DESCRIPTION:Ein Raubvogel, der so groß und grausam ist, dass er viele Drachen in den Schatten stellt. Alle unter seinen mächtigen Flügeln sollten den Himmel fürchten].'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A huge, predatory reptile with pale, colorless scales and red eyes.  It lives in caves and ambushes its prey.]', '[DESCRIPTION:Ein riesiges, räuberisches Reptil mit blassen, farblosen Schuppen und roten Augen. Es lebt in Höhlen und lauert seiner Beute auf].'
 
 Error: Tag parts count mismatch
@@ -541,6 +541,6 @@ Problematic tag pair: '[REAGENT:quicklime:]', '[REAGENT:Sekundenkleber]'
 Error: Tag parts count mismatch
 Problematic tag pair: '[REAGENT:quicklime container:]', '[REAGENT:Sekundenkleberbehälter]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[NAME:make adamantine wafers]', '[NAME:schmelze Adamantien Waffeln'
 

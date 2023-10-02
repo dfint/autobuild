@@ -271,7 +271,7 @@ Problematic tag pair: '[NAME:capybara man:capybara men:capybara man]', '[NAME:�
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[DESCRIPTION:A medium-sized, walking red panda with arms and a tail.  It prefers the forest and its beloved trees.]', '[DESCRIPTION:一只中等大小、会走路、有胳膊和尾巴的小熊猫。它喜欢森林和它心爱的树木。]\n\xa0'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: "[PREFSTRING:calves' spirited antics]", '小牛精力充沛的滑稽动作]'
 
 Error: Tag parts count mismatch
@@ -289,7 +289,7 @@ Problematic tag pair: '[GAIT:CRAWL:Creep:]', '[GAIT:CRAWL:蠕动]'
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A tiny underground creature made of a mass of appendages resembling human fingers.  It creeps across the ground like a starfish and eats with a mouth on the bottom of its body.]', '[DESCRIPTION:一种由很多人类手指一样的附肢组成的极小的地底生物。它像海星一样在地上爬行，并且用长在身体底部的嘴进食。'
 
 Error: Tag parts count mismatch
@@ -304,7 +304,7 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:leopard seal pup:leopard seal pups]',
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant leopard seal pup:giant leopard seal pups]', '[GENERAL_CHILD_NAME:巨豹形海豹幼崽:巨豹形海豹幼崽:]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[STATE_ADJ:GAS:boiling phantom spider venom]', '[STATE_ADJ:GAS:幻影蜘蛛毒液]的'
 
 Error: Part 'BODY_UPPER' should not be translated
@@ -322,7 +322,7 @@ Problematic tag pair: '[STATE_ADJ:LIQUID:squid ink]', '[STATE_ADJ:鱿鱼墨汁]'
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[PREFSTRING:fearsome talons]', ' [PREFSTRING:可怕的利爪]'
 
-Error: Extra spaces at the beginning or at the end of the translation
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[ATTACK_VERB:snatch:snatches]', '\t[ATTACK_VERB:拽:拽]。'
 
 Error: Tag parts count mismatch

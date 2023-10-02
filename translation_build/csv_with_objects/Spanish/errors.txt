@@ -91,24 +91,6 @@ Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
 Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 
-Error: Wrong tag translation format
-Problematic tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
-
-Error: Wrong tag translation format
-Problematic tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
-
-Error: Wrong tag translation format
-Problematic tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
-
-Error: Wrong tag translation format
-Problematic tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
-
-Error: Wrong tag translation format
-Problematic tag pair: '[BP:ARM2:second arm:STP]', '[BP:ARM2:segundo brazo:STP]\n\n\nNo hay instrucciones aún.'
-
-Error: Wrong tag translation format
-Problematic tag pair: '[BP:ARM7:seventh arm:STP]', '[BP:ARM7:séptimo brazo:STP]\n\n\nNo hay instrucciones aún.'
-
 Error: Part 'LTC' should not be translated
 Problematic tag pair: '[BP:LTC:left tentacle club:STP]', '[BP:RTC:gancho de tentáculo izquierdo:STP]'
 
@@ -127,13 +109,10 @@ Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 Error: Part 'LH' should not be translated
 Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:RH:mano izquierda:STP]'
 
-Error: Wrong tag translation format
-Problematic tag pair: '[BP:RF2:right second foot:right second feet]', '[BP:RF2:segundo pie derecho:segundos pies derechos]\n\n\nNo hay instrucciones aún.'
-
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[CV_NEW_TAG:CDI:ADV_NAME:Pet animal]', 'CDI:ADV_NOMBRE:Animal mascota]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[CV_NEW_TAG:CDI:VERB:pet:pets:pets]', 'CDI:VERBO:mascota:mascotas:mascotas]'
 
 Error: Part 'CLIMB' should not be translated
@@ -211,7 +190,7 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:giant raccoon pup:giant raccoon pups]
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:giant badger boar:giant badger boars:giant badger boar]', '[NAME:tejón gigante:tejones gigantes:tejón gigantes]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[NAME:elephant:elephants:elephant]', 'elefante'
 
 Error: Part 'NAME' should not be translated
@@ -273,12 +252,6 @@ Problematic tag pair: '[CASTE_NAME:sperm whale man:sperm whale men:sperm whale m
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[NAME:sperm whale man:sperm whale men:sperm whale man]', '[NAME:hombre cachalote:hombres cachalotes]'
-
-Error: Wrong tag translation format
-Problematic tag pair: '[PREFSTRING:adorable pups]', '[PREFSTRING:cachorros adorables]\n\n\nNo hay instrucciones aún.'
-
-Error: Wrong tag translation format
-Problematic tag pair: '[PREFSTRING:adorable pups]', '[PREFSTRING:cachorros adorables]\n\n\nNo hay instrucciones aún.'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:axolotl woman:axolotl women:axolotl woman]', '[CASTE_NAME:mujer axolote:mujeres axolote::mujer axolote]'
@@ -403,7 +376,7 @@ Problematic tag pair: '[GROWTH_NAME:garlic bulb:STP]', '[GROWTH_NAME: bulbo de a
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[GROWTH_NAME:abaca flower:STP]', '[GROWTH_NAME:flor de abacá: STP]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:almond wood]', '[STATE_ADJ:ALL_SOLID:de madera de almendro'
 
 Error: Part 'GAS' should not be translated
@@ -421,18 +394,18 @@ Problematic tag pair: '[SEED:rope reed seed:rope reed seeds:]', '[SEED:semilla d
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:dimple cup spawn:dimple cup spawn:]', '[SEED:semilla de copica hoyuela:semillas de copica hoyuela]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[NAME:feather tree]', '[NAME:Árbol de plumas'
 
-Error: Extra spaces at the beginning or at the end of the translation
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[NAME_PLURAL:feather trees]', '[NAME_PLURAL:Arboles de plumas '
 
-Error: Extra spaces at the beginning or at the end of the translation
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[ADJ:feather tree]', '[ADJ:Árbol de plumas '
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:candlenut:candlenuts:]', '[SEED:anacardo:anacardos]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[ADJ:cacao tree]', '[ADJ:de cacaotero'
 

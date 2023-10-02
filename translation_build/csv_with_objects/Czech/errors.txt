@@ -4,7 +4,7 @@ Problematic tag pair: '[BP:RUTC:right upper claw:STP]', '[BP:RULC:pravý horní 
 Error: Part 'LUTC' should not be translated
 Problematic tag pair: '[BP:LUTC:left upper claw:STP]', '[BP:LULC:levý horní dráp:STP]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[BODYGLOSS:MAW:mouth:maw:mouths:maws]', 'MAW:ústa:chřtán:ústa:chřtán]'
 
 Error: Tag parts count mismatch
@@ -19,7 +19,7 @@ Problematic tag pair: '[BP:LFF:left front foot:left front feet]', '[BP:LH:levé 
 Error: Tag parts count mismatch
 Problematic tag pair: '[BP:EYE:eye:STP]', '[BP:EYE:okoSTP]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[TISSUE_NAME:ivory:NP]', '1[TISSUE_NAME:slonovina:NP]'
 
 Error: Tag parts count mismatch
@@ -61,7 +61,7 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:giant red-winged blackbird hatchling:
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:little penguin chick:little penguin chicks]', '[GENERAL_CHILD_NAME:malé mládě tučňáka:malé mláďata tučňáků:malé mládě tučňáka]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small bird of prey that is capable of great speed.  They dive on unsuspecting vermin.]', 'Malý dravec, který je schopen velké rychlosti. Potápí se na nic netušící kořist.'
 
 Error: Tag parts count mismatch
@@ -85,6 +85,6 @@ Problematic tag pair: '[REAGENT:oil:]', '[REAGENT:olej]'
 Error: Tag parts count mismatch
 Problematic tag pair: '[REAGENT:oil container:]', '[REAGENT:nádoba s olejem]'
 
-Error: Wrong tag translation format
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[NAME:carve bone ring]', '[NAME:vyřezat prsten z kosti'
 
