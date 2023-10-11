@@ -344,6 +344,12 @@ Error: Tag parts count mismatch
 Problematic tag pair: '[STATE_ADJ:LIQUID:cave floater juice]', '[STATE_ADJ:LIQUID::Höhlenschwimmersaft]'
 
 Error: Tag parts count mismatch
+Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', '[CDI:VERB:Tintenfischtinte:Tintenfischtinten]'
+
+Error: Tag parts count mismatch
+Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', '[CDI:VERB:Tintenfischtinte:Tintenfischtinten]'
+
+Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:sponge:sponges:sponge]', '[CASTE_NAME:Schwamm:Schwämme:Schwamm:]'
 
 Error: Part 'WALK' should not be translated
@@ -354,6 +360,9 @@ Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:NOSE:root around in:roots around
 
 Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[CASTE_NAME:red squirrel:red squirrels:red squirrel]', '[CASTE_NAME:rotes Eichhörnchen:rote Eichhörnchen:rotes Eichhörnchen'
+
+Error: Tag parts count mismatch
+Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', '[CDI:VERB:Tintenfischtinte:Tintenfischtinten]'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[MANNERISM_NOSE:nose]', '[MANNERISM_NOSE:Nase:]'
