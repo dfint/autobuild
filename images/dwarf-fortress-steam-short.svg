@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1200pt" height="640pt" version="1.1" viewBox="0 0 1200 640" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <clipPath id="CnAREiDHrn__clip1">
+  <clipPath id="CTD8yiQFb9__clip1">
    <path d="m253.52 67h607.48v20h-607.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip2">
+  <clipPath id="CTD8yiQFb9__clip2">
    <path d="m253.52 93h598.48v19h-598.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip3">
+  <clipPath id="CTD8yiQFb9__clip3">
    <path d="m253.52 119h598.48v19h-598.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip4">
-   <path d="m253.52 144h596.48v20h-596.48z"/>
+  <clipPath id="CTD8yiQFb9__clip4">
+   <path d="m253.52 144h597.48v20h-597.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip5">
+  <clipPath id="CTD8yiQFb9__clip5">
    <path d="m253.52 170h589.48v20h-589.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip6">
+  <clipPath id="CTD8yiQFb9__clip6">
    <path d="m253.52 196h596.48v20h-596.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip7">
+  <clipPath id="CTD8yiQFb9__clip7">
    <path d="m253.52 222h597.48v19h-597.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip8">
+  <clipPath id="CTD8yiQFb9__clip8">
    <path d="m253.52 248h356.48v19h-356.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip9">
+  <clipPath id="CTD8yiQFb9__clip9">
    <path d="m253.52 273h321.48v20h-321.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip10">
+  <clipPath id="CTD8yiQFb9__clip10">
    <path d="m253.52 299h252.48v20h-252.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip11">
+  <clipPath id="CTD8yiQFb9__clip11">
    <path d="m253.52 325h39.48v20h-39.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip12">
+  <clipPath id="CTD8yiQFb9__clip12">
    <path d="m253.52 351h69.48v19h-69.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip13">
+  <clipPath id="CTD8yiQFb9__clip13">
    <path d="m253.52 377h120.48v19h-120.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip14">
+  <clipPath id="CTD8yiQFb9__clip14">
    <path d="m253.52 402h31.48v20h-31.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip15">
+  <clipPath id="CTD8yiQFb9__clip15">
    <path d="m253.52 428h81.48v20h-81.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip16">
+  <clipPath id="CTD8yiQFb9__clip16">
    <path d="m253.52 454h54.48v19h-54.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip17">
+  <clipPath id="CTD8yiQFb9__clip17">
    <path d="m253.52 480h22.48v19h-22.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip18">
+  <clipPath id="CTD8yiQFb9__clip18">
    <path d="m253.52 505h13.48v20h-13.48z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip19">
+  <clipPath id="CTD8yiQFb9__clip19">
    <path d="m253.52 531h4.4805v20h-4.4805z"/>
   </clipPath>
-  <clipPath id="CnAREiDHrn__clip20">
+  <clipPath id="CTD8yiQFb9__clip20">
    <path d="m253.52 557h6.4805v20h-6.4805z"/>
   </clipPath>
  </defs>
@@ -123,7 +123,7 @@
  <path d="m1146.6 67.609h9.457v18.566h-9.457z" fill="#e05659"/>
  <path d="m1137.7 93.395h9.457v18.566h-9.457z" fill="#e05659"/>
  <path d="m1137.7 119.18h9.457v18.566h-9.457z" fill="#e05659"/>
- <path d="m1136.3 144.96h9.457v18.566h-9.457z" fill="#e05659"/>
+ <path d="m1137.4 144.96h9.457v18.566h-9.457z" fill="#e05659"/>
  <path d="m1115.5 170.75h9.2969v18.566h-9.2969z" fill="#e05659"/>
  <path d="m1056.9 196.53h9.457v18.566h-9.457z" fill="#e05659"/>
  <path d="m927.71 222.31h9.457v18.566h-9.457z" fill="#e05659"/>
@@ -142,7 +142,7 @@
  <path d="m860.18 67.609h286.45v18.566h-286.45z" fill="#f28e2a"/>
  <path d="m851.88 93.395h285.86v18.566h-285.86z" fill="#f28e2a"/>
  <path d="m851.85 119.18h285.86v18.566h-285.86z" fill="#f28e2a"/>
- <path d="m849.82 144.96h286.45v18.566h-286.45z" fill="#f28e2a"/>
+ <path d="m850.97 144.96h286.45v18.566h-286.45z" fill="#f28e2a"/>
  <path d="m842.37 170.75h273.18v18.566h-273.18z" fill="#f28e2a"/>
  <path d="m849.95 196.53h206.93v18.566h-206.93z" fill="#f28e2a"/>
  <path d="m850.06 222.31h77.648v18.566h-77.648z" fill="#f28e2a"/>
@@ -159,64 +159,64 @@
  <path d="m266.13 505.94h12.422v18.566h-12.422z" fill="#f28e2a"/>
  <path d="m257.69 531.72h19.07v18.566h-19.07z" fill="#f28e2a"/>
  <path d="m259.8 557.5h6.5977v18.566h-6.5977z" fill="#f28e2a"/>
- <g clip-path="url(#CnAREiDHrn__clip1)">
+ <g clip-path="url(#CTD8yiQFb9__clip1)">
   <path d="m253.52 67.609h606.66v18.566h-606.66z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip2)">
+ <g clip-path="url(#CTD8yiQFb9__clip2)">
   <path d="m253.52 93.395h598.36v18.566h-598.36z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip3)">
+ <g clip-path="url(#CTD8yiQFb9__clip3)">
   <path d="m253.52 119.18h598.33v18.566h-598.33z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip4)">
-  <path d="m253.52 144.96h596.3v18.566h-596.3z" fill="#4d78a6"/>
+ <g clip-path="url(#CTD8yiQFb9__clip4)">
+  <path d="m253.52 144.96h597.45v18.566h-597.45z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip5)">
+ <g clip-path="url(#CTD8yiQFb9__clip5)">
   <path d="m253.52 170.75h588.85v18.566h-588.85z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip6)">
+ <g clip-path="url(#CTD8yiQFb9__clip6)">
   <path d="m253.52 196.53h596.43v18.566h-596.43z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip7)">
+ <g clip-path="url(#CTD8yiQFb9__clip7)">
   <path d="m253.52 222.31h596.54v18.566h-596.54z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip8)">
+ <g clip-path="url(#CTD8yiQFb9__clip8)">
   <path d="m253.52 248.1h355.9v18.566h-355.9z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip9)">
+ <g clip-path="url(#CTD8yiQFb9__clip9)">
   <path d="m253.52 273.88h321.31v18.566h-321.31z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip10)">
+ <g clip-path="url(#CTD8yiQFb9__clip10)">
   <path d="m253.52 299.66h251.54v18.566h-251.54z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip11)">
+ <g clip-path="url(#CTD8yiQFb9__clip11)">
   <path d="m253.52 325.45h39.105v18.566h-39.105z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip12)">
+ <g clip-path="url(#CTD8yiQFb9__clip12)">
   <path d="m253.52 351.23h68.914v18.566h-68.914z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip13)">
+ <g clip-path="url(#CTD8yiQFb9__clip13)">
   <path d="m253.52 377.02h119.59v18.566h-119.59z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip14)">
+ <g clip-path="url(#CTD8yiQFb9__clip14)">
   <path d="m253.52 402.8h30.797v18.566h-30.797z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip15)">
+ <g clip-path="url(#CTD8yiQFb9__clip15)">
   <path d="m253.52 428.59h80.508v18.566h-80.508z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip16)">
+ <g clip-path="url(#CTD8yiQFb9__clip16)">
   <path d="m253.52 454.37h54.355v18.566h-54.355z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip17)">
+ <g clip-path="url(#CTD8yiQFb9__clip17)">
   <path d="m253.52 480.15h22.465v18.566h-22.465z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip18)">
+ <g clip-path="url(#CTD8yiQFb9__clip18)">
   <path d="m253.52 505.94h12.609v18.566h-12.609z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip19)">
+ <g clip-path="url(#CTD8yiQFb9__clip19)">
   <path d="m253.52 531.72h4.168v18.566h-4.168z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#CnAREiDHrn__clip20)">
+ <g clip-path="url(#CTD8yiQFb9__clip20)">
   <path d="m253.52 557.5h6.2773v18.566h-6.2773z" fill="#4d78a6"/>
  </g>
 </svg>
