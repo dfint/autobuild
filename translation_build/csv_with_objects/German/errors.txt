@@ -1,47 +1,5 @@
-Error: Part 'RRTOE1' should not be translated
-Problematic tag pair: '[BP:RRTOE1:first right toe:STP]', '[BP:RRZEH1:erst recht Zeh:STP]'
-
-Error: Tag parts count mismatch
-Problematic tag pair: '[BP:RRTOE4:fourth right toe:STP]', '[BP:RRTOE4Vierter Rechter Zeh: STP]'
-
 Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:HUMP1:front hump:STP]', '[BP:HUMP1:vorderer Höcker: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:HUMP2:rear hump:STP]', '[BP:HUMP2:hinterer Höcker: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:L_CHEEK:left cheek:STP]', '[BP:L_CHEEK:linke Wange: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:R_CHEEK:right cheek:STP]', '[BP:R_CHEEK:rechte Wange: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:L_EYELID:left eyelid:STP]', '[BP:L_EYELID:linkes Augenlid: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:L_LIP:lower lip:STP]', '[BP:L_LIP:Unterlippe: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:U_LIP:upper lip:STP]', '[BP:U_LIP:Oberlippe: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:L_CHEEK:left cheek:STP]', '[BP:L_CHEEK:linke Wange: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:R_CHEEK:right cheek:STP]', '[BP:R_CHEEK:rechte Wange: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:L_EYELID:left eyelid:STP]', '[BP:L_EYELID:linkes Augenlid: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:L_LIP:lower lip:STP]', '[BP:L_LIP:Unterlippe: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:U_LIP:upper lip:STP]', '[BP:U_LIP:Oberlippe: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:RL_INCISOR:right lower incisor:STP]', '[BP:RL_INCISOR:rechter unteren Schneidezahn: STP]'
+Problematic tag pair: '[BP:RRTOE4:fourth right toe:STP]', '[BP:RRTOE4:vierter rechter Zeh: STP]'
 
 Error: Part 'L_L_B_TOOTH' should not be translated
 Problematic tag pair: '[BP:L_L_B_TOOTH:lower left back tooth:lower left back teeth]', '[BP:L_R_B_TOOTH:unterer linker Backenzahn:untere linke Backenzähne]'
@@ -49,62 +7,8 @@ Problematic tag pair: '[BP:L_L_B_TOOTH:lower left back tooth:lower left back tee
 Error: Part 'LOWER_BODY_STINGER' should not be translated
 Problematic tag pair: '[BP:LOWER_BODY_STINGER:stinger:STP]', '[BP:TAIL_1:left tail:STP]'
 
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:HEAD_HORN_3:third horn:STP]', '[BP:HEAD_HORN_3:drittes\n Horn: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:HEAD_HORN_3:third horn:STP]', '[BP:HEAD_HORN_3:drittes\n Horn: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:HEAD_HORN_4:fourth horn:STP]', '[BP:HEAD_HORN_4:viertes Horn: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:L_CHEEK:left cheek:STP]', '[BP:L_CHEEK:linke Wange: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:R_CHEEK:right cheek:STP]', '[BP:R_CHEEK:rechte Wange: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:L_LIP:lower lip:STP]', '[BP:L_LIP:Unterlippe: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:U_LIP:upper lip:STP]', '[BP:U_LIP:Oberlippe: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:L_EYELID:left eyelid:STP]', '[BP:L_EYELID:linkes Augenlid: STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:L_EYELID:left eyelid:STP]', '[BP:L_EYELID:linkes Augenlid: STP]'
-
-Error: Part 'RCP_GLOSS_HOOF' should not be translated
-Problematic tag pair: '[BODYGLOSS:RCP_GLOSS_HOOF:foot:hoof:feet:hooves]', '[BODYGLOSS:HOOF:Fuß:Huf:Füße:Hufe]'
-
-Error: Part 'RCP_GLOSS_PAW' should not be translated
-Problematic tag pair: '[BODYGLOSS:RCP_GLOSS_PAW:foot:paw:feet:paws]', '[BODYGLOSS:PAW:Fuß:Pfote:Füße:Pfoten]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[BP:HEAD_ANTLER_2:right antler:STP]', '[BP:HEAD_ANTLER_2\n:rechte Geweihstange:STP]'
-
-Error: Don't add extra spaces at the beginning or at the end of a tag part
-Problematic tag pair: '[TISSUE_NAME:hoof:NP]', '[TISSUE_NAME: Huf: NP]'
-
-Error: Wrong tag translation format (fix square brackets)
-Problematic tag pair: '[TOOLTIP:Use tallow (rendered fat) or oil here with lye to make soap.]', '[TOOLTIP: Verwenden hier Talg (geschmolzenes Fett) oder Öl mit Lauge, um Seife herzustellen].'
-
-Error: Wrong tag translation format (fix square brackets)
-Problematic tag pair: '[TOOLTIP:A useful workshop for pressing liquids from various sources. Some plants might need to be milled first before they can be used.  Empty jugs are required to store the liquid products.]', '[TOOLTIP: Eine nützliche Werkstatt zum Pressen von Flüssigkeiten aus verschiedenen Rohstoffen. Einige Pflanzen müssen möglicherweise erst gemahlen werden, bevor sie verwendet werden können. Zur Aufbewahrung der flüssigen Produkte werden leere Krüge benötigt].'
-
-Error: Extra spaces at the beginning or at the end of the translation
-Problematic tag pair: '[CASTE_NAME:oriole woman:oriole women:oriole woman]', '[CASTE_NAME:Pirolfrau:Pirolfrauen:Pirolfrau] '
-
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant oriole hatchling:giant oriole hatchlings]', '[GENERAL_CHILD_NAME:Rießenpirolschlüpfling:Rießenpirolschlüpflinge:Rießenpirolschlüpfling]'
-
-Error: Part 'CASTE_NAME' should not be translated
-Problematic tag pair: '[CASTE_NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]', '[NAME:Rotschulterstärling:Rotschulterstärlinge:Rotschulterstärling]'
-
-Error: Part 'CASTE_NAME' should not be translated
-Problematic tag pair: '[CASTE_NAME:penguin:penguins:penguin]', '[NAME:Pinguin:Pinguine:Pinguin]'
 
 Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[CASTE_NAME:ostrich woman:ostrich women:ostrich woman]', '[CASTE_NAME:Straußenweibchen:Straußenweibchen:Straußenweibchen]+'
@@ -114,9 +18,6 @@ Problematic tag pair: '[CASTE_NAME:giant kea:giant kea:giant kea]', '[CASTE_NAME
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[NAME:white stork:white storks:white stork]', '[NAME:Weißstorch.Weißstörche:Weißstorch]'
-
-Error: Part 'CASTE_NAME' should not be translated
-Problematic tag pair: '[CASTE_NAME:loon:loons:loon]', '[NAME:Seetaucher:Seetaucher:Seetaucher]'
 
 Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[GENERAL_CHILD_NAME:loon chick:loon chicks]', '[GENERAL_CHILD_NAME:Seetaucherkücken:Seetaucherküken] '
@@ -130,11 +31,11 @@ Problematic tag pair: '[DESCRIPTION:A person with the head and wings of a kakapo
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant kakapo chick:giant kakapo chicks]', '[GENERAL_CHILD_NAME:Riesenkakapoküken:Riesenkakapoküken:Riesenkakapoküken]'
 
-Error: Wrong tag translation format (fix square brackets)
-Problematic tag pair: '[DESCRIPTION:The most intelligent of birds.  It can be found in the rainforest.]', '[DESCRIPTION:Der intelligenteste aller Vögel. Man findet ihn im Regenwald].'
-
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant grey parrot chick:giant grey parrot chicks]', '[GENERAL_CHILD_NAME:Riesengraupapageiküken:Riesengraupapageieküken:Riesengraupapageiküken]'
+
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:giant puffin:giant puffins:giant puffin]', '[NAME:Riesenpapageitaucher:Riesenpapageitaucher]'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant puffin chick:giant puffin chicks]', '[GENERAL_CHILD_NAME:Rießenpapageitaucherküken:Rießenpapageitaucherküken:Rießenpapageitaucherküken]'
@@ -299,9 +200,6 @@ Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:blue shark pup:blue shark pups]', '[GENERAL_CHILD_NAME:Blauhai-Welpe:Blauhai-Welpen:Blauhai-Welpe]'
 
 Error: Wrong tag translation format (fix square brackets)
-Problematic tag pair: '[CASTE_NAME:tigerfish:tigerfish:tigerfish]', '[CASTE_NAME:Tigerfische:Tigerfische:Tigerfische'
-
-Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small carnivorous animal found in temperate climates.  It has orange fur and is known for its cleverness.]', '[DESCRIPTION:Ein kleines fleischfressendes Tier, das in gemäßigten Klimazonen vorkommt. Es hat ein orangefarbenes Fell und ist für seine Intelligenz bekannt].'
 
 Error: Wrong tag translation format (fix square brackets)
@@ -327,12 +225,6 @@ Problematic tag pair: '[SOUND:ALERT:200:1000:VOCALIZATION:bark:barks:a resoundin
 
 Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A huge, hairless mammal, found grazing in grasslands in groups.  It eats plants which it lifts up with its long trunk.  When angered, it will attack with its long tusks.]', '[DESCRIPTION:Ein riesiges, unbehaartes Säugetier, das in Gruppen im Grasland weidet. Es frisst Pflanzen, die es mit seinem langen Rüssel hochhebt. Wenn es verärgert ist, greift es mit seinen langen Stoßzähnen an].'
-
-Error: Part 'CASTE_NAME' should not be translated
-Problematic tag pair: '[CASTE_NAME:chinchilla:chinchillas:chinchilla]', '[NAME:Chinchilla:Chinchillas:Chinchilla]'
-
-Error: Part 'CASTE_NAME' should not be translated
-Problematic tag pair: '[CASTE_NAME:giant chinchilla:giant chinchillas:giant chinchilla]', '[NAME:Riesenchinchilla:Riesenchinchillas:Riesenchinchilla]'
 
 Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[DESCRIPTION:A small, round humanoid found wandering the caves deep underground.  Most of its body is taken up by a huge tusked mouth.]', '[DESCRIPTION:Ein kleiner, runder Humanoid, der in den Höhlen tief unter der Erde umherwandert. Der größte Teil seines Körpers wird von einem riesigen Maul mit Hauern eingenommen].'
@@ -476,7 +368,7 @@ Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:paradise nut:paradise nuts:]', '[SEED:Paradiesnuss:Paradiesnüsse]'
 
 Error: Tag parts count mismatch
-Problematic tag pair: '[SEED:tea seed:tea seeds:]', '[SEED:Teesamen_Teesamen]'
+Problematic tag pair: '[SEED:tea seed:tea seeds:]', '[SEED:Teesamen:Teesamen]'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:avocado pit:avocado pits:]', '[SEED:Avocadokern:Avocadokerne]'
