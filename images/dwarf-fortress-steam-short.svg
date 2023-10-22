@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1200pt" height="640pt" version="1.1" viewBox="0 0 1200 640" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <clipPath id="xNfIhm769q__clip1">
+  <clipPath id="WiwX23RsMe__clip1">
    <path d="m261.52 67h601.48v19h-601.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip2">
+  <clipPath id="WiwX23RsMe__clip2">
    <path d="m261.52 91h601.48v19h-601.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip3">
+  <clipPath id="WiwX23RsMe__clip3">
    <path d="m261.52 116h593.48v19h-593.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip4">
+  <clipPath id="WiwX23RsMe__clip4">
    <path d="m261.52 141h593.48v18h-593.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip5">
+  <clipPath id="WiwX23RsMe__clip5">
    <path d="m261.52 165h584.48v19h-584.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip6">
+  <clipPath id="WiwX23RsMe__clip6">
    <path d="m261.52 190h591.48v18h-591.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip7">
+  <clipPath id="WiwX23RsMe__clip7">
    <path d="m261.52 214h591.48v19h-591.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip8">
+  <clipPath id="WiwX23RsMe__clip8">
    <path d="m261.52 239h353.48v19h-353.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip9">
+  <clipPath id="WiwX23RsMe__clip9">
    <path d="m261.52 263h318.48v19h-318.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip10">
+  <clipPath id="WiwX23RsMe__clip10">
    <path d="m261.52 288h251.48v19h-251.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip11">
+  <clipPath id="WiwX23RsMe__clip11">
    <path d="m261.52 313h39.48v18h-39.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip12">
+  <clipPath id="WiwX23RsMe__clip12">
    <path d="m261.52 337h68.48v19h-68.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip13">
+  <clipPath id="WiwX23RsMe__clip13">
    <path d="m261.52 362h119.48v18h-119.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip14">
+  <clipPath id="WiwX23RsMe__clip14">
    <path d="m261.52 386h31.48v19h-31.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip15">
+  <clipPath id="WiwX23RsMe__clip15">
    <path d="m261.52 411h80.48v18h-80.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip16">
+  <clipPath id="WiwX23RsMe__clip16">
    <path d="m261.52 435h54.48v19h-54.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip17">
+  <clipPath id="WiwX23RsMe__clip17">
    <path d="m261.52 460h22.48v19h-22.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip18">
+  <clipPath id="WiwX23RsMe__clip18">
    <path d="m261.52 484h13.48v19h-13.48z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip19">
+  <clipPath id="WiwX23RsMe__clip19">
    <path d="m261.52 509h4.4805v19h-4.4805z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip20">
+  <clipPath id="WiwX23RsMe__clip20">
    <path d="m261.52 534h6.4805v18h-6.4805z"/>
   </clipPath>
-  <clipPath id="xNfIhm769q__clip21">
+  <clipPath id="WiwX23RsMe__clip21">
    <path d="m261.52 558h5.4805v19h-5.4805z"/>
   </clipPath>
  </defs>
@@ -132,9 +132,9 @@
  <path d="m1115.9 165.66h9.2148v17.68h-9.2148z" fill="#e05659"/>
  <path d="m1057.8 190.22h9.3711v17.68h-9.3711z" fill="#e05659"/>
  <path d="m929.75 214.77h9.3711v17.68h-9.3711z" fill="#e05659"/>
- <path d="m898.3 239.33h9.3711v17.68h-9.3711z" fill="#e05659"/>
+ <path d="m898.83 239.33h9.3711v17.68h-9.3711z" fill="#e05659"/>
  <path d="m863.32 263.89h9.3711v17.68h-9.3711z" fill="#e05659"/>
- <path d="m712.47 288.45h9.3711v17.68h-9.3711z" fill="#e05659"/>
+ <path d="m712.58 288.45h9.3711v17.68h-9.3711z" fill="#e05659"/>
  <path d="m578.08 313h7.7031v17.68h-7.7031z" fill="#e05659"/>
  <path d="m448.64 337.55h9.2383v17.68h-9.2383z" fill="#e05659"/>
  <path d="m361.36 386.67h9.3711v17.68h-9.3711z" fill="#e05659"/>
@@ -152,9 +152,9 @@
  <path d="m845.16 165.66h270.76v17.68h-270.76z" fill="#f28e2a"/>
  <path d="m852.68 190.22h205.1v17.68h-205.1z" fill="#f28e2a"/>
  <path d="m852.79 214.77h76.965v17.68h-76.965z" fill="#f28e2a"/>
- <path d="m614.38 239.33h283.92v17.68h-283.92z" fill="#f28e2a"/>
+ <path d="m614.91 239.33h283.92v17.68h-283.92z" fill="#f28e2a"/>
  <path d="m579.99 263.89h283.34v17.68h-283.34z" fill="#f28e2a"/>
- <path d="m512.53 288.45h199.94v17.68h-199.94z" fill="#f28e2a"/>
+ <path d="m512.64 288.45h199.94v17.68h-199.94z" fill="#f28e2a"/>
  <path d="m300.28 313h277.8v17.68h-277.8z" fill="#f28e2a"/>
  <path d="m329.82 337.55h118.82v17.68h-118.82z" fill="#f28e2a"/>
  <path d="m380.05 362.11h4.2891v17.68h-4.2891z" fill="#f28e2a"/>
@@ -166,67 +166,67 @@
  <path d="m265.65 509.45h18.902v17.68h-18.902z" fill="#f28e2a"/>
  <path d="m267.74 534h6.5391v17.68h-6.5391z" fill="#f28e2a"/>
  <path d="m266.97 558.56h9.8477v17.68h-9.8477z" fill="#f28e2a"/>
- <g clip-path="url(#xNfIhm769q__clip1)">
+ <g clip-path="url(#WiwX23RsMe__clip1)">
   <path d="m261.52 67.438h601.33v17.68h-601.33z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip2)">
+ <g clip-path="url(#WiwX23RsMe__clip2)">
   <path d="m261.52 91.992h601.3v17.68h-601.3z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip3)">
+ <g clip-path="url(#WiwX23RsMe__clip3)">
   <path d="m261.52 116.55h593.07v17.68h-593.07z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip4)">
+ <g clip-path="url(#WiwX23RsMe__clip4)">
   <path d="m261.52 141.11h593.04v17.68h-593.04z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip5)">
+ <g clip-path="url(#WiwX23RsMe__clip5)">
   <path d="m261.52 165.66h583.64v17.68h-583.64z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip6)">
+ <g clip-path="url(#WiwX23RsMe__clip6)">
   <path d="m261.52 190.22h591.16v17.68h-591.16z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip7)">
+ <g clip-path="url(#WiwX23RsMe__clip7)">
   <path d="m261.52 214.77h591.27v17.68h-591.27z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip8)">
-  <path d="m261.52 239.33h352.86v17.68h-352.86z" fill="#4d78a6"/>
+ <g clip-path="url(#WiwX23RsMe__clip8)">
+  <path d="m261.52 239.33h353.39v17.68h-353.39z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip9)">
+ <g clip-path="url(#WiwX23RsMe__clip9)">
   <path d="m261.52 263.89h318.47v17.68h-318.47z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip10)">
-  <path d="m261.52 288.45h251.01v17.68h-251.01z" fill="#4d78a6"/>
+ <g clip-path="url(#WiwX23RsMe__clip10)">
+  <path d="m261.52 288.45h251.12v17.68h-251.12z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip11)">
+ <g clip-path="url(#WiwX23RsMe__clip11)">
   <path d="m261.52 313h38.758v17.68h-38.758z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip12)">
+ <g clip-path="url(#WiwX23RsMe__clip12)">
   <path d="m261.52 337.55h68.305v17.68h-68.305z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip13)">
+ <g clip-path="url(#WiwX23RsMe__clip13)">
   <path d="m261.52 362.11h118.53v17.68h-118.53z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip14)">
+ <g clip-path="url(#WiwX23RsMe__clip14)">
   <path d="m261.52 386.67h30.527v17.68h-30.527z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip15)">
+ <g clip-path="url(#WiwX23RsMe__clip15)">
   <path d="m261.52 411.22h79.797v17.68h-79.797z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip16)">
+ <g clip-path="url(#WiwX23RsMe__clip16)">
   <path d="m261.52 435.78h53.875v17.68h-53.875z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip17)">
+ <g clip-path="url(#WiwX23RsMe__clip17)">
   <path d="m261.52 460.34h22.266v17.68h-22.266z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip18)">
+ <g clip-path="url(#WiwX23RsMe__clip18)">
   <path d="m261.52 484.89h12.496v17.68h-12.496z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip19)">
+ <g clip-path="url(#WiwX23RsMe__clip19)">
   <path d="m261.52 509.45h4.1289v17.68h-4.1289z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip20)">
+ <g clip-path="url(#WiwX23RsMe__clip20)">
   <path d="m261.52 534h6.2227v17.68h-6.2227z" fill="#4d78a6"/>
  </g>
- <g clip-path="url(#xNfIhm769q__clip21)">
+ <g clip-path="url(#WiwX23RsMe__clip21)">
   <path d="m261.52 558.56h5.4531v17.68h-5.4531z" fill="#4d78a6"/>
  </g>
 </svg>
