@@ -102,7 +102,7 @@ def prepare_dataset(path: Path):
 
 
 def minify_svg(data: bytes) -> bytes:
-    return scour_string(data.decode("utf-8"), options=SimpleNamespace(strip_ids=True)).encode("utf-8")
+    return scour_string(data.decode("utf-8"), options=SimpleNamespace(strip_ids=True, shorten_ids=True)).encode("utf-8")
 
 
 app = typer.Typer()
