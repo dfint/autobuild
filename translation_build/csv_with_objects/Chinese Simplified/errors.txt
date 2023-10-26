@@ -256,9 +256,6 @@ Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
 Error: Part 'BEAK' should not be translated
 Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:尖喙:翻找:翻找]'
 
-Error: Extra spaces at the beginning or at the end of the translation
-Problematic tag pair: '[PREFSTRING:buzzing]', '[PREFSTRING:嗡嗡作响] '
-
 Error: Tag parts count mismatch
 Problematic tag pair: '[NAME:mountain gnome:mountain gnomes:mountain gnome]', '[NAME:山地精;山地精:山地精]'
 
@@ -267,9 +264,6 @@ Problematic tag pair: '[CASTE_NAME:mountain gnome:mountain gnomes:mountain gnome
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[NAME:capybara man:capybara men:capybara man]', '[NAME:水豚人:水豚人水豚人]'
-
-Error: Extra spaces at the beginning or at the end of the translation
-Problematic tag pair: '[DESCRIPTION:A medium-sized, walking red panda with arms and a tail.  It prefers the forest and its beloved trees.]', '[DESCRIPTION:一只中等大小、会走路、有胳膊和尾巴的小熊猫。它喜欢森林和它心爱的树木。]\n\xa0'
 
 Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: "[PREFSTRING:calves' spirited antics]", '小牛精力充沛的滑稽动作]'
@@ -288,9 +282,6 @@ Problematic tag pair: '[GAIT:CRAWL:Creep:]', '[GAIT:CRAWL:蠕动]'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
-
-Error: Wrong tag translation format (fix square brackets)
-Problematic tag pair: '[DESCRIPTION:A tiny underground creature made of a mass of appendages resembling human fingers.  It creeps across the ground like a starfish and eats with a mouth on the bottom of its body.]', '[DESCRIPTION:一种由很多人类手指一样的附肢组成的极小的地底生物。它像海星一样在地上爬行，并且用长在身体底部的嘴进食。'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', '[ATTACK_VERB:啄;啄]'
@@ -318,12 +309,6 @@ Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen squid ink]', '[STATE_ADJ:冷�
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[STATE_ADJ:LIQUID:squid ink]', '[STATE_ADJ:鱿鱼墨汁]'
-
-Error: Extra spaces at the beginning or at the end of the translation
-Problematic tag pair: '[PREFSTRING:fearsome talons]', ' [PREFSTRING:可怕的利爪]'
-
-Error: Wrong tag translation format (fix square brackets)
-Problematic tag pair: '[ATTACK_VERB:snatch:snatches]', '\t[ATTACK_VERB:拽:拽]。'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[CDI:ADV_NAME:Hurl fireball]', '[CDI:投掷火球]'
@@ -363,9 +348,6 @@ Problematic tag pair: '[NAME:training spear:training spears]', '[NAME:训练短�
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[STATE_NAME:SOLID:gold]', '[STATE_NAME:SOLID;金]'
-
-Error: Extra spaces at the beginning or at the end of the translation
-Problematic tag pair: '[STATE_NAME:ALL_SOLID:nail]', '[STATE_NAME:ALL_SOLID:指甲] '
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:eggplant seed:eggplant seeds:]', '[SEED:茄子种子:茄子种子]'
