@@ -62,3 +62,16 @@ jobs:
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
         add: images/*
         message: Update progress diagram
+
+  trigger-update-data:
+    needs: process-translations
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+    - name: Dispatch dictionary manifest update
+      uses: peter-evans/repository-dispatch@v2
+      with:
+        token: ${{ secrets.PAT_UPDATE_DATA }}
+        repository: dfint/update-data
+        event-type: dict
