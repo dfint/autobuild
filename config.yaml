@@ -70,6 +70,10 @@ languages:
     code: ru
     encoding: cp1251
 
+  - name: Russian (cp866)
+    code: ru
+    encoding: cp866
+
   - name: Spanish
     code: es
     encoding: cp850
