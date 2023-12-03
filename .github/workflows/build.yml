@@ -72,6 +72,6 @@ jobs:
     - name: Dispatch dictionary manifest update
       uses: peter-evans/repository-dispatch@v2
       with:
-        token: ${{ secrets.PAT_UPDATE_DATA }}
+        token: ${{ secrets.REPOSITORY_DISPATCH_PAT }}
         repository: dfint/update-data
         event-type: dict
