@@ -8,13 +8,14 @@ import aiofiles
 import df_translation_toolkit.convert.hardcoded_po_to_csv
 import df_translation_toolkit.convert.objects_po_to_csv
 import typer
-import viscii_codec
+from alternative_encodings import cp866i, viscii
 from loguru import logger
 
 from automation.load_config import load_config
 from automation.models import Config, LanguageInfo
 
-viscii_codec.register()
+viscii.register()
+cp866i.register()
 
 
 async def load_file(language_code: str, resource_name: str, config: Config) -> bytes:
