@@ -5,7 +5,11 @@ languages:
   - name: Belarusian
     code: be
     encoding: cp1251
-  
+
+  - name: Belarusian (cp866u)
+    code: be
+    encoding: cp866u
+
   - name: Catalan
     code: ca
     encoding: cp850
@@ -85,6 +89,10 @@ languages:
   - name: Ukrainian
     code: uk
     encoding: cp1251
+
+  - name: Ukrainian (cp866u)
+    code: uk
+    encoding: cp866u
 
   - name: Vietnamese
     code: vi
