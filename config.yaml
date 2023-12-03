@@ -6,10 +6,6 @@ languages:
     code: be
     encoding: cp1251
 
-  - name: Belarusian (cp866u)
-    code: be
-    encoding: cp866u
-
   - name: Catalan
     code: ca
     encoding: cp850
