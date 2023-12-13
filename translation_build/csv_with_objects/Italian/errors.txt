@@ -5,12 +5,6 @@ Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[BP:UB:thorax:thoraxes]', ' [BP:UB:torace:toraci] '
 
 Error: Extra spaces at the beginning or at the end of the translation
-Problematic tag pair: '[BP:EYE:eye:STP]', ' [BP:EYE:occhio:STP] '
-
-Error: Extra spaces at the beginning or at the end of the translation
-Problematic tag pair: '[BP:EYE:eye:STP]', ' [BP:EYE:occhio:STP] '
-
-Error: Extra spaces at the beginning or at the end of the translation
 Problematic tag pair: '[BP:UB:thorax:thoraxes]', ' [BP:UB:torace:toraci] '
 
 Error: Extra spaces at the beginning or at the end of the translation
@@ -57,6 +51,60 @@ Problematic tag pair: '[PROFESSION_NAME:CRAFTSMAN:craftsdwarf:craftsdwarves]', '
 
 Error: Part 'FISHERMAN' should not be translated
 Problematic tag pair: '[PROFESSION_NAME:FISHERMAN:fisherdwarf:fisherdwarves]', '[PROFESSION_NAME:PESCATORE:nanopescatore:nanipescatori]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[APP_MOD_NOUN:hair:SINGULAR]', '[APP_MOD_NOUN:capelli:capello]'
+
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN:capelli:capello]'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[SEED:muck root seed:muck root seeds:]', '[SEED:seme di radice fangosa:semi di radice fangosa]'
