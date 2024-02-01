@@ -42,7 +42,7 @@ jobs:
         poetry run process ../
 
     - name: Push changes to the repository
-      uses: EndBug/add-and-commit@v9.1.3
+      uses: EndBug/add-and-commit@v9.1.4
       with:
         author_name: github-actions[bot]
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
@@ -54,7 +54,7 @@ jobs:
         poetry run progress_diagram ../translations-backup/translations/dwarf-fortress-steam ../images/dwarf-fortress-steam-short.svg --minimal-percent=1 --width=600 --height=320
 
     - name: Push changes to the repository
-      uses: EndBug/add-and-commit@v9.1.3
+      uses: EndBug/add-and-commit@v9.1.4
       with:
         author_name: github-actions[bot]
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
@@ -68,7 +68,7 @@ jobs:
 
     steps:
     - name: Dispatch dictionary manifest update
-      uses: peter-evans/repository-dispatch@v2
+      uses: peter-evans/repository-dispatch@v3
       with:
         token: ${{ secrets.REPOSITORY_DISPATCH_PAT }}
         repository: dfint/update-data
