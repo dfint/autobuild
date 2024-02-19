@@ -1,3 +1,6 @@
 Error: Tag parts count mismatch
 Problematic tag pair: '[RETRACT_INTO_BP:BY_CATEGORY:SHELL:retract into <pro_pos> shell:retracts into <pro_pos> shell:come out of <pro_pos> shell:comes out of <pro_pos> shell]', '[RETRACT_INTO_BP:BY_CATEGORY:SHELL:chowasz się do <pro_pos> muszli:chowa się do <pro_pos> muszli:wychodzisz z <pro_pos> wychodzi z <pro_pos> muszli]'
 
+Error: Tag parts count mismatch
+Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN:włos;SINGULAR]'
+
