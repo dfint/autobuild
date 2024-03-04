@@ -1,0 +1,3 @@
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME_PLURAL:string bean plants]', 'piante di fagiolino'
+
