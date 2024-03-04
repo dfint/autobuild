@@ -36,7 +36,7 @@ languages:
 
   - name: French
     code: fr
-    encoding: latin9
+    encoding: cp859
 
   - name: Japanese
     code: ja
