@@ -1678,6 +1678,9 @@ Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:skin:SINGULAR]', '[APP_MOD_NOUN: pele: SINGULAR]'
 
+Error: Part 'VERB' should not be translated
+Problematic tag pair: '[CDI:VERB:spit:spits:]', '[CDI:VERB\\:cuspir\\:cospe\\:]'
+
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Problematic tag pair: '[APP_MOD_NOUN:lips:PLURAL]', '[APP_MOD_NOUN: lábios: PLURAL]'
 
