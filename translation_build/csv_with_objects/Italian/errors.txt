@@ -1,3 +1,6 @@
+Error: Tag parts count mismatch
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant muskox calf:giant muskox calves]', '[GENERAL_CHILD_NAME:vitello di bue muschiato gigante: vitelli di bue muschiato giganti:]'
+
 Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[NAME_PLURAL:string bean plants]', 'piante di fagiolino'
 
