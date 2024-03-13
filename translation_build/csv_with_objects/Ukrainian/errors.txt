@@ -1,0 +1,3 @@
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:make billon bars (use ore)]', 'зробіть мільярд слитків (використовуйте руду)].'
+
