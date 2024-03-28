@@ -370,6 +370,9 @@ Problematic tag pair: '[NAME:giant osprey:giant ospreys:giant osprey]', '[NOME:f
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:giant osprey:giant ospreys:giant osprey]', '[NOME_CASTE:falco pescatore gigante: falco pescatore gigante: falco pescatore gigante]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:emu:emus:emu]', '[NOME:emù:emù:emù]'
+
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:emu:emus:emu]', '[NOME_CASTE:emù:emù:emù]'
 
@@ -514,6 +517,12 @@ Problematic tag pair: '[CASTE_NAME:giant great horned owl:giant great horned owl
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A small bird of prey.]', '[DESCRIZIONE:Un piccolo uccello da preda.]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:eagle:eagles:eagle]', '[NOME:aquila:aquile:aquila]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:eagle:eagles:eagle]', '[NOME_CASTE:aquila:aquile:aquila]'
+
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:eagle man:eagle men:eagle man]', '[NOME_CASTE:uomo aquila:uomini aquila:uomo aquila]'
 
@@ -600,6 +609,9 @@ Problematic tag pair: '[DESCRIPTION:A huge monster in the form of a bark scorpio
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A tiny green insect.  It has long, distinctive forelimbs that it uses to catch its prey.]', '[DESCRIZIONE:Un minuscolo insetto verde. Ha arti anteriori lunghi e caratteristici che usa per catturare la preda.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:mantis:mantises:mantis]', '[NOME:mantide:mantidi:mantide]'
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:mantis:mantises:mantis]', '[NOME_CASTE:mantide:mantidi:mantide]'
@@ -868,6 +880,9 @@ Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen gila monster venom]', '[STATO
 Error: Part 'STATE_NAME' should not be translated
 Problematic tag pair: '[STATE_NAME:LIQUID:gila monster venom]', '[NOME_STATO:LIQUIDO: veleno del mostro Gila]'
 
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:gila monster venom]', '[STATO_ADJ:LIQUIDO: veleno del mostro Gila]'
+
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:gila monster man:gila monster men:gila monster man]', '[NOME_CASTA:gila monster man:gila monster men:gila monster man]'
 
@@ -1011,6 +1026,12 @@ Problematic tag pair: '[NAME:alpaca:alpacas:alpaca]', '[NOME:alpaca:alpaca:alpac
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:alpaca:alpacas:alpaca]', '[NOME_CASTE:alpaca:alpaca:alpaca]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:guineafowl:guineafowls:guineafowl]', '[NOME:faraona:faraona:faraona]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:guineahen:guineahens:guineahen]', '[NOME_CASTE:cavia: cavia: cavia]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: "[DESCRIPTION:A small forest bird.  The male's tail creates an extravagant display for females.  At night, they roost in the trees.]", '[DESCRIZIONE:Un piccolo uccello della foresta. La coda del maschio crea uno spettacolo stravagante per le femmine. Di notte si appollaiano sugli alberi.]'
@@ -1799,6 +1820,18 @@ Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A huge reptile, found in rivers and marshlands.  It is an ambush predator, solitary and territorial.]', '[DESCRIZIONE:Un enorme rettile, che si trova nei fiumi e nelle paludi. È un predatore di agguati, solitario e territoriale.]'
 
 Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:alligator:alligators:alligator]', '[NOME:alligatore:alligatori:alligatore]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:alligator:alligators:alligator]', '[NOME_CASTE:alligatore:alligatori:alligatore]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:alligator man:alligator men:alligator man]', '[NOME_CASTE:uomo alligatore:uomo alligatore:uomo alligatore]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:alligator woman:alligator women:alligator woman]', '[NOME_CASTE:donna alligatore:donna alligatore:donna alligatore]'
+
+Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:alligator man:alligator men:alligator man]', '[NOME:uomo alligatore:uomo alligatore:uomo alligatore]'
 
 Error: Part 'DESCRIPTION' should not be translated
@@ -1960,6 +1993,15 @@ Problematic tag pair: '[NAME:warthog:warthogs:warthog]', '[NOME:facocero:facocer
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:warthog:warthogs:warthog]', '[NOME_CASTE:facocero:facoceri:facocero]'
 
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:warthog man:warthog men:warthog man]', '[NOME_CASTE:uomo facocero:uomini facocero:uomo facocero]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:warthog woman:warthog women:warthog woman]', '[NOME_CASTE:donna facocero:donna facocero:donna facocero]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:warthog man:warthog men:warthog man]', '[NOME:uomo facocero:uomini facocero:uomo facocero]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A person with the head of a warthog.]', '[DESCRIZIONE:Una persona con la testa di un facocero.]'
 
@@ -1971,6 +2013,9 @@ Problematic tag pair: '[CASTE_NAME:giant warthog:giant warthogs:giant warthog]',
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A huge monster warthog with jagged tusks.]', '[DESCRIZIONE:Un enorme mostro facocero con zanne frastagliate.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:lion:lions:lion]', '[NOME:leone:leoni:leone]'
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:lion:lions:lion]', '[NOME_CASTE:leone:leoni:leone]'
@@ -1986,6 +2031,9 @@ Problematic tag pair: '[NAME:lion man:lion men:lion man]', '[NOME:uomo leone:uom
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A person with the head of a lion.]', '[DESCRIZIONE:Una persona con la testa di leone.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:giant lion:giant lions:giant lion]', '[NOME:leone gigante:leoni giganti:leone gigante]'
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:giant lion:giant lions:giant lion]', '[NOME_CASTE:leone gigante:leoni giganti:leone gigante]'
@@ -2133,6 +2181,9 @@ Problematic tag pair: '[NAME:mandrill:mandrills:mandrill]', '[NOME:mandrillo:man
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:mandrill:mandrills:mandrill]', '[NOME_CASTE:mandrillo:mandrilli:mandrillo]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:mandrill woman:mandrill women:mandrill woman]', '[NOME_CASTE:donna mandrillo:donna mandrillo:donna mandrillo]'
 
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:mandrill man:mandrill men:mandrill man]', '[NOME:uomo mandrillo:uomo mandrillo:uomo mandrillo]'
@@ -2332,6 +2383,15 @@ Problematic tag pair: '[DESCRIPTION:A large quadruped with a mane circling its m
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:drunian:drunians:drunian]', '[NOME:druniano:druniano:druniano]'
 
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:drunian:drunians:drunian]', '[NOME_CASTE:druniano:druniano:druniano]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:creeping eye:creeping eyes:creeping eye]', '[NOME:occhio strisciante:occhi striscianti:occhio strisciante]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:creeping eye:creeping eyes:creeping eye]', '[NOME_CASTE:occhio strisciante:occhi striscianti:occhio strisciante]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A huge cave monster with hundreds of feet moving along the bottom of its long body.  In place of a head, it has an enormous toothy maw.]', '[DESCRIZIONE:Un enorme mostro delle caverne con centinaia di piedi che si muovono lungo il fondo del suo lungo corpo. Al posto della testa ha enormi fauci dentate.]'
 
@@ -2506,6 +2566,9 @@ Problematic tag pair: '[DESCRIPTION:A small creature that lives in watery ditche
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:pond grabber:pond grabbers:pond grabber]', '[NOME:afferratore per stagno:afferratore per stagno:afferratore per stagno]'
 
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:pond grabber:pond grabbers:pond grabber]', '[NOME_CASTE:afferratore per stagno:afferratore per stagno:afferratore per stagno]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A huge emaciated-looking bear with great drooping ears and many sharp teeth.  It is found deep underground.]', "[DESCRIZIONE:Un enorme orso dall'aspetto emaciato con grandi orecchie cadenti e molti denti aguzzi. Si trova in profondità nel sottosuolo.]"
 
@@ -2541,6 +2604,12 @@ Problematic tag pair: '[NAME:gorlak:gorlaks:gorlak]', '[NOME:gorlak:gorlaks:gorl
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:gorlak:gorlaks:gorlak]', '[NOME_CASTE:gorlak:gorlaks:gorlak]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:cave floater:cave floaters:cave floater]', '[NOME:galleggiante in grotta: galleggiante in grotta: galleggiante in grotta]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:cave floater:cave floaters:cave floater]', '[NOME_CASTE:galleggiante in grotta: galleggiante in grotta: galleggiante in grotta]'
 
 Error: Part 'STATE_NAME' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen cave floater juice]', '[NOME_STATO:ALL_SOLID:succo galleggiante di grotta congelato]'
@@ -2725,8 +2794,20 @@ Problematic tag pair: '[NAME:cuttlefish man:cuttlefish men:cuttlefish man]', '[N
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A person with a cuttlefish in place of a head.]', '[DESCRIZIONE:Una persona con una seppia al posto della testa.]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:giant cuttlefish:giant cuttlefish:giant cuttlefish]', '[NOME:seppia gigante:seppia gigante:seppia gigante]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant cuttlefish:giant cuttlefish:giant cuttlefish]', '[NOME_CASTE:seppia gigante:seppia gigante:seppia gigante]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A huge ocean mammal.  It is a vicious predator and can hunt in groups.]', '[DESCRIZIONE:Un enorme mammifero oceanico. È un predatore feroce e può cacciare in gruppo.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:orca:orcas:orca]', '[NOME:orca:orche:orca]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:orca:orcas:orca]', '[NOME_CASTE:orca:orche:orca]'
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:orca man:orca men:orca man]', '[NOME_CASTE:uomo orca:uomo orca:uomo orca]'
@@ -3164,6 +3245,9 @@ Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:pond turtle:pond turtles:pond turtle]', '[NOME:tartaruga palustre:tartarughe palustri:tartaruga palustre]'
 
 Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:pond turtle:pond turtles:pond turtle]', '[NOME_CASTE:tartaruga palustre:tartarughe palustri:tartaruga palustre]'
+
+Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:pond turtle man:pond turtle men:pond turtle man]', '[NOME_CASTE:uomo tartaruga di stagno:uomo tartaruga di stagno:uomo tartaruga di stagno]'
 
 Error: Part 'CASTE_NAME' should not be translated
@@ -3187,8 +3271,32 @@ Problematic tag pair: '[DESCRIPTION:A huge monster shaped like a pond turtle.]',
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A tiny rodent that burrows by day and scurries about at night.]', '[DESCRIZIONE:Un piccolo roditore che di giorno scava tane e di notte corre di qua e di là.]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:hamster:hamsters:hamster]', '[NOME:criceto:criceti:criceto]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:hamster:hamsters:hamster]', '[NOME_CASTE:criceto:criceti:criceto]'
+
+Error: Part 'GNAWER' should not be translated
+Problematic tag pair: '[GNAWER:gnawed]', '[ROSSO:rosicchiato]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:hamster man:hamster men:hamster man]', '[NOME_CASTE:uomo criceto:uomo criceto:uomo criceto]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:hamster woman:hamster women:hamster woman]', '[NOME_CASTE:donna criceto:donna criceto:donna criceto]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:hamster man:hamster men:hamster man]', '[NOME:uomo criceto:uomo criceto:uomo criceto]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A person with the head and fur of a hamster.]', '[DESCRIZIONE:Una persona con la testa e il pelo di un criceto.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:giant hamster:giant hamsters:giant hamster]', '[NOME:criceto gigante:criceti giganti:criceto gigante]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant hamster:giant hamsters:giant hamster]', '[NOME_CASTE:criceto gigante:criceti giganti:criceto gigante]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A large creature the shape of a hamster.]', '[DESCRIZIONE:Una grande creatura a forma di criceto.]'
@@ -3196,8 +3304,38 @@ Problematic tag pair: '[DESCRIPTION:A large creature the shape of a hamster.]', 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A small round mammal whose back is covered in spines.  It is nocturnal and feeds on insects.  It curls into a ball when startled and is found in temperate regions.]', '[DESCRIZIONE:Un piccolo mammifero rotondo la cui schiena è ricoperta di spine. È notturno e si nutre di insetti. Si arriccia in una palla quando viene spaventato e si trova nelle regioni temperate.]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:hedgehog:hedgehogs:hedgehog]', '[NOME:riccio:ricci:riccio]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:hedgehog:hedgehogs:hedgehog]', '[NOME_CASTE:riccio:ricci:riccio]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:hedgehog man:hedgehog men:hedgehog man]', '[NOME_CASTE:uomo riccio:uomini riccio:uomo riccio]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:hedgehog woman:hedgehog women:hedgehog woman]', '[NOME_CASTE:donna riccio:donna riccio:donna riccio]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:hedgehog man:hedgehog men:hedgehog man]', '[NOME:uomo riccio:uomini riccio:uomo riccio]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A person with the head and spines of a hedgehog.]', '[DESCRIZIONE:Una persona con la testa e le spine di un riccio.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:giant hedgehog:giant hedgehogs:giant hedgehog]', '[NOME:riccio gigante:riccio gigante:riccio gigante]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant hedgehog:giant hedgehogs:giant hedgehog]', '[NOME_CASTE:riccio gigante:riccio gigante:riccio gigante]'
+
+Error: Part 'DESCRIPTION' should not be translated
+Problematic tag pair: '[DESCRIPTION:A large monster with the shape of a hedgehog.]', '[DESCRIZIONE:Un grande mostro con la forma di un riccio.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:flying squirrel:flying squirrels:flying squirrel]', '[NOME:scoiattolo volante:scoiattoli volanti:scoiattolo volante]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:flying squirrel:flying squirrels:flying squirrel]', '[NOME_CASTE:scoiattolo volante:scoiattoli volanti:scoiattolo volante]'
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:flying squirrel man:flying squirrel men:flying squirrel man]', '[NOME_CASTE:uomo scoiattolo volante:uomo scoiattolo volante:uomo scoiattolo volante]'
@@ -3214,8 +3352,32 @@ Problematic tag pair: '[NAME:giant flying squirrel:giant flying squirrels:giant 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:giant flying squirrel:giant flying squirrels:giant flying squirrel]', '[NOME_CASTE:scoiattolo volante gigante:scoiattoli volanti giganti:scoiattolo volante gigante]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:rat:rats:rat]', '[NOME:ratto:ratti:ratto]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:rat:rats:rat]', '[NOME_CASTE:ratto:ratti:ratto]'
+
+Error: Part 'GNAWER' should not be translated
+Problematic tag pair: '[GNAWER:gnawed]', '[ROSSO:rosicchiato]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:rat man:rat men:rat man]', '[NOME_CASTE:uomo ratto:uomo ratto:uomo ratto]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:rat woman:rat women:rat woman]', '[NOME_CASTE:donna ratto:donne ratto:donna ratto]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:rat man:rat men:rat man]', '[NOME:uomo ratto:uomo ratto:uomo ratto]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A person with the head and tail of a rat.]', '[DESCRIZIONE:Una persona con la testa e la coda di un topo.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:gray squirrel:gray squirrels:gray squirrel]', '[NOME:scoiattolo grigio: scoiattoli grigi: scoiattolo grigio]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:gray squirrel:gray squirrels:gray squirrel]', '[NOME_CASTE:scoiattolo grigio: scoiattoli grigi: scoiattolo grigio]'
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:gray squirrel man:gray squirrel men:gray squirrel man]', '[NOME_CASTE:uomo scoiattolo grigio:uomo scoiattolo grigio:uomo scoiattolo grigio]'
@@ -3235,6 +3397,15 @@ Problematic tag pair: '[NAME:giant gray squirrel:giant gray squirrels:giant gray
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:giant gray squirrel:giant gray squirrels:giant gray squirrel]', '[NOME_CASTE:scoiattolo grigio gigante: scoiattoli grigi giganti: scoiattolo grigio gigante]'
 
+Error: Part 'DESCRIPTION' should not be translated
+Problematic tag pair: '[DESCRIPTION:A large creature the shape of a gray squirrel.]', '[DESCRIZIONE:Una grande creatura a forma di scoiattolo grigio.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:red squirrel:red squirrels:red squirrel]', '[NOME:scoiattolo rosso: scoiattoli rossi: scoiattolo rosso]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:red squirrel:red squirrels:red squirrel]', '[NOME_CASTE:scoiattolo rosso: scoiattoli rossi: scoiattolo rosso]'
+
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:red squirrel man:red squirrel men:red squirrel man]', '[NOME_CASTE:uomo scoiattolo rosso:uomo scoiattolo rosso:uomo scoiattolo rosso]'
 
@@ -3249,6 +3420,9 @@ Problematic tag pair: '[NAME:giant red squirrel:giant red squirrels:giant red sq
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:giant red squirrel:giant red squirrels:giant red squirrel]', '[NOME_CASTE:scoiattolo rosso gigante:scoiattoli rossi giganti:scoiattolo rosso gigante]'
+
+Error: Part 'DESCRIPTION' should not be translated
+Problematic tag pair: '[DESCRIPTION:A large creature the shape of a red squirrel.]', '[DESCRIZIONE:Una grande creatura a forma di scoiattolo rosso.]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A tiny striped rodent found scurrying through the bushes and trees of the temperate forest.]', '[DESCRIZIONE:Un minuscolo roditore striato trovato mentre correva tra i cespugli e gli alberi della foresta temperata.]'
@@ -3322,8 +3496,32 @@ Problematic tag pair: '[CASTE_NAME:hagfish:hagfish:hagfish]', '[NOME_CASTE:hagfi
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A small, jawless, filter-feeding fish found in brooks and streams.]', '[DESCRIZIONE:Un piccolo pesce senza mascelle che si nutre di filtri che si trova nei ruscelli e nei ruscelli.]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:brook lamprey:brook lampreys:brook lamprey]', '[NOME:lampreda di ruscello:lampreda di ruscello:lampreda di ruscello]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:brook lamprey:brook lampreys:brook lamprey]', '[NOME_CASTE:lampreda di ruscello:lampreda di ruscello:lampreda di ruscello]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A medium-sized, winged fish found in the muddy coasts of both temperate and tropical waters.]', '[DESCRIZIONE:Un pesce alato di medie dimensioni che si trova nelle coste fangose \u200b\u200bsia delle acque temperate che di quelle tropicali.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:bat ray:bat rays:bat ray]', '[NOME:raggio di pipistrello:raggio di pipistrello:raggio di pipistrello]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:bat ray:bat rays:bat ray]', '[NOME_CASTE:raggio di pipistrello:raggio di pipistrello:raggio di pipistrello]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:thornback ray:thornback rays:thornback ray]', '[NOME:raggio spinoso:raggio spinoso:raggio spinoso]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:thornback ray:thornback rays:thornback ray]', '[NOME_CASTE:raggio spinoso:raggio spinoso:raggio spinoso]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:spotted ratfish:spotted ratfish:spotted ratfish]', '[NOME:ratfish maculato:ratfish maculato:ratfish maculato]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:spotted ratfish:spotted ratfish:spotted ratfish]', '[NOME_CASTE:ratfish maculato:ratfish maculato:ratfish maculato]'
 
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:herring:herrings:herring]', '[NOME:aringa:aringhe:aringa]'
@@ -3376,6 +3574,12 @@ Problematic tag pair: '[CASTE_NAME:seahorse:seahorses:seahorse]', '[NOME_CASTE:c
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A small, nocturnal, marine fish.  It can be found hunting in coral reefs.]', '[DESCRIZIONE:Un piccolo pesce marino notturno. Può essere trovato a caccia nelle barriere coralline.]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:white-spotted puffer:white-spotted puffers:white-spotted puffer]', '[NOME:pesce palla a macchie bianche: pesce palla a macchie bianche: pesce palla a macchie bianche]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:white-spotted puffer:white-spotted puffers:white-spotted puffer]', '[NOME_CASTE:pesce palla a macchie bianche: pesce palla a macchie bianche: pesce palla a macchie bianche]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A small flat fish found on the muddy bottom of shallow seas.]', '[DESCRIZIONE:Un piccolo pesce piatto trovato sul fondo fangoso di mari poco profondi.]'
 
@@ -3390,6 +3594,9 @@ Problematic tag pair: '[DESCRIPTION:A small flat fish found in the muddy bottom 
 
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:flounder:flounders:flounder]', '[NOME:passera:passera:passera]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:flounder:flounders:flounder]', '[NOME_CASTE:passera:passera:passera]'
 
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:mackerel:mackerel:mackerel]', '[NOME:sgombro:sgombro:sgombro]'
@@ -3409,6 +3616,9 @@ Problematic tag pair: '[CASTE_NAME:sea nettle jellyfish:sea nettle jellyfish:sea
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:squid:squids:squid]', '[NOME:calamaro:calamari:calamaro]'
 
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:squid:squids:squid]', '[NOME_CASTE:calamaro:calamari:calamaro]'
+
 Error: Part 'STATE_NAME' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen squid ink]', '[NOME_STATO:ALL_SOLID: nero di seppia congelato]'
 
@@ -3417,6 +3627,9 @@ Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen squid ink]', '[STATO_ADJ:ALL_
 
 Error: Part 'STATE_NAME' should not be translated
 Problematic tag pair: '[STATE_NAME:LIQUID:squid ink]', '[NOME_STATO:LIQUIDO: nero di seppia]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:squid ink]', '[STATO_ADJ:LIQUIDO: nero di seppia]'
 
 Error: Part 'VERB' should not be translated
 Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', '[CDI:VERBO:schizza inchiostro:schizza inchiostro:]'
@@ -3438,6 +3651,9 @@ Problematic tag pair: '[NAME:gigantic squid:gigantic squids:gigantic squid]', '[
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:gigantic squid:gigantic squids:gigantic squid]', '[NOME_CASTE:calamaro gigante:calamaro gigante:calamaro gigante]'
+
+Error: Part 'DESCRIPTION' should not be translated
+Problematic tag pair: '[DESCRIPTION:A huge sea monster the shape of a squid.]', '[DESCRIZIONE:Un enorme mostro marino a forma di calamaro.]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A small fish which can walk on the land and breathe air.  It burrows in the mud when things get dry.]', '[DESCRIZIONE:Un piccolo pesce che può camminare sulla terra e respirare aria. Si nasconde nel fango quando le cose si seccano.]'
@@ -3581,10 +3797,19 @@ Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:ice wolf:ice wolves:ice wolf]', '[NOME:lupo di ghiaccio:lupi di ghiaccio:lupo di ghiaccio]'
 
 Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:fairy:fairies:fairy]', '[NOME:fata:fate:fata]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:fairy:fairies:fairy]', '[NOME_CASTE:fata:fate:fata]'
+
+Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:pixie:pixies:pixie]', '[NOME:folletto: folletti: folletto]'
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:pixie:pixies:pixie]', '[NOME_CASTE:folletto: folletti: folletto]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:grimeling:grimelings:grimeling]', '[NOME:grimeling:grimeling:grimeling]'
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:grimeling:grimelings:grimeling]', '[NOME_CASTE:grimeling:grimeling:grimeling]'
@@ -3713,6 +3938,18 @@ Error: Part 'STATE_ADJ' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen giant cave spider venom]', '[STATO_ADJ:ALL_SOLID:veleno di ragno gigante delle caverne congelato]'
 
 Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:giant cave spider venom]', '[NOME_STATO:LIQUIDO:veleno di ragno gigante delle caverne]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:giant cave spider venom]', '[STATO_ADJ:LIQUIDO:veleno di ragno gigante delle caverne]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:cave spider:cave spiders:cave spider]', '[NOME:ragno delle caverne:ragni delle caverne:ragno delle caverne]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:cave spider:cave spiders:cave spider]', '[NOME_CASTE:ragno delle caverne:ragni delle caverne:ragno delle caverne]'
+
+Error: Part 'STATE_NAME' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen cave spider venom]', '[NOME_STATO:ALL_SOLID:veleno di ragno delle caverne congelato]'
 
 Error: Part 'STATE_ADJ' should not be translated
@@ -3739,11 +3976,17 @@ Problematic tag pair: '[NAME:cave fish man:cave fish men:cave fish man]', '[NOME
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:cave lobster:cave lobsters:cave lobster]', '[NOME:aragosta di grotta:aragosta di grotta:aragosta di grotta]'
 
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:cave lobster:cave lobsters:cave lobster]', '[NOME_CASTE:aragosta di grotta:aragosta di grotta:aragosta di grotta]'
+
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:fire snake:fire snakes:fire snake]', '[NOME:serpente di fuoco:serpenti di fuoco:serpente di fuoco]'
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:fire snake:fire snakes:fire snake]', '[NOME_CASTE:serpente di fuoco:serpenti di fuoco:serpente di fuoco]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL:liquid fire]', '[NOME_STATO:TUTTI:fuoco liquido]'
 
 Error: Part 'STATE_ADJ' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL:liquid fire]', '[STATO_ADJ:TUTTI:fuoco liquido]'
@@ -4066,6 +4309,9 @@ Problematic tag pair: '[CASTE_NAME:porcupine:porcupines:porcupine]', '[NOME_CAST
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:porcupine man:porcupine men:porcupine man]', '[NOME_CASTE:uomo porcospino:uomo porcospino:uomo porcospino]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:porcupine man:porcupine men:porcupine man]', '[NOME:uomo porcospino:uomo porcospino:uomo porcospino]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A person with the head and quills of a porcupine.]', '[DESCRIZIONE:Una persona con la testa e gli aculei di un porcospino.]'
 
@@ -4174,6 +4420,9 @@ Problematic tag pair: '[CASTE_NAME:skunk:skunks:skunk]', '[NOME_CASTE:puzzola:pu
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:skunk man:skunk men:skunk man]', '[NOME_CASTE:uomo puzzola:uomo puzzola:uomo puzzola]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:skunk man:skunk men:skunk man]', '[NOME:uomo puzzola:uomo puzzola:uomo puzzola]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A striped person with the head and tail of a skunk.]', '[DESCRIZIONE:Una persona striata con la testa e la coda di una puzzola.]'
 
@@ -4255,6 +4504,15 @@ Problematic tag pair: '[STATE_NAME:LIQUID:rattlesnake venom]', '[NOME_STATO:LIQU
 Error: Part 'STATE_ADJ' should not be translated
 Problematic tag pair: '[STATE_ADJ:LIQUID:rattlesnake venom]', '[STATO_ADJ:LIQUIDO:veleno di serpente a sonagli]'
 
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:rattlesnake man:rattlesnake men:rattlesnake man]', '[NOME_CASTE:uomo serpente a sonagli:uomo serpente a sonagli:uomo serpente a sonagli]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:rattlesnake woman:rattlesnake women:rattlesnake woman]', '[NOME_CASTE:donna serpente a sonagli:donna serpente a sonagli:donna serpente a sonagli]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:rattlesnake man:rattlesnake men:rattlesnake man]', '[NOME:uomo serpente a sonagli:uomo serpente a sonagli:uomo serpente a sonagli]'
+
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:giant rattlesnake:giant rattlesnakes:giant rattlesnake]', '[NOME:serpente a sonagli gigante:serpenti a sonagli giganti:serpente a sonagli gigante]'
 
@@ -4290,6 +4548,9 @@ Problematic tag pair: '[DESCRIPTION:A tiny venomous snake found in the woods and
 
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:copperhead snake:copperhead snakes:copperhead snake]', '[NOME:serpente testa di rame:serpenti testa di rame:serpente testa di rame]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:copperhead snake:copperhead snakes:copperhead snake]', '[NOME_CASTE:serpente testa di rame:serpenti testa di rame:serpente testa di rame]'
 
 Error: Part 'STATE_NAME' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen copperhead snake venom]', '[NOME_STATO:ALL_SOLID:veleno di serpente testa di rame congelato]'
@@ -4427,6 +4688,15 @@ Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:giant coati:giant coatis:giant coati]', '[NOME:coati giganti:coati giganti:coati giganti]'
 
 Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant coati:giant coatis:giant coati]', '[NOME_CASTE:coati giganti:coati giganti:coati giganti]'
+
+Error: Part 'DESCRIPTION' should not be translated
+Problematic tag pair: '[DESCRIPTION:A huge monster in the form of a coati.]', '[DESCRIZIONE:Un enorme mostro a forma di coati.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:opossum:opossums:opossum]', '[NOME:opossum:opossum:opossum]'
+
+Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:opossum:opossums:opossum]', '[NOME_CASTE:opossum:opossum:opossum]'
 
 Error: Part 'CASTE_NAME' should not be translated
@@ -4531,6 +4801,24 @@ Problematic tag pair: '[CASTE_NAME:giant monitor lizard:giant monitor lizards:gi
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A small limbless reptile known for its deadly venom and the warning of its hood.]', "[DESCRIZIONE:Un piccolo rettile senza arti noto per il suo veleno mortale e l'avvertimento del suo cappuccio.]"
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:king cobra:king cobras:king cobra]', '[NOME:cobra reale: cobra reali: cobra reale]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:king cobra:king cobras:king cobra]', '[NOME_CASTE:cobra reale: cobra reali: cobra reale]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen king cobra venom]', '[NOME_STATO:ALL_SOLID: veleno di cobra reale congelato]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen king cobra venom]', '[STATO_ADJ:ALL_SOLID: veleno di cobra reale congelato]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:king cobra venom]', '[NOME_STATO:LIQUIDO: veleno del cobra reale]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:king cobra venom]', '[STATO_ADJ:LIQUIDO: veleno del cobra reale]'
+
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:king cobra man:king cobra men:king cobra man]', '[NOME_CASTE:uomo cobra reale: uomo cobra reale: uomo cobra reale]'
 
@@ -4549,20 +4837,119 @@ Problematic tag pair: '[NAME:giant king cobra:giant king cobras:giant king cobra
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:giant king cobra:giant king cobras:giant king cobra]', '[NOME_CASTE:cobra reale gigante:cobra reale gigante:cobra reale gigante]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:ocelot:ocelots:ocelot]', '[NOME:gattopardo: gattopardo: gattopardo]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:ocelot:ocelots:ocelot]', '[NOME_CASTE:gattopardo: gattopardo: gattopardo]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:ocelot man:ocelot men:ocelot man]', '[NOME_CASTE:uomo gattopardo:uomo gattopardo:uomo gattopardo]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:ocelot woman:ocelot women:ocelot woman]', '[NOME_CASTE:donna gattopardo:donna gattopardo:donna gattopardo]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:ocelot man:ocelot men:ocelot man]', '[NOME:uomo gattopardo:uomo gattopardo:uomo gattopardo]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A person with the head and tail of an ocelot.]', '[DESCRIZIONE:Una persona con la testa e la coda di un gattopardo.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:giant ocelot:giant ocelots:giant ocelot]', '[NOME:gattopardo gigante: gattopardo gigante: gattopardo gigante]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant ocelot:giant ocelots:giant ocelot]', '[NOME_CASTE:gattopardo gigante: gattopardo gigante: gattopardo gigante]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A small wolf-like scavenger.  Normally found in pairs, jackals can form packs when they find a body.]', '[DESCRIZIONE:Un piccolo spazzino simile a un lupo. Normalmente si trovano in coppia, gli sciacalli possono formare branchi quando trovano un corpo.]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:jackal:jackals:jackal]', '[NOME:sciacallo:sciacalli:sciacallo]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:jackal:jackals:jackal]', '[NOME_CASTE:sciacallo:sciacalli:sciacallo]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:jackal man:jackal men:jackal man]', '[NOME_CASTE:uomo sciacallo:uomini sciacallo:uomo sciacallo]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:jackal woman:jackal women:jackal woman]', '[NOME_CASTE:donna sciacallo:donne sciacallo:donna sciacallo]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:jackal man:jackal men:jackal man]', '[NOME:uomo sciacallo:uomini sciacallo:uomo sciacallo]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A person with the head and tail of a jackal.]', '[DESCRIZIONE:Una persona con la testa e la coda di uno sciacallo.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:giant jackal:giant jackals:giant jackal]', '[NOME:sciacallo gigante: sciacalli giganti: sciacallo gigante]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant jackal:giant jackals:giant jackal]', '[NOME_CASTE:sciacallo gigante: sciacalli giganti: sciacallo gigante]'
+
+Error: Part 'DESCRIPTION' should not be translated
+Problematic tag pair: '[DESCRIPTION:A large monster in the form of a jackal.]', '[DESCRIZIONE:Un grande mostro a forma di sciacallo.]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A tiny diurnal monkey.  It spends its time in the trees searching for food.]', '[DESCRIZIONE:Una piccola scimmia diurna. Trascorre il suo tempo sugli alberi in cerca di cibo.]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:capuchin:capuchins:capuchin]', '[NOME:cappuccino:cappuccini:cappuccino]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:capuchin:capuchins:capuchin]', '[NOME_CASTE:cappuccino:cappuccini:cappuccino]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:capuchin man:capuchin men:capuchin man]', '[NOME_CASTE:cappuccino:cappuccino:cappuccino]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:capuchin woman:capuchin women:capuchin woman]', '[NOME_CASTE:cappuccina:cappuccina:cappuccina]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:capuchin man:capuchin men:capuchin man]', '[NOME:cappuccino:cappuccino:cappuccino]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A person with the head and tail of a capuchin.]', '[DESCRIZIONE:Una persona con la testa e la coda di un cappuccino.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:giant capuchin:giant capuchins:giant capuchin]', '[NOME:cappuccino gigante:cappuccini giganti:cappuccino gigante]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant capuchin:giant capuchins:giant capuchin]', '[NOME_CASTE:cappuccino gigante:cappuccini giganti:cappuccino gigante]'
+
+Error: Part 'DESCRIPTION' should not be translated
+Problematic tag pair: '[DESCRIPTION:A large monster in the form of a capuchin.]', '[DESCRIZIONE:Un grande mostro a forma di cappuccino.]'
+
+Error: Part 'DESCRIPTION' should not be translated
+Problematic tag pair: '[DESCRIPTION:A small, slow-moving mammal that lives in the trees.]', '[DESCRIZIONE:Un piccolo mammifero dai movimenti lenti che vive sugli alberi.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:sloth:sloths:sloth]', '[NOME:bradipo:bradipi:accidia]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:sloth:sloths:sloth]', '[NOME_CASTE:bradipo:bradipi:accidia]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:sloth man:sloth men:sloth man]', '[NOME_CASTE:bradipo: pigrizia: pigrizia]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:sloth woman:sloth women:sloth woman]', '[NOME_CASTE:donna bradipa: donne bradipo: donna bradipo]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:sloth man:sloth men:sloth man]', '[NOME:bradipo: pigrizia: pigrizia]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:giant sloth:giant sloths:giant sloth]', '[NOME:bradipo gigante:bradipi giganti:bradipo gigante]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant sloth:giant sloths:giant sloth]', '[NOME_CASTE:bradipo gigante:bradipi giganti:bradipo gigante]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:spider monkey:spider monkeys:spider monkey]', '[NOME:scimmia ragno:scimmie ragno:scimmia ragno]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:spider monkey:spider monkeys:spider monkey]', '[NOME_CASTE:scimmia ragno:scimmie ragno:scimmia ragno]'
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:spider monkey man:spider monkey men:spider monkey man]', '[NOME_CASTE:uomo scimmia ragno: uomo scimmia ragno: uomo scimmia ragno]'
@@ -4585,8 +4972,50 @@ Problematic tag pair: '[CASTE_NAME:giant spider monkey:giant spider monkeys:gian
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A large monster in the form of a spider monkey.]', '[DESCRIZIONE:Un grande mostro sotto forma di scimmia ragno.]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:pangolin:pangolins:pangolin]', '[NOME:pangolino: pangolini: pangolino]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:pangolin:pangolins:pangolin]', '[NOME_CASTE:pangolino: pangolini: pangolino]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:pangolin man:pangolin men:pangolin man]', '[NOME_CASTE:uomo pangolino:uomo pangolino:uomo pangolino]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:pangolin woman:pangolin women:pangolin woman]', '[NOME_CASTE:donna pangolino:donna pangolino:donna pangolino]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:pangolin man:pangolin men:pangolin man]', '[NOME:uomo pangolino:uomo pangolino:uomo pangolino]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:giant pangolin:giant pangolins:giant pangolin]', '[NOME:pangolino gigante:pangolini giganti:pangolino gigante]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant pangolin:giant pangolins:giant pangolin]', '[NOME_CASTE:pangolino gigante:pangolini giganti:pangolino gigante]'
+
+Error: Part 'DESCRIPTION' should not be translated
+Problematic tag pair: '[DESCRIPTION:A huge monster in the form of a pangolin.]', '[DESCRIZIONE:Un enorme mostro a forma di pangolino.]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A small aggressive snake which can move very quickly.  Its venom is deadly.]', '[DESCRIZIONE:Un piccolo serpente aggressivo che può muoversi molto velocemente. Il suo veleno è mortale.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:black mamba:black mambas:black mamba]', '[NOME:mamba nero: mamba nero: mamba nero]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:black mamba:black mambas:black mamba]', '[NOME_CASTE:mamba nero: mamba nero: mamba nero]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen black mamba venom]', '[NOME_STATO:ALL_SOLID:veleno di mamba nero congelato]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen black mamba venom]', '[STATO_ADJ:ALL_SOLID:veleno di mamba nero congelato]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:black mamba venom]', '[NOME_STATO:LIQUIDO:veleno di mamba nero]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:black mamba venom]', '[STATO_ADJ:LIQUIDO:veleno di mamba nero]'
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:black mamba man:black mamba men:black mamba man]', '[NOME_CASTE:uomo black mamba: uomo black mamba: uomo black mamba]'
@@ -4600,8 +5029,17 @@ Problematic tag pair: '[NAME:black mamba man:black mamba men:black mamba man]', 
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:giant black mamba:giant black mambas:giant black mamba]', '[NOME:mamba nero gigante: mamba nero gigante: mamba nero gigante]'
 
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant black mamba:giant black mambas:giant black mamba]', '[NOME_CASTE:mamba nero gigante: mamba nero gigante: mamba nero gigante]'
+
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A medium-sized mammal that lives in the trees.  It is known for its easy-going nature.]', '[DESCRIZIONE:Un mammifero di medie dimensioni che vive sugli alberi. È noto per la sua natura accomodante.]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:sloth bear:sloth bears:sloth bear]', '[NOME:orso bradipo:orsi bradipo:orso bradipo]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:sloth bear:sloth bears:sloth bear]', '[NOME_CASTE:orso bradipo:orsi bradipo:orso bradipo]'
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:sloth bear man:sloth bear men:sloth bear man]', '[NOME_CASTE:uomo orso bradipo:uomo orso bradipo:uomo orso bradipo]'
@@ -4639,6 +5077,33 @@ Problematic tag pair: '[DESCRIPTION:A tiny venomous snake.  It is the longest of
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A medium-sized mammal with a prehensile nose.  It lives in the tropical rainforest.]', '[DESCRIZIONE:Un mammifero di medie dimensioni con naso prensile. Vive nella foresta pluviale tropicale.]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:aardvark:aardvarks:aardvark]', '[NOME:aardvark:aardvark:aardvark]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:aardvark:aardvarks:aardvark]', '[NOME_CASTE:aardvark:aardvark:aardvark]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:aardvark man:aardvark men:aardvark man]', '[NOME_CASTE:aardvark uomo:aardvark uomini:aardvark uomo]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:aardvark woman:aardvark women:aardvark woman]', '[NOME_CASTE:aardvark donna: aardvark donna: aardvark donna]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:aardvark man:aardvark men:aardvark man]', '[NOME:aardvark uomo:aardvark uomini:aardvark uomo]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:giant aardvark:giant aardvarks:giant aardvark]', '[NOME:aardvark gigante: aardvark gigante: aardvark gigante]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant aardvark:giant aardvarks:giant aardvark]', '[NOME_CASTE:aardvark gigante: aardvark gigante: aardvark gigante]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:lion tamarin:lion tamarins:lion tamarin]', '[NOME:leone tamarino:leone tamarini:leone tamarino]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:lion tamarin:lion tamarins:lion tamarin]', '[NOME_CASTE:leone tamarino:leone tamarini:leone tamarino]'
+
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:lion tamarin man:lion tamarin men:lion tamarin man]', '[NOME_CASTE:leone tamarin uomo:leone tamarin uomini:leone tamarin uomo]'
 
@@ -4651,35 +5116,890 @@ Problematic tag pair: '[NAME:lion tamarin man:lion tamarin men:lion tamarin man]
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:giant lion tamarin:giant lion tamarins:giant lion tamarin]', '[NOME:tamarino leone gigante:tamarini leone gigante:tamarino leone gigante]'
 
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant lion tamarin:giant lion tamarins:giant lion tamarin]', '[NOME_CASTE:tamarino leone gigante:tamarini leone gigante:tamarino leone gigante]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:lynx:lynx:lynx]', '[NOME:lince:lince:lince]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:lynx:lynx:lynx]', '[NOME_CASTE:lince:lince:lince]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:lynx man:lynx men:lynx man]', '[NOME_CASTE:uomo lince:uomo lince:uomo lince]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:lynx woman:lynx women:lynx woman]', '[NOME_CASTE:donna lince:donna lince:donna lince]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:lynx man:lynx men:lynx man]', '[NOME:uomo lince:uomo lince:uomo lince]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:giant lynx:giant lynx:giant lynx]', '[NOME:lince gigante:lince gigante:lince gigante]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:giant lynx:giant lynx:giant lynx]', '[NOME_CASTE:lince gigante:lince gigante:lince gigante]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:chief medical dwarf:chief medical dwarves]', '[NOME:capo nano medico:capo nano medico]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:outpost liaison:outpost liaisons]', '[NOME:collegamento avamposto:collegamenti avamposto]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:diplomat:diplomats]', '[NOME:diplomatico: diplomatici]'
+
+Error: Part 'NAME_FEMALE' should not be translated
+Problematic tag pair: '[NAME_FEMALE:duchess:duchesses]', '[NOME_FEMALE:duchessa:duchesse]'
+
+Error: Part 'SPOUSE_MALE' should not be translated
+Problematic tag pair: '[SPOUSE_MALE:duke consort:dukes consort]', '[SPOSA_MALE:duca consorte:duchi consorti]'
+
+Error: Part 'SPOUSE_FEMALE' should not be translated
+Problematic tag pair: '[SPOUSE_FEMALE:duchess consort:duchesses consort]', '[SPOSA_FEMALE:duchessa consorte:duchesse consorte]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:champion:champions]', '[NOME:campione:campioni]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:hammerer:hammerers]', '[NOME:martello:martelli]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:dungeon master:dungeon masters]', '[NOME:dungeon master:dungeon master]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:administrator:administrators]', '[NOME:amministratore:amministratori]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:messenger:messengers]', '[NOME:messaggero:messaggeri]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:mail shirt:mail shirts]', '[NOME:camicia di posta:camicie di posta]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:metal]', '[NOME_STATO:ALL_SOLID:metallo]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:metal]', '[STATO_ADJ:ALL_SOLID:metallo]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:molten metal]', '[NOME_STATO:LIQUIDO: metallo fuso]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:molten metal]', '[STATO_ADJ:LIQUIDO: metallo fuso]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:wood]', '[NOME_STATO:ALL_SOLID:legno]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:wooden]', '[STATO_ADJ:ALL_SOLID:legno]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:skin]', '[NOME_STATO:ALL_SOLID:pelle]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:skin]', '[STATO_ADJ:ALL_SOLID:pelle]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:fat]', '[NOME_STATO:ALL_SOLID:grasso]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:fatty]', '[STATO_ADJ:ALL_SOLID:grasso]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:grease]', '[NOME_STATO:LIQUIDO:grasso]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:greasy]', '[STATO_ADJ:LIQUIDO:grasso]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:muscle]', '[NOME_STATO:ALL_SOLID:muscolo]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:muscle]', '[STATO_ADJ:ALL_SOLID:muscolo]'
+
+Error: Part 'MEAT_NAME' should not be translated
+Problematic tag pair: '[MEAT_NAME:NONE:meat:meat]', '[NOME_CARNE:NESSUNO:carne:carne]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:sinew]', '[NOME_STATO:ALL_SOLID:tendini]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:sinew]', '[STATO_ADJ:ALL_SOLID:tendini]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:cartilage]', '[NOME_STATO:ALL_SOLID:cartilagine]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:cartilaginous]', '[STATO_ADJ:ALL_SOLID:cartilagineo]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:feather]', '[NOME_STATO:ALL_SOLID:piuma]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:feather]', '[STATO_ADJ:ALL_SOLID:piuma]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:scale]', '[NOME_STATO:ALL_SOLID:scala]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:scale]', '[STATO_ADJ:ALL_SOLID:scala]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:brain]', '[NOME_STATO:ALL_SOLID:cervello]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:brain]', '[STATO_ADJ:ALL_SOLID:cervello]'
+
+Error: Part 'MEAT_NAME' should not be translated
+Problematic tag pair: '[MEAT_NAME:NONE:tripe:tripe]', '[NOME_CARNE:NESSUNO:trippa:trippa]'
+
+Error: Part 'MEAT_NAME' should not be translated
+Problematic tag pair: '[MEAT_NAME:NONE:sweetbread:sweetbread]', '[NOME_CARNE:NESSUNO:animella:animella]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:leather]', '[NOME_STATO:ALL_SOLID:pelle]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:leather]', '[STATO_ADJ:ALL_SOLID:pelle]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:parchment]', '[NOME_STATO:ALL_SOLID:pergamena]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:pearl]', '[STATO_ADJ:ALL_SOLID:perla]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:silk]', '[NOME_STATO:ALL_SOLID:seta]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:silk]', '[STATO_ADJ:ALL_SOLID:seta]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen blood]', '[NOME_STATO:ALL_SOLID:sangue congelato]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen blood]', '[STATO_ADJ:ALL_SOLID:sangue congelato]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:blood]', '[NOME_STATO:LIQUIDO:sangue]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:blood]', '[STATO_ADJ:LIQUIDO:sangue]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen ichor]', '[NOME_STATO:ALL_SOLID:icore ghiacciato]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen ichor]', '[STATO_ADJ:ALL_SOLID:icore ghiacciato]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:ichor]', '[NOME_STATO:LIQUIDO:icore]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:ichor]', '[STATO_ADJ:LIQUIDO:icore]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen goo]', '[NOME_STATO:ALL_SOLID: sostanza congelata]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen goo]', '[STATO_ADJ:ALL_SOLID: sostanza congelata]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:goo]', '[NOME_STATO:LIQUIDO:va bene]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:goo]', '[STATO_ADJ:LIQUIDO:va bene]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen slime]', '[NOME_STATO:ALL_SOLID:melma congelata]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen slime]', '[STATO_ADJ:ALL_SOLID:melma congelata]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:slime]', '[NOME_STATO:LIQUIDO:melma]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:slime]', '[STATO_ADJ:LIQUIDO:melma]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen pus]', '[NOME_STATO:ALL_SOLID:pus congelato]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen pus]', '[STATO_ADJ:ALL_SOLID:pus congelato]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:pus]', '[NOME_STATO:LIQUIDO:pus]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:pus]', '[STATO_ADJ:LIQUIDO:pus]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:shell]', '[NOME_STATO:ALL_SOLID:shell]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:shell]', '[STATO_ADJ:ALL_SOLID:shell]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:tallow]', '[NOME_STATO:ALL_SOLID:sego]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:tallow]', '[STATO_ADJ:ALL_SOLID:sego]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:melted tallow]', '[NOME_STATO:LIQUIDO: sego fuso]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:melted tallow]', '[STATO_ADJ:LIQUIDO: sego fuso]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:cheesy]', '[STATO_ADJ:ALL_SOLID: scadente]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:melted cheesy]', '[STATO_ADJ:LIQUIDO: formaggio fuso]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:leaf]', '[NOME_STATO:ALL_SOLID:foglia]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:leaf]', '[STATO_ADJ:ALL_SOLID:foglia]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:fruit]', '[NOME_STATO:ALL_SOLID:frutta]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:fruit]', '[STATO_ADJ:ALL_SOLID:frutta]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:bud]', '[NOME_STATO:ALL_SOLID:bocciolo]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:bud]', '[STATO_ADJ:ALL_SOLID:bocciolo]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:mushroom]', '[NOME_STATO:ALL_SOLID:fungo]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:mushroom]', '[STATO_ADJ:ALL_SOLID:fungo]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:fiber]', '[NOME_STATO:ALL_SOLID:fibra]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:fiber]', '[STATO_ADJ:ALL_SOLID:fibra]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:GAS:flames]', '[NOME_STATO:GAS: fiamme]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:GAS:flames]', '[STATO_ADJ:GAS: fiamme]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen egg white]', "[NOME_STATO:ALL_SOLID:albume d'uovo congelato]"
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen egg white]', "[STATO_ADJ:ALL_SOLID:albume d'uovo congelato]"
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:egg white]', '[NOME_STATO:LIQUIDO:albume]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:egg white]', '[STATO_ADJ:LIQUIDO:albume]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen egg yolk]', "[NOME_STATO:ALL_SOLID: tuorlo d'uovo congelato]"
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen egg yolk]', "[STATO_ADJ:ALL_SOLID: tuorlo d'uovo congelato]"
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:egg yolk]', "[NOME_STATO:LIQUIDO: tuorlo d'uovo]"
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:egg yolk]', "[STATO_ADJ:LIQUIDO: tuorlo d'uovo]"
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen vegetable oil]', '[STATO_ADJ:ALL_SOLID:olio vegetale congelato]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:vegetable oil]', '[NOME_STATO:LIQUIDO:olio vegetale]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:vegetable oil]', '[STATO_ADJ:LIQUIDO:olio vegetale]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:wax]', '[NOME_STATO:ALL_SOLID:cera]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:wax]', '[STATO_ADJ:ALL_SOLID:cera]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:melted wax]', '[NOME_STATO:LIQUIDO: cera fusa]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:melted wax]', '[STATO_ADJ:LIQUIDO: cera fusa]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen ink]', '[NOME_STATO:ALL_SOLID:inchiostro congelato]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen ink]', '[STATO_ADJ:ALL_SOLID:inchiostro congelato]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:ink]', '[NOME_STATO:LIQUIDO:inchiostro]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:ink]', '[STATO_ADJ:LIQUIDO:inchiostro]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:sponge]', '[NOME_STATO:ALL_SOLID:spugna]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:spongy]', '[STATO_ADJ:ALL_SOLID:spugnoso]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen tears]', '[NOME_STATO:ALL_SOLID: lacrime ghiacciate]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen tears]', '[STATO_ADJ:ALL_SOLID: lacrime ghiacciate]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:tears]', '[NOME_STATO:LIQUIDO: lacrime]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:tears]', '[STATO_ADJ:LIQUIDO: lacrime]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen spit]', '[NOME_STATO:ALL_SOLID:spiedo congelato]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen spit]', '[STATO_ADJ:ALL_SOLID:spiedo congelato]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:spit]', '[NOME_STATO:LIQUIDO: sputo]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:LIQUID:spit]', '[STATO_ADJ:LIQUIDO: sputo]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen sweat]', '[NOME_STATO:ALL_SOLID:sudore ghiacciato]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen sweat]', '[STATO_ADJ:ALL_SOLID:sudore ghiacciato]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:single-grain wheat beer]', '[STATE_NAME_ADJ:LIQUIDO:birra di frumento monograno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:two-grain wheat]', '[NOME:grano a due cereali]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:two-grain wheat]', '[NOME_PLURALE:grano a due cereali]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:two-grain wheat]', '[AGG:grano a due cereali]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:two-grain wheat beer]', '[STATE_NAME_ADJ:LIQUIDO:birra di frumento ai due cereali]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:soft wheat]', '[NOME:grano tenero]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:soft wheat]', '[NOME_PLURALE:grano tenero]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:soft wheat]', '[AGG:grano tenero]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:soft wheat beer]', '[STATE_NAME_ADJ:LIQUIDO:birra di frumento tenero]'
+
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:soft wheat seed:soft wheat seeds:]', '[SEME:semi di grano tenero: semi di grano tenero:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:hard wheat]', '[NOME:grano duro]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:hard wheat]', '[NOME_PLURALE:grano duro]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:hard wheat]', '[AGG:grano duro]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:hard wheat beer]', '[STATE_NAME_ADJ:LIQUIDO:birra di frumento duro]'
 
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:hard wheat seed:hard wheat seeds:]', '[SEME:semi di grano duro:semi di grano duro:]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:spelt]', '[NOME:farro]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:spelt]', '[AGG:farro]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:spelt beer]', '[STATE_NAME_ADJ:LIQUIDO:birra di farro]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:barley]', '[NOME:orzo]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:barley]', '[NOME_PLURALE:orzo]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:barley]', '[AGG:orzo]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:buckwheat]', '[NOME:grano saraceno]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:buckwheat]', '[NOME_PLURALE:grano saraceno]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:buckwheat]', '[AGG:grano saraceno]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:buckwheat beer]', '[STATE_NAME_ADJ:LIQUIDO:birra di grano saraceno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:oat]', '[NOME:avena]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:oats]', '[NOME_PLURALE:avena]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:oat]', '[AGG:avena]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:alfalfa]', '[NOME:erba medica]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:alfalfa]', '[NOME_PLURALE:erba medica]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:alfalfa]', '[AGG:erba medica]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:rye]', '[NOME:segale]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:rye]', '[NOME_PLURALE:segale]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:rye]', '[AGG:segale]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:rye beer]', '[STATE_NAME_ADJ:LIQUIDO:birra di segale]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:sorghum]', '[NOME:sorgo]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:sorghum]', '[NOME_PLURALE:sorgo]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:sorghum]', '[AGG:sorgo]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:sorghum beer]', '[STATE_NAME_ADJ:LIQUIDO:birra di sorgo]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:rice beer]', '[STATE_NAME_ADJ:LIQUIDO:birra di riso]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:maize beer]', '[STATE_NAME_ADJ:LIQUIDO:birra di mais]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:pendant amaranth]', '[NOME:ciondolo amaranto]'
+
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:pendant amaranth seed:pendant amaranth seeds:]', '[SEME:ciondolo semi di amaranto:ciondolo semi di amaranto:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:blood amaranth]', '[NOME:amaranto sanguigno]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:blood amaranths]', '[NOME_PLURALE:amaranto sanguigno]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:blood amaranth]', '[AGG:amaranto sanguigno]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:blood amaranth beer]', '[STATE_NAME_ADJ:LIQUIDO:birra di amaranto sanguigno]'
 
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:blood amaranth seed:blood amaranth seeds:]', '[SEME:seme di amaranto sanguigno:semi di amaranto sanguigno:]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:purple amaranth]', '[NOME:amaranto viola]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:purple amaranths]', '[NOME_PLURALE:amaranto viola]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:purple amaranth]', '[AGG:amaranto viola]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:purple amaranth beer]', '[STATE_NAME_ADJ:LIQUIDO:birra amaranto viola]'
+
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:purple amaranth seed:purple amaranth seeds:]', '[SEME:seme di amaranto viola:semi di amaranto viola:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:elephant-head amaranth]', '[NOME:amaranto testa di elefante]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:elephant-head amaranths]', '[NOME_PLURALE:amaranto a testa di elefante]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:elephant-head amaranth]', '[AGG:amaranto testa di elefante]'
 
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:elephant-head amaranth seed:elephant-head amaranth seeds:]', '[SEME:semi di amaranto testa di elefante:semi di amaranto testa di elefante:]'
 
 Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:white millet beer]', '[STATE_NAME_ADJ:LIQUIDO:birra al miglio bianco]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:white millet:white millet:]', '[SEME:miglio bianco:miglio bianco:]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:finger millet beer]', '[STATE_NAME_ADJ:LIQUIDO:birra al miglio]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:finger millet:finger millet:]', '[SEME:miglio a dita:miglio a dita:]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:fonio beer]', '[STATE_NAME_ADJ:LIQUIDO:birra fonio]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:teff beer]', '[STATE_NAME_ADJ:LIQUIDO:birra teff]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:flax seed:flax seeds:]', '[SEME:semi di lino:semi di lino:]'
+
+Error: Part 'SOLID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:SOLID:linen]', '[STATE_NAME_ADJ:SOLIDO: lino]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:jute seed:jute seeds:]', '[SEME:semi di iuta:semi di iuta:]'
+
+Error: Part 'SOLID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:SOLID:jute]', '[STATE_NAME_ADJ:SOLIDO: iuta]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:hemp seed:hemp seeds:]', '[SEME:semi di canapa:semi di canapa:]'
+
+Error: Part 'SOLID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:SOLID:hemp]', '[STATE_NAME_ADJ:SOLIDO: canapa]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:cotton seed:cotton seeds:]', '[SEME:semi di cotone:semi di cotone:]'
+
+Error: Part 'SOLID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:SOLID:cotton]', '[STATE_NAME_ADJ:SOLIDO: cotone]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:ramie seed:ramie seeds:]', '[SEME:semi di ramiè:semi di ramiè:]'
+
+Error: Part 'SOLID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:SOLID:ramie]', '[STATE_NAME_ADJ:SOLIDO: ramiè]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:kenaf seed oil]', '[STATE_NAME_ADJ:LIQUIDO:olio di semi di kenaf]'
+
+Error: Part 'LIQUID' should not be translated
 Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:melted kenaf seed oil soap]', "[STATE_NAME_ADJ:LIQUIDO: sapone all'olio di semi di kenaf fuso]"
+
+Error: Part 'SOLID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:SOLID:papyrus]', '[STATE_NAME_ADJ:SOLIDO: papiro]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:artichoke]', '[NOME:carciofo]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:artichokes]', '[NOME_PLURALE:carciofi]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:artichoke]', '[AGG:carciofo]'
 
 Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[NAME_PLURAL:string bean plants]', 'piante di fagiolino'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:cabbage]', '[NOME:cavolo]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:cabbages]', '[NOME_PLURALE:cavoli]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:carrot seed:carrot seeds:]', '[SEME:semi di carota:semi di carota:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:cassava]', '[NOME:manioca]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:cassavas]', '[NOME_PLURALE:manioca]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:cassava]', '[AGG:manioca]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:cassava beer]', '[STATE_NAME_ADJ:LIQUIDO:birra di manioca]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:cassava seed:cassava seeds:]', '[SEME:semi di manioca:semi di manioca:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:celery]', '[NOME:sedano]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:celery]', '[NOME_PLURALE:sedano]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:celery]', '[AGG:sedano]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:celery seed:celery seeds:]', '[SEME:semi di sedano:semi di sedano:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:chickpea plant]', '[NOME:pianta di ceci]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:chickpea plants]', '[NOME_PLURALE:piante di ceci]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:chickpea plant]', '[AGG:pianta di ceci]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:chicory]', '[NOME:cicoria]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:chicory]', '[NOME_PLURALE:cicoria]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:chicory]', '[AGG:cicoria]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:chicory seed:chicory seeds:]', '[SEME:semi di cicoria:semi di cicoria:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:cowpea plant]', "[NOME:pianta di fagiolo dall'occhio]"
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:cowpea plants]', "[NOME_PLURALE:piante di fagiolo dall'occhio]"
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:cowpea plant]', "[AGG:pianta di fagiolo dall'occhio]"
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:cucumber seed:cucumber seeds:]', '[SEME:semi di cetriolo:semi di cetriolo:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:garden cress]', '[NOME:crescione]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:garden cress]', '[NOME_PLURALE:crescione]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:garden cress]', '[AGG:crescione]'
+
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:garden cress seed:garden cress seeds:]', '[SEME:semi di crescione:semi di crescione:]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:garlic plant]', "[NOME:pianta d'aglio]"
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:garlic plants]', '[NOME_PLURALE:piante di aglio]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:garlic plant]', "[AGG:pianta d'aglio]"
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:garlic seed:garlic seeds:]', '[SEME:semi di aglio:semi di aglio:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:lentil plant]', '[NOME:pianta di lenticchie]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:lentil plants]', '[NOME_PLURALE:piante di lenticchie]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:lentil plant]', '[AGG:pianta di lenticchie]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:lettuce]', '[NOME:lattuga]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:lettuces]', '[NOME_PLURALE:lattughe]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:lettuce]', '[AGG:lattuga]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:lettuce seed:lettuce seeds:]', '[SEME:semi di lattuga:semi di lattuga:]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:mung bean:mung beans:]', '[SEME:fagioli verdi: fagioli verdi:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:onion plant]', '[NOME:pianta di cipolla]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:onion plants]', '[NOME_PLURALE:piante di cipolla]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:onion plant]', '[AGG:pianta di cipolla]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:onion seed:onion seeds:]', '[SEME:semi di cipolla:semi di cipolla:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:parsnip plant]', '[NOME:pianta di pastinaca]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:parsnip plants]', '[NOME_PLURALE:piante di pastinaca]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:parsnip plant]', '[AGG:pianta di pastinaca]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:parsnip seed:parsnip seeds:]', '[SEME:semi di pastinaca:semi di pastinaca:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:pea plant]', '[NOME:pianta di piselli]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:pea plants]', '[NOME_PLURALE:piante di piselli]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:pea plant]', '[AGG:pianta di piselli]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:potato plant]', '[NOME:pianta di patate]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:potato plants]', '[NOME_PLURALE:piante di patate]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:potato plant]', '[AGG:pianta di patate]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:potato seed:potato seeds:]', '[SEME:semi di patate:semi di patate:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:radish plant]', '[NOME:pianta di ravanello]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:radish plants]', '[NOME_PLURALE:piante di ravanello]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:radish plant]', '[AGG:pianta di ravanello]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:radish seed:radish seeds:]', '[SEME:semi di ravanello:semi di ravanello:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:red bean vine]', '[NOME:vite di fagioli rossi]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:red bean vines]', '[NOME_PLURALE:viti di fagioli rossi]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:red bean vine]', '[AGG:vite di fagioli rossi]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:red bean:red beans:]', '[SEME:fagioli rossi:fagioli rossi:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:rhubarb]', '[NOME:rabarbaro]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:rhubarbs]', '[NOME_PLURALE:rabarbari]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:rhubarb]', '[AGG:rabarbaro]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:rhubarb seed:rhubarb seeds:]', '[SEME:semi di rabarbaro:semi di rabarbaro:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:soybean plant]', '[NOME:pianta di soia]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:soybean plants]', '[NOME_PLURALE:piante di soia]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:soybean plant]', '[AGG:pianta di soia]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:squash vine]', '[NOME:vite di zucca]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:squash vines]', '[NOME_PLURALE:viti di zucca]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:squash vine]', '[AGG:vite di zucca]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:squash seed:squash seeds:]', '[SEME:semi di zucca:semi di zucca:]'
+
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:sweet potato seed:sweet potato seeds:]', '[SEME:semi di patata dolce:semi di patata dolce:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:taro]', '[NOME:taro]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:taro]', '[NOME_PLURALE:taro]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:taro]', '[AGG:taro]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:taro seed:taro seeds:]', '[SEME:seme di taro:semi di taro:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:tomato plant]', '[NOME:pianta di pomodoro]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:tomato plants]', '[NOME_PLURALE:piante di pomodoro]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:tomato plant]', '[AGG:pianta di pomodoro]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:tomato seed:tomato seeds:]', '[SEME:semi di pomodoro:semi di pomodoro:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:tomatillo plant]', '[NOME:pianta di pomodoro]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:tomatillo plants]', '[NOME_PLURALE:piante di pomodoro]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:tomatillo plant]', '[AGG:pianta di pomodoro]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:tomatillo seed:tomatillo seeds:]', '[SEME:semi di tomatillo:semi di tomatillo:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:turnip plant]', '[NOME:pianta di rapa]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:turnip plants]', '[NOME_PLURALE:piante di rapa]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:turnip plant]', '[AGG:pianta di rapa]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:turnip seed:turnip seeds:]', '[SEME:semi di rapa:semi di rapa:]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:urad bean:urad beans:]', '[SEME:fagioli urad:fagioli urad:]'
 
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:lesser yam seed:lesser yam seeds:]', '[SEME:seme di igname minore:semi di igname minori:]'
@@ -4693,59 +6013,1727 @@ Problematic tag pair: '[SEED:purple yam seed:purple yam seeds:]', '[SEME:semi di
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:white yam seed:white yam seeds:]', '[SEME:semi di igname bianco:semi di igname bianco:]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:passion fruit vine]', '[NOME:vite del frutto della passione]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:passion fruit vines]', '[NOME_PLURALE:viti del frutto della passione]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:passion fruit vine]', '[AGG:vite del frutto della passione]'
+
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:passion fruit seed:passion fruit seeds:]', '[SEME:semi del frutto della passione:semi del frutto della passione:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:grape vine]', '[NOME:vite]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:grape vines]', '[NOME_PLURALE:viti]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:grape vine]', '[AGG:vite]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:grape seed:grape seeds:]', "[SEME:semi d'uva: semi d'uva:]"
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:cranberry vine]', '[NOME:vite di mirtillo rosso]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:cranberry vines]', '[NOME_PLURALE:viti di mirtillo rosso]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:cranberry vine]', '[AGG:vite di mirtillo rosso]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:cranberry seed:cranberry seeds:]', '[SEME:semi di mirtillo rosso:semi di mirtillo rosso:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:blueberry bush]', '[NOME:cespuglio di mirtilli]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:blueberry bushes]', '[NOME_PLURALE:cespugli di mirtilli]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:blueberry bush]', '[AGG:cespuglio di mirtilli]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:blueberry seed:blueberry seeds:]', '[SEME:semi di mirtillo:semi di mirtillo:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:blackberry bush]', '[NOME:cespuglio di more]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:raspberry bush]', '[NOME:cespuglio di lamponi]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:raspberry bushes]', '[NOME_PLURALE:cespugli di lamponi]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:raspberry bush]', '[AGG:cespuglio di lamponi]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:raspberry seed:raspberry seeds:]', '[SEME:semi di lampone:semi di lampone:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:pineapple plant]', '[NOME:pianta di ananas]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:pineapple plants]', '[NOME_PLURALE:piante di ananas]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:pineapple plant]', '[AGG:pianta di ananas]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:pineapple seed:pineapple seeds:]', '[SEME:semi di ananas:semi di ananas:]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:ryegrass]', '[TUTTI_NOMI:loietto]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:fescue grass]', '[TUTTI_NOMI:festuca]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:reedgrass]', '[TUTTI_NOMI:canneto]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:knotgrass]', '[TUTTI_NOMI:erba nodosa]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:zoysia]', '[TUTTI_NOMI:zoisia]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:satintail]', '[TUTTI_NOMI:coda di raso]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:grama]', '[TUTTI_NOMI:grama]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:baby toes succulent]', '[NOME:dita dei piedi succulente]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:baby toes succulents]', '[NOME_PLURALE:piante grasse dei piedini]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:baby toes succulent]', '[AGG:dita dei piedi succulente]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:pebble plant]', '[NOME:pianta di ciottoli]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:pebble plants]', '[NOME_PLURALE:piante di ciottoli]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:pebble plant]', '[AGG:pianta di ciottoli]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:blue sedge]', '[TUTTI_NOMI:carice blu]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:field sedge]', '[TUTTI_NOMI:carice di campo]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:rush]', '[NOME:fretta]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:rushes]', '[NOME_PLURALE:si precipita]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:rush]', '[AGG:fretta]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:common reeds]', '[NOME_PLURALE:canne comuni]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:common reed]', '[AGG:canna comune]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:white mountain heather]', '[TUTTI_NOMI:erica bianca di montagna]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:mountain avens]', '[TUTTI_NOMI:aviani di montagna]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:cloudberry]', '[NOME:lampone]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:cloudberries]', '[NOME_PLURALE:more artiche]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:cloudberry]', '[AGG:lampone]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:wormy tendril]', '[NOME:viticcio verme]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:wormy tendrils]', '[NOME_PLURALE:viticci vermi]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:wormy tendril]', '[AGG:viticcio verme]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:staring eyeball]', '[NOME:sguardo fisso]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:staring eyeballs]', '[NOME_PLURALE:occhi sbarrati]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:staring eyeball]', '[AGG:sguardo fisso]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:bubble bulb]', '[NOME:lampadina a bolle]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:bubble bulbs]', '[NOME_PLURALE:lampadine a bolle]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:bubble bulb]', '[AGG:lampadina a bolle]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:downy grass]', '[TUTTI_NOMI:erba lanuginosa]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:cave moss]', '[TUTTI_NOMI:muschio di grotta]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:floor fungus]', '[NOME:fungo del pavimento]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:floor fungus]', '[AGG:fungo del pavimento]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:underlichen]', '[TUTTI_NOMI:sottolichene]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:arrow bamboo]', '[TUTTI_NOMI:freccia di bambù]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:golden bamboo]', '[TUTTI_NOMI:bambù dorato]'
+
+Error: Part 'ALL_NAMES' should not be translated
+Problematic tag pair: '[ALL_NAMES:hedge bamboo]', '[TUTTI_NOMI:siepe di bambù]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:abaca tree]', '[NOME:albero di abaca]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:abaca trees]', '[NOME_PLURALE:alberi di abaca]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:abaca tree]', '[AGG:albero di abaca]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:abaca seed:abaca seeds:]', '[SEME:semi di abaca:semi di abaca:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:banana tree]', '[NOME:albero di banane]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:banana trees]', '[NOME_PLURALE:banani]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:banana tree]', '[AGG:albero di banane]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:banana beer]', '[STATE_NAME_ADJ:LIQUIDO:birra alla banana]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:banana seed:banana seeds:]', '[SEME:semi di banana:semi di banana:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:carambola tree]', '[NOME:albero di carambola]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:carambola trees]', '[NOME_PLURALE:alberi di carambola]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:carambola tree]', '[AGG:albero di carambola]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:carambola wood]', '[NOME_STATO:ALL_SOLID:legno di carambola]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:carambola wood]', '[STATO_ADJ:ALL_SOLID:legno di carambola]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:carambola seed:carambola seeds:]', '[SEME:semi di carambola:semi di carambola:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:cashew tree]', '[NOME:albero di anacardi]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:cashew trees]', '[NOME_PLURALE:alberi di anacardi]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:cashew tree]', '[AGG:albero di anacardi]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:cashew wood]', '[NOME_STATO:ALL_SOLID:legno di anacardi]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:cashew wood]', '[STATO_ADJ:ALL_SOLID:legno di anacardi]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:coffee tree]', '[NOME:pianta del caffè]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:coffee trees]', '[NOME_PLURALE:alberi di caffè]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:coffee tree]', '[AGG:pianta del caffè]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:coffee wood]', '[NOME_STATO:ALL_SOLID:legno di caffè]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:coffee wood]', '[STATO_ADJ:ALL_SOLID:legno di caffè]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:durian trees]', '[NOME_PLURALE:alberi di durian]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:durian tree]', '[AGG:albero durian]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:durian wood]', '[NOME_STATO:ALL_SOLID: legno di durian]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:durian wood]', '[STATO_ADJ:ALL_SOLID: legno di durian]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:durian seed:durian seeds:]', '[SEME:semi di durian:semi di durian:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:guava tree]', '[NOME:albero di guava]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:guava tree]', '[AGG:albero di guava]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:guava wood]', '[STATO_ADJ:ALL_SOLID:legno di guava]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:guava seed:guava seeds:]', '[SEME:semi di guava:semi di guava:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:papaya tree]', '[NOME:albero di papaia]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:papaya trees]', '[NOME_PLURALE:alberi di papaia]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:papaya tree]', '[AGG:albero di papaia]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:papaya wood]', '[NOME_STATO:ALL_SOLID:legno di papaia]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:papaya wood]', '[STATO_ADJ:ALL_SOLID:legno di papaia]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:papaya seed:papaya seeds:]', '[SEME:semi di papaia:semi di papaia:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:paradise nut tree]', '[NOME:noce del paradiso]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:paradise nut trees]', '[NOME_PLURALE:alberi di noci del paradiso]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:paradise nut tree]', '[AGG:noce del paradiso]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:paradise nut wood]', '[NOME_STATO:ALL_SOLID: legno di noce del paradiso]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:paradise nut wood]', '[STATO_ADJ:ALL_SOLID: legno di noce del paradiso]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:paradise nut:paradise nuts:]', '[SEME:noce del paradiso:noci del paradiso:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:rambutan tree]', '[NOME:albero di rambutan]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:rambutan trees]', '[NOME_PLURALE:alberi di rambutan]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:rambutan tree]', '[AGG:albero di rambutan]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:rambutan wood]', '[NOME_STATO:ALL_SOLID:legno di rambutan]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:rambutan wood]', '[STATO_ADJ:ALL_SOLID:legno di rambutan]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:rambutan seed:rambutan seeds:]', '[SEME:semi di rambutan:semi di rambutan:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:tea tree]', '[NOME:albero del tè]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:tea trees]', '[NOME_PLURALE:alberi del tè]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:tea tree]', '[AGG:albero del tè]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:tea wood]', '[NOME_STATO:ALL_SOLID:legno di tè]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:tea wood]', '[STATO_ADJ:ALL_SOLID:legno di tè]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:tea seed:tea seeds:]', '[SEME:semi di tè: semi di tè:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:avocado tree]', '[NOME:albero di avocado]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:avocado trees]', '[NOME_PLURALE:alberi di avocado]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:avocado tree]', '[AGG:albero di avocado]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:avocado wood]', '[NOME_STATO:ALL_SOLID:legno di avocado]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:avocado wood]', '[STATO_ADJ:ALL_SOLID:legno di avocado]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:avocado pit:avocado pits:]', '[SEME:nocciolo di avocado:noccioli di avocado:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:lime tree]', '[NOME:albero di limone]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:lime trees]', '[NOME_PLURALE:tigli]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:lime tree]', '[AGG:albero di limone]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:lime wood]', '[NOME_STATO:ALL_SOLID:legno di tiglio]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:lime wood]', '[STATO_ADJ:ALL_SOLID:legno di tiglio]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:lime seed:lime seeds:]', '[SEME:semi di lime:semi di lime:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:pomelo tree]', '[NOME:albero di pomelo]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:pomelo trees]', '[NOME_PLURALE:alberi di pomelo]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:pomelo tree]', '[AGG:albero di pomelo]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:pomelo wood]', '[NOME_STATO:ALL_SOLID:legno di pomelo]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:pomelo wood]', '[STATO_ADJ:ALL_SOLID:legno di pomelo]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:pomelo seed:pomelo seeds:]', '[SEME:semi di pomelo:semi di pomelo:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:citron tree]', '[NOME:albero di cedro]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:citron seed:citron seeds:]', '[SEME:semi di cedro:semi di cedro:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:orange tree]', '[NOME:albero di arance]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:orange trees]', '[NOME_PLURALE:aranci]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:orange tree]', '[AGG:albero di arance]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:orange wood]', "[NOME_STATO:ALL_SOLID:legno d'arancio]"
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:orange wood]', "[STATO_ADJ:ALL_SOLID:legno d'arancio]"
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:orange seed:orange seeds:]', "[SEME:semi d'arancia: semi d'arancia:]"
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:bitter orange tree]', '[NOME:arancio amaro]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:bitter orange trees]', '[NOME_PLURALE:aranci amari]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:bitter orange tree]', '[AGG:arancio amaro]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:bitter orange wood]', '[NOME_STATO:ALL_SOLID:legno di arancio amaro]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:bitter orange wood]', '[STATO_ADJ:ALL_SOLID:legno di arancio amaro]'
 
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:bitter orange seed:bitter orange seeds:]', '[SEME:semi di arancia amara:semi di arancia amara:]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:finger lime tree]', '[NOME:tiglio dito]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:finger lime trees]', '[NOME_PLURALE:tigli finger]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:finger lime tree]', '[AGG:tiglio dito]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:finger lime wood]', '[NOME_STATO:ALL_SOLID:legno di tiglio]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:finger lime wood]', '[STATO_ADJ:ALL_SOLID:legno di tiglio]'
+
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:finger lime seed:finger lime seeds:]', '[SEME:semi di finger lime:semi di finger lime:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:round lime tree]', '[NOME:tiglio rotondo]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:round lime trees]', '[NOME_PLURALE:tigli rotondi]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:round lime tree]', '[AGG:tiglio rotondo]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:round lime wood]', '[NOME_STATO:ALL_SOLID:legno di tiglio rotondo]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:round lime wood]', '[STATO_ADJ:ALL_SOLID:legno di tiglio rotondo]'
 
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:round lime seed:round lime seeds:]', '[SEME:semi di lime tondi:semi di lime tondi:]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:desert lime tree]', '[NOME:tiglio del deserto]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:desert lime trees]', '[NOME_PLURALE:tigli del deserto]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:desert lime tree]', '[AGG:tiglio del deserto]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:desert lime wood]', '[NOME_STATO:ALL_SOLID:legno di tiglio del deserto]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:desert lime wood]', '[STATO_ADJ:ALL_SOLID:legno di tiglio del deserto]'
+
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:desert lime seed:desert lime seeds:]', '[SEME:semi di lime del deserto: semi di lime del deserto:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:kumquat tree]', '[NOME:albero di kumquat]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:kumquat trees]', '[NOME_PLURALE:alberi di kumquat]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:kumquat tree]', '[AGG:albero di kumquat]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:kumquat wood]', '[NOME_STATO:ALL_SOLID:legno di kumquat]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:kumquat wood]', '[STATO_ADJ:ALL_SOLID:legno di kumquat]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:kumquat seed:kumquat seeds:]', '[SEME:semi di kumquat:semi di kumquat:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:custard-apple tree]', '[NOME:albero di crema pasticciera]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:custard-apple trees]', '[NOME_PLURALE:alberi di mele cotogne]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:custard-apple tree]', '[AGG:albero di crema pasticciera]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:custard-apple wood]', '[NOME_STATO:ALL_SOLID:legno di crema pasticciera]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:custard-apple wood]', '[STATO_ADJ:ALL_SOLID:legno di crema pasticciera]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:custard-apple cider]', '[STATE_NAME_ADJ:LIQUIDO:sidro di mele con crema pasticciera]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:custard-apple seed:custard-apple seeds:]', '[SEME:semi di crema pasticciera:semi di crema pasticciera:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:date palm]', '[NOME:palma da datteri]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:date palms]', '[NOME_PLURALE:palme da datteri]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:date palm]', '[AGG:palma da datteri]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:date palm wood]', '[NOME_STATO:ALL_SOLID:legno di palma da datteri]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:date palm wood]', '[STATO_ADJ:ALL_SOLID:legno di palma da datteri]'
 
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:date palm seed:date palm seeds:]', '[SEME:semi di palma da datteri:semi di palma da datteri:]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:lychee tree]', '[NOME:albero di litchi]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:lychee trees]', '[NOME_PLURALE:alberi di litchi]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:lychee tree]', '[AGG:albero di litchi]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:lychee wood]', '[NOME_STATO:ALL_SOLID:legno di litchi]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:lychee wood]', '[STATO_ADJ:ALL_SOLID:legno di litchi]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:lychee seed:lychee seeds:]', '[SEME:semi di litchi:semi di litchi:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:macadamia tree]', '[NOME:albero di macadamia]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:macadamia trees]', '[NOME_PLURALE:alberi di macadamia]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:olive tree]', '[NOME:Ulivo]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:olive trees]', '[NOME_PLURALE:ulivi]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:olive tree]', '[AGG:Ulivo]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:olive oil]', "[STATE_NAME_ADJ:LIQUIDO:olio d'oliva]"
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:melted olive oil soap]', "[STATE_NAME_ADJ:LIQUIDO:sapone fuso all'olio d'oliva]"
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:olive wood]', "[NOME_STATO:ALL_SOLID:legno d'ulivo]"
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:olive wood]', "[STATO_ADJ:ALL_SOLID:legno d'ulivo]"
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:olive pit:olive pits:]', "[SEME:nocciolo d'oliva:noccioli d'oliva:]"
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:pomegranate tree]', '[NOME:albero di melograno]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:pomegranate trees]', '[NOME_PLURALE:alberi di melograno]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:pomegranate tree]', '[AGG:albero di melograno]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:pomegranate wood]', '[NOME_STATO:ALL_SOLID:legno di melograno]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:pomegranate wood]', '[STATO_ADJ:ALL_SOLID:legno di melograno]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:pomegranate seed:pomegranate seeds:]', '[SEME:semi di melograno:semi di melograno:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:almond tree]', '[NOME:Mandorlo]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:almond trees]', '[NOME_PLURALE:mandorli]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:almond tree]', '[AGG:Mandorlo]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:almond wood]', '[NOME_STATO:ALL_SOLID:legno di mandorlo]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:almond wood]', '[STATO_ADJ:ALL_SOLID:legno di mandorlo]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:apple tree]', '[NOME:albero di mele]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:apple trees]', '[NOME_PLURALE:alberi di mele]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:apple tree]', '[AGG:albero di mele]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:apple wood]', '[NOME_STATO:ALL_SOLID:legno di melo]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:apple wood]', '[STATO_ADJ:ALL_SOLID:legno di melo]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:apple cider]', '[STATE_NAME_ADJ:LIQUIDO:sidro di mele]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:apple seed:apple seeds:]', '[SEME:semi di mela:semi di mela:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:apricot tree]', '[NOME:albicocco]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:apricot trees]', '[NOME_PLURALE:albicocchi]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:apricot tree]', '[AGG:albicocco]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:apricot wood]', '[NOME_STATO:ALL_SOLID:legno di albicocca]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:apricot wood]', '[STATO_ADJ:ALL_SOLID:legno di albicocca]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:apricot pit:apricot pits:]', '[SEME:nocciolo di albicocca:noccioli di albicocca:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:bayberry tree]', '[NOME:albero di mirtillo]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:bayberry trees]', '[NOME_PLURALE:alberi di mirtillo]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:bayberry tree]', '[AGG:albero di mirtillo]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:bayberry wood]', '[NOME_STATO:ALL_SOLID: legno di mirtillo]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:bayberry wood]', '[STATO_ADJ:ALL_SOLID: legno di mirtillo]'
+
+Error: Part 'SEED' should not be translated
+Problematic tag pair: '[SEED:bayberry seed:bayberry seeds:]', '[SEME:semi di mirtillo:semi di mirtillo:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:cherry tree]', '[NOME:ciliegio]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:cherry trees]', '[NOME_PLURALE:ciliegi]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:cherry tree]', '[AGG:ciliegio]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:cherry wood]', '[NOME_STATO:ALL_SOLID:legno di ciliegio]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:cherry wood]', '[STATO_ADJ:ALL_SOLID:legno di ciliegio]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:ginkgo tree]', '[NOME:albero di ginkgo]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:ginkgo trees]', '[NOME_PLURALE:alberi di ginkgo]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:ginkgo tree]', '[AGG:albero di ginkgo]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:ginkgo wood]', '[NOME_STATO:ALL_SOLID:legno di ginkgo]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:ginkgo wood]', '[STATO_ADJ:ALL_SOLID:legno di ginkgo]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:hazel tree]', '[NOME:nocciolo]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:hazel trees]', '[NOME_PLURALE:noccioli]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:hazel tree]', '[AGG:nocciolo]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:peach tree]', '[NOME:Albero di pesche]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:peach trees]', '[NOME_PLURALE:peschi]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:peach tree]', '[AGG:Albero di pesche]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:peach wood]', '[NOME_STATO:ALL_SOLID:legno di pesco]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:peach wood]', '[STATO_ADJ:ALL_SOLID:legno di pesco]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:peach cider]', '[STATE_NAME_ADJ:LIQUIDO:sidro di pesca]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:pear tree]', '[NOME:pero]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:pear trees]', '[NOME_PLURALE:peri]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:pear tree]', '[AGG:pero]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:pear wood]', '[NOME_STATO:ALL_SOLID:legno di pero]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:pear wood]', '[STATO_ADJ:ALL_SOLID:legno di pero]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:perry]', '[STATE_NAME_ADJ:LIQUIDO:perry]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:pecan tree]', '[NOME:albero di noci pecan]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:pecan trees]', '[NOME_PLURALE:alberi di noci pecan]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:pecan tree]', '[AGG:albero di noci pecan]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:pecan wood]', '[NOME_STATO:ALL_SOLID:legno di noci pecan]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:pecan wood]', '[STATO_ADJ:ALL_SOLID:legno di noci pecan]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:persimmon tree]', '[NOME:albero di cachi]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:persimmon trees]', '[NOME_PLURALE:alberi di cachi]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:persimmon tree]', '[AGG:albero di cachi]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:persimmon wood]', '[NOME_STATO:ALL_SOLID:legno di cachi]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:persimmon wood]', '[STATO_ADJ:ALL_SOLID:legno di cachi]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:plum tree]', '[NOME:albero di prugne]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:plum trees]', '[NOME_PLURALE:susini]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:plum tree]', '[AGG:albero di prugne]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:plum wood]', '[NOME_STATO:ALL_SOLID:legno di pruno]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:plum wood]', '[STATO_ADJ:ALL_SOLID:legno di pruno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:sand pear tree]', '[NOME:pero di sabbia]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:sand pear trees]', '[NOME_PLURALE:peri di sabbia]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:sand pear tree]', '[AGG:pero di sabbia]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:sand pear wood]', '[NOME_STATO:ALL_SOLID:legno di pero sabbia]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:sand pear wood]', '[STATO_ADJ:ALL_SOLID:legno di pero sabbia]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:sand pear cider]', '[STATE_NAME_ADJ:LIQUIDO:sidro di pere]'
+
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:sand pear seed:sand pear seeds:]', '[SEME:semi di pera di sabbia:semi di pera di sabbia:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:walnut tree]', '[NOME:un albero di noce]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:walnut trees]', '[NOME_PLURALE:alberi di noce]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:walnut tree]', '[AGG:un albero di noce]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:walnut wood]', '[NOME_STATO:ALL_SOLID:legno di noce]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:walnut wood]', '[STATO_ADJ:ALL_SOLID:legno di noce]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:dwarven ale]', '[STATE_NAME_ADJ:LIQUIDO:birra nanica]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:cave wheat]', '[NOME:grano delle caverne]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:cave wheat]', '[NOME_PLURALE:grano delle caverne]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:cave wheat]', '[AGG:grano delle caverne]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:dwarven beer]', '[STATE_NAME_ADJ:LIQUIDO:birra nanica]'
 
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:cave wheat seed:cave wheat seeds:]', '[SEME:semi di grano delle caverne:semi di grano delle caverne:]'
 
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:dwarven rum]', '[STATE_NAME_ADJ:LIQUIDO:rum dei nani]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:dwarven syrup]', '[STATE_NAME_ADJ:LIQUIDO:sciroppo nanico]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:quarry bush]', '[NOME:cespuglio di cava]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:quarry bushes]', '[NOME_PLURALE:cespugli di cava]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:quarry bush]', '[AGG:cespuglio di cava]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:rock nut oil]', '[STATE_NAME_ADJ:LIQUIDO: olio di noce di roccia]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:melted rock nut soap]', '[STATE_NAME_ADJ:LIQUIDO: sapone di noce di roccia fusa]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:bloated tuber]', '[NOME:tubero gonfio]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:bloated tubers]', '[NOME_PLURALE:tuberi gonfi]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:bloated tuber]', '[AGG:tubero gonfio]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:tuber beer]', '[STATE_NAME_ADJ:LIQUIDO:birra al tubero]'
+
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:bloated tuber seed:bloated tuber seeds:]', '[SEME:seme di tubero rigonfio:semi di tubero rigonfio:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:kobold bulb]', '[NOME:lampadina del coboldo]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:kobold bulbs]', '[NOME_PLURALE:bulbi di coboldo]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:kobold bulb]', '[AGG:lampadina del coboldo]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:gnomeblight]', '[STATE_NAME_ADJ:LIQUIDO:gnomeblight]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:prickle berry]', '[NOME:bacca di pungiglione]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:prickle berries]', '[NOME_PLURALE:bacche di pungiglione]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:prickle berry]', '[AGG:bacca di pungiglione]'
 
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:prickle berry seed:prickle berry seeds:]', '[SEME:semi di bacche di spinaci:semi di bacche di spinello:]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:strawberry plant]', '[NOME:pianta di fragole]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:strawberry plants]', '[NOME_PLURALE:piante di fragole]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:Longland grass]', '[NOME:Erba di Longland]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:Longland grass]', '[NOME_PLURALE:Erba di Longland]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:Longland grass]', '[AGG:Erba di Longland]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:Longland beer]', '[STATE_NAME_ADJ:LIQUIDO:birra Longland]'
+
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:Longland grass seed:Longland grass seeds:]', '[SEME:Sementi di erba lunga:Semi di erba lunga:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:valley herb]', '[NOME:erba della valle]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:valley herbs]', '[NOME_PLURALE:erbe della valle]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:valley herb]', '[AGG:erba della valle]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:golden salve]', "[STATE_NAME_ADJ:LIQUIDO: balsamo d'oro]"
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:rat weed]', '[NOME:erba di ratto]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:rat weed]', '[NOME_PLURALE:erba di ratto]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:rat weed]', '[AGG:erba di ratto]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:sewer brew]', '[STATE_NAME_ADJ:LIQUIDO:infuso di fogna]'
 
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:rat weed seed:rat weed seeds:]', '[SEME:semi di erba di ratto: semi di erba di ratto:]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:fisher berry]', '[NOME:bacca di pescatore]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:fisher berries]', '[NOME_PLURALE:bacche di pescatore]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:fisher berry]', '[AGG:bacca di pescatore]'
+
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:fisher berry seed:fisher berry seeds:]', '[SEME:semi di bacche di pescatore:semi di bacche di pescatore:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:rope reed]', '[NOME:canna di corda]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:rope reeds]', '[NOME_PLURALE:ance di corda]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:rope reed]', '[AGG:canna di corda]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:river spirits]', '[STATE_NAME_ADJ:LIQUIDO:spiriti del fiume]'
+
+Error: Part 'SOLID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:SOLID:rope reed]', '[STATE_NAME_ADJ:SOLIDO: canna di corda]'
 
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:rope reed seed:rope reed seeds:]', '[SEME:semi di canne di corda:semi di canne di corda:]'
 
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:blade weed]', '[NOME:erbaccia a lama]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:blade weed]', '[AGG:erbaccia a lama]'
+
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:blade weed seed:blade weed seeds:]', '[SEME:semi di erba infestante: semi di erba infestante:]'
 
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:gutter cruor]', '[STATE_NAME_ADJ:LIQUIDO: grondaia cruor]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:sun berry]', '[NOME:bacca del sole]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:sun berries]', '[NOME_PLURALE:bacche del sole]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:sun berry]', '[AGG:bacca del sole]'
+
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:sunshine]', '[STATE_NAME_ADJ:LIQUIDO:sole]'
+
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:sun berry seed:sun berry seeds:]', '[SEME:semi di bacche del sole:semi di bacche del sole:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:whip vine]', '[NOME:frusta di vite]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:whip vines]', '[NOME_PLURALE:frustare le viti]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:whip vine]', '[AGG:frusta di vite]'
 
 Error: Part 'SEED' should not be translated
 Problematic tag pair: '[SEED:whip vine seed:whip vine seeds:]', '[SEME:frullare i semi di vite:frustare i semi di vite:]'
 
 Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:mangrove]', '[NOME:mangrovie]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:mangroves]', '[NOME_PLURALE:mangrovie]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:saguaro]', '[NOME:saguaro]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:saguaros]', '[NOME_PLURALE:saguari]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:saguaro]', '[AGG:saguaro]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:saguaro rib wood]', '[NOME_STATO:ALL_SOLID: legno di costola di saguaro]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:saguaro rib]', '[STATO_ADJ:ALL_SOLID: costola del saguaro]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:pine]', '[NOME:pino]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:pines]', '[NOME_PLURALE:pini]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:pine]', '[AGG:pino]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:pine]', '[NOME_STATO:ALL_SOLID:pino]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:pine]', '[STATO_ADJ:ALL_SOLID:pino]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:cedar]', '[NOME:cedro]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:cedars]', '[NOME_PLURALE:cedri]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:cedar]', '[AGG:cedro]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:cedar]', '[NOME_STATO:ALL_SOLID:cedro]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:oak]', '[NOME:quercia]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:oaks]', '[NOME_PLURALE:querce]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:oak]', '[NOME_STATO:ALL_SOLID:rovere]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:oaken]', '[STATO_ADJ:ALL_SOLID:quercia]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:mahogany]', '[NOME:mogano]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:mahoganies]', '[NOME_PLURALE:mogani]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:mahogany]', '[AGG:mogano]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:mahogany]', '[STATO_ADJ:ALL_SOLID:mogano]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:acacia]', '[NOME:acacia]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:acacias]', '[NOME_PLURALE:acacie]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:acacia]', '[AGG:acacia]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:acacia]', '[NOME_STATO:ALL_SOLID:acacia]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:acacia]', '[STATO_ADJ:ALL_SOLID:acacia]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:kapok]', '[NOME:capoc]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:kapoks]', '[NOME_PLURALE:kapok]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:kapok]', '[AGG:capoc]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:kapok]', '[NOME_STATO:ALL_SOLID:kapok]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:kapok]', '[STATO_ADJ:ALL_SOLID:kapok]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:maple]', '[NOME:acero]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:maples]', '[NOME_PLURALE:aceri]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:maple]', '[AGG:acero]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:maple]', '[NOME_STATO:ALL_SOLID:acero]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:maple]', '[STATO_ADJ:ALL_SOLID:acero]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:willow]', '[NOME:salice]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:willows]', '[NOME_PLURALE:salici]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:willow]', '[AGG:salice]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:willow]', '[NOME_STATO:ALL_SOLID:salice]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:willow]', '[STATO_ADJ:ALL_SOLID:salice]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:tower-cap]', '[NOME:torretta]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:tower-caps]', '[NOME_PLURALE:tappi di torre]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:tower-cap]', '[AGG:torretta]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:tower-cap]', '[NOME_STATO:ALL_SOLID:torre-cappuccio]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:tower-cap]', '[STATO_ADJ:ALL_SOLID:torre-cappuccio]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:black-cap]', '[NOME:capinera]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:black-caps]', '[NOME_PLURALE:berretti neri]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:black-cap]', '[AGG:capinera]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:black-cap]', '[NOME_STATO:ALL_SOLID: berretto nero]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:black-cap]', '[STATO_ADJ:ALL_SOLID: berretto nero]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:nether-caps]', '[NOME_PLURALE:maiuscolo]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:nether-cap]', '[AGG:tappo inferiore]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:nether-cap]', '[NOME_STATO:ALL_SOLID:nether-cap]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:nether-cap]', '[STATO_ADJ:ALL_SOLID:nether-cap]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:tunnel tube]', '[NOME:tubo del tunnel]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:tunnel tubes]', '[NOME_PLURALE:tubi del tunnel]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:tunnel tube]', '[AGG:tubo del tunnel]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:tunnel tube]', '[NOME_STATO:ALL_SOLID: tubo del tunnel]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:tunnel tube]', '[STATO_ADJ:ALL_SOLID: tubo del tunnel]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:spore tree]', '[NOME:albero di spore]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:blood thorn]', '[NOME:spina di sangue]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:blood thorn]', '[NOME_PLURALE:spina di sangue]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:blood thorn]', '[AGG:spina di sangue]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:blood thorn]', '[NOME_STATO:ALL_SOLID:spina di sangue]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:blood thorn]', '[STATO_ADJ:ALL_SOLID:spina di sangue]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:glumprong]', '[NOME:cupo]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:glumprongs]', '[NOME_PLURALE:malinconia]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:glumprong]', '[AGG:cupo]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:glumprong]', '[NOME_STATO:ALL_SOLID:glumprong]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:glumprong]', '[STATO_ADJ:ALL_SOLID:glumprong]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:feather tree]', '[NOME:albero di piume]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:feather trees]', '[NOME_PLURALE:alberi di piume]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:feather tree]', '[AGG:albero di piume]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:feather wood]', '[NOME_STATO:ALL_SOLID:legno di piuma]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:feather wood]', '[STATO_ADJ:ALL_SOLID:legno di piuma]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:larches]', '[NOME_PLURALE:larici]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:larch]', '[AGG:larice]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:larch]', '[NOME_STATO:ALL_SOLID:larice]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:alder]', '[NOME:ontano]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:alders]', '[NOME_PLURALE:ontani]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:alder]', '[AGG:ontano]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:alder]', '[NOME_STATO:ALL_SOLID:ontano]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:alder]', '[STATO_ADJ:ALL_SOLID:ontano]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:birch]', '[NOME:betulla]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:birches]', '[NOME_PLURALE:betulle]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:birchen]', '[AGG:betulla]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:birch]', '[NOME_STATO:ALL_SOLID:betulla]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:birchen]', '[STATO_ADJ:ALL_SOLID:betulla]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:ash]', '[NOME:cenere]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:ashes]', '[NOME_PLURALE:ceneri]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:ashen]', '[AGG:cinereo]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:ash]', '[NOME_STATO:ALL_SOLID:cenere]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:ashen]', '[STATO_ADJ:ALL_SOLID:cenere]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:mango tree]', '[NOME:albero di mango]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:mango trees]', '[NOME_PLURALE:alberi di mango]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:mango tree]', '[AGG:albero di mango]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:mango wood]', '[NOME_STATO:ALL_SOLID:legno di mango]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:mango wood]', '[STATO_ADJ:ALL_SOLID:legno di mango]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:rubber tree]', '[NOME:albero della gomma]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:rubber trees]', '[NOME_PLURALE:alberi della gomma]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:rubber tree]', '[AGG:albero della gomma]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:rubber wood]', '[NOME_STATO:ALL_SOLID:legno di gomma]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:cacao tree]', '[AGG:albero di cacao]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:cacao wood]', '[NOME_STATO:ALL_SOLID:legno di cacao]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:cacao wood]', '[STATO_ADJ:ALL_SOLID:legno di cacao]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:coconut palm]', '[NOME:Palma da cocco]'
+
+Error: Part 'NAME_PLURAL' should not be translated
+Problematic tag pair: '[NAME_PLURAL:coconut palms]', '[NOME_PLURALE:palme da cocco]'
+
+Error: Part 'ADJ' should not be translated
+Problematic tag pair: '[ADJ:coconut palm]', '[AGG:Palma da cocco]'
+
+Error: Part 'STATE_NAME' should not be translated
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:coconut palm]', '[NOME_STATO:ALL_SOLID: palma da cocco]'
+
+Error: Part 'STATE_ADJ' should not be translated
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:coconut palm]', '[STATO_ADJ:ALL_SOLID: palma da cocco]'
+
+Error: Part 'CATEGORY_NAME' should not be translated
+Problematic tag pair: '[CATEGORY_NAME:Carpentry]', '[NOME DELLA CATEGORIA:Carpenteria]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden table]', '[NOME:fare un tavolo di legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden bed]', '[NOME:fare il letto di legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden chest]', '[NOME:realizzare una cassapanca di legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden cabinet]', '[NOME:realizzare un mobile in legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden door]', '[NOME:realizzare una porta di legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden barrel]', '[NOME:fare botte di legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden bucket]', '[NOME:fare un secchio di legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden hatch cover]', '[NOME:realizzare una copertura del portello in legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden grate]', '[NOME:fare una griglia di legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden bin]', '[NOME:fare un cestino di legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden stepladder]', '[NOME:realizzare una scala a pioli in legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden bookcase]', '[NOME:realizzare una libreria in legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden splint]', '[NOME:fare una stecca di legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden crutch]', '[NOME:fare una stampella di legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden shield]', '[NOME:fare uno scudo di legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden buckler]', '[NOME:realizzare uno scudo di legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make wooden pedestal]', '[NOME:realizzare un piedistallo di legno]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:tan a hide]', '[NOME:abbronzarsi]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:render fat]', '[NOME:ingrassare]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make soap from tallow]', '[NOME:fare il sapone dal sego]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:lye:]', '[REAGENTE:liscivia:]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:lye container:]', '[REAGENTE:contenitore della liscivia:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make soap from oil]', "[NOME:fare il sapone dall'olio]"
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:lye:]', '[REAGENTE:liscivia:]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:lye container:]', '[REAGENTE:contenitore della liscivia:]'
+
+Error: Part 'CONTAINS' should not be translated
+Problematic tag pair: '[CONTAINS:lye]', '[CONTIENE:liscivia]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:oil:]', '[REAGENTE:olio:]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:oil container:]', "[REAGENTE:contenitore dell'olio:]"
+
+Error: Part 'CONTAINS' should not be translated
+Problematic tag pair: '[CONTAINS:oil]', '[CONTIENE:olio]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make pearlash]', '[NOME:fare perle]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make sharp rock]', '[NOME:fare roccia tagliente]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:tool stone:]', '[REAGENTE:pietra dello strumento:]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:hammerstone:]', '[REAGENTE:martello:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make clay jug]', '[NOME:fare una brocca di argilla]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make clay bricks]', '[NOME:fare mattoni di argilla]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make clay statue]', '[NOME:fare una statua di argilla]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:glaze clay/stone jug]', '[NOME:brocca in argilla/pietra smaltata]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:jug:]', '[REAGENTE:brocca:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:glaze clay/stone statue]', '[NOME:statua in argilla/pietra smaltata]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:statue:]', '[REAGENTE:statua:]'
+
+Error: Part 'IMPROVEMENT' should not be translated
+Problematic tag pair: '[IMPROVEMENT:100:statue:GLAZED:GET_MATERIAL_FROM_REAGENT:glaze:]', '[MIGLIORAMENTO:100:statua:SMALTATO:OTTIENI_MATERIAL_FROM_REAGENT:smalto:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:glaze large clay/stone pot]', '[NOME:smalto grande vaso di argilla/pietra]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:large pot:]', '[REAGENTE:pentola grande:]'
+
+Error: Part 'IMPROVEMENT' should not be translated
+Problematic tag pair: '[IMPROVEMENT:100:large pot:GLAZED:GET_MATERIAL_FROM_REAGENT:glaze:]', '[MIGLIORAMENTO:100:pentola grande:GLAZED:GET_MATERIAL_FROM_REAGENT:glaze:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:glaze clay/stone craft]', '[NOME:artigianato in argilla/pietra smaltata]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:craft:]', '[REAGENTE:mestiere:]'
+
+Error: Part 'IMPROVEMENT' should not be translated
+Problematic tag pair: '[IMPROVEMENT:100:craft:GLAZED:GET_MATERIAL_FROM_REAGENT:glaze:]', '[MIGLIORAMENTO:100:craft:GLAZED:GET_MATERIAL_FROM_REAGENT:glaze:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:press liquid from paste]', '[NOME:premere il liquido dalla pasta]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:paste:]', '[REAGENTE:impasto:]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:liquid container:]', '[REAGENTE:contenitore per liquidi:]'
+
+Error: Part 'PRODUCT' should not be translated
+Problematic tag pair: '[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:paste:]', '[PRODOTTO:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:incolla:]'
+
+Error: Part 'PRODUCT_TO_CONTAINER' should not be translated
+Problematic tag pair: '[PRODUCT_TO_CONTAINER:liquid container]', '[PRODOTTO_TO_CONTAINER:contenitore per liquidi]'
+
+Error: Part 'PRODUCT' should not be translated
+Problematic tag pair: '[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:paste:]', '[PRODOTTO:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:incolla:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:press liquid from fruit]', '[NOME:spremere il liquido dalla frutta]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:liquid container:]', '[REAGENTE:contenitore per liquidi:]'
+
+Error: Part 'PRODUCT_TO_CONTAINER' should not be translated
+Problematic tag pair: '[PRODUCT_TO_CONTAINER:liquid container]', '[PRODOTTO_TO_CONTAINER:contenitore per liquidi]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make clay hive]', '[NOME:fare un alveare di argilla]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:press honey from honeycomb]', '[NOME:spremere il miele dal favo]'
+
+Error: Part 'PRODUCT' should not be translated
+Problematic tag pair: '[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:honeycomb:]', "[PRODOTTO:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:nido d'ape:]"
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:barrel/pot:]', '[REAGENTE:barile/pentola:]'
+
+Error: Part 'PRODUCT_TO_CONTAINER' should not be translated
+Problematic tag pair: '[PRODUCT_TO_CONTAINER:barrel/pot]', '[PRODOTTO_TO_CONTAINER:barile/pentola]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:brew drink from fruit]', '[NOME:preparare una bevanda dalla frutta]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:barrel/pot:]', '[REAGENTE:barile/pentola:]'
+
+Error: Part 'PRODUCT_TO_CONTAINER' should not be translated
+Problematic tag pair: '[PRODUCT_TO_CONTAINER:barrel/pot]', '[PRODOTTO_TO_CONTAINER:barile/pentola]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:honey:]', '[REAGENTE:Miele:]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:honey container:]', '[REAGENTE:contenitore per il miele:]'
+
+Error: Part 'CONTAINS' should not be translated
+Problematic tag pair: '[CONTAINS:honey]', '[CONTIENE:Miele]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:barrel/pot:]', '[REAGENTE:barile/pentola:]'
+
+Error: Part 'PRODUCT_TO_CONTAINER' should not be translated
+Problematic tag pair: '[PRODUCT_TO_CONTAINER:barrel/pot]', '[PRODOTTO_TO_CONTAINER:barile/pentola]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:process plant to bag]', "[NOME:dall'impianto di processo al sacco]"
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:bag:]', '[REAGENTE:borsa:]'
+
+Error: Part 'PRODUCT_TO_CONTAINER' should not be translated
+Problematic tag pair: '[PRODUCT_TO_CONTAINER:bag]', '[PRODOTTO_TO_CONTAINER:borsa]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make quicklime]', '[NOME:fare calce viva]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:quicklime:]', '[REAGENTE:calce viva:]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:quicklime container:]', '[REAGENTE:contenitore di calce viva:]'
+
+Error: Part 'CONTAINS' should not be translated
+Problematic tag pair: '[CONTAINS:quicklime]', '[CONTIENE:calce viva]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:bucket:]', '[REAGENTE:secchio:]'
+
+Error: Part 'PRODUCT_TO_CONTAINER' should not be translated
+Problematic tag pair: '[PRODUCT_TO_CONTAINER:bucket]', '[PRODOTTO_TO_CONTAINER:secchio]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make parchment]', '[NOME:fare pergamena]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:lime container:]', '[REAGENTE:contenitore di calce:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make scroll]', '[NOME:fai scorrere]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:sheet:]', '[REAGENTE:foglio:]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:scroll rollers:]', '[REAGENTE:rulli di scorrimento:]'
+
+Error: Part 'PRODUCT' should not be translated
+Problematic tag pair: '[PRODUCT:100:1:TOOL:ITEM_TOOL_SCROLL:GET_MATERIAL_FROM_REAGENT:sheet:]', '[PRODOTTO:100:1:TOOL:ITEM_TOOL_SCROLL:GET_MATERIAL_FROM_REAGENT:foglio:]'
+
+Error: Part 'IMPROVEMENT' should not be translated
+Problematic tag pair: '[IMPROVEMENT:100:scroll:SPECIFIC:ROLLERS:GET_MATERIAL_FROM_REAGENT:scroll rollers:]', '[MIGLIORAMENTO:100:scorrimento:SPECIFIC:RULLI:GET_MATERIAL_FROM_REAGENT:rulli di scorrimento:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make quire]', '[NOME:fare domanda]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:sheet:]', '[REAGENTE:foglio:]'
+
+Error: Part 'PRODUCT' should not be translated
+Problematic tag pair: '[PRODUCT:100:1:TOOL:ITEM_TOOL_QUIRE:GET_MATERIAL_FROM_REAGENT:sheet:]', '[PRODOTTO:100:1:TOOL:ITEM_TOOL_QUIRE:GET_MATERIAL_FROM_REAGENT:foglio:]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:paste:]', '[REAGENTE:impasto:]'
+
+Error: Part 'PRODUCT' should not be translated
+Problematic tag pair: '[PRODUCT:100:1:SHEET:NONE:GET_MATERIAL_FROM_REAGENT:paste:]', '[PRODOTTO:100:1:FOGLIO:NESSUNO:OTTIENI_MATERIAL_FROM_REAGENT:incolla:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:bind book]', '[NOME:rilegare il libro]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:quire:]', '[REAGENTE:domanda:]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:binding:]', '[REAGENTE:legame:]'
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:thread:]', '[REAGENTE:filo:]'
+
+Error: Part 'PRODUCT' should not be translated
+Problematic tag pair: '[PRODUCT:100:1:BOOK:NONE:GET_MATERIAL_FROM_REAGENT:binding:]', '[PRODOTTO:100:1:BOOK:NONE:GET_MATERIAL_FROM_REAGENT:rilegatura:]'
+
+Error: Part 'IMPROVEMENT' should not be translated
+Problematic tag pair: '[IMPROVEMENT:100:book:PAGES:GET_MATERIAL_FROM_REAGENT:quire:]', '[MIGLIORAMENTO:100:libro:PAGINE:GET_MATERIAL_FROM_REAGENT:quire:]'
+
+Error: Part 'PRODUCT' should not be translated
+Problematic tag pair: '[PRODUCT:100:1:TOOL:ITEM_TOOL_HELVE:GET_MATERIAL_FROM_REAGENT:branch:]', '[PRODOTTO:100:1:TOOL:ITEM_TOOL_HELVE:GET_MATERIAL_FROM_REAGENT:ramo:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:assemble stone axe]', "[NOME:assemblare l'ascia di pietra]"
+
+Error: Part 'REAGENT' should not be translated
+Problematic tag pair: '[REAGENT:helve:]', '[REAGENTE:aiuto:]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make display case]', '[NOME:creare una vetrina]'
+
+Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:make coke from bituminous coal]', '[NOME:produrre coke dal carbone bituminoso]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make coke from lignite]', '[NOME:produrre coke dalla lignite]'
 
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:make brass bars (use ore)]', '[NOME:creare barre di ottone (usare minerale)]'
@@ -4785,4 +7773,25 @@ Problematic tag pair: '[NAME:make trifle pewter bars (use bars)]', '[NOME:crea p
 
 Error: Part 'NAME' should not be translated
 Problematic tag pair: '[NAME:make lay pewter bars (use bars)]', '[NOME:crea barre di peltro (usa barre)]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make pig iron bars]', '[NOME:realizzare sbarre di ghisa]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make steel bars]', "[NOME:produrre barre d'acciaio]"
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make nickel silver bars]', '[NOME:realizzare barre di alpacca]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make black bronze bars]', '[NOME:realizzare barre di bronzo nero]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make sterling silver bars]', "[NOME:creare lingotti d'argento sterling]"
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make bismuth bronze bars]', '[NOME:realizzare barre di bronzo al bismuto]'
+
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:make adamantine wafers]', '[NOME:fare ostie di adamantio]'
 
