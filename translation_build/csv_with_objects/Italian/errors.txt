@@ -2183,6 +2183,9 @@ Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:mandrill:mandrills:mandrill]', '[NOME_CASTE:mandrillo:mandrilli:mandrillo]'
 
 Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:mandrill man:mandrill men:mandrill man]', '[NOME_CASTE:uomo mandrillo:uomo mandrillo:uomo mandrillo]'
+
+Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:mandrill woman:mandrill women:mandrill woman]', '[NOME_CASTE:donna mandrillo:donna mandrillo:donna mandrillo]'
 
 Error: Part 'NAME' should not be translated
@@ -5064,6 +5067,9 @@ Problematic tag pair: '[DESCRIPTION:A huge monster in the form of a sloth bear.]
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A small, nocturnal, tree-dwelling mammal.  It uses its long fingers to fish out grubs from the wood.]', '[DESCRIZIONE:Piccolo mammifero notturno che vive sugli alberi. Usa le sue lunghe dita per pescare le larve dal legno.]'
+
+Error: Part 'CASTE_NAME' should not be translated
+Problematic tag pair: '[CASTE_NAME:aye-aye woman:aye-aye women:aye-aye woman]', '[NOME_CASTE:sì, sì, donna: sì, sì, donne: sì, sì, donna]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A person with the head and fingers of an aye-aye.]', '[DESCRIZIONE:Una persona con la testa e le dita di un sì-sì.]'
