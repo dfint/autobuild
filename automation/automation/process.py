@@ -47,6 +47,7 @@ async def convert_objects(po_data: bytes, errors_file) -> str:
     return result.getvalue()
 
 
+@logger.catch(reraise=True)
 async def process(language: LanguageInfo, config: Config):
     csv_directory = config.working_directory / "translation_build" / "csv" / language.name
     csv_directory.mkdir(parents=True, exist_ok=True)
