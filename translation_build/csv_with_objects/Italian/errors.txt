@@ -56,7 +56,7 @@ Error: Part 'STATE_ADJ' should not be translated
 Problematic tag pair: '[STATE_ADJ:LIQUID:gila monster venom]', '[STATO_ADJ:LIQUID: veleno del mostro Gila]'
 
 Error: Part 'CASTE_NAME' should not be translated
-Problematic tag pair: '[CASTE_NAME:gila monster man:gila monster men:gila monster man]', '[NOME_CASTA:gila monster man:gila monster men:gila monster man]'
+Problematic tag pair: '[CASTE_NAME:gila monster man:gila monster men:gila monster man]', '[NOME_CASTA:uomo lucertola perlinata:uomini lucertola perlinata:uomo lucertola perlinata]'
 
 Error: Part 'CHILDNAME' should not be translated
 Problematic tag pair: '[CHILDNAME:bull calf:bull calves]', '[NAME BAMBINO:vitello toro: vitelli toro]'
