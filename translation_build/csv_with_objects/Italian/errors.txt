@@ -34,44 +34,11 @@ Problematic tag pair: '[DESCRIPTION:A tiny bird of prey.  It hovers above the gr
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A huge monster in the form of an eagle.]', '[DESCRIZIONE:Un enorme mostro sotto forma di aquila.]'
 
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen bark scorpion venom]', '[STATO_ADJ:ALL_SOLID:veleno di scorpione corteccia ghiacciata]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:bark scorpion venom]', '[STATO_ADJ:LIQUID:veleno di scorpione della corteccia]'
-
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A huge monster in the form of a thrips.]', '[DESCRIZIONE:Un enorme mostro sotto forma di tripide.]'
 
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen brown recluse spider venom]', '[STATO_ADJ:ALL_SOLID:veleno di ragno recluso marrone ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:brown recluse spider venom]', '[STATO_ADJ:LIQUID: veleno di ragno recluso marrone]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen gila monster venom]', '[STATO_ADJ:ALL_SOLID:veleno di mostro Gila ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:gila monster venom]', '[STATO_ADJ:LIQUID: veleno del mostro Gila]'
-
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:gila monster man:gila monster men:gila monster man]', '[NOME_CASTA:uomo lucertola perlinata:uomini lucertola perlinata:uomo lucertola perlinata]'
-
-Error: Part 'CHILDNAME' should not be translated
-Problematic tag pair: '[CHILDNAME:bull calf:bull calves]', '[NAME BAMBINO:vitello toro: vitelli toro]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen honey bee venom]', "[STATO_ADJ:ALL_SOLID:veleno d'api ghiacciato]"
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:honey bee venom]', "[STATO_ADJ:LIQUID:veleno d'api]"
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen bumblebee venom]', '[STATO_ADJ:ALL_SOLID:veleno di calabrone ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:bumblebee venom]', '[STATO_ADJ:LIQUID:veleno di calabrone]'
 
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:mountain goat:mountain goats:mountain goat]', '[NOME_CASTA:capra delle nevi:capre delle nevi:capra delle nevi]'
@@ -112,47 +79,17 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:giant muskox calf:giant muskox calves
 Error: Part 'VERB' should not be translated
 Problematic tag pair: '[CDI:VERB:spit a glob of molten rock:spits a glob of molten rock:]', '[CDI:VERBO:sputare un globo di roccia fusa:sputa un globo di roccia fusa:]'
 
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen helmet snake venom]', '[STATO_ADJ:ALL_SOLID:veleno di serpente con elmo ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:helmet snake venom]', '[STATO_ADJ:LIQUID:veleno di serpente con elmo]'
-
 Error: Part 'ODOR_STRING' should not be translated
 Problematic tag pair: '[ODOR_STRING:blood]', '[ODORE_STRING:sangue]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen corrupted blood]', '[STATO_ADJ:ALL_SOLID:sangue corrotto ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:corrupted blood]', '[STATO_ADJ:LIQUID:sangue corrotto]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:Living gabbro in the shape of a man.  These strange creatures are found deep underground.]', '[DESCRIZIONE:Gabbro vivente sotto forma di uomo. Queste strane creature si trovano nelle profondità sotterranee.]'
 
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen cave floater juice]', '[STATO_ADJ:ALL_SOLID:succo galleggiante di grotta ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:cave floater juice]', '[STATO_ADJ:LIQUID:succo galleggiante di grotta]'
-
 Error: Part 'VERB' should not be translated
 Problematic tag pair: '[CDI:VERB:spray a stream of steaming juice:sprays a stream of steaming juice:]', '[CDI:VERBO:spruzzare un getto di succo fumante:spruzzare un getto di succo fumante:]'
 
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen octopus ink]', '[STATO_ADJ:ALL_SOLID: inchiostro di polpo ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:octopus ink]', '[STATO_ADJ:LIQUID: inchiostro di polpo]'
-
 Error: Part 'VERB' should not be translated
 Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', '[CDI:VERBO:schizza inchiostro:schizza inchiostro:]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen cuttlefish ink]', '[STATO_ADJ:ALL_SOLID:inchiostro di seppia ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:cuttlefish ink]', '[STATO_ADJ:LIQUID:inchiostro di seppia]'
 
 Error: Part 'VERB' should not be translated
 Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', '[CDI:VERBO:schizza inchiostro:schizza inchiostro:]'
@@ -165,12 +102,6 @@ Problematic tag pair: '[NAME:giant harp seal:giant harp seals:giant harp seal]',
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:giant harp seal:giant harp seals:giant harp seal]', "[CASTE_NAME:foca gigante dell'arpa: foca gigante dell'arpa]"
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen mog juice]', '[STATO_ADJ:ALL_SOLID:succo di mog ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:mog juice]', '[STATO_ADJ:LIQUID: succo di mog]'
 
 Error: Part 'GNAWER' should not be translated
 Problematic tag pair: '[GNAWER:gnawed]', '[ROSSO:rosicchiato]'
@@ -208,12 +139,6 @@ Problematic tag pair: '[DESCRIPTION:A large creature the shape of a gray squirre
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A large creature the shape of a red squirrel.]', '[DESCRIZIONE:Una grande creatura sotto forma di scoiattolo rosso.]'
 
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen squid ink]', '[STATO_ADJ:ALL_SOLID: nero di seppia ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:squid ink]', '[STATO_ADJ:LIQUID: nero di seppia]'
-
 Error: Part 'VERB' should not be translated
 Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', '[CDI:VERBO:schizza inchiostro:schizza inchiostro:]'
 
@@ -222,9 +147,6 @@ Problematic tag pair: '[DESCRIPTION:A huge sea monster the shape of a squid.]', 
 
 Error: Part 'BABYNAME' should not be translated
 Problematic tag pair: '[BABYNAME:dwarven baby:dwarven babies]', '[NAME DEL BAMBINO:bambino nano:bambini nani]'
-
-Error: Part 'CHILDNAME' should not be translated
-Problematic tag pair: '[CHILDNAME:dwarven child:dwarven children]', '[NAME BAMBINO:bambino nano:bambini nani]'
 
 Error: Part 'PROFESSION_NAME' should not be translated
 Problematic tag pair: '[PROFESSION_NAME:HAMMERMAN:hammerdwarf:hammerdwarves]', '[NOME_PROFESSIONISTA:HAMMERMAN:hammerdwarf:hammerdwarves]'
@@ -259,18 +181,6 @@ Problematic tag pair: '[PROFESSION_NAME:MASTER_BOWMAN:Elite Bowdwarf:Elite Bowdw
 Error: Part 'ODOR_STRING' should not be translated
 Problematic tag pair: '[ODOR_STRING:smoke]', '[ODORE_STRING:Fumo]'
 
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen giant cave spider venom]', '[STATO_ADJ:ALL_SOLID:veleno di ragno gigante delle caverne ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:giant cave spider venom]', '[STATO_ADJ:LIQUID:veleno di ragno gigante delle caverne]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen cave spider venom]', '[STATO_ADJ:ALL_SOLID:veleno di ragno delle caverne ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:cave spider venom]', '[STATO_ADJ:LIQUID:veleno di ragno delle caverne]'
-
 Error: Part 'ALL' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL:liquid fire]', '[STATE_NAME:TUTTI:fuoco liquido]'
 
@@ -286,29 +196,17 @@ Problematic tag pair: '[GNAWER:gnawed]', '[ROSSO:rosicchiato]'
 Error: Part 'ODOR_STRING' should not be translated
 Problematic tag pair: '[ODOR_STRING:smoke]', '[ODORE_STRING:Fumo]'
 
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen serpent man venom]', '[STATO_ADJ:ALL_SOLID:veleno di uomo serpente ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:serpent man venom]', "[STATO_ADJ:LIQUID:veleno dell'uomo serpente]"
-
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A large koala-shaped monster.]', '[DESCRIZIONE:Un grande mostro sotto forma di koala.]'
 
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen adder venom]', '[STATO_ADJ:ALL_SOLID:veleno di vipera ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:adder venom]', '[STATO_ADJ:LIQUID:veleno di vipera]'
-
 Error: Part 'CASTE_NAME' should not be translated
-Problematic tag pair: '[CASTE_NAME:adder woman:adder women:adder woman]', '[NOME_CASTE:donna vipera:donne vipera:donna vipera]'
+Problematic tag pair: '[CASTE_NAME:adder woman:adder women:adder woman]', '[NOME_CASTE:donna marasso:donne marasso:donna marasso]'
 
 Error: Part 'NAME' should not be translated
-Problematic tag pair: '[NAME:adder man:adder men:adder man]', '[NOME:uomo vipera:uomini vipera:uomo vipera]'
+Problematic tag pair: '[NAME:adder man:adder men:adder man]', '[NOME:uomo marasso:uomini marasso:uomo marasso]'
 
 Error: Part 'DESCRIPTION' should not be translated
-Problematic tag pair: '[DESCRIPTION:A large monster in the form of an adder.]', '[DESCRIZIONE:Un grande mostro sotto forma di vipera.]'
+Problematic tag pair: '[DESCRIPTION:A large monster in the form of an adder.]', '[DESCRIZIONE:Un grande mostro sotto forma di marasso.]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A large monster in the form of a kingsnake.]', '[DESCRIZIONE:Un grande mostro sotto forma di serpente reale.]'
@@ -318,18 +216,6 @@ Problematic tag pair: '[DESCRIPTION:A large monster in the form of a bobcat.]', 
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A large monster in the form of a skunk.]', '[DESCRIZIONE:Un grande mostro sotto forma di puzzola.]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen rattlesnake venom]', '[STATO_ADJ:ALL_SOLID:veleno di serpente a sonagli ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:rattlesnake venom]', '[STATO_ADJ:LIQUID:veleno di serpente a sonagli]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen copperhead snake venom]', '[STATO_ADJ:ALL_SOLID:veleno di serpente testa di rame ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:copperhead snake venom]', '[STATO_ADJ:LIQUID:veleno di serpente ramato]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A huge monster in the form of a copperhead snake.]', '[DESCRIZIONE:Un enorme mostro sotto forma di serpente dalla testa di rame.]'
@@ -346,12 +232,6 @@ Problematic tag pair: '[DESCRIPTION:A huge monster in the form of a coati.]', '[
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A huge monster in the form of an anaconda.]', '[DESCRIZIONE:Un enorme mostro sotto forma di anaconda.]'
 
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen king cobra venom]', '[STATO_ADJ:ALL_SOLID: veleno di cobra reale ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:king cobra venom]', '[STATO_ADJ:LIQUID: veleno del cobra reale]'
-
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A large monster in the form of a jackal.]', '[DESCRIZIONE:Un grande mostro sotto forma di sciacallo.]'
 
@@ -360,12 +240,6 @@ Problematic tag pair: '[DESCRIPTION:A large monster in the form of a capuchin.]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A huge monster in the form of a pangolin.]', '[DESCRIZIONE:Un enorme mostro sotto forma di pangolino.]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen black mamba venom]', '[STATO_ADJ:ALL_SOLID:veleno di mamba nero ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:black mamba venom]', '[STATO_ADJ:LIQUID:veleno di mamba nero]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A huge monster in the form of a sloth bear.]', '[DESCRIZIONE:Un enorme mostro sotto forma di orso bradipo.]'
@@ -382,12 +256,6 @@ Problematic tag pair: '[SPOUSE_MALE:duke consort:dukes consort]', '[SPOSA_MALE:d
 Error: Part 'SPOUSE_FEMALE' should not be translated
 Problematic tag pair: '[SPOUSE_FEMALE:duchess consort:duchesses consort]', '[SPOSA_FEMALE:duchessa consorte:duchesse consorte]'
 
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:molten metal]', '[STATO_ADJ:LIQUID: metallo fuso]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:greasy]', '[STATO_ADJ:LIQUID:grasso]'
-
 Error: Part 'MEAT_NAME' should not be translated
 Problematic tag pair: '[MEAT_NAME:NONE:meat:meat]', '[NOME_CARNE:NESSUNO:carne:carne]'
 
@@ -396,75 +264,6 @@ Problematic tag pair: '[MEAT_NAME:NONE:tripe:tripe]', '[NOME_CARNE:NESSUNO:tripp
 
 Error: Part 'MEAT_NAME' should not be translated
 Problematic tag pair: '[MEAT_NAME:NONE:sweetbread:sweetbread]', '[NOME_CARNE:NESSUNO:animella:animella]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen blood]', '[STATO_ADJ:ALL_SOLID:sangue ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:blood]', '[STATO_ADJ:LIQUID:sangue]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:ichor]', '[STATO_ADJ:LIQUID:icore]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen goo]', '[STATO_ADJ:ALL_SOLID: sostanza ghiacciata]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:goo]', '[STATO_ADJ:LIQUID:va bene]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen slime]', '[STATO_ADJ:ALL_SOLID:melma ghiacciata]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:slime]', '[STATO_ADJ:LIQUID:melma]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen pus]', '[STATO_ADJ:ALL_SOLID:pus ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:pus]', '[STATO_ADJ:LIQUID:pus]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:melted tallow]', '[STATO_ADJ:LIQUID: sego fuso]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:melted cheesy]', '[STATO_ADJ:LIQUID: formaggio fuso]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen egg white]', "[STATO_ADJ:ALL_SOLID:albume d'uovo ghiacciato]"
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:egg white]', '[STATO_ADJ:LIQUID:albume]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen egg yolk]', "[STATO_ADJ:ALL_SOLID:tuorlo d'uovo ghiacciato]"
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:egg yolk]', "[STATO_ADJ:LIQUID:tuorlo d'uovo]"
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen vegetable oil]', '[STATO_ADJ:ALL_SOLID:olio vegetale ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:vegetable oil]', '[STATO_ADJ:LIQUID:olio vegetale]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:melted wax]', '[STATO_ADJ:LIQUID: cera fusa]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen ink]', '[STATO_ADJ:ALL_SOLID:inchiostro ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:ink]', '[STATO_ADJ:LIQUID:inchiostro]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:tears]', '[STATO_ADJ:LIQUID: lacrime]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:ALL_SOLID:frozen spit]', '[STATO_ADJ:ALL_SOLID:spiedo ghiacciato]'
-
-Error: Part 'STATE_ADJ' should not be translated
-Problematic tag pair: '[STATE_ADJ:LIQUID:spit]', '[STATO_ADJ:LIQUID: sputo]'
 
 Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[NAME_PLURAL:string bean plants]', 'piante di fagiolino'
@@ -519,6 +318,9 @@ Problematic tag pair: '[ALL_NAMES:golden bamboo]', '[TUTTI_NOMI:bambù dorato]'
 
 Error: Part 'ALL_NAMES' should not be translated
 Problematic tag pair: '[ALL_NAMES:hedge bamboo]', '[TUTTI_NOMI:siepe di bambù]'
+
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[STATE_ADJ:ALL_SOLID:rubber wood]', "legno[STATE_ADJ:ALL_SOLID:legno d'albero della gomma]"
 
 Error: Part 'CATEGORY_NAME' should not be translated
 Problematic tag pair: '[CATEGORY_NAME:Carpentry]', '[NAME DELLA CATEGORIA:Carpenteria]'
