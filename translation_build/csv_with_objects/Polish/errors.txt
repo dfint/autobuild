@@ -1,0 +1,3 @@
+Error: Part 'LIQUID' should not be translated
+Problematic tag pair: '[STATE_NAME:LIQUID:black mamba venom]', '[STATE_NAME:ALL_SOLID:jad czarnej mamby]'
+

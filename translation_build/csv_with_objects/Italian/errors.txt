@@ -1,6 +1,3 @@
-Error: Part 'GAIT' should not be translated
-Problematic tag pair: '[CV_NEW_TAG:GAIT:SWIM:Creeping Swim:]', '[CV_NEW_TAG:ANDATURA:NUOTO:Nuoto strisciante:]'
-
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:bluejay man:bluejay men:bluejay man]', '[NOME_CASTE:uomo ghiandaia azzurra:uomini ghiandaia azzurra:uomo ghiandaia azzurra]'
 
@@ -49,9 +46,6 @@ Problematic tag pair: '[DESCRIPTION:A large creature the shape of a hoary marmot
 Error: Part 'CASTE_NAME' should not be translated
 Problematic tag pair: '[CASTE_NAME:giant walrus:giant walruss:giant walrus]', '[NOME_CASTA:tricheco gigante:trichechi giganti:tricheco gigante]'
 
-Error: Part 'CASTE_NAME' should not be translated
-Problematic tag pair: '[CASTE_NAME:giant hippo:giant hippos:giant hippo]', '[NOME_CASTA:ippopotamo gigante:ippopotami giganti:ippopotamo gigante]'
-
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A huge hippo-shaped monster.]', '[DESCRIZIONE:Un enorme mostro sotto forma di ippopotamo.]'
 
@@ -64,35 +58,14 @@ Problematic tag pair: '[DESCRIPTION:A large monster in the form of a rhesus maca
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A large creature the shape of a groundhog.]', '[DESCRIZIONE:Una grande creatura sotto forma di marmotta.]'
 
-Error: Part 'VERB' should not be translated
-Problematic tag pair: '[CDI:VERB:lick:licks:lick each other]', '[CDI:VERBO:leccare:leccarsi:leccarsi a vicenda]'
-
-Error: Part 'VERB' should not be translated
-Problematic tag pair: '[CDI:VERB:head-bump:head-bumps:bump heads]', '[CDI:VERBO:testa-urto:testa-urto:urto testa]'
-
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A large monster in the form of a mandrill.]', '[DESCRIZIONE:Un grande mostro sotto forma di mandrillo.]'
 
 Error: Tag parts count mismatch
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant muskox calf:giant muskox calves]', '[GENERAL_CHILD_NAME:vitello di bue muschiato gigante: vitelli di bue muschiato giganti:]'
 
-Error: Part 'VERB' should not be translated
-Problematic tag pair: '[CDI:VERB:spit a glob of molten rock:spits a glob of molten rock:]', '[CDI:VERBO:sputare un globo di roccia fusa:sputa un globo di roccia fusa:]'
-
-Error: Part 'ODOR_STRING' should not be translated
-Problematic tag pair: '[ODOR_STRING:blood]', '[ODORE_STRING:sangue]'
-
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:Living gabbro in the shape of a man.  These strange creatures are found deep underground.]', '[DESCRIZIONE:Gabbro vivente sotto forma di uomo. Queste strane creature si trovano nelle profondità sotterranee.]'
-
-Error: Part 'VERB' should not be translated
-Problematic tag pair: '[CDI:VERB:spray a stream of steaming juice:sprays a stream of steaming juice:]', '[CDI:VERBO:spruzzare un getto di succo fumante:spruzzare un getto di succo fumante:]'
-
-Error: Part 'VERB' should not be translated
-Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', '[CDI:VERBO:schizza inchiostro:schizza inchiostro:]'
-
-Error: Part 'VERB' should not be translated
-Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', '[CDI:VERBO:schizza inchiostro:schizza inchiostro:]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A huge monster in the form of a horseshoe crab.]', '[DESCRIZIONE:Un enorme mostro sotto forma di granchio a ferro di cavallo.]'
@@ -108,9 +81,6 @@ Problematic tag pair: '[GNAWER:gnawed]', '[ROSSO:rosicchiato]'
 
 Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 Problematic tag pair: '[TLCM_NOUN:fluff:SINGULAR]', '[TLCM_NOUN:lanugine:SINGOLARE]'
-
-Error: Part 'CASTE_NAME' should not be translated
-Problematic tag pair: '[CASTE_NAME:two-legged rhino lizard:two-legged rhino lizards:two-legged rhino lizard]', '[NOME_CASTA:lucertola rinoceronte a due zampe: lucertola rinoceronte a due zampe: lucertola rinoceronte a due zampe]'
 
 Error: Part 'GNAWER' should not be translated
 Problematic tag pair: '[GNAWER:gnawed]', '[ROSSO:rosicchiato]'
@@ -138,9 +108,6 @@ Problematic tag pair: '[DESCRIPTION:A large creature the shape of a gray squirre
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A large creature the shape of a red squirrel.]', '[DESCRIZIONE:Una grande creatura sotto forma di scoiattolo rosso.]'
-
-Error: Part 'VERB' should not be translated
-Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', '[CDI:VERBO:schizza inchiostro:schizza inchiostro:]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A huge sea monster the shape of a squid.]', '[DESCRIZIONE:Un enorme mostro marino sotto forma di calamaro.]'
@@ -178,23 +145,14 @@ Problematic tag pair: '[PROFESSION_NAME:MASTER_CROSSBOWMAN:Elite Marksdwarf:Elit
 Error: Part 'PROFESSION_NAME' should not be translated
 Problematic tag pair: '[PROFESSION_NAME:MASTER_BOWMAN:Elite Bowdwarf:Elite Bowdwarves]', "[NOME_PROFESSIONISTA:MASTER_BOWMAN:Nano d'arco elite:Nano d'arco elite]"
 
-Error: Part 'ODOR_STRING' should not be translated
-Problematic tag pair: '[ODOR_STRING:smoke]', '[ODORE_STRING:Fumo]'
-
 Error: Part 'ALL' should not be translated
 Problematic tag pair: '[STATE_NAME:ALL:liquid fire]', '[STATE_NAME:TUTTI:fuoco liquido]'
 
 Error: Part 'ALL' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL:liquid fire]', '[STATE_ADJ:TUTTI:fuoco liquido]'
 
-Error: Part 'ODOR_STRING' should not be translated
-Problematic tag pair: '[ODOR_STRING:smoke]', '[ODORE_STRING:Fumo]'
-
 Error: Part 'GNAWER' should not be translated
 Problematic tag pair: '[GNAWER:gnawed]', '[ROSSO:rosicchiato]'
-
-Error: Part 'ODOR_STRING' should not be translated
-Problematic tag pair: '[ODOR_STRING:smoke]', '[ODORE_STRING:Fumo]'
 
 Error: Part 'DESCRIPTION' should not be translated
 Problematic tag pair: '[DESCRIPTION:A large koala-shaped monster.]', '[DESCRIZIONE:Un grande mostro sotto forma di koala.]'
