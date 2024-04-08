@@ -4,9 +4,6 @@ Problematic tag pair: '[BP:RUTC:right upper claw:STP]', '[BP:RULC:pravý horní 
 Error: Part 'LUTC' should not be translated
 Problematic tag pair: '[BP:LUTC:left upper claw:STP]', '[BP:LULC:levý horní dráp:STP]'
 
-Error: Wrong tag translation format (fix square brackets)
-Problematic tag pair: '[BODYGLOSS:MAW:mouth:maw:mouths:maws]', 'MAW:ústa:chřtán:ústa:chřtán]'
-
 Error: Tag parts count mismatch
 Problematic tag pair: '[BP:EYE:eye:STP]', '[BP:EYE:okoSTP]'
 
