@@ -4,10 +4,6 @@ source:
 languages:
   - name: Belarusian
     code: be
-    encoding: cp1251
-
-  - name: Belarusian (cp866)
-    code: be
     encoding: cp866i
 
   - name: Catalan
@@ -70,11 +66,11 @@ languages:
     code: pt
     encoding: cp850
 
-  - name: Russian
+  - name: Russian (cp1251)
     code: ru
     encoding: cp1251
 
-  - name: Russian (cp866)
+  - name: Russian
     code: ru
     encoding: cp866
 
@@ -87,10 +83,6 @@ languages:
     encoding: cp857
 
   - name: Ukrainian
-    code: uk
-    encoding: cp1251
-
-  - name: Ukrainian (cp866u)
     code: uk
     encoding: cp866u
 

@@ -1,9 +1,0 @@
-Error: Part 'L_MAND' should not be translated
-Problematic tag pair: '[BP:L_MAND:left mandible:STP]', '[BP:R_MAND:ліва нижня щелепа:ліві нижні щелепи]'
-
-Error: Part 'L_MAND' should not be translated
-Problematic tag pair: '[BP:L_MAND:left mandible:STP]', '[BP:R_MAND:ліва нижня щелепа:ліві нижні щелепи]'
-
-Error: Wrong tag translation format (fix square brackets)
-Problematic tag pair: '[NAME:make billon bars (use ore)]', '[NAME:робити злитки білона (з руди)].'
-
