@@ -19,7 +19,7 @@ scour = "^0.38.2"
 
 [tool.poetry.group.dev.dependencies]
 isort = "^5.13.2"
-black = "^24.3.0"
+black = "^24.4.2"
 
 [[tool.poetry.source]]
 name = "dfint"
