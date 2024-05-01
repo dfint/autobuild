@@ -435,34 +435,39 @@ i18n = ["Babel (>=2.7)"]
 
 [[package]]
 name = "langcodes"
-version = "3.3.0"
+version = "3.4.0"
 description = "Tools for labeling human languages with IETF language tags"
 optional = false
-python-versions = ">=3.6"
+python-versions = ">=3.8"
 files = [
-    {file = "langcodes-3.3.0-py3-none-any.whl", hash = "sha256:4d89fc9acb6e9c8fdef70bcdf376113a3db09b67285d9e1d534de6d8818e7e69"},
-    {file = "langcodes-3.3.0.tar.gz", hash = "sha256:794d07d5a28781231ac335a1561b8442f8648ca07cd518310aeb45d6f0807ef6"},
+    {file = "langcodes-3.4.0-py3-none-any.whl", hash = "sha256:10a4cc078b8e8937d8485d3352312a0a89a3125190db9f2bb2074250eef654e9"},
+    {file = "langcodes-3.4.0.tar.gz", hash = "sha256:ae5a77d1a01d0d1e91854a671890892b7ce9abb601ab7327fc5c874f899e1979"},
 ]
 
 [package.dependencies]
-language-data = {version = ">=1.1,<2.0", optional = true, markers = "extra == \"data\""}
+language-data = ">=1.2"
 
 [package.extras]
-data = ["language-data (>=1.1,<2.0)"]
+build = ["build", "twine"]
+test = ["pytest", "pytest-cov"]
 
 [[package]]
 name = "language-data"
-version = "1.1"
+version = "1.2.0"
 description = "Supplementary data about languages used by the langcodes module"
 optional = false
-python-versions = ">=3.6"
+python-versions = "*"
 files = [
-    {file = "language_data-1.1-py3-none-any.whl", hash = "sha256:f7ba86fafe099ef213ef597eda483d5227b12446604a61f617122d6c925847d5"},
-    {file = "language_data-1.1.tar.gz", hash = "sha256:c1f5283c46bba68befa37505857a3f672497aba0c522b37d99367e911232455b"},
+    {file = "language_data-1.2.0-py3-none-any.whl", hash = "sha256:77d5cab917f91ee0b2f1aa7018443e911cf8985ef734ca2ba3940770f6a3816b"},
+    {file = "language_data-1.2.0.tar.gz", hash = "sha256:82a86050bbd677bfde87d97885b17566cfe75dad3ac4f5ce44b52c28f752e773"},
 ]
 
 [package.dependencies]
-marisa-trie = ">=0.7.7,<0.8.0"
+marisa-trie = ">=0.7.7"
+
+[package.extras]
+build = ["build", "twine"]
+test = ["pytest", "pytest-cov"]
 
 [[package]]
 name = "loguru"
@@ -1090,4 +1095,4 @@ dev = ["black (>=19.3b0)", "pytest (>=4.6.2)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "bed2329d1bfc3be297330fa405ab13ed6d6cd0e6af910b72cfd45a8d6b31f3fa"
+content-hash = "21f59671f1d7a9bc21bf163418d05a43d1b08997dc1ad6a060501211f55de99e"
