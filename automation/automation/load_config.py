@@ -9,7 +9,7 @@ from automation.models import Config
 def load_config(config_path: Path) -> Config:
     with open(config_path) as config_file:
         yaml = strictyaml.load(config_file.read())
-        config = Config.parse_obj(yaml.data)
+        config = Config.model_validate(yaml.data)
         return config
 
 
