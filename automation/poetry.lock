@@ -369,22 +369,21 @@ files = [
 
 [[package]]
 name = "df-translation-toolkit"
-version = "0.6.9"
+version = "0.7.0"
 description = "Toolset to convert text extracted from DF to translation format and aback"
 optional = false
 python-versions = ">=3.10,<4.0"
 files = [
-    {file = "df_translation_toolkit-0.6.9-py3-none-any.whl", hash = "sha256:1539ed946521bffee0116fd3cd1ecd2ccb2e92135c426144ec8fd476299eb7a4"},
+    {file = "df_translation_toolkit-0.7.0-py3-none-any.whl", hash = "sha256:80e043581d90627be80c9088b9e62b45285f8c3768b5359c6e38e6f3b497c344"},
 ]
 
 [package.dependencies]
 babel = ">=2.14.0,<3.0.0"
 cairosvg = ">=2.7.0,<3.0.0"
-jinja2 = ">=3.1.3,<4.0.0"
+jinja2 = ">=3.1.4,<4.0.0"
 loguru = ">=0.7.2,<0.8.0"
 requests = ">=2.31.0,<3.0.0"
 typer = ">=0.12.3,<0.13.0"
-typing-extensions = ">=4.11.0,<5.0.0"
 Unidecode = ">=1.3.8,<2.0.0"
 
 [package.source]
@@ -1196,4 +1195,4 @@ dev = ["black (>=19.3b0)", "pytest (>=4.6.2)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "5207630fa29d37f4115aa58efff84da9f7d3630cf676899e4fea1da86f961ed5"
+content-hash = "d404ed8557200208f29764f3c30cac6f2668dc6f153a1a256587e434a19c8a70"
