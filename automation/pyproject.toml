@@ -7,12 +7,12 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-typer = "^0.9.4"
+typer = "^0.12.3"
 loguru = "^0.7.2"
 pydantic = "^2.7"
 strictyaml = "^1.7.3"
 aiofiles = "^23.1.0"
-df-translation-toolkit = {version = "^0.6.8", source = "dfint"}
+df-translation-toolkit = {version = "^0.6.9", source = "dfint"}
 alternative-encodings = {version = "^0.2.3", source = "dfint"}
 langcodes = {extras = ["data"], version = "^3.4.0"}
 scour = "^0.38.2"
