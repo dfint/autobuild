@@ -1,1564 +1,1128 @@
-Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:bắp tay phải:STP]'
+Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:bắp tay trái:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:cẳng tay phải:STP]'
+Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:cẳng tay trái:STP]'
+Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:bàn tay phải:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:bàn tay trái:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:右前肢:STP]'
 Problems:
-Error: Tag parts count mismatch
-
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:chân phải trước:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:chân trái trước:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RH:right front foot:right front feet]', '[BP:RH:chân phải trước:nhiều chân phải trước] '
-Problems:
-Error: Extra spaces at the beginning or at the end of the translation
-
-Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:chân phải sau:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:chân trái sau:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:bắp tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:bắp tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:cẳng tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:cẳng tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:bàn tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:bàn tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:NK1:first neck:STP]', '[BP:NK1:cổ thứ nhất:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:NK2:second neck:STP]', '[BP:NK2:cổ thứ hai:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:NK3:third neck:STP]', '[BP:NK3:cổ thứ ba:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:NK4:fourth neck:STP]', '[BP:NK4:cổ thứ tư:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:NK5:fifth neck:STP]', '[BP:NK5:cổ thứ năm:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:NK6:sixth neck:STP]', '[BP:NK6:cổ thứ sáu:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:NK7:seventh neck:STP]', '[BP:NK7:cổ thứ bảy:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD1:first head:STP]', '[BP:HD1:đầu thứ nhất:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD2:second head:STP]', '[BP:HD2:đầu thứ hai:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD3:third head:STP]', '[BP:HD3:đầu thứ ba:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD4:fourth head:STP]', '[BP:HD4:đầu thứ tư:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD5:fifth head:STP]', '[BP:HD5:đầu thứ năm:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD6:sixth head:STP]', '[BP:HD6:đầu thứ sáu:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD7:seventh head:STP]', '[BP:HD7:đầu thứ bảy:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:cổ:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:bắp tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:bắp tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:cẳng tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:cẳng tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:bàn tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:bàn tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều chân trái]'
-Problems:
-Error: Tag parts count mismatch
-
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:bắp tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:bắp tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:cẳng tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:cẳng tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:bàn tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:bàn tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LF:left hoof:left hooves]', '[BP:RF:móng trái:nhiều móng trái]'
-Problems:
-Error: Part 'LF' should not be translated
-
-Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:cổ:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:bắp tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:bắp tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:cẳng tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:cẳng tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:bàn tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:bàn tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
-Problems:
-Error: Tag parts count mismatch
-
-Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:cổ:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:bắp tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:bắp tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:cẳng tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:cẳng tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:bàn tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:bàn tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LF:left hoof:left hooves]', '[BP:RF:móng trái:nhiều móng trái]'
-Problems:
-Error: Part 'LF' should not be translated
-
-Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:cổ:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:bắp tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:bắp tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:cẳng tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:cẳng tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:bàn tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:bàn tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:bắp tay phải:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:bắp tay trái:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:cẳng tay phải:STP]'
-Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:cẳng tay trái:STP]'
+Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:左前肢:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:bàn tay phải:STP]'
+Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:右後肢:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:bàn tay trái:STP]'
+Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:左後肢:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
+Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
+Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
+Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
-Problems:
-Error: Tag parts count mismatch
 
-Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:cổ:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:bắp tay phải:STP]'
+Problematic tag pair: '[BP:NK1:first neck:STP]', '[BP:NK1:第一頸:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:bắp tay trái:STP]'
+Problematic tag pair: '[BP:NK2:second neck:STP]', '[BP:NK2:第二頸:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:cẳng tay phải:STP]'
+Problematic tag pair: '[BP:NK3:third neck:STP]', '[BP:NK3:第三頸:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:cẳng tay trái:STP]'
+Problematic tag pair: '[BP:NK4:fourth neck:STP]', '[BP:NK4:第四頸:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:bàn tay phải:STP]'
+Problematic tag pair: '[BP:NK5:fifth neck:STP]', '[BP:NK5:第五頸:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:bàn tay trái:STP]'
+Problematic tag pair: '[BP:NK6:sixth neck:STP]', '[BP:NK6:第六頸:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
+Problematic tag pair: '[BP:NK7:seventh neck:STP]', '[BP:NK7:第七頸:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
+Problematic tag pair: '[BP:HD1:first head:STP]', '[BP:HD1:第一頭:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
+Problematic tag pair: '[BP:HD2:second head:STP]', '[BP:HD2:第二頭:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
+Problematic tag pair: '[BP:HD3:third head:STP]', '[BP:HD3:第三頭:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Problematic tag pair: '[BP:HD4:fourth head:STP]', '[BP:HD4:第四頭:STP]'
 Problems:
-Error: Tag parts count mismatch
-
-Problematic tag pair: '[BP:RWING:right wing:STP]', '[BP:RWING:cánh phải:STP]'
-Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LWING:left wing:STP]', '[BP:LWING:cánh trái:STP]'
+Problematic tag pair: '[BP:HD5:fifth head:STP]', '[BP:HD5:第五頭:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:HD6:sixth head:STP]', '[BP:HD6:第六頭:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
+Problematic tag pair: '[BP:HD7:seventh head:STP]', '[BP:HD7:第七頭:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
+Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:頸部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
-Error: Tag parts count mismatch
-
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
-Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:bắp tay phải:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:bắp tay trái:STP]'
+Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:cẳng tay phải:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:cẳng tay trái:STP]'
+Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:bàn tay phải:STP]'
+Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:bàn tay trái:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA1:first right upper arm:STP]', '[BP:RUA1:bắp tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA1:first left upper arm:STP]', '[BP:LUA1:Bắp tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA1:first right lower arm:STP]', '[BP:RLA1:cẳng tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA1:first left lower arm:STP]', '[BP:LLA1:cẳng tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH1:first right hand:STP]', '[BP:RH1:bàn tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH1:first left hand:STP]', '[BP:LH1:bàn tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA2:second right upper arm:STP]', '[BP:RUA2:bắp tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:LUA2:bắp tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RLA2:cẳng tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:LLA2:cẳng tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH2:second right hand:STP]', '[BP:RH2:bàn tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH2:second left hand:STP]', '[BP:LH2:bàn tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
+Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:頸部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
-Problems:
-Error: Tag parts count mismatch
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA1:first right upper arm:STP]', '[BP:RUA1:bắp tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA1:first left upper arm:STP]', '[BP:LUA1:Bắp tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA1:first right lower arm:STP]', '[BP:RLA1:cẳng tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA1:first left lower arm:STP]', '[BP:LLA1:cẳng tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH1:first right hand:STP]', '[BP:RH1:bàn tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH1:first left hand:STP]', '[BP:LH1:bàn tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA2:second right upper arm:STP]', '[BP:RUA2:bắp tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:LUA2:bắp tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RLA2:cẳng tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:LLA2:cẳng tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH2:second right hand:STP]', '[BP:RH2:bàn tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:頸部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH2:second left hand:STP]', '[BP:LH2:bàn tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA3:third right upper arm:STP]', '[BP:RUA3:bắp tay phải thứ ba:STP]'
+Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA3:third left upper arm:STP]', '[BP:LUA3:bắp tay trái thứ ba:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA3:third right lower arm:STP]', '[BP:RLA3:cẳng tay phải thứ ba:STP]'
+Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA3:third left lower arm:STP]', '[BP:LLA3:cẳng tay trái thứ ba:STP]'
+Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH3:third right hand:STP]', '[BP:RH3:bàn tay phải thứ ba:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH3:third left hand:STP]', '[BP:LH3:bàn tay trái thứ ba:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
-Problems:
-Error: Tag parts count mismatch
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:頸部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA1:first right upper arm:STP]', '[BP:RUA1:bắp tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA1:first left upper arm:STP]', '[BP:LUA1:Bắp tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA1:first right lower arm:STP]', '[BP:RLA1:cẳng tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA1:first left lower arm:STP]', '[BP:LLA1:cẳng tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH1:first right hand:STP]', '[BP:RH1:bàn tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH1:first left hand:STP]', '[BP:LH1:bàn tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA2:second right upper arm:STP]', '[BP:RUA2:bắp tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:LUA2:bắp tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RLA2:cẳng tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:LLA2:cẳng tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH2:second right hand:STP]', '[BP:RH2:bàn tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH2:second left hand:STP]', '[BP:LH2:bàn tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA1:first right upper arm:STP]', '[BP:RUA1:bắp tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA1:first left upper arm:STP]', '[BP:LUA1:Bắp tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA1:first right lower arm:STP]', '[BP:RLA1:cẳng tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA1:first left lower arm:STP]', '[BP:LLA1:cẳng tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH1:first right hand:STP]', '[BP:RH1:bàn tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH1:first left hand:STP]', '[BP:LH1:bàn tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:頸部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA2:second right upper arm:STP]', '[BP:RUA2:bắp tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:LUA2:bắp tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RLA2:cẳng tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:LLA2:cẳng tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH2:second right hand:STP]', '[BP:RH2:bàn tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH2:second left hand:STP]', '[BP:LH2:bàn tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA3:third right upper arm:STP]', '[BP:RUA3:bắp tay phải thứ ba:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA3:third left upper arm:STP]', '[BP:LUA3:bắp tay trái thứ ba:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA3:third right lower arm:STP]', '[BP:RLA3:cẳng tay phải thứ ba:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA3:third left lower arm:STP]', '[BP:LLA3:cẳng tay trái thứ ba:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH3:third right hand:STP]', '[BP:RH3:bàn tay phải thứ ba:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH3:third left hand:STP]', '[BP:LH3:bàn tay trái thứ ba:STP]'
+Problematic tag pair: '[BP:RWING:right wing:STP]', '[BP:RWING:右翅:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:cổ:STP]'
+Problematic tag pair: '[BP:LWING:left wing:STP]', '[BP:LWING:左翅:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA1:first right upper arm:STP]', '[BP:RUA1:bắp tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA1:first left upper arm:STP]', '[BP:LUA1:Bắp tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA1:first right lower arm:STP]', '[BP:RLA1:cẳng tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA1:first left lower arm:STP]', '[BP:LLA1:cẳng tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH1:first right hand:STP]', '[BP:RH1:bàn tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH1:first left hand:STP]', '[BP:LH1:bàn tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA2:second right upper arm:STP]', '[BP:RUA2:bắp tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:LUA2:bắp tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RLA2:cẳng tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:LLA2:cẳng tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH2:second right hand:STP]', '[BP:RH2:bàn tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH2:second left hand:STP]', '[BP:LH2:bàn tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
+Problematic tag pair: '[BP:RUA1:first right upper arm:STP]', '[BP:RUA1:第一右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
+Problematic tag pair: '[BP:LUA1:first left upper arm:STP]', '[BP:LUA1:第一左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
+Problematic tag pair: '[BP:RLA1:first right lower arm:STP]', '[BP:RLA1:第一右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
+Problematic tag pair: '[BP:LLA1:first left lower arm:STP]', '[BP:LLA1:第一左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
-Problems:
-Error: Tag parts count mismatch
 
-Problematic tag pair: '[BP:RUA1:first right upper arm:STP]', '[BP:RUA1:bắp tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:RH1:first right hand:STP]', '[BP:RH1:第一右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA1:first left upper arm:STP]', '[BP:LUA1:Bắp tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:LH1:first left hand:STP]', '[BP:LH1:第一左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA1:first right lower arm:STP]', '[BP:RLA1:cẳng tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:RUA2:second right upper arm:STP]', '[BP:RUA2:第二右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA1:first left lower arm:STP]', '[BP:LLA1:cẳng tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:LUA2:第二左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH1:first right hand:STP]', '[BP:RH1:bàn tay phải đầu tiên:STP]'
+Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RLA2:第二右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH1:first left hand:STP]', '[BP:LH1:bàn tay trái đầu tiên:STP]'
+Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:LLA2:第二左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA2:second right upper arm:STP]', '[BP:RUA2:bắp tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:RH2:second right hand:STP]', '[BP:RH2:第二右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:LUA2:bắp tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:LH2:second left hand:STP]', '[BP:LH2:第二左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RLA2:cẳng tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:LLA2:cẳng tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH2:second right hand:STP]', '[BP:RH2:bàn tay phải thứ hai:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH2:second left hand:STP]', '[BP:LH2:bàn tay trái thứ hai:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RHD:right head:STP]', '[BP:RHD:đầu bên phải:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LHD:left head:STP]', '[BP:LHD:đầu bên trái:STP]'
+Problematic tag pair: '[BP:RUA1:first right upper arm:STP]', '[BP:RUA1:第一右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:bắp tay phải:STP]'
+Problematic tag pair: '[BP:LUA1:first left upper arm:STP]', '[BP:LUA1:第一左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:bắp tay trái:STP]'
+Problematic tag pair: '[BP:RLA1:first right lower arm:STP]', '[BP:RLA1:第一右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:cẳng tay phải:STP]'
+Problematic tag pair: '[BP:LLA1:first left lower arm:STP]', '[BP:LLA1:第一左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:cẳng tay trái:STP]'
+Problematic tag pair: '[BP:RH1:first right hand:STP]', '[BP:RH1:第一右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:bàn tay phải:STP]'
+Problematic tag pair: '[BP:LH1:first left hand:STP]', '[BP:LH1:第一左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:bàn tay trái:STP]'
+Problematic tag pair: '[BP:RUA2:second right upper arm:STP]', '[BP:RUA2:第二右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
+Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:LUA2:第二左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
+Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RLA2:第二右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
+Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:LLA2:第二左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
+Problematic tag pair: '[BP:RH2:second right hand:STP]', '[BP:RH2:第二右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
-Problems:
-Error: Tag parts count mismatch
 
-Problematic tag pair: '[BP:RNK:right neck:STP]', '[BP:RNK:cổ bên phải:STP]'
+Problematic tag pair: '[BP:LH2:second left hand:STP]', '[BP:LH2:第二左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LNK:left neck:STP]', '[BP:LNK:cổ bên trái:STP]'
+Problematic tag pair: '[BP:RUA3:third right upper arm:STP]', '[BP:RUA3:第三右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RHD:right head:STP]', '[BP:RHD:đầu bên phải:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LHD:left head:STP]', '[BP:LHD:đầu bên trái:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:bắp tay phải:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:bắp tay trái:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:cẳng tay phải:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:cẳng tay trái:STP]'
+Problematic tag pair: '[BP:RUA1:first right upper arm:STP]', '[BP:RUA1:第一右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:bàn tay phải:STP]'
+Problematic tag pair: '[BP:LUA1:first left upper arm:STP]', '[BP:LUA1:第一左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:bàn tay trái:STP]'
+Problematic tag pair: '[BP:RLA1:first right lower arm:STP]', '[BP:RLA1:第一右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
+Problematic tag pair: '[BP:LLA1:first left lower arm:STP]', '[BP:LLA1:第一左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
+Problematic tag pair: '[BP:RH1:first right hand:STP]', '[BP:RH1:第一右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
+Problematic tag pair: '[BP:LH1:first left hand:STP]', '[BP:LH1:第一左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
+Problematic tag pair: '[BP:RUA2:second right upper arm:STP]', '[BP:RUA2:第二右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
-Problems:
-Error: Tag parts count mismatch
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:LUA2:第二左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA:right arm:STP]', '[BP:RA:cánh tay phải:STP]'
+Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RLA2:第二右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA:left arm:STP]', '[BP:LA:cánh tay trái:STP]'
+Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:LLA2:第二左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:bàn tay phải:STP]'
+Problematic tag pair: '[BP:RH2:second right hand:STP]', '[BP:RH2:第二右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:bàn tay trái:STP]'
+Problematic tag pair: '[BP:LH2:second left hand:STP]', '[BP:LH2:第二左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RL:right leg:STP]', '[BP:RL:chân phải:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LL:left leg:STP]', '[BP:LL:chân trái:STP]'
+Problematic tag pair: '[BP:RUA1:first right upper arm:STP]', '[BP:RUA1:第一右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LF:left foot:left feet]', '[BP:bàn chân trái:nhiều bàn chân trái]'
+Problematic tag pair: '[BP:LUA1:first left upper arm:STP]', '[BP:LUA1:第一左上臂:STP]'
 Problems:
-Error: Tag parts count mismatch
-
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
-Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:chân phải trước:STP]'
+Problematic tag pair: '[BP:RLA1:first right lower arm:STP]', '[BP:RLA1:第一右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:chân trái trước:STP]'
+Problematic tag pair: '[BP:LLA1:first left lower arm:STP]', '[BP:LLA1:第一左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RH:right front foot:right front feet]', '[BP:RH:chân phải trước:nhiều chân phải trước] '
+Problematic tag pair: '[BP:RH1:first right hand:STP]', '[BP:RH1:第一右手:STP]'
 Problems:
-Error: Extra spaces at the beginning or at the end of the translation
-
-Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:chân phải sau:STP]'
-Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:chân trái sau:STP]'
+Problematic tag pair: '[BP:LH1:first left hand:STP]', '[BP:LH1:第一左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:cổ:STP]'
+Problematic tag pair: '[BP:RUA2:second right upper arm:STP]', '[BP:RUA2:第二右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:LUA2:第二左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:chân phải trước:STP]'
+Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RLA2:第二右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:chân trái trước:STP]'
+Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:LLA2:第二左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RH:right front foot:right front feet]', '[BP:RH:chân phải trước:nhiều chân phải trước] '
-Problems:
-Error: Extra spaces at the beginning or at the end of the translation
 
-Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:chân phải sau:STP]'
+Problematic tag pair: '[BP:RH2:second right hand:STP]', '[BP:RH2:第二右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:chân trái sau:STP]'
+Problematic tag pair: '[BP:LH2:second left hand:STP]', '[BP:LH2:第二左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:cổ:STP]'
+Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:頸部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:chân phải trước:STP]'
+Problematic tag pair: '[BP:RUA1:first right upper arm:STP]', '[BP:RUA1:第一右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:chân trái trước:STP]'
+Problematic tag pair: '[BP:LUA1:first left upper arm:STP]', '[BP:LUA1:第一左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RH:right front foot:right front feet]', '[BP:RH:chân phải trước:nhiều chân phải trước] '
-Problems:
-Error: Extra spaces at the beginning or at the end of the translation
 
-Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:chân phải sau:STP]'
+Problematic tag pair: '[BP:RLA1:first right lower arm:STP]', '[BP:RLA1:第一右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:chân trái sau:STP]'
+Problematic tag pair: '[BP:LLA1:first left lower arm:STP]', '[BP:LLA1:第一左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:cổ:STP]'
+Problematic tag pair: '[BP:RH1:first right hand:STP]', '[BP:RH1:第一右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:LH1:first left hand:STP]', '[BP:LH1:第一左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:chân phải trước:STP]'
+Problematic tag pair: '[BP:RUA2:second right upper arm:STP]', '[BP:RUA2:第二右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:chân trái trước:STP]'
+Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:LUA2:第二左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:chân phải sau:STP]'
+Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RLA2:第二右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:chân trái sau:STP]'
+Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:LLA2:第二左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:RH2:second right hand:STP]', '[BP:RH2:第二右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LB:abdomen:STP]', '[BP:LB:bụng:STP]'
+Problematic tag pair: '[BP:LH2:second left hand:STP]', '[BP:LH2:第二左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA1:right first leg:STP]', '[BP:RL1:chân phải đầu tiên:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
-Error: Part 'RA1' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA1:left first leg:STP]', '[BP:LA1:chân trái đầu tiên:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA2:right second leg:STP]', '[BP:RL2:chân phải thứ hai:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
-Error: Part 'RA2' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA2:left second leg:STP]', '[BP:LA2:chân trái thứ hai:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA3:right third leg:STP]', '[BP:RL3:chân phải thứ ba:STP]'
+Problematic tag pair: '[BP:RUA1:first right upper arm:STP]', '[BP:RUA1:第一右上臂:STP]'
 Problems:
-Error: Part 'RA3' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA3:left third leg:STP]', '[BP:LA3:chân trái thứ ba:STP]'
+Problematic tag pair: '[BP:LUA1:first left upper arm:STP]', '[BP:LUA1:第一左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:RLA1:first right lower arm:STP]', '[BP:RLA1:第一右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LB:abdomen:STP]', '[BP:LB:bụng:STP]'
+Problematic tag pair: '[BP:LLA1:first left lower arm:STP]', '[BP:LLA1:第一左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA:right upper foreleg:STP]', '[BP:RUL:bắp đùi phía trước phải:STP]'
+Problematic tag pair: '[BP:RH1:first right hand:STP]', '[BP:RH1:第一右手:STP]'
 Problems:
-Error: Part 'RUA' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA:left upper foreleg:STP]', '[BP:LUA:bắp đùi phía trước trái:STP]'
+Problematic tag pair: '[BP:LH1:first left hand:STP]', '[BP:LH1:第一左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA:right lower foreleg:STP]', '[BP:RLA:bắp chân phía trước phải:STP]'
+Problematic tag pair: '[BP:RUA2:second right upper arm:STP]', '[BP:RUA2:第二右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA:left lower foreleg:STP]', '[BP:LLA:bắp chân phía trước trái:STP]'
+Problematic tag pair: '[BP:LUA2:second left upper arm:STP]', '[BP:LUA2:第二左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA2:right second leg:STP]', '[BP:RL2:chân phải thứ hai:STP]'
+Problematic tag pair: '[BP:RLA2:second right lower arm:STP]', '[BP:RLA2:第二右前臂:STP]'
 Problems:
-Error: Part 'RA2' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA2:left second leg:STP]', '[BP:LA2:chân trái thứ hai:STP]'
+Problematic tag pair: '[BP:LLA2:second left lower arm:STP]', '[BP:LLA2:第二左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA3:right third leg:STP]', '[BP:RL3:chân phải thứ ba:STP]'
+Problematic tag pair: '[BP:RH2:second right hand:STP]', '[BP:RH2:第二右手:STP]'
 Problems:
-Error: Part 'RA3' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA3:left third leg:STP]', '[BP:LA3:chân trái thứ ba:STP]'
+Problematic tag pair: '[BP:LH2:second left hand:STP]', '[BP:LH2:第二左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LB:abdomen:STP]', '[BP:LB:bụng:STP]'
+Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA1:right first leg:STP]', '[BP:RL1:chân phải đầu tiên:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:左上臂:STP]'
 Problems:
-Error: Part 'RA1' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA1:left first leg:STP]', '[BP:LA1:chân trái đầu tiên:STP]'
+Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA2:right second leg:STP]', '[BP:RL2:chân phải thứ hai:STP]'
+Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:左前臂:STP]'
 Problems:
-Error: Part 'RA2' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA2:left second leg:STP]', '[BP:LA2:chân trái thứ hai:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA3:right third leg:STP]', '[BP:RL3:chân phải thứ ba:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
-Error: Part 'RA3' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA3:left third leg:STP]', '[BP:LA3:chân trái thứ ba:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA4:right fourth leg:STP]', '[BP:RL4:chân phải thứ tư:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
-Error: Part 'RA4' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA4:left fourth leg:STP]', '[BP:LA4:chân trái thứ tư:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA1:right first leg:STP]', '[BP:RL1:chân phải đầu tiên:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
-Error: Part 'RA1' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA1:left first leg:STP]', '[BP:LA1:chân trái đầu tiên:STP]'
+Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA2:right second leg:STP]', '[BP:RL2:chân phải thứ hai:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:左上臂:STP]'
 Problems:
-Error: Part 'RA2' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA2:left second leg:STP]', '[BP:LA2:chân trái thứ hai:STP]'
+Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA3:right third leg:STP]', '[BP:RL3:chân phải thứ ba:STP]'
+Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:左前臂:STP]'
 Problems:
-Error: Part 'RA3' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA3:left third leg:STP]', '[BP:LA3:chân trái thứ ba:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA4:right fourth leg:STP]', '[BP:RL4:chân phải thứ tư:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
-Error: Part 'RA4' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA4:left fourth leg:STP]', '[BP:LA4:chân trái thứ tư:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:cổ:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:bắp tay phải:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:bắp tay trái:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:cẳng tay phải:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:cẳng tay trái:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:chân phải trước:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:chân trái trước:STP]'
+Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:頸部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LFF:left front foot:left front feet]', '[BP:LH:chân trái trước:nhiều chân trái trước]'
-Problems:
-Error: Part 'LFF' should not be translated
 
-Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:chân phải sau:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:chân trái sau:STP]'
+Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:頸部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:cổ:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:頸部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
+Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:頸部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LB:abdomen:STP]', '[BP:LB:bụng:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:đầu:STP]'
+Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:右上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:bắp tay phải:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:bắp tay trái:STP]'
+Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:右前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:cẳng tay phải:STP]'
+Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:cẳng tay trái:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA1:right first leg:STP]', '[BP:RL1:chân phải đầu tiên:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
-Error: Part 'RA1' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA1:left first leg:STP]', '[BP:LA1:chân trái đầu tiên:STP]'
+Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:頸部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA1:right first leg:STP]', '[BP:RL1:chân phải đầu tiên:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
-Error: Part 'RA1' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA1:left first leg:STP]', '[BP:LA1:chân trái đầu tiên:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA2:right second leg:STP]', '[BP:RL2:chân phải thứ hai:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
-Error: Part 'RA2' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA2:left second leg:STP]', '[BP:LA2:chân trái thứ hai:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA3:right third leg:STP]', '[BP:RL3:chân phải thứ ba:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
-Error: Part 'RA3' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA3:left third leg:STP]', '[BP:LA3:chân trái thứ ba:STP]'
+Problematic tag pair: '[BP:HD:head:STP]', '[BP:HD:頭部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA4:right fourth leg:STP]', '[BP:RL4:chân phải thứ tư:STP]'
+Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:右上臂:STP]'
 Problems:
-Error: Part 'RA4' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA4:left fourth leg:STP]', '[BP:LA4:chân trái thứ tư:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:左上臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA5:right fifth leg:STP]', '[BP:RL5:chân phải thứ năm:STP]'
+Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:右前臂:STP]'
 Problems:
-Error: Part 'RA5' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA5:left fifth leg:STP]', '[BP:LA5:chân trái thứ năm:STP]'
+Problematic tag pair: '[BP:LLA:left lower arm:STP]', '[BP:LLA:左前臂:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:chân phải trước:STP]'
+Problematic tag pair: '[BP:RH:right hand:STP]', '[BP:RH:右手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:chân trái trước:STP]'
+Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:左手:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:chân phải trước:STP]'
+Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:右大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:chân trái trước:STP]'
+Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:左大腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:chân phải sau:STP]'
+Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:右小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:chân trái sau:STP]'
+Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:左小腿:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RUL:right upper leg:STP]', '[BP:RUL:bắp đùi phải:STP]'
+Problematic tag pair: '[BP:RWING:right wing:STP]', '[BP:RWING:右翅:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LUL:left upper leg:STP]', '[BP:LUL:bắp đùi trái:STP]'
+Problematic tag pair: '[BP:LWING:left wing:STP]', '[BP:LWING:左翅:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RLL:right lower leg:STP]', '[BP:RLL:bắp chân phải:STP]'
+Problematic tag pair: '[BP:RWING:right wing:STP]', '[BP:RWING:右翅:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LLL:left lower leg:STP]', '[BP:LLL:bắp chân trái:STP]'
+Problematic tag pair: '[BP:LWING:left wing:STP]', '[BP:LWING:左翅:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:cổ:STP]'
+Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:頸部:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
