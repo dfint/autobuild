@@ -18,6 +18,7 @@ cp859.register()
 cp866i.register()
 viscii.register()
 
+
 async def load_file(language_code: str, resource_name: str, config: Config) -> bytes:
     source = config.source
     file_path = (

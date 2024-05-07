@@ -20,6 +20,7 @@ scour = "^0.38.2"
 [tool.poetry.group.dev.dependencies]
 isort = "^5.13.2"
 black = "^24.4.2"
+ruff = "^0.4.3"
 
 [[tool.poetry.source]]
 name = "dfint"
@@ -41,3 +42,8 @@ profile = "black"
 process = "automation.process:app"
 # poetry run progress_diagram ../translations-backup/translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.svg
 progress_diagram = "automation.progress_diagram:app"
+
+[tool.ruff]
+line-length = 120
+select = ["E", "W", "F", "C", "I", "B"]
+ignore = ["C408"]
