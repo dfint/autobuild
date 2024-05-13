@@ -3375,6 +3375,10 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:giant mole pup:giant mole pups]', '[G
 Problems:
 Error: Tag parts count mismatch
 
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant cave swallow hatchling:giant cave swallow hatchlings]', '[GENERAL_CHILD_NAME:새끼 거대 동굴 제비:새끼 거대 동굴 제비들:새끼 거대 동굴 제비]'
+Problems:
+Error: Tag parts count mismatch
+
 Problematic tag pair: '[DESCRIPTION:A huge monster in the shape of a gray langur.]', '회색 랑구르의 모습을 한 거대한 괴수.]'
 Problems:
 Error: Wrong tag translation format (fix square brackets)
