@@ -38,6 +38,10 @@ languages:
     code: ja
     encoding: utf-8
 
+  - name: Japanese (Romaji)
+    code: ja
+    encoding: romaji
+
   - name: Korean
     code: ko
     encoding: utf-8
