@@ -10,33 +10,46 @@ from loguru import logger
 from scour.scour import scourString as scour_string
 
 
-def translated_lines(path: Path) -> tuple[int, int]:
+def translated_lines(path: Path) -> tuple[int, set[str], set[str]]:
     entries: int = 0
-    translated_entries: int = 0
+    translated_entries: set[str] = set()
+    notranslated_entries: set[str] = set()
 
     with path.open(encoding="utf-8") as file:
         catalog = read_po(file)
         for message in catalog:
             if message.id:
                 entries += 1
-                if message.string and message.string != message.id:
-                    translated_entries += 1
+                if message.string:
+                    if message.string != message.id:
+                        translated_entries.add(message.id)
+                    else:
+                        notranslated_entries.add(message.id)
 
-    return entries, translated_entries
+    return entries, translated_entries, notranslated_entries
 
 
 def resource_stat(path: Path) -> tuple[dict[str, int], int]:
     path = Path(path)
     output: dict[str, int] = {}
     total_lines: int = 0
+    all_translated: set[str] = set()
+    all_notranslated: set[str] = set()
 
     for file in sorted(filter(Path.is_file, path.glob("*.po"))):
         language = Language.get(file.stem).display_name()
-        total_lines, translated = translated_lines(file)
-        output[language] = translated
-        logger.debug(f"{language}: {translated}")
+        total_lines, translated_entries, notranslated_entries = translated_lines(file)
+        translated_count = len(translated_entries)
+        output[language] = translated_count
+        logger.debug(f"{language}: {translated_count}")
 
-    return output, total_lines
+        all_translated.update(translated_entries)
+        all_notranslated.update(notranslated_entries)
+
+    # Estimate number of lines with "notranslate" tag on transifex
+    notranslate_count = len(notranslated_entries - translated_entries)
+
+    return output, total_lines - notranslate_count
 
 
 def prepare_chart_data(data: dict[str, dict[str, float]], labels: list[str], max_lines: int) -> dict[str, Any]:
