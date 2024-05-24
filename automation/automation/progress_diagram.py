@@ -12,8 +12,8 @@ from scour.scour import scourString as scour_string
 
 def translated_lines(path: Path) -> tuple[int, set[str], set[str]]:
     entries: int = 0
-    translated_entries: set[str] = set()
-    notranslated_entries: set[str] = set()
+    translated_entries: set[tuple[str, str]] = set()
+    notranslated_entries: set[tuple[str, str]] = set()
 
     with path.open(encoding="utf-8") as file:
         catalog = read_po(file)
@@ -22,9 +22,9 @@ def translated_lines(path: Path) -> tuple[int, set[str], set[str]]:
                 entries += 1
                 if message.string:
                     if message.string != message.id:
-                        translated_entries.add(message.id)
+                        translated_entries.add((message.context, message.id))
                     else:
-                        notranslated_entries.add(message.id)
+                        notranslated_entries.add((message.context, message.id))
 
     return entries, translated_entries, notranslated_entries
 
@@ -33,8 +33,8 @@ def resource_stat(path: Path) -> tuple[dict[str, int], int]:
     path = Path(path)
     output: dict[str, int] = {}
     total_lines: int = 0
-    all_translated: set[str] = set()
-    all_notranslated: set[str] = set()
+    all_translated: set[tuple[str, str]] = set()
+    all_notranslated: set[tuple[str, str]] = set()
 
     for file in sorted(filter(Path.is_file, path.glob("*.po"))):
         language = Language.get(file.stem).display_name()
