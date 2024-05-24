@@ -1,6 +1,6 @@
 from pathlib import Path
 from types import SimpleNamespace
-from typing import Any
+from typing import Any, NamedTuple
 
 import requests
 import typer
@@ -10,10 +10,16 @@ from loguru import logger
 from scour.scour import scourString as scour_string
 
 
-def translated_lines(path: Path) -> tuple[int, set[str], set[str]]:
+class CountTranslatedLinesResult(NamedTuple):
+    total_lines_count: int
+    translated_entries: set[tuple[str | None, str]]
+    notranslated_entries: set[tuple[str | None, str]]
+
+
+def translated_lines(path: Path) -> CountTranslatedLinesResult:
     entries: int = 0
-    translated_entries: set[tuple[str, str]] = set()
-    notranslated_entries: set[tuple[str, str]] = set()
+    translated_entries: set[tuple[str | None, str]] = set()
+    notranslated_entries: set[tuple[str | None, str]] = set()
 
     with path.open(encoding="utf-8") as file:
         catalog = read_po(file)
@@ -26,7 +32,7 @@ def translated_lines(path: Path) -> tuple[int, set[str], set[str]]:
                     else:
                         notranslated_entries.add((message.context, message.id))
 
-    return entries, translated_entries, notranslated_entries
+    return CountTranslatedLinesResult(entries, translated_entries, notranslated_entries)
 
 
 def resource_stat(path: Path) -> tuple[dict[str, int], int]:
@@ -38,16 +44,17 @@ def resource_stat(path: Path) -> tuple[dict[str, int], int]:
 
     for file in sorted(filter(Path.is_file, path.glob("*.po"))):
         language = Language.get(file.stem).display_name()
-        total_lines, translated_entries, notranslated_entries = translated_lines(file)
-        translated_count = len(translated_entries)
+        result = translated_lines(file)
+        translated_count = len(result.translated_entries)
         output[language] = translated_count
         logger.debug(f"{language}: {translated_count}")
 
-        all_translated.update(translated_entries)
-        all_notranslated.update(notranslated_entries)
+        total_lines = max(total_lines, result.total_lines_count)
+        all_translated.update(result.translated_entries)
+        all_notranslated.update(result.notranslated_entries)
 
     # Estimate number of lines with "notranslate" tag on transifex
-    notranslate_count = len(notranslated_entries - translated_entries)
+    notranslate_count = len(all_notranslated - all_translated)
 
     return output, total_lines - notranslate_count
 
