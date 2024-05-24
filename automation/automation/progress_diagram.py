@@ -10,16 +10,21 @@ from loguru import logger
 from scour.scour import scourString as scour_string
 
 
+class StringWithContext(NamedTuple):
+    string: str
+    context: str | None
+
+
 class CountTranslatedLinesResult(NamedTuple):
     total_lines_count: int
-    translated_entries: set[tuple[str | None, str]]
-    notranslated_entries: set[tuple[str | None, str]]
+    translated_entries: set[StringWithContext]
+    notranslated_entries: set[StringWithContext]
 
 
 def translated_lines(path: Path) -> CountTranslatedLinesResult:
     entries: int = 0
-    translated_entries: set[tuple[str | None, str]] = set()
-    notranslated_entries: set[tuple[str | None, str]] = set()
+    translated_entries: set[StringWithContext] = set()
+    notranslated_entries: set[StringWithContext] = set()
 
     with path.open(encoding="utf-8") as file:
         catalog = read_po(file)
@@ -28,9 +33,9 @@ def translated_lines(path: Path) -> CountTranslatedLinesResult:
                 entries += 1
                 if message.string:
                     if message.string != message.id:
-                        translated_entries.add((message.context, message.id))
+                        translated_entries.add(StringWithContext(message.id, message.context))
                     else:
-                        notranslated_entries.add((message.context, message.id))
+                        notranslated_entries.add(StringWithContext(message.id, message.context))
 
     return CountTranslatedLinesResult(entries, translated_entries, notranslated_entries)
 
@@ -39,8 +44,8 @@ def resource_stat(path: Path) -> tuple[dict[str, int], int]:
     path = Path(path)
     output: dict[str, int] = {}
     total_lines: int = 0
-    all_translated: set[tuple[str, str]] = set()
-    all_notranslated: set[tuple[str, str]] = set()
+    all_translated: set[StringWithContext] = set()
+    all_notranslated: set[StringWithContext] = set()
 
     for file in sorted(filter(Path.is_file, path.glob("*.po"))):
         language = Language.get(file.stem).display_name()
