@@ -19,7 +19,7 @@ def translated_lines(path: Path) -> tuple[int, int]:
         for message in catalog:
             if message.id:
                 entries += 1
-                if message.string:
+                if message.string and message.string != message.id:
                     translated_entries += 1
 
     return entries, translated_entries
