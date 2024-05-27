@@ -3198,6 +3198,10 @@ Problematic tag pair: '[CASTE_NAME:gila monster man:gila monster men:gila monste
 Problems:
 Error: Part 'CASTE_NAME' should not be translated
 
+Problematic tag pair: '[GENERAL_CHILD_NAME:piglet:piglets]', '[GENERAL_CHILD_NAME:lattonzolo]'
+Problems:
+Error: Tag parts count mismatch
+
 Problematic tag pair: '[CASTE_NAME:mountain goat:mountain goats:mountain goat]', '[NOME_CASTA:capra delle nevi:capre delle nevi:capra delle nevi]'
 Problems:
 Error: Part 'CASTE_NAME' should not be translated
@@ -3250,17 +3254,9 @@ Problematic tag pair: '[CASTE_NAME:giant harp seal:giant harp seals:giant harp s
 Problems:
 Error: Tag parts count mismatch
 
-Problematic tag pair: '[GNAWER:gnawed]', '[ROSSO:rosicchiato]'
-Problems:
-Error: Part 'GNAWER' should not be translated
-
 Problematic tag pair: '[TLCM_NOUN:fluff:SINGULAR]', '[TLCM_NOUN:lanugine:SINGOLARE]'
 Problems:
 Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
-
-Problematic tag pair: '[GNAWER:gnawed]', '[ROSSO:rosicchiato]'
-Problems:
-Error: Part 'GNAWER' should not be translated
 
 Problematic tag pair: '[DESCRIPTION:A large monster in the form of an otter.]', '[DESCRIZIONE:Un grande mostro sotto forma di lontra.]'
 Problems:
@@ -3274,17 +3270,9 @@ Problematic tag pair: '[DESCRIPTION:A huge monster shaped like a pond turtle.]',
 Problems:
 Error: Part 'DESCRIPTION' should not be translated
 
-Problematic tag pair: '[GNAWER:gnawed]', '[ROSSO:rosicchiato]'
-Problems:
-Error: Part 'GNAWER' should not be translated
-
 Problematic tag pair: '[DESCRIPTION:A large creature the shape of a hamster.]', '[DESCRIZIONE:Una grande creatura sotto forma di criceto.]'
 Problems:
 Error: Part 'DESCRIPTION' should not be translated
-
-Problematic tag pair: '[GNAWER:gnawed]', '[ROSSO:rosicchiato]'
-Problems:
-Error: Part 'GNAWER' should not be translated
 
 Problematic tag pair: '[DESCRIPTION:A large creature the shape of a gray squirrel.]', '[DESCRIZIONE:Una grande creatura sotto forma di scoiattolo grigio.]'
 Problems:
@@ -3353,10 +3341,6 @@ Error: Part 'ALL' should not be translated
 Problematic tag pair: '[STATE_ADJ:ALL:liquid fire]', '[STATE_ADJ:TUTTI:fuoco liquido]'
 Problems:
 Error: Part 'ALL' should not be translated
-
-Problematic tag pair: '[GNAWER:gnawed]', '[ROSSO:rosicchiato]'
-Problems:
-Error: Part 'GNAWER' should not be translated
 
 Problematic tag pair: '[DESCRIPTION:A large koala-shaped monster.]', '[DESCRIZIONE:Un grande mostro sotto forma di koala.]'
 Problems:
