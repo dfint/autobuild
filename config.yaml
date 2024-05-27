@@ -6,6 +6,10 @@ languages:
     code: be
     encoding: cp866i
 
+  - name: Bulgarian
+    code: bg
+    encoding: cp866
+
   - name: Catalan
     code: ca
     encoding: cp850
