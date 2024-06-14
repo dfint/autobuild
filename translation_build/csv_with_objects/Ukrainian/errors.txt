@@ -206,6 +206,44 @@ Problematic tag pair: '[BP:LOWERSPINE:lower spine:STP]', '[BP:LOWERSPINE:поп�
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
+Problematic tag pair: '[BP:RHORN:right antler:STP]', '[BP:RHORN: Правий ріг:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:LHORN:left antler:STP]', '[BP:RHORN: лівий ріг:STP]'
+Problems:
+Error: Part 'LHORN' should not be translated
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:L_TRUE_RIB:left true rib:STP]', '[BP:L_TRUE_RIB:справжні ребра зліва:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:R_TRUE_RIB:right true rib:STP]', '[BP:L_TRUE_RIB:справжні ребра справа:STP]'
+Problems:
+Error: Part 'R_TRUE_RIB' should not be translated
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:L_FALSE_RIB:left false rib:STP]', '[BP:L_TRUE_RIB:несправжні ребра зліва:STP]'
+Problems:
+Error: Part 'L_FALSE_RIB' should not be translated
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:R_FALSE_RIB:right false rib:STP]', '[BP:L_TRUE_RIB:несправжні ребра справа:STP]'
+Problems:
+Error: Part 'R_FALSE_RIB' should not be translated
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:L_FLOATING_RIB:left floating rib:STP]', '[BP:L_TRUE_RIB:нижнє ребро зліва:STP]'
+Problems:
+Error: Part 'L_FLOATING_RIB' should not be translated
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:R_FLOATING_RIB:right floating rib:STP]', '[BP:L_TRUE_RIB:нижнє ребро справа:STP]'
+Problems:
+Error: Part 'R_FLOATING_RIB' should not be translated
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
 Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:права передня нога:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
