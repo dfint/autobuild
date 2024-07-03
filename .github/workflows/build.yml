@@ -5,6 +5,16 @@ on:
   repository_dispatch:
     types: [update]
 
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'automation/pyproject.toml'
+      - 'automation/poetry.lock'
+      - '**.py'
+      - 'config.yaml'
+      - '.github/workflows/build.yml'
+
 permissions:
   contents: write
 
@@ -41,12 +51,6 @@ jobs:
         cd automation
         poetry run process ../
 
-    - name: Push changes to the repository
-      uses: EndBug/add-and-commit@v9.1.4
-      with:
-        author_name: github-actions[bot]
-        author_email: 41898282+github-actions[bot]@users.noreply.github.com
-
     - name: Generate diagram
       run: |
         cd automation
@@ -54,14 +58,14 @@ jobs:
         poetry run progress_diagram ../translations-backup/translations/dwarf-fortress-steam ../images/dwarf-fortress-steam-short.svg --minimal-percent=1 --width=600 --height=320
 
     - name: Push changes to the repository
+      if: github.event_name != 'pull_request'
       uses: EndBug/add-and-commit@v9.1.4
       with:
         author_name: github-actions[bot]
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
-        add: images/*
-        message: Update progress diagram
 
   trigger-update-data:
+    if: github.event_name != 'pull_request'
     needs: process-translations
     runs-on: ubuntu-latest
     timeout-minutes: 60
