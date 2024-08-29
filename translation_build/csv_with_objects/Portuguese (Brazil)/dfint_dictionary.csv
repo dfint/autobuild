@@ -11513,8 +11513,6 @@
 "--- Logging Entity ","--- Registrando Entidade "
 "has negative foreground color, set to 7","tem uma cor negativa de primeiro plano, posto em 7"
 "has foreground color > 7, set to 7","tem cor de primeiro plano > 7, definido para 7"
-"has negative background color, set to 0","tem cor de fundo negativa, definido para 0"
-"has background color > 7, set to 0","tem cor de fundo > 7, definido para 0"
 "has invalid brightness value (must be 0 or 1), set to 0","tem valor de brilho inv lido (deve ser 0 ou 1), definido para 0"
 ": Negative precedence changed to zero",": Precedˆncia negativa alterada para zero"
 ": Precedence exceeding ",":Excedendo precedˆncia "

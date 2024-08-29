@@ -11226,8 +11226,6 @@
 "--- Logging Entity ","--- 로깅 엔터티 "
 "has negative foreground color, set to 7","전경색이 음수이고 7로 설정됨"
 "has foreground color > 7, set to 7","전경색 > 7, 7로 설정"
-"has negative background color, set to 0","배경색이 음수이고 0으로 설정됨"
-"has background color > 7, set to 0","배경색 > 7, 0으로 설정"
 "has invalid brightness value (must be 0 or 1), set to 0","밝기 값이 유효하지 않음(0 또는 1이어야 함), 0으로 설정"
 ": Negative precedence changed to zero",": 음수 우선순위가 0으로 변경됨"
 ": Precedence exceeding ",": 우선순위 초과 "
