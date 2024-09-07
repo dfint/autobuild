@@ -178,6 +178,14 @@ Problematic tag pair: '[BP:RTC:right tentacle club:STP]', '[BP:RTC:Праве б
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
+Problematic tag pair: '[BODYGLOSS:LEG_STUMP:leg:stump:legs:stumps]', 'LEG_STUMP:нога:обрубок:ноги:обрубки]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[BODYGLOSS:INSECT_LOWERBODY:lower body:abdomen:lower bodies:abdomens]', 'INSECT_LOWERBODY:нижня частина тіла:живіт:нижня частина тіла:животи]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
 Problematic tag pair: '[BP:TRUNK:trunk:STP]', '[BP:TRUNK:хобот:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
@@ -243,6 +251,158 @@ Problematic tag pair: '[BP:R_FLOATING_RIB:right floating rib:STP]', '[BP:L_TRUE_
 Problems:
 Error: Part 'R_FLOATING_RIB' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:RU_INCISOR:right upper incisor:STP]', 'RU_INCISOR:правий верхній різець:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[BP:LU_INCISOR:left upper incisor:STP]', 'LU_INCISOR:лівий верхній різець:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[BP:RL_INCISOR:right lower incisor:STP]', 'RL_INCISOR:правий нижній різець:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[BP:LL_INCISOR:left lower incisor:STP]', 'LL_INCISOR:лівий нижній різець:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[BP:U_F_TOOTH:upper front tooth:upper front teeth]', 'U_F_TOOTH:верхній передній зуб:верхні передні зуби]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:first upper right incisor:STP]', 'перший правий верхній різець:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:first upper left incisor:STP]', 'перший верхній лівий різець:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:second upper right incisor:STP]', 'другий верхній правий різець:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:second upper left incisor:STP]', 'другий верхній лівий різець:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:right eye tooth:right eye teeth]', 'зуб правого ока:зуби правого ока]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:left eye tooth:left eye teeth]', 'лівий очний зуб:ліві очні зуби]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[BP:L_F_TOOTH:lower front tooth:lower front teeth]', 'L_F_TOOTH:нижній передній зуб:нижні передні зуби]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:first lower right incisor:STP]', 'перший нижній правий різець:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:first lower left incisor:STP]', 'перший нижній лівий різець:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:second lower right incisor:STP]', 'другий нижній правий різець:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:second lower left incisor:STP]', 'другий нижній лівий різець:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:lower right canine:STP]', 'нижнє праве ікло:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:lower left canine:STP]', 'нижнє ліве ікло:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[BP:U_R_B_TOOTH:upper right back tooth:upper right back teeth]', 'U_R_B_TOOTH:верхній правий задній зуб:верхні праві задні зуби]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:first upper right premolar:STP]', 'перший верхній правий премоляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:second upper right premolar:STP]', 'другий верхній правий премоляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:first upper right molar:STP]', 'перший верхній правий моляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:second upper right molar:STP]', 'другий верхній правий моляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[BP:L_R_B_TOOTH:lower right back tooth:lower right back teeth]', 'L_R_B_TOOTH:нижній правий задній зуб:нижні праві задні зуби]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:first lower right premolar:STP]', 'перший нижній правий премоляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:second lower right premolar:STP]', 'другий нижній правий премоляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:first lower right molar:STP]', 'перший нижній правий моляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:second lower right molar:STP]', '[INDIVIDUAL_NAME:перший нижній правий моляр:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:U_L_B_TOOTH:upper left back tooth:upper left back teeth]', 'first lower right molar:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:first upper left premolar:STP]', 'перший верхній лівий премоляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:second upper left premolar:STP]', 'другий верхній лівий премоляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:first upper left molar:STP]', 'перший верхній лівий моляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:second upper left molar:STP]', 'другий верхній лівий моляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[BP:L_L_B_TOOTH:lower left back tooth:lower left back teeth]', 'L_L_B_TOOTH:нижній лівий задній зуб:нижні ліві задні зуби]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:first lower left premolar:STP]', 'перший нижній лівий премоляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:second lower left premolar:STP]', 'другий нижній лівий премоляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:first lower left molar:STP]', 'перший нижній лівий моляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[INDIVIDUAL_NAME:second lower left molar:STP]', 'другий нижній лівий моляр:STP]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
 
 Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:права передня нога:STP]'
 Problems:
