@@ -10,6 +10,10 @@ Problematic tag pair: '[BP:NK:neck:STP]', '[BP:NK:kark:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
+Problematic tag pair: '[NAME:pangolin man:pangolin men:pangolin man]', '[NAME:łuskowiec:łuskowce:łuskowca:]'
+Problems:
+Error: Tag parts count mismatch
+
 Problematic tag pair: '[STATE_NAME:LIQUID:black mamba venom]', '[STATE_NAME:ALL_SOLID:jad czarnej mamby]'
 Problems:
 Error: Part 'LIQUID' should not be translated
@@ -26,7 +30,15 @@ Problematic tag pair: '[SEED:white yam seed:white yam seeds:]', '[SEED:nasiono p
 Problems:
 Error: Tag parts count mismatch
 
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:passion fruit wine]', '[STATE_NAME_ADJ:wino z marakui]'
+Problems:
+Error: Tag parts count mismatch
+
 Problematic tag pair: '[STATE_NAME_ADJ:GAS:boiling passion fruit wine]', '[STATE_NAME_ADJ:gotujące się pnącze marakui]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:wine]', '[STATE_NAME_ADJ:wino]'
 Problems:
 Error: Tag parts count mismatch
 
