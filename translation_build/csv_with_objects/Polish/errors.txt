@@ -18,6 +18,14 @@ Problematic tag pair: '[STATE_NAME:LIQUID:black mamba venom]', '[STATE_NAME:ALL_
 Problems:
 Error: Part 'LIQUID' should not be translated
 
+Problematic tag pair: '[NAME:giant black mamba:giant black mambas:giant black mamba]', '[NAME:gigantyczna czarna mamba, gigantyczne czarne mamby, gigantyczą czarną mambę]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CASTE_NAME:giant black mamba:giant black mambas:giant black mamba]', '[CASTE_NAME:gigantyczna czarna mamba, gigantyczne czarne mamby, gigantyczą czarną mambę]'
+Problems:
+Error: Tag parts count mismatch
+
 Problematic tag pair: '[DESCRIPTION:A medium-sized mammal that lives in the trees.  It is known for its easy-going nature.]', '[DESCRIPTION:Średniej wielkości ssak żyjący na drzewach. Jest znany ze swojego łagodnego usposobienia.]\n\xa0\n\xa0'
 Problems:
 Error: Extra spaces at the beginning or at the end of the translation
