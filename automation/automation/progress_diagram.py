@@ -154,7 +154,7 @@ def generate_chart(source_dir: Path, output: Path, minimal_percent: int = 0, wid
     assert total_lines, "Empty result"
 
     for language in languages:
-        logger.info(f"{language}: {count_by_language[language] / total_lines:.1f}%")
+        logger.info(f"{language}: {count_by_language[language] / total_lines * 100:.1f}%")
 
     chart_data = prepare_chart_data(dataset, languages, total_lines)
     file_format = output.suffix[1:]
