@@ -52,7 +52,6 @@ def resource_stat(path: Path) -> tuple[dict[str, int], int]:
         result = translated_lines(file)
         translated_count = len(result.translated_entries)
         output[language] = translated_count
-        logger.debug(f"{language}: {translated_count}")
 
         total_lines = max(total_lines, result.total_lines_count)
         all_translated.update(result.translated_entries)
@@ -153,6 +152,9 @@ def generate_chart(source_dir: Path, output: Path, minimal_percent: int = 0, wid
     logger.info(f"{languages=}")
     logger.info(f"{total_lines=}")
     assert total_lines, "Empty result"
+
+    for language in languages:
+        logger.info(f"{language}: {count_by_language[language] / total_lines:.1f}%")
 
     chart_data = prepare_chart_data(dataset, languages, total_lines)
     file_format = output.suffix[1:]
