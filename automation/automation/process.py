@@ -47,7 +47,7 @@ async def convert_objects(po_data: bytes, errors_file) -> str:
     return result.getvalue()
 
 
-def process_hardcoded(csv_file_path: Path, language: LanguageInfo, config: Config) -> Iterable[tuple[str, str]]:
+def process_hardcoded(*, csv_file_path: Path, language: LanguageInfo, config: Config) -> Iterable[tuple[str, str]]:
     po_file_path = get_po_file_path(
         working_directory=config.working_directory,
         project_name=config.source.project,
@@ -68,16 +68,17 @@ def process_hardcoded(csv_file_path: Path, language: LanguageInfo, config: Confi
 
 
 def process_objects(
-    csv_directory: Path,
+    *,
     csv_file_path: Path,
     language: LanguageInfo,
     config: Config,
-    exclude: set[str] = None,
+    exclude: set[str] | None = None,
 ) -> None:
 
     if not exclude:
         exclude = set()
 
+    csv_directory = csv_file_path.parent
     errors_file_path = csv_directory / "errors.txt"
     if errors_file_path.exists():
         errors_file_path.unlink()
@@ -116,9 +117,9 @@ async def process(language: LanguageInfo, config: Config):
     hardcoded_csv_file_path = csv_directory / "dfint_dictionary.csv"
     csv_hardcoded_data = await asyncio.to_thread(
         process_hardcoded,
-        hardcoded_csv_file_path,
-        language,
-        config,
+        csv_file_path=hardcoded_csv_file_path,
+        language=language,
+        config=config,
     )
 
     logger.info(f"{hardcoded_csv_file_path.relative_to(config.working_directory)} written")
@@ -133,10 +134,9 @@ async def process(language: LanguageInfo, config: Config):
 
     await asyncio.to_thread(
         process_objects,
-        csv_with_objects_directory,
-        with_objects_csv_file_path,
-        language,
-        config,
+        csv_file_path=with_objects_csv_file_path,
+        language=language,
+        config=config,
         exclude=exclude,
     )
 
