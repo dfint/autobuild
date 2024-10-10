@@ -19,15 +19,24 @@ from automation.models import Config, LanguageInfo
 alternative_encodings.register_all()
 
 
-def load_po_file(language_code: str, resource_name: str, config: Config) -> list[tuple[str, str]]:
-    source = config.source
-    file_path = (
-        config.working_directory
+def get_po_file_path(*, working_directory: Path, project_name: str, resource_name: str, language_code: str) -> Path:
+    return (
+        working_directory
         / "translations-backup"
         / "translations"
-        / source.project
+        / project_name
         / resource_name
         / f"{language_code}.po"
+    )
+
+
+def load_po_file(language_code: str, resource_name: str, config: Config) -> list[tuple[str, str]]:
+    source = config.source
+    file_path = get_po_file_path(
+        working_directory=config.working_directory,
+        project_name=source.project,
+        resource_name=resource_name,
+        language_code=language_code,
     )
 
     with open(file_path, "rt", encoding="utf-8") as file:
