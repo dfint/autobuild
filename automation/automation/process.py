@@ -5,7 +5,6 @@ import shutil
 from pathlib import Path
 from typing import Iterable, Optional
 
-import aiofiles
 import alternative_encodings
 import df_translation_toolkit.convert.hardcoded_po_to_csv as hardcoded_po_to_csv
 import df_translation_toolkit.convert.objects_po_to_csv as objects_po_to_csv
@@ -20,34 +19,20 @@ from automation.models import Config, LanguageInfo
 alternative_encodings.register_all()
 
 
-def load_po_file(language_code: str, resource_name: str, config: Config) -> list[tuple[str, str]]:
-    source = config.source
-    file_path = (
-        config.working_directory
+def get_po_file_path(*, working_directory: Path, project_name: str, resource_name: str, language_code: str) -> Path:
+    return (
+        working_directory
         / "translations-backup"
         / "translations"
-        / source.project
+        / project_name
         / resource_name
         / f"{language_code}.po"
     )
 
-    with open(file_path, "rt", encoding="utf-8") as file:
+
+def load_po_file(file_path: Path) -> list[tuple[str, str]]:
+    with file_path.open(encoding="utf-8") as file:
         return simple_read_po(file)
-
-
-async def load_file(language_code: str, resource_name: str, config: Config) -> bytes:
-    source = config.source
-    file_path = (
-        config.working_directory
-        / "translations-backup"
-        / "translations"
-        / source.project
-        / resource_name
-        / f"{language_code}.po"
-    )
-
-    async with aiofiles.open(file_path, "rb") as file:
-        return await file.read()
 
 
 async def convert_hardcoded(po_data: list[tuple[str, str]]) -> Iterable[tuple[str, str]]:
@@ -62,36 +47,49 @@ async def convert_objects(po_data: bytes, errors_file) -> str:
     return result.getvalue()
 
 
-def process_hardcoded(file_path: Path, language: LanguageInfo, config: Config) -> Iterable[tuple[str, str]]:
-    po_data = load_po_file(language_code=language.code, resource_name="hardcoded_steam", config=config)
+def process_hardcoded(*, csv_file_path: Path, language: LanguageInfo, config: Config) -> Iterable[tuple[str, str]]:
+    po_file_path = get_po_file_path(
+        working_directory=config.working_directory,
+        project_name=config.source.project,
+        resource_name="hardcoded_steam",
+        language_code=language.code,
+    )
+    po_data = load_po_file(file_path=po_file_path)
     prepared_dictionary = hardcoded_po_to_csv.prepare_dictionary(po_data)
 
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
     csv_writer.writerows(prepared_dictionary)
 
-    with open(file_path, "wb") as csv_file:
+    with csv_file_path.open("wb") as csv_file:
         csv_file.write(codecs.encode(csv_data_buffer.getvalue(), encoding=language.encoding))
 
     return prepared_dictionary
 
 
 def process_objects(
-    directory: Path,
-    file_path: Path,
+    *,
+    csv_file_path: Path,
     language: LanguageInfo,
     config: Config,
-    exclude: set[str] = None,
+    exclude: set[str] | None = None,
 ) -> None:
 
     if not exclude:
         exclude = set()
 
-    errors_file_path = directory / "errors.txt"
+    csv_directory = csv_file_path.parent
+    errors_file_path = csv_directory / "errors.txt"
     if errors_file_path.exists():
         errors_file_path.unlink()
 
-    po_data = load_po_file(language_code=language.code, resource_name="objects", config=config)
+    po_file_path = get_po_file_path(
+        working_directory=config.working_directory,
+        project_name=config.source.project,
+        resource_name="objects",
+        language_code=language.code,
+    )
+    po_data = load_po_file(file_path=po_file_path)
     po_data = [(source, translation) for source, translation in po_data if source not in exclude]
 
     error_buffer = io.StringIO()
@@ -107,7 +105,7 @@ def process_objects(
         with errors_file_path.open("w", encoding="utf-8") as errors_file:
             errors_file.write(errors)
 
-    with open(file_path, "ab") as csv_file:
+    with csv_file_path.open("ab") as csv_file:
         csv_file.write(codecs.encode(csv_data_buffer.getvalue(), encoding=language.encoding))
 
 
@@ -119,14 +117,14 @@ async def process(language: LanguageInfo, config: Config):
     hardcoded_csv_file_path = csv_directory / "dfint_dictionary.csv"
     csv_hardcoded_data = await asyncio.to_thread(
         process_hardcoded,
-        hardcoded_csv_file_path,
-        language,
-        config,
+        csv_file_path=hardcoded_csv_file_path,
+        language=language,
+        config=config,
     )
 
     logger.info(f"{hardcoded_csv_file_path.relative_to(config.working_directory)} written")
 
-    exclude = set(first for first, _ in csv_hardcoded_data)
+    exclude = {first for first, _ in csv_hardcoded_data}
 
     csv_with_objects_directory = translation_build_directory / "csv_with_objects" / language.name
     csv_with_objects_directory.mkdir(parents=True, exist_ok=True)
@@ -136,10 +134,9 @@ async def process(language: LanguageInfo, config: Config):
 
     await asyncio.to_thread(
         process_objects,
-        csv_with_objects_directory,
-        with_objects_csv_file_path,
-        language,
-        config,
+        csv_file_path=with_objects_csv_file_path,
+        language=language,
+        config=config,
         exclude=exclude,
     )
 
