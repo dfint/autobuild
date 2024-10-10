@@ -57,7 +57,7 @@ async def convert_objects(po_data: bytes, errors_file) -> str:
     return result.getvalue()
 
 
-def process_hardcoded(file_path: Path, language: LanguageInfo, config: Config) -> Iterable[tuple[str, str]]:
+def process_hardcoded(csv_file_path: Path, language: LanguageInfo, config: Config) -> Iterable[tuple[str, str]]:
     po_file_path = get_po_file_path(
         working_directory=config.working_directory,
         project_name=config.source.project,
@@ -71,15 +71,15 @@ def process_hardcoded(file_path: Path, language: LanguageInfo, config: Config) -
     csv_writer = writer(csv_data_buffer)
     csv_writer.writerows(prepared_dictionary)
 
-    with open(file_path, "wb") as csv_file:
+    with csv_file_path.open("wb") as csv_file:
         csv_file.write(codecs.encode(csv_data_buffer.getvalue(), encoding=language.encoding))
 
     return prepared_dictionary
 
 
 def process_objects(
-    directory: Path,
-    file_path: Path,
+    csv_directory: Path,
+    csv_file_path: Path,
     language: LanguageInfo,
     config: Config,
     exclude: set[str] = None,
@@ -88,7 +88,7 @@ def process_objects(
     if not exclude:
         exclude = set()
 
-    errors_file_path = directory / "errors.txt"
+    errors_file_path = csv_directory / "errors.txt"
     if errors_file_path.exists():
         errors_file_path.unlink()
 
@@ -108,7 +108,7 @@ def process_objects(
         with errors_file_path.open("w", encoding="utf-8") as errors_file:
             errors_file.write(errors)
 
-    with open(file_path, "ab") as csv_file:
+    with csv_file_path.open("ab") as csv_file:
         csv_file.write(codecs.encode(csv_data_buffer.getvalue(), encoding=language.encoding))
 
 
@@ -127,7 +127,7 @@ async def process(language: LanguageInfo, config: Config):
 
     logger.info(f"{hardcoded_csv_file_path.relative_to(config.working_directory)} written")
 
-    exclude = set(first for first, _ in csv_hardcoded_data)
+    exclude = {first for first, _ in csv_hardcoded_data}
 
     csv_with_objects_directory = translation_build_directory / "csv_with_objects" / language.name
     csv_with_objects_directory.mkdir(parents=True, exist_ok=True)
