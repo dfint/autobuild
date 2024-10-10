@@ -36,10 +36,9 @@ def _load_po_file(file_path: Path) -> list[tuple[str, str]]:
 
 
 def load_po_file(language_code: str, resource_name: str, config: Config) -> list[tuple[str, str]]:
-    source = config.source
     file_path = get_po_file_path(
         working_directory=config.working_directory,
-        project_name=source.project,
+        project_name=config.source.project,
         resource_name=resource_name,
         language_code=language_code,
     )
@@ -59,7 +58,13 @@ async def convert_objects(po_data: bytes, errors_file) -> str:
 
 
 def process_hardcoded(file_path: Path, language: LanguageInfo, config: Config) -> Iterable[tuple[str, str]]:
-    po_data = load_po_file(language_code=language.code, resource_name="hardcoded_steam", config=config)
+    file_path = get_po_file_path(
+        working_directory=config.working_directory,
+        project_name=config.source.project,
+        resource_name="hardcoded_steam",
+        language_code=language.code,
+    )
+    po_data = _load_po_file(file_path=file_path)
     prepared_dictionary = hardcoded_po_to_csv.prepare_dictionary(po_data)
 
     csv_data_buffer = io.StringIO(newline="")
