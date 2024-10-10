@@ -30,19 +30,9 @@ def get_po_file_path(*, working_directory: Path, project_name: str, resource_nam
     )
 
 
-def _load_po_file(file_path: Path) -> list[tuple[str, str]]:
+def load_po_file(file_path: Path) -> list[tuple[str, str]]:
     with file_path.open(encoding="utf-8") as file:
         return simple_read_po(file)
-
-
-def load_po_file(language_code: str, resource_name: str, config: Config) -> list[tuple[str, str]]:
-    file_path = get_po_file_path(
-        working_directory=config.working_directory,
-        project_name=config.source.project,
-        resource_name=resource_name,
-        language_code=language_code,
-    )
-    return _load_po_file(file_path)
 
 
 async def convert_hardcoded(po_data: list[tuple[str, str]]) -> Iterable[tuple[str, str]]:
@@ -64,7 +54,7 @@ def process_hardcoded(csv_file_path: Path, language: LanguageInfo, config: Confi
         resource_name="hardcoded_steam",
         language_code=language.code,
     )
-    po_data = _load_po_file(file_path=po_file_path)
+    po_data = load_po_file(file_path=po_file_path)
     prepared_dictionary = hardcoded_po_to_csv.prepare_dictionary(po_data)
 
     csv_data_buffer = io.StringIO(newline="")
@@ -92,7 +82,13 @@ def process_objects(
     if errors_file_path.exists():
         errors_file_path.unlink()
 
-    po_data = load_po_file(language_code=language.code, resource_name="objects", config=config)
+    po_file_path = get_po_file_path(
+        working_directory=config.working_directory,
+        project_name=config.source.project,
+        resource_name="objects",
+        language_code=language.code,
+    )
+    po_data = load_po_file(file_path=po_file_path)
     po_data = [(source, translation) for source, translation in po_data if source not in exclude]
 
     error_buffer = io.StringIO()
