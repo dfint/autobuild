@@ -9,6 +9,8 @@ from langcodes import Language
 from loguru import logger
 from scour.scour import scourString as scour_string
 
+DEFAULT_LINE_HEIGHT = 12
+
 
 class StringWithContext(NamedTuple):
     string: str
@@ -133,7 +135,13 @@ app = typer.Typer()
 
 
 @app.command()
-def generate_chart(source_dir: Path, output: Path, minimal_percent: int = 0, width: int = 800, height: int = 800):
+def generate_chart(
+    source_dir: Path,
+    output: Path,
+    minimal_percent: int = 0,
+    width: int = 600,
+    height: int | None = None
+):
     logger.info(f"source_dir: {source_dir.resolve()}")
     assert source_dir.resolve().exists()
     logger.info(f"output: {output.resolve()}")
@@ -155,6 +163,8 @@ def generate_chart(source_dir: Path, output: Path, minimal_percent: int = 0, wid
 
     for language in languages:
         logger.info(f"{language}: {count_by_language[language] / total_lines * 100:.1f}%")
+
+    height = height or (len(languages) + 4) * DEFAULT_LINE_HEIGHT
 
     chart_data = prepare_chart_data(dataset, languages, total_lines)
     file_format = output.suffix[1:]
