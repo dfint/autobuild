@@ -164,7 +164,7 @@ def generate_chart(
     for language in languages:
         logger.info(f"{language}: {count_by_language[language] / total_lines * 100:.1f}%")
 
-    height = height or (len(languages) + 4) * DEFAULT_LINE_HEIGHT
+    height = height or (len(languages) + 6) * DEFAULT_LINE_HEIGHT
 
     chart_data = prepare_chart_data(dataset, languages, total_lines)
     file_format = output.suffix[1:]
