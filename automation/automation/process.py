@@ -30,6 +30,11 @@ def get_po_file_path(*, working_directory: Path, project_name: str, resource_nam
     )
 
 
+def _load_po_file(file_path: Path) -> list[tuple[str, str]]:
+    with file_path.open(encoding="utf-8") as file:
+        return simple_read_po(file)
+
+
 def load_po_file(language_code: str, resource_name: str, config: Config) -> list[tuple[str, str]]:
     source = config.source
     file_path = get_po_file_path(
@@ -38,9 +43,7 @@ def load_po_file(language_code: str, resource_name: str, config: Config) -> list
         resource_name=resource_name,
         language_code=language_code,
     )
-
-    with open(file_path, "rt", encoding="utf-8") as file:
-        return simple_read_po(file)
+    return _load_po_file(file_path)
 
 
 async def convert_hardcoded(po_data: list[tuple[str, str]]) -> Iterable[tuple[str, str]]:
