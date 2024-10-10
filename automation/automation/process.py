@@ -5,7 +5,6 @@ import shutil
 from pathlib import Path
 from typing import Iterable, Optional
 
-import aiofiles
 import alternative_encodings
 import df_translation_toolkit.convert.hardcoded_po_to_csv as hardcoded_po_to_csv
 import df_translation_toolkit.convert.objects_po_to_csv as objects_po_to_csv
@@ -33,21 +32,6 @@ def load_po_file(language_code: str, resource_name: str, config: Config) -> list
 
     with open(file_path, "rt", encoding="utf-8") as file:
         return simple_read_po(file)
-
-
-async def load_file(language_code: str, resource_name: str, config: Config) -> bytes:
-    source = config.source
-    file_path = (
-        config.working_directory
-        / "translations-backup"
-        / "translations"
-        / source.project
-        / resource_name
-        / f"{language_code}.po"
-    )
-
-    async with aiofiles.open(file_path, "rb") as file:
-        return await file.read()
 
 
 async def convert_hardcoded(po_data: list[tuple[str, str]]) -> Iterable[tuple[str, str]]:
