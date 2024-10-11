@@ -35,8 +35,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-      with:
-        submodules: true
+
+    - name: Checkout and update the translation-backup submodule
+      run: git submodule update --init --remote
 
     - name: Install Poetry
       run: pipx install poetry
