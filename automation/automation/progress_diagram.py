@@ -9,7 +9,7 @@ from langcodes import Language
 from loguru import logger
 from scour.scour import scourString as scour_string
 
-DEFAULT_LINE_HEIGHT = 12
+DEFAULT_LINE_HEIGHT = 14
 
 
 class StringWithContext(NamedTuple):
