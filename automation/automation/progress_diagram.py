@@ -28,6 +28,19 @@ class CountTranslatedLinesResult(NamedTuple):
     notranslated_entries: set[StringWithContext]
 
 
+class Dataset(NamedTuple):
+    data: dict[ResourceName, dict[LanguageName, float]]
+    languages: list[LanguageName]
+    total_lines: int
+
+    @property
+    def resources(self) -> list[ResourceName]:
+        return list(self.data.keys())
+
+    def with_languages(self, languages: list[LanguageName]) -> "Dataset":
+        return Dataset(data=self.data, languages=languages, total_lines=self.total_lines)
+
+
 def translated_lines(path: Path) -> CountTranslatedLinesResult:
     entries: int = 0
     translated_entries: set[StringWithContext] = set()
@@ -70,22 +83,18 @@ def resource_stat(path: Path) -> tuple[dict[LanguageName, int], int]:
     return output, total_lines - notranslate_count
 
 
-def prepare_chart_data(
-    data: dict[ResourceName, dict[LanguageName, float]],
-    labels: list[LanguageName],
-    max_lines: int,
-) -> dict[str, Any]:
+def prepare_chart_data(dataset: Dataset) -> dict[str, Any]:
     datasets = [
         dict(
             label=resource,
-            data=[lines[label] for label in labels],
+            data=[lines[label] for label in dataset.languages],
         )
-        for resource, lines in data.items()
+        for resource, lines in dataset.data.items()
     ]
 
     return dict(
         type="horizontalBar",
-        data=dict(labels=labels, datasets=datasets),
+        data=dict(labels=dataset.languages, datasets=datasets),
         options=dict(
             scales=dict(
                 yAxes=[dict(stacked=True)],
@@ -94,7 +103,7 @@ def prepare_chart_data(
                         stacked=True,
                         ticks=dict(
                             beginAtZero=True,
-                            max=max_lines,
+                            max=dataset.total_lines,
                             stepSize=10000,
                         ),
                     ),
@@ -120,65 +129,24 @@ def get_chart(chart_data: dict[str, Any], file_format: str = "png", width: int =
     return response.content
 
 
-def prepare_dataset(path: Path) -> tuple[dict[ResourceName, dict[LanguageName, float]], set[LanguageName], int]:
-    dataset: dict[ResourceName, dict[LanguageName, float]] = {}
+def prepare_dataset(path: Path) -> Dataset:
+    data: dict[ResourceName, dict[LanguageName, float]] = {}
     total_lines: int = 0
     languages: set[LanguageName] = set()
 
     for resource_directory in sorted(filter(Path.is_dir, path.glob("*"))):
         logger.info(f"processing directory: {resource_directory}")
         resource_stats, resource_total_lines = resource_stat(resource_directory)
-        dataset[ResourceName(resource_directory.name)] = resource_stats
+        data[ResourceName(resource_directory.name)] = resource_stats
         logger.info(f"{resource_total_lines=}")
         total_lines += resource_total_lines
         languages.update(resource_stats.keys())
 
-    return dataset, languages, total_lines
+    return Dataset(data=data, languages=languages, total_lines=total_lines)
 
 
 def minify_svg(data: bytes) -> bytes:
     return scour_string(data.decode("utf-8"), options=SimpleNamespace(strip_ids=True, shorten_ids=True)).encode("utf-8")
-
-
-app = typer.Typer()
-
-
-@app.command()
-def generate_chart(
-    source_dir: Path,
-    output: Path,
-    minimal_percent: int = 0,
-    width: int = 600,
-    height: int | None = None,
-) -> None:
-    logger.info(f"source_dir: {source_dir.resolve()}")
-    assert source_dir.resolve().exists()
-    logger.info(f"output: {output.resolve()}")
-    output.parent.mkdir(exist_ok=True, parents=True)
-
-    dataset, languages, total_lines = prepare_dataset(source_dir)
-    count_by_language: dict[LanguageName, int] = {
-        language: sum(item[language] for item in dataset.values()) for language in languages
-    }
-
-    if minimal_percent:
-        languages = filter_languages_by_minmal_translation_count(
-            languages=languages,
-            count_by_language=count_by_language,
-            minimal_count=minimal_percent / 100 * total_lines,
-        )
-
-    languages = sort_languages(languages, count_by_language)
-    logger.info(f"resources={list(dataset.keys())}")
-    logger.info(f"{languages=}")
-    logger.info(f"{total_lines=}")
-    assert total_lines, "Empty result"
-
-    for language in languages:
-        logger.info(f"{language}: {count_by_language[language] / total_lines * 100:.1f}%")
-
-    height = height or (len(languages) + 6) * DEFAULT_LINE_HEIGHT
-    generate_diagram(dataset, languages, total_lines, width, height, output)
 
 
 def filter_languages_by_minmal_translation_count(
@@ -194,14 +162,12 @@ def sort_languages(languages: Iterable[LanguageName], count_by_language: dict[La
 
 
 def generate_diagram(
-    dataset: dict[ResourceName, dict[LanguageName, float]],
-    languages: list[LanguageName],
-    total_lines: int,
+    dataset: Dataset,
     width: int,
     height: int,
     output: Path,
 ) -> None:
-    chart_data = prepare_chart_data(dataset, languages, total_lines)
+    chart_data = prepare_chart_data(dataset)
     file_format = output.suffix[1:]
     chart = get_chart(chart_data, file_format=file_format, width=width, height=height)
 
@@ -210,3 +176,49 @@ def generate_diagram(
 
     output.write_bytes(chart)
     logger.info(f"{output.name} chart file is saved")
+
+
+app = typer.Typer()
+
+
+@app.command(name="generate")
+def generate_command(
+    source_dir: Path,
+    output: Path,
+    minimal_percent: int = 0,
+    width: int = 600,
+    height: int | None = None,
+) -> None:
+    logger.info(f"source_dir: {source_dir.resolve()}")
+    assert source_dir.resolve().exists()
+    logger.info(f"output: {output.resolve()}")
+    output.parent.mkdir(exist_ok=True, parents=True)
+
+    dataset = prepare_dataset(source_dir)
+    count_by_language: dict[LanguageName, int] = {
+        language: sum(item[language] for item in dataset.data.values()) for language in dataset.languages
+    }
+
+    logger.info(f"{dataset.resources=}")
+    logger.info(f"{dataset.languages=}")
+    logger.info(f"{dataset.total_lines=}")
+
+    if minimal_percent:
+        languages = filter_languages_by_minmal_translation_count(
+            languages=dataset.languages,
+            count_by_language=count_by_language,
+            minimal_count=minimal_percent / 100 * dataset.total_lines,
+        )
+
+    languages = sort_languages(dataset.languages, count_by_language)
+
+    for language in languages:
+        logger.info(f"{language}: {count_by_language[language] / dataset.total_lines * 100:.1f}%")
+
+    height = height or (len(languages) + 6) * DEFAULT_LINE_HEIGHT
+    generate_diagram(
+        dataset.with_languages(languages),
+        width,
+        height,
+        output,
+    )
