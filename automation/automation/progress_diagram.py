@@ -4,6 +4,7 @@ from types import SimpleNamespace
 from typing import Any, NamedTuple, NewType
 
 import requests
+from tqdm import tqdm
 import typer
 from babel.messages.pofile import read_po
 from langcodes import Language
@@ -67,7 +68,7 @@ def resource_stat(path: Path) -> tuple[dict[LanguageName, int], int]:
     all_translated: set[StringWithContext] = set()
     all_notranslated: set[StringWithContext] = set()
 
-    for file in sorted(filter(Path.is_file, path.glob("*.po"))):
+    for file in tqdm(sorted(filter(Path.is_file, path.glob("*.po"))), leave=False):
         language = LanguageName(Language.get(file.stem).display_name())
         result = translated_lines(file)
         translated_count = len(result.translated_entries)
