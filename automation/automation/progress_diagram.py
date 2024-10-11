@@ -1,16 +1,18 @@
 from collections.abc import Iterable
+from dataclasses import dataclass
 from pathlib import Path
 from types import SimpleNamespace
 from typing import Any, NamedTuple, NewType
 
 import requests
-from tqdm import tqdm
 import typer
 from babel.messages.pofile import read_po
 from langcodes import Language
 from loguru import logger
 from scour.scour import scourString as scour_string  # noqa: N813
+from tqdm import tqdm
 
+DEFAULT_WIDTH = 600
 DEFAULT_LINE_HEIGHT = 14
 
 
@@ -29,7 +31,8 @@ class CountTranslatedLinesResult(NamedTuple):
     notranslated_entries: set[StringWithContext]
 
 
-class Dataset(NamedTuple):
+@dataclass
+class Dataset:
     data: dict[ResourceName, dict[LanguageName, float]]
     languages: list[LanguageName]
     total_lines: int
@@ -40,6 +43,21 @@ class Dataset(NamedTuple):
 
     def with_languages(self, languages: list[LanguageName]) -> "Dataset":
         return Dataset(data=self.data, languages=languages, total_lines=self.total_lines)
+
+    def get_count_by_languages(self) -> dict[LanguageName, int]:
+        return {language: sum(item[language] for item in self.data.values()) for language in self.languages}
+
+    def sort_languages(self) -> None:
+        count_by_language = self.get_count_by_languages()
+        self.languages = sorted(self.languages, key=lambda language: (-count_by_language[language], language))
+
+    def with_minimal_translation_percent(self, minimal_percent: float) -> "Dataset":
+        languages = filter_languages_by_minmal_translation_count(
+            languages=self.languages,
+            count_by_language=self.get_count_by_languages(),
+            minimal_count=minimal_percent / 100 * self.total_lines,
+        )
+        return self.with_languages(languages)
 
 
 def translated_lines(path: Path) -> CountTranslatedLinesResult:
@@ -158,10 +176,6 @@ def filter_languages_by_minmal_translation_count(
     return [language for language in languages if count_by_language[language] > minimal_count]
 
 
-def sort_languages(languages: Iterable[LanguageName], count_by_language: dict[LanguageName, int]) -> list[LanguageName]:
-    return sorted(languages, key=lambda language: (-count_by_language[language], language))
-
-
 def generate_diagram(
     dataset: Dataset,
     width: int,
@@ -183,11 +197,11 @@ app = typer.Typer()
 
 
 @app.command(name="generate")
-def generate_command(
+def command_generate(
     source_dir: Path,
     output: Path,
     minimal_percent: int = 0,
-    width: int = 600,
+    width: int = DEFAULT_WIDTH,
     height: int | None = None,
 ) -> None:
     logger.info(f"source_dir: {source_dir.resolve()}")
@@ -195,31 +209,51 @@ def generate_command(
     logger.info(f"output: {output.resolve()}")
     output.parent.mkdir(exist_ok=True, parents=True)
 
-    dataset = prepare_dataset(source_dir)
-    count_by_language: dict[LanguageName, int] = {
-        language: sum(item[language] for item in dataset.data.values()) for language in dataset.languages
-    }
+    dataset: Dataset = prepare_dataset(source_dir)
+    count_by_language = dataset.get_count_by_languages()
 
     logger.info(f"{dataset.resources=}")
     logger.info(f"{dataset.languages=}")
     logger.info(f"{dataset.total_lines=}")
 
     if minimal_percent:
-        languages = filter_languages_by_minmal_translation_count(
-            languages=dataset.languages,
-            count_by_language=count_by_language,
-            minimal_count=minimal_percent / 100 * dataset.total_lines,
-        )
+        dataset = dataset.with_minimal_translation_percent(minimal_percent)
 
-    languages = sort_languages(dataset.languages, count_by_language)
+    dataset.sort_languages()
 
-    for language in languages:
+    for language in dataset.languages:
         logger.info(f"{language}: {count_by_language[language] / dataset.total_lines * 100:.1f}%")
 
-    height = height or (len(languages) + 6) * DEFAULT_LINE_HEIGHT
-    generate_diagram(
-        dataset.with_languages(languages),
-        width,
-        height,
-        output,
-    )
+    height = height or (len(dataset.languages) + 6) * DEFAULT_LINE_HEIGHT
+    generate_diagram(dataset, width, height, output)
+
+
+@app.command(name="two_diagrams")
+def command_two_diagrams(
+    source_dir: Path,
+    output_dir: Path,
+) -> None:
+    logger.info(f"source_dir: {source_dir.resolve()}")
+    assert source_dir.resolve().exists()
+    logger.info(f"output_dir: {output_dir.resolve()}")
+    output_dir.mkdir(exist_ok=True, parents=True)
+
+    dataset: Dataset = prepare_dataset(source_dir)
+    count_by_language = dataset.get_count_by_languages()
+
+    logger.info(f"{dataset.resources=}")
+    logger.info(f"{dataset.languages=}")
+    logger.info(f"{dataset.total_lines=}")
+
+    dataset.sort_languages()
+
+    for language in dataset.languages:
+        logger.info(f"{language}: {count_by_language[language] / dataset.total_lines * 100:.1f}%")
+
+    width = DEFAULT_WIDTH
+    height = (len(dataset.languages) + 6) * DEFAULT_LINE_HEIGHT
+    generate_diagram(dataset, width, height, output_dir / "dwarf-fortress-steam.svg")
+
+    dataset = dataset.with_minimal_translation_percent(1)
+    height = (len(dataset.languages) + 6) * DEFAULT_LINE_HEIGHT
+    generate_diagram(dataset, width, height, output_dir / "dwarf-fortress-steam-short.svg")
