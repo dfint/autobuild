@@ -7,7 +7,7 @@ import typer
 from babel.messages.pofile import read_po
 from langcodes import Language
 from loguru import logger
-from scour.scour import scourString as scour_string
+from scour.scour import scourString as scour_string  # noqa: N813
 
 DEFAULT_LINE_HEIGHT = 14
 
@@ -88,7 +88,7 @@ def prepare_chart_data(data: dict[str, dict[str, float]], labels: list[str], max
                             max=max_lines,
                             stepSize=10000,
                         ),
-                    )
+                    ),
                 ],
             ),
         ),
@@ -111,7 +111,7 @@ def get_chart(chart_data: dict[str, Any], file_format: str = "png", width: int =
     return response.content
 
 
-def prepare_dataset(path: Path):
+def prepare_dataset(path: Path) -> tuple[dict[str, dict[str, float]], set[str], int]:
     dataset: dict[str, dict[str, float]] = {}
     total_lines: int = 0
     languages: set[str] = set()
@@ -140,8 +140,8 @@ def generate_chart(
     output: Path,
     minimal_percent: int = 0,
     width: int = 600,
-    height: int | None = None
-):
+    height: int | None = None,
+) -> None:
     logger.info(f"source_dir: {source_dir.resolve()}")
     assert source_dir.resolve().exists()
     logger.info(f"output: {output.resolve()}")

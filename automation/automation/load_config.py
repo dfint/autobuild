@@ -7,10 +7,8 @@ from automation.models import Config
 
 
 def load_config(config_path: Path) -> Config:
-    with open(config_path) as config_file:
-        yaml = strictyaml.load(config_file.read())
-        config = Config.model_validate(yaml.data)
-        return config
+    yaml = strictyaml.load(config_path.read_text())
+    return Config.model_validate(yaml.data)
 
 
 def main(config_path: Path) -> None:

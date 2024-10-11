@@ -2,13 +2,12 @@ import asyncio
 import codecs
 import io
 import shutil
+from collections.abc import Iterable
 from pathlib import Path
-from typing import Iterable, Optional
 
 import alternative_encodings
-import df_translation_toolkit.convert.hardcoded_po_to_csv as hardcoded_po_to_csv
-import df_translation_toolkit.convert.objects_po_to_csv as objects_po_to_csv
 import typer
+from df_translation_toolkit.convert import hardcoded_po_to_csv, objects_po_to_csv
 from df_translation_toolkit.utils.csv_utils import writer
 from df_translation_toolkit.utils.po_utils import simple_read_po
 from loguru import logger
@@ -36,11 +35,10 @@ def load_po_file(file_path: Path) -> list[tuple[str, str]]:
 
 
 async def convert_hardcoded(po_data: list[tuple[str, str]]) -> Iterable[tuple[str, str]]:
-    prepared_dictionary = hardcoded_po_to_csv.prepare_dictionary(po_data)
-    return prepared_dictionary
+    return hardcoded_po_to_csv.prepare_dictionary(po_data)
 
 
-async def convert_objects(po_data: bytes, errors_file) -> str:
+async def convert_objects(po_data: bytes, errors_file: io.BytesIO) -> str:
     po_data = io.StringIO(po_data.decode(encoding="utf-8"))
     result = io.StringIO(newline="")
     await asyncio.to_thread(objects_po_to_csv.convert, po_data, result, errors_file)
@@ -110,7 +108,7 @@ def process_objects(
 
 
 @logger.catch(reraise=True)
-async def process(language: LanguageInfo, config: Config):
+async def process(language: LanguageInfo, config: Config) -> None:
     translation_build_directory = config.working_directory / "translation_build"
     csv_directory = translation_build_directory / "csv" / language.name
     csv_directory.mkdir(parents=True, exist_ok=True)
@@ -143,7 +141,7 @@ async def process(language: LanguageInfo, config: Config):
     logger.info(f"{with_objects_csv_file_path.relative_to(config.working_directory)} written")
 
 
-async def process_all(config: Config):
+async def process_all(config: Config) -> None:
     await asyncio.gather(*(process(language, config) for language in config.languages))
 
 
@@ -151,7 +149,7 @@ app = typer.Typer()
 
 
 @app.command()
-def main(working_directory: Optional[Path]):
+def main(working_directory: Path | None) -> None:
     config = load_config(working_directory / "config.yaml")
     config.working_directory = working_directory
     asyncio.run(process_all(config))

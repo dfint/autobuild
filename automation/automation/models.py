@@ -1,5 +1,4 @@
 from pathlib import Path
-from typing import Optional
 
 from pydantic import BaseModel
 
@@ -16,5 +15,5 @@ class SourceInfo(BaseModel):
 
 class Config(BaseModel):
     source: SourceInfo
-    working_directory: Optional[Path] = None
+    working_directory: Path | None = None
     languages: list[LanguageInfo]
