@@ -1,7 +1,6 @@
-from collections.abc import Iterable
 from pathlib import Path
 from types import SimpleNamespace
-from typing import Any, NamedTuple, NewType
+from typing import Any, NamedTuple
 
 import requests
 import typer
@@ -11,10 +10,6 @@ from loguru import logger
 from scour.scour import scourString as scour_string  # noqa: N813
 
 DEFAULT_LINE_HEIGHT = 14
-
-
-LanguageName = NewType("LanguageName", str)
-ResourceName = NewType("ResourceName", str)
 
 
 class StringWithContext(NamedTuple):
@@ -28,7 +23,16 @@ class CountTranslatedLinesResult(NamedTuple):
     notranslated_entries: set[StringWithContext]
 
 
-def translated_lines(path: Path) -> CountTranslatedLinesResult:
+class DiagramData(NamedTuple):
+    # total_lines_count: int
+    languages: list[str]
+    translated_lines: dict[str, int]
+    dataset: dict[str, dict[str, float]]
+    width: int
+    height: int | None = None
+
+
+def count_translated_lines(path: Path) -> CountTranslatedLinesResult:
     entries: int = 0
     translated_entries: set[StringWithContext] = set()
     notranslated_entries: set[StringWithContext] = set()
@@ -47,16 +51,16 @@ def translated_lines(path: Path) -> CountTranslatedLinesResult:
     return CountTranslatedLinesResult(entries, translated_entries, notranslated_entries)
 
 
-def resource_stat(path: Path) -> tuple[dict[LanguageName, int], int]:
+def resource_stat(path: Path) -> tuple[dict[str, int], int]:
     path = Path(path)
-    output: dict[LanguageName, int] = {}
+    output: dict[str, int] = {}
     total_lines: int = 0
     all_translated: set[StringWithContext] = set()
     all_notranslated: set[StringWithContext] = set()
 
     for file in sorted(filter(Path.is_file, path.glob("*.po"))):
-        language = LanguageName(Language.get(file.stem).display_name())
-        result = translated_lines(file)
+        language = Language.get(file.stem).display_name()
+        result = count_translated_lines(file)
         translated_count = len(result.translated_entries)
         output[language] = translated_count
 
@@ -70,11 +74,7 @@ def resource_stat(path: Path) -> tuple[dict[LanguageName, int], int]:
     return output, total_lines - notranslate_count
 
 
-def prepare_chart_data(
-    data: dict[ResourceName, dict[LanguageName, float]],
-    labels: list[LanguageName],
-    max_lines: int,
-) -> dict[str, Any]:
+def prepare_chart_data(*, data: dict[str, dict[str, float]], labels: list[str], max_lines: int) -> dict[str, Any]:
     datasets = [
         dict(
             label=resource,
@@ -120,15 +120,15 @@ def get_chart(chart_data: dict[str, Any], file_format: str = "png", width: int =
     return response.content
 
 
-def prepare_dataset(path: Path) -> tuple[dict[ResourceName, dict[LanguageName, float]], set[LanguageName], int]:
-    dataset: dict[ResourceName, dict[LanguageName, float]] = {}
+def prepare_dataset(path: Path) -> tuple[dict[str, dict[str, float]], set[str], int]:
+    dataset: dict[str, dict[str, float]] = {}
     total_lines: int = 0
-    languages: set[LanguageName] = set()
+    languages: set[str] = set()
 
     for resource_directory in sorted(filter(Path.is_dir, path.glob("*"))):
         logger.info(f"processing directory: {resource_directory}")
         resource_stats, resource_total_lines = resource_stat(resource_directory)
-        dataset[ResourceName(resource_directory.name)] = resource_stats
+        dataset[resource_directory.name] = resource_stats
         logger.info(f"{resource_total_lines=}")
         total_lines += resource_total_lines
         languages.update(resource_stats.keys())
@@ -140,11 +140,29 @@ def minify_svg(data: bytes) -> bytes:
     return scour_string(data.decode("utf-8"), options=SimpleNamespace(strip_ids=True, shorten_ids=True)).encode("utf-8")
 
 
+def generate_diagram(diagram_data: DiagramData, output: Path) -> None:
+    chart_data = prepare_chart_data(
+        data=diagram_data.dataset,
+        labels=diagram_data.languages,
+        max_lines=diagram_data.total_lines,
+    )
+    file_format = output.suffix[1:]
+
+    height = diagram_data.height or (len(diagram_data.languages) + 6) * DEFAULT_LINE_HEIGHT
+    chart = get_chart(chart_data, file_format=file_format, width=diagram_data.width, height=height)
+
+    if file_format == "svg":
+        chart = minify_svg(chart)
+
+    output.write_bytes(chart)
+    logger.info(f"{output.name} chart file is saved")
+
+
 app = typer.Typer()
 
 
 @app.command()
-def generate_chart(
+def generate(
     source_dir: Path,
     output: Path,
     minimal_percent: int = 0,
@@ -157,56 +175,34 @@ def generate_chart(
     output.parent.mkdir(exist_ok=True, parents=True)
 
     dataset, languages, total_lines = prepare_dataset(source_dir)
-    count_by_language: dict[LanguageName, int] = {
-        language: sum(item[language] for item in dataset.values()) for language in languages
-    }
+    count_by_language = {language: sum(item[language] for item in dataset.values()) for language in languages}
 
-    if minimal_percent:
-        languages = filter_languages_by_minmal_translation_count(
-            languages=languages,
-            count_by_language=count_by_language,
-            minimal_count=minimal_percent / 100 * total_lines,
-        )
-
-    languages = sort_languages(languages, count_by_language)
+    languages = sorted(languages, key=lambda language: (-count_by_language[language], language))
     logger.info(f"resources={list(dataset.keys())}")
     logger.info(f"{languages=}")
     logger.info(f"{total_lines=}")
     assert total_lines, "Empty result"
 
+    if minimal_percent:
+        languages = [
+            language for language in languages if count_by_language[language] / total_lines > minimal_percent / 100
+        ]
+
     for language in languages:
         logger.info(f"{language}: {count_by_language[language] / total_lines * 100:.1f}%")
 
-    height = height or (len(languages) + 6) * DEFAULT_LINE_HEIGHT
-    generate_diagram(dataset, languages, total_lines, width, height, output)
+    generate_diagram(
+        DiagramData(
+            languages=languages,
+            dataset=dataset,
+            translated_lines=total_lines,
+            width=width,
+            height=height,
+        ),
+        output,
+    )
 
 
-def filter_languages_by_minmal_translation_count(
-    languages: Iterable[LanguageName],
-    count_by_language: dict[LanguageName, int],
-    minimal_count: int,
-) -> list[LanguageName]:
-    return [language for language in languages if count_by_language[language] > minimal_count]
-
-
-def sort_languages(languages: Iterable[LanguageName], count_by_language: dict[LanguageName, int]) -> list[LanguageName]:
-    return sorted(languages, key=lambda language: (-count_by_language[language], language))
-
-
-def generate_diagram(
-    dataset: dict[ResourceName, dict[LanguageName, float]],
-    languages: list[LanguageName],
-    total_lines: int,
-    width: int,
-    height: int,
-    output: Path,
-) -> None:
-    chart_data = prepare_chart_data(dataset, languages, total_lines)
-    file_format = output.suffix[1:]
-    chart = get_chart(chart_data, file_format=file_format, width=width, height=height)
-
-    if file_format == "svg":
-        chart = minify_svg(chart)
-
-    output.write_bytes(chart)
-    logger.info(f"{output.name} chart file is saved")
+@app.command()
+def generage_two() -> None:
+    pass

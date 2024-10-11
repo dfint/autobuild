@@ -72,7 +72,6 @@ def process_objects(
     config: Config,
     exclude: set[str] | None = None,
 ) -> None:
-
     if not exclude:
         exclude = set()
 
