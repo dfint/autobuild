@@ -62,8 +62,7 @@ jobs:
     - name: Generate diagram
       run: |
         cd automation
-        poetry run progress_diagram ../translations-backup/translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.svg
-        poetry run progress_diagram ../translations-backup/translations/dwarf-fortress-steam ../images/dwarf-fortress-steam-short.svg --minimal-percent=1
+        poetry run progress_diagram two_diagrams ../translations-backup/translations/dwarf-fortress-steam ../images
 
     - name: Push changes to the repository
       if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
