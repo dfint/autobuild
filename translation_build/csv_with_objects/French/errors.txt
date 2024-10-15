@@ -3362,6 +3362,10 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:giant moose calf:giant moose calves]'
 Problems:
 Error: Tag parts count mismatch
 
+Problematic tag pair: '[CASTE_NAME:armadillo sow:armadillo sows:armadillo sow]', '[CASTE_NAME:femelle tatou;femelles tatou:femelle tatou]'
+Problems:
+Error: Tag parts count mismatch
+
 Problematic tag pair: '[NAME:fire imp:fire imps:fire imp]', '[NAME:diablotin de feu:diablotins de feu]'
 Problems:
 Error: Tag parts count mismatch
