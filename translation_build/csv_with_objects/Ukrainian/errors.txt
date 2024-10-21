@@ -500,3 +500,7 @@ Problematic tag pair: '[TISSUE_NAME:chin whisker:STP]', '[TISSUE_NAME:вібри
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
+Problematic tag pair: '[ADJ:fisher berry]', '[NAME:рибальська ягода]'
+Problems:
+Error: Part 'ADJ' should not be translated
+
