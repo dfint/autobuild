@@ -11584,7 +11584,6 @@
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  Greetings from the woodlands.  We have much to discuss.","[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  나무의 땅에서 인사를 드립니다. 나눠야 할 이야기가 참 많습니다."
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  Again on behalf of the Merchants' Guild, let me bid farewell to you and your stout dwarves.","[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: 다시한번 상인조합의 대표로 당신과 튼튼한 여러분들의 안녕을 기원합니다."
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  On behalf of the Merchants' Guild, let me extend greetings to your people.  There is much to discuss.","[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: 상인조합의 대표로 여러분들에게 인사를 드립니다. 이야기를 좀 해보도록 할까요?"
-"[TEXTVIEWER:elves_standard1]","[TEXTVIEWER:els_standard1]"
 " were unable to complete the "," 완료하지 못했습니다 "
 "Jobs removed from unpowered ","전원이 꺼진 상태에서 제거된 작업 "
 "branch","나뭇가지"

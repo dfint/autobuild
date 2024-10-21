@@ -12041,7 +12041,6 @@
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  Greetings, noble dwarf.  There is much to discuss.","[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  Приветствую тебя, благородный дварф.  Нам есть что обсудить."
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  Again on behalf of the Merchants' Guild, let me bid farewell to you and your stout dwarves.","[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  И снова от имени гильдии торговцев позвольте мне попрощаться с вами и вашими крепкими дварфами."
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  On behalf of the Merchants' Guild, let me extend greetings to your people.  There is much to discuss.","[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  От имени Гильдии торговцев позвольте мне передать приветствие вашему народу.  Нам есть что обсудить."
-"[TEXTVIEWER:human_standard_bye]","[TEXTVIEWER:human_standard_bye]."
 " were unable to complete the "," не удалось завершить "
 "Jobs removed from unpowered ","Работы удалены из отключённого "
 "branch","ветка"
