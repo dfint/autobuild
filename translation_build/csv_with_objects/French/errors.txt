@@ -3366,6 +3366,18 @@ Problematic tag pair: '[CASTE_NAME:armadillo sow:armadillo sows:armadillo sow]',
 Problems:
 Error: Tag parts count mismatch
 
+Problematic tag pair: '[CASTE_NAME:elk man:elk men:elk man]', '[CASTE_NAME:homme wapiti : hommes wapitis]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[GENERAL_CHILD_NAME:wolverine kit:wolverine kits]', '[GENERAL_CHILD_NAME:petit de glouton;petits de glouton]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[DESCRIPTION:A tiny shelled ocean creature with many long legs.  It has two large pincers on its front limbs.]', '[DESCRIPTION:Une minuscule créature marine à carapace et à longues pattes. Elle possède deux grandes pinces sur ses pattes avant.]\n\xa0'
+Problems:
+Error: Extra spaces at the beginning or at the end of the translation
+
 Problematic tag pair: '[NAME:fire imp:fire imps:fire imp]', '[NAME:diablotin de feu:diablotins de feu]'
 Problems:
 Error: Tag parts count mismatch
