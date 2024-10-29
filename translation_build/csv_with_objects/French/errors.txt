@@ -3374,9 +3374,29 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:wolverine kit:wolverine kits]', '[GEN
 Problems:
 Error: Tag parts count mismatch
 
+Problematic tag pair: '[CDI:VERB:spit a glob of molten rock:spits a glob of molten rock:]', '[CDI:VERB:cracher une boule de roche fondue:crache une boule de roche fondue]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[GENERAL_CHILD_NAME:blind cave bear cub:blind cave bear cubs]', '[GENERAL_CHILD_NAME:ourson des cavernes aveugle:oursons des cavernes aveugles:ourson des cavernes aveugle]'
+Problems:
+Error: Tag parts count mismatch
+
 Problematic tag pair: '[DESCRIPTION:A tiny shelled ocean creature with many long legs.  It has two large pincers on its front limbs.]', '[DESCRIPTION:Une minuscule créature marine à carapace et à longues pattes. Elle possède deux grandes pinces sur ses pattes avant.]\n\xa0'
 Problems:
 Error: Extra spaces at the beginning or at the end of the translation
+
+Problematic tag pair: '[GENERAL_CHILD_NAME:leopard seal pup:leopard seal pups]', '[GENERAL_CHILD_NAME:jeune léopard de mer:jeunes léopards de mer:]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', "[CDI:VERB:gicler de l'encre:gicle de l'encre]"
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[MANNERISM_EYES:eyes]', '[MANNERISM_EYES:yeux'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
 
 Problematic tag pair: '[DESCRIPTION:A huge, predatory reptile with pale, colorless scales and red eyes.  It lives in caves and ambushes its prey.]', '[DESCRIPTION:Un énorme reptile prédateur aux écailles pâles et incolores et aux yeux rouges. Il vit dans des grottes et tend des embuscades à ses proies.'
 Problems:
@@ -3409,6 +3429,10 @@ Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:kangaroo doe:kangaroo does:kangaroo doe]', '[CASTE_NAME:fkangourou femelle:kangourous femelles]'
 Problems:
 Error: Tag parts count mismatch
+
+Problematic tag pair: '[DESCRIPTION:A small spiny mammal with a long snout.  It eats ants and termites and reproduces by laying eggs.]', '[DESCRIPTION:Petit mammifère épineux au long museau. Il se nourrit de fourmis et de termites et se reproduit en pondant des œufs.'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
 
 Problematic tag pair: '[ADJECTIVE:large, serrated]', '[ADJECTIVE:grand:dentelé]'
 Problems:
