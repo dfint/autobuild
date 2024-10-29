@@ -3378,6 +3378,10 @@ Problematic tag pair: '[DESCRIPTION:A tiny shelled ocean creature with many long
 Problems:
 Error: Extra spaces at the beginning or at the end of the translation
 
+Problematic tag pair: '[DESCRIPTION:A huge, predatory reptile with pale, colorless scales and red eyes.  It lives in caves and ambushes its prey.]', '[DESCRIPTION:Un énorme reptile prédateur aux écailles pâles et incolores et aux yeux rouges. Il vit dans des grottes et tend des embuscades à ses proies.'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
 Problematic tag pair: '[NAME:fire imp:fire imps:fire imp]', '[NAME:diablotin de feu:diablotins de feu]'
 Problems:
 Error: Tag parts count mismatch
