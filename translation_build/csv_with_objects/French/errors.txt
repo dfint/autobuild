@@ -3240,7 +3240,7 @@ Problematic tag pair: '[NAME:red-winged blackbird man:red-winged blackbird men:r
 Problems:
 Error: Extra spaces at the beginning or at the end of the translation
 
-Problematic tag pair: '[CASTE_NAME:giant red-winged blackbird:giant red-winged blackbirds:giant red-winged blackbird]', '[CASTE_NAME:merle à ailes rouges géant:merles à ailes rouges géant:merle à ailes rouges géant] '
+Problematic tag pair: '[CASTE_NAME:giant red-winged blackbird:giant red-winged blackbirds:giant red-winged blackbird]', '[CASTE_NAME:merle à ailes rouges géant:merles à ailes rouges géants:merle à ailes rouges géant] '
 Problems:
 Error: Extra spaces at the beginning or at the end of the translation
 
@@ -3284,10 +3284,6 @@ Problematic tag pair: '[DESCRIPTION:This is a medium-sized creature with legs an
 Problems:
 Error: Wrong tag translation format (fix square brackets)
 
-Problematic tag pair: '[CASTE_NAME:crow woman:crow women:crow woman]', '[CASTE_NAME:femme-corneillefemmes-corneilles:femme-corneille]'
-Problems:
-Error: Tag parts count mismatch
-
 Problematic tag pair: '[DESCRIPTION:A tiny, brightly-colored tree parrot.  It uses its tongue to feed on plants.]', '[DESCRIPTION:Un minuscule perroquet arboricole aux couleurs vives. Il utilise sa langue pour se nourrir de plantes].'
 Problems:
 Error: Wrong tag translation format (fix square brackets)
@@ -3318,10 +3314,6 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:spiny dogfish pup:spiny dogfish pups]
 Problems:
 Error: Tag parts count mismatch
 
-Problematic tag pair: '[GENERAL_CHILD_NAME:common skate pup:common skate pups]', '[GENERAL_CHILD_NAME:bébé raie commune:raies communes:bébés raie commune]'
-Problems:
-Error: Tag parts count mismatch
-
 Problematic tag pair: '[PREFSTRING:distinct markings]', 'marques distinctes'
 Problems:
 Error: Wrong tag translation format (fix square brackets)
@@ -3338,7 +3330,15 @@ Problematic tag pair: '[STATE_ADJ:LIQUID:platypus venom]', '[STATE_ADJ:LIQUID\\:
 Problems:
 Error: Part 'LIQUID' should not be translated
 
-Problematic tag pair: '[GENERAL_CHILD_NAME:giant alligator hatchling:giant alligator hatchlings]', '[GENERAL_CHILD_NAME:alligator géant nouveau-né:alligators géants nouveau-nés:alligator géant nouveau-né]'
+Problematic tag pair: '[CASTE_NAME:giant black bear:giant black bears:giant black bear]', '[CASTE_NAME:ours noir géant:ours noirs géants:ours noir géant]q'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[GENERAL_CHILD_NAME:alligator hatchling:alligator hatchlings]', '[GENERAL_CHILD_NAME:jeune alligator:jeunes alligators'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant alligator hatchling:giant alligator hatchlings]', '[GENERAL_CHILD_NAME:jeune alligator géant:jeunes alligators géants:jeune alligator géant]'
 Problems:
 Error: Tag parts count mismatch
 
@@ -3358,15 +3358,7 @@ Problematic tag pair: '[TLCM_NOUN:other hair:SINGULAR]', '[TLCM_NOUN:autres chev
 Problems:
 Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 
-Problematic tag pair: '[GENERAL_CHILD_NAME:giant moose calf:giant moose calves]', '[GENERAL_CHILD_NAME:jeune élan géant:jeunes élans géants:jeune élan géant]'
-Problems:
-Error: Tag parts count mismatch
-
 Problematic tag pair: '[CASTE_NAME:armadillo sow:armadillo sows:armadillo sow]', '[CASTE_NAME:femelle tatou;femelles tatou:femelle tatou]'
-Problems:
-Error: Tag parts count mismatch
-
-Problematic tag pair: '[CASTE_NAME:elk man:elk men:elk man]', '[CASTE_NAME:homme wapiti : hommes wapitis]'
 Problems:
 Error: Tag parts count mismatch
 
@@ -3374,11 +3366,23 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:wolverine kit:wolverine kits]', '[GEN
 Problems:
 Error: Tag parts count mismatch
 
-Problematic tag pair: '[CDI:VERB:spit a glob of molten rock:spits a glob of molten rock:]', '[CDI:VERB:cracher une boule de roche fondue:crache une boule de roche fondue]'
+Problematic tag pair: '[CDI:VERB:spit a glob of molten rock:spits a glob of molten rock:]', '[CDI:VERB:crachez une boule de roche fondue:crache une boule de roche fondue]'
 Problems:
 Error: Tag parts count mismatch
 
 Problematic tag pair: '[GENERAL_CHILD_NAME:blind cave bear cub:blind cave bear cubs]', '[GENERAL_CHILD_NAME:ourson des cavernes aveugle:oursons des cavernes aveugles:ourson des cavernes aveugle]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CDI:VERB:spray a stream of steaming juice:sprays a stream of steaming juice:]', '[CDI:VERB:pulvérisez un jet de jus fumant:pulvérise un jet de jus fumant]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[STATE_NAME_ADJ:GAS:boiling cave blob fluid]', '[STATE_NAME_ADJ:vapeur de fluide de blob des cavernes]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', "[CDI:VERB:giclez de l'encre:gicle de l'encre]"
 Problems:
 Error: Tag parts count mismatch
 
@@ -3390,11 +3394,55 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:leopard seal pup:leopard seal pups]',
 Problems:
 Error: Tag parts count mismatch
 
-Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', "[CDI:VERB:gicler de l'encre:gicle de l'encre]"
+Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', "[CDI:VERB:giclez de l'encre:gicle de l'encre]"
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[NAME:giant sponge:giant sponges:giant sponge]', '[NAME:éponge géante:éponges géantes]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CASTE_NAME:giant sponge:giant sponges:giant sponge]', '[CASTE_NAME:éponge géante:éponges géantes]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[NAME:giant elephant seal:giant elephant seals:giant elephant seal]', '[NAME:éléphant de mer géant:éléphants de mer géants]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CASTE_NAME:giant elephant seal:giant elephant seals:giant elephant seal]', '[CASTE_NAME:éléphant de mer géant:éléphants de mer géants]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[NAME:giant snapping turtle:giant snapping turtles:giant snapping turtle]', '[NAME:tortue serpentine géante:tortues serpentines géantes]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CASTE_NAME:giant snapping turtle:giant snapping turtles:giant snapping turtle]', '[CASTE_NAME:tortue serpentine géante:tortues serpentines géantes]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[NAME:giant leech:giant leeches:giant leech]', '[NAME:sangsue géante:sangsues géantes]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CASTE_NAME:giant leech:giant leeches:giant leech]', '[CASTE_NAME:sangsue géante:sangsues géantes]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CASTE_NAME:axolotl woman:axolotl women:axolotl woman]', '[CASTE_NAME:femme-axolotl:femmes:axolotls:femme-axolotl]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', "[CDI:VERB:giclez de l'encre:gicle de l'encre]"
 Problems:
 Error: Tag parts count mismatch
 
 Problematic tag pair: '[MANNERISM_EYES:eyes]', '[MANNERISM_EYES:yeux'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[ATTACK_VERB:bite:bites]', 'mordez:mord][ATTACK_VERB:mordez:mord]'
 Problems:
 Error: Wrong tag translation format (fix square brackets)
 
