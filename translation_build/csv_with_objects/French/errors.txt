@@ -4002,6 +4002,14 @@ Problematic tag pair: '[NAME:blueberry bush]', '[NAME:buisson de myrtilles'
 Problems:
 Error: Wrong tag translation format (fix square brackets)
 
+Problematic tag pair: '[GROWTH_NAME:finger lime flower:STP]', '[GROWTH_NAME:fleur de tilleul à doigt:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:finger lime:STP]', '[GROWTH_NAME:petit tilleul à doigt:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
 Problematic tag pair: '[GROWTH_NAME:cherry flower:STP]', '[GROWTH_NAME:fleur de cerisier:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
