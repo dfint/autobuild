@@ -3458,6 +3458,10 @@ Problematic tag pair: '[MANNERISM_EYES:eyes]', '[MANNERISM_EYES:yeux'
 Problems:
 Error: Wrong tag translation format (fix square brackets)
 
+Problematic tag pair: '[TSU_NOUN:hair:SINGULAR]', '[TSU_NOUN:cheveu:SINGULAR]caractéristiques terrifiantes'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
 Problematic tag pair: '[ATTACK_VERB:bite:bites]', 'mordez:mord][ATTACK_VERB:mordez:mord]'
 Problems:
 Error: Wrong tag translation format (fix square brackets)
