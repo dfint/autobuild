@@ -3434,6 +3434,22 @@ Problematic tag pair: '[CASTE_NAME:axolotl woman:axolotl women:axolotl woman]', 
 Problems:
 Error: Tag parts count mismatch
 
+Problematic tag pair: '[NAME:giant hamster:giant hamsters:giant hamster]', '[NAME:hamster géant:hamsters géants]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CASTE_NAME:giant hamster:giant hamsters:giant hamster]', '[CASTE_NAME:hamster géant:hamsters géants]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[NAME:giant hedgehog:giant hedgehogs:giant hedgehog]', '[NAME:hérisson géant:hérissons géants]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CASTE_NAME:giant hedgehog:giant hedgehogs:giant hedgehog]', '[CASTE_NAME:hérisson géant:hérissons géants]'
+Problems:
+Error: Tag parts count mismatch
+
 Problematic tag pair: '[CDI:VERB:squirt ink:squirts ink:]', "[CDI:VERB:giclez de l'encre:gicle de l'encre]"
 Problems:
 Error: Tag parts count mismatch
