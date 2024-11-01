@@ -15,7 +15,7 @@ df-translation-toolkit = {version = "^0.7.0", source = "dfint"}
 alternative-encodings = {version = "^0.3.1", source = "dfint"}
 langcodes = {extras = ["data"], version = "^3.4.1"}
 scour = "^0.38.2"
-tqdm = "^4.66.5"
+tqdm = "^4.66.6"
 
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.7.1"
