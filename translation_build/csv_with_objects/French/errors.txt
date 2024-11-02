@@ -3546,6 +3546,14 @@ Problematic tag pair: '[CASTE_NAME:giant kingsnake:giant kingsnakes:giant kingsn
 Problems:
 Error: Tag parts count mismatch
 
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant hyena cub:giant hyena cubs]', '[GENERAL_CHILD_NAME:hyène géante:hyènes géantes:hyène géante]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CASTE_NAME:stoat jill:stoat jills:stoat jill]', '[CASTE_NAME:hermine femelle-hermines femelles:hermine femelle]'
+Problems:
+Error: Tag parts count mismatch
+
 Problematic tag pair: '[ADJECTIVE:large, serrated]', '[ADJECTIVE:grand:dentelé]'
 Problems:
 Error: Tag parts count mismatch
@@ -4107,6 +4115,58 @@ Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
 Problematic tag pair: '[GROWTH_NAME:asparagus flower:STP]', "[GROWTH_NAME:fleur d'asperge:STP]"
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:bambara groundnut flower:STP]', "[GROWTH_NAME:fleur d'arachide bambara:STP]"
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:bambara groundnut pod:STP]', "[GROWTH_NAME:gousse d'arachide bambara:STP]"
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:string bean flower:STP]', "[GROWTH_NAME:fleur d'haricot vert:STP]"
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:string bean pod:STP]', "[GROWTH_NAME:gousse d'haricot vert:STP]"
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:broad bean flower:STP]', '[GROWTH_NAME:fleur de fève:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:broad bean pod:STP]', '[GROWTH_NAME:gousse de fève:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:beet flower spike:STP]', '[GROWTH_NAME:épi floral de betterave:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:bitter melon flower:STP]', '[GROWTH_NAME:fleur de melon amer:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:bitter melon:STP]', '[GROWTH_NAME:melon amer:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:cabbage flower spike:STP]', '[GROWTH_NAME:épi floral de chou:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[SEED:caper seed:caper seeds:]', '[SEED:graine de câpre:graine de câpres]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[GROWTH_NAME:caper:STP]', '[GROWTH_NAME:câprier:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:caper flower:STP]', '[GROWTH_NAME:fleur de câprier:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
