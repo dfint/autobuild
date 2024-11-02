@@ -3514,9 +3514,37 @@ Problematic tag pair: '[CASTE_NAME:kangaroo doe:kangaroo does:kangaroo doe]', '[
 Problems:
 Error: Tag parts count mismatch
 
+Problematic tag pair: '[CASTE_NAME:koala man:koala men:koala man]', '[CASTE_NAME:homme-koala:hommes-koalas-homme-koala]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CASTE_NAME:koala woman:koala women:koala woman]', '[CASTE_NAME:femme-koala:femmes-koalas-femme-koala]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[NAME:koala man:koala men:koala man]', '[NAME:homme-koala:hommes-koalas-homme-koala]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[NAME:giant koala:giant koalas:giant koala]', '[NAME:koala géant:koalas géants]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CASTE_NAME:giant koala:giant koalas:giant koala]', '[CASTE_NAME:koala géant:koalas géants]'
+Problems:
+Error: Tag parts count mismatch
+
 Problematic tag pair: '[DESCRIPTION:A small spiny mammal with a long snout.  It eats ants and termites and reproduces by laying eggs.]', '[DESCRIPTION:Petit mammifère épineux au long museau. Il se nourrit de fourmis et de termites et se reproduit en pondant des œufs.'
 Problems:
 Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[NAME:giant kingsnake:giant kingsnakes:giant kingsnake]', '[NAME:serpent royal géant:serpents rois géants]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CASTE_NAME:giant kingsnake:giant kingsnakes:giant kingsnake]', '[CASTE_NAME:serpent royal géant:serpents rois géants]'
+Problems:
+Error: Tag parts count mismatch
 
 Problematic tag pair: '[ADJECTIVE:large, serrated]', '[ADJECTIVE:grand:dentelé]'
 Problems:
