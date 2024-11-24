@@ -3444,3 +3444,23 @@ Problematic tag pair: '[GENERAL_CHILD_NAME:giant bluejay hatchling:giant bluejay
 Problems:
 Error: Tag parts count mismatch
 
+Problematic tag pair: '[GENERAL_CHILD_NAME:kiwi chick:kiwi chicks]', '[GENERAL_CHILD_NAME:kiwi non:kiwi non:]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[GENERAL_CHILD_NAME:ostrich chick:ostrich chicks]', '[GENERAL_CHILD_NAME:đà điểu non:đà điểu non:]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CASTE_NAME:ostrich cock:ostrich cocks:ostrich cock]', '[CASTE_NAME:  chim đà điểu trống: chim đà điểu trống:: chim đà điểu trống]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant ostrich chick:giant ostrich chicks]', '[GENERAL_CHILD_NAME:đà điểu non:đà điểu non:]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[CASTE_NAME:giant ostrich cock:giant ostrich cocks:giant ostrich cock]', '[CASTE_NAME:  chim đà điểu trống: chim đà điểu trống:: chim đà điểu trống]'
+Problems:
+Error: Tag parts count mismatch
+
