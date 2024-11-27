@@ -3210,7 +3210,7 @@ Problematic tag pair: '[TISSUE_NAME:scale:STP]', '[TISSUE_NAME:Skala:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[IS_GEM:morion:STP:]', '[IS_GEM:Morion:STP:]'
+Problematic tag pair: '[IS_GEM:morion:STP:]', '[IS_GEM:Rauchquarz:STP:]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
