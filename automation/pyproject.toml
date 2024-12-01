@@ -13,7 +13,7 @@ pydantic = "^2.9"
 strictyaml = "^1.7.3"
 df-translation-toolkit = {version = "^0.7.0", source = "dfint"}
 alternative-encodings = {version = "^0.3.1", source = "dfint"}
-langcodes = {extras = ["data"], version = "^3.4.1"}
+langcodes = {extras = ["data"], version = "^3.5.0"}
 scour = "^0.38.2"
 tqdm = "^4.66.6"
 
