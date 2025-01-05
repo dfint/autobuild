@@ -52,7 +52,7 @@ jobs:
     - name: Install library and dependencies
       run: |
         cd automation
-        poetry install --no-interaction --no-dev
+        poetry install --no-interaction --without dev
 
     - name: Process po files
       run: |
