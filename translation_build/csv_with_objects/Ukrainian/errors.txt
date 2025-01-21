@@ -1,290 +1,20 @@
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:права передня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:ліва передня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:права задня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:ліва задня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:права передня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:ліва передня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:права задня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:ліва задня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:права передня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:ліва передня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:права задня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:ліва задня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:права передня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:ліва передня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:права задня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:ліва задня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:права передня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:ліва передня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:права задня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:ліва задня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA1:right first leg:STP]', '[BP:RA1:права перша нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA1:left first leg:STP]', '[BP:LA1:ліва перша нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA2:right second leg:STP]', '[BP:RA2:права друга нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA2:left second leg:STP]', '[BP:LA2:ліва друга нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA3:right third leg:STP]', '[BP:RA3:права третя нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA3:left third leg:STP]', '[BP:LA3:ліва третя нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RLA:right lower foreleg:STP]', '[BP:RLA:права нижня кінцівка:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LLA:left lower foreleg:STP]', '[BP:LLA:ліва нижня кінцівка:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA2:right second leg:STP]', '[BP:RA2:права друга нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA2:left second leg:STP]', '[BP:LA2:ліва друга нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA3:right third leg:STP]', '[BP:RA3:права третя нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA3:left third leg:STP]', '[BP:LA3:ліва третя нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA1:right first leg:STP]', '[BP:RA1:права перша нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA1:left first leg:STP]', '[BP:LA1:ліва перша нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA2:right second leg:STP]', '[BP:RA2:права друга нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA2:left second leg:STP]', '[BP:LA2:ліва друга нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA3:right third leg:STP]', '[BP:RA3:права третя нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA3:left third leg:STP]', '[BP:LA3:ліва третя нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA1:right first leg:STP]', '[BP:RA1:права перша нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA1:left first leg:STP]', '[BP:LA1:ліва перша нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA2:right second leg:STP]', '[BP:RA2:права друга нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA2:left second leg:STP]', '[BP:LA2:ліва друга нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA3:right third leg:STP]', '[BP:RA3:права третя нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA3:left third leg:STP]', '[BP:LA3:ліва третя нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RTC:right tentacle club:STP]', '[BP:RTC:Праве бойове щупальце:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BODYGLOSS:LEG_STUMP:leg:stump:legs:stumps]', 'LEG_STUMP:нога:обрубок:ноги:обрубки]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[BODYGLOSS:INSECT_LOWERBODY:lower body:abdomen:lower bodies:abdomens]', 'INSECT_LOWERBODY:нижня частина тіла:живіт:нижня частина тіла:животи]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[BP:TRUNK:trunk:STP]', '[BP:TRUNK:хобот:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:GIZZARD:gizzard:STP]', '[BP:GIZZARD:тельбухи:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RF_J:right ankle:STP]', '[BP:RF_J:права щиколотка:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LF_J:left ankle:STP]', '[BP:LF_J:ліва щиколотка:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:NECK:upper spine:STP]', '[BP:NECK:шийний відділ хребта:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:UPPERSPINE:middle spine:STP]', '[BP:UPPERSPINE:грудний відділ хребта:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LOWERSPINE:lower spine:STP]', '[BP:LOWERSPINE:поперековий відділ хребта:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RHORN:right antler:STP]', '[BP:RHORN: Правий ріг:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LHORN:left antler:STP]', '[BP:RHORN: лівий ріг:STP]'
+Problematic tag pair: '[BP:LHORN:left antler:STP]', '[BP:RHORN:лівий гіллястий ріг:ліві гіллясті роги]'
 Problems:
 Error: Part 'LHORN' should not be translated
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:L_TRUE_RIB:left true rib:STP]', '[BP:L_TRUE_RIB:справжні ребра зліва:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:R_TRUE_RIB:right true rib:STP]', '[BP:L_TRUE_RIB:справжні ребра справа:STP]'
+Problematic tag pair: '[BP:R_TRUE_RIB:right true rib:STP]', '[BP:L_TRUE_RIB:праве справжнє ребро:праві справжні ребра]'
 Problems:
 Error: Part 'R_TRUE_RIB' should not be translated
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:L_FALSE_RIB:left false rib:STP]', '[BP:L_TRUE_RIB:несправжні ребра зліва:STP]'
+Problematic tag pair: '[BP:L_FALSE_RIB:left false rib:STP]', '[BP:L_TRUE_RIB:ліве несправжнє ребро:ліві несправжні ребра]'
 Problems:
 Error: Part 'L_FALSE_RIB' should not be translated
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:R_FALSE_RIB:right false rib:STP]', '[BP:L_TRUE_RIB:несправжні ребра справа:STP]'
-Problems:
-Error: Part 'R_FALSE_RIB' should not be translated
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:L_FLOATING_RIB:left floating rib:STP]', '[BP:L_TRUE_RIB:нижнє ребро зліва:STP]'
+Problematic tag pair: '[BP:L_FLOATING_RIB:left floating rib:STP]', '[BP:L_TRUE_RIB:ліве вільне ребро:левые свободные рёбра]'
 Problems:
 Error: Part 'L_FLOATING_RIB' should not be translated
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:R_FLOATING_RIB:right floating rib:STP]', '[BP:L_TRUE_RIB:нижнє ребро справа:STP]'
-Problems:
-Error: Part 'R_FLOATING_RIB' should not be translated
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RU_INCISOR:right upper incisor:STP]', 'RU_INCISOR:правий верхній різець:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[BP:LU_INCISOR:left upper incisor:STP]', 'LU_INCISOR:лівий верхній різець:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[BP:RL_INCISOR:right lower incisor:STP]', 'RL_INCISOR:правий нижній різець:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[BP:LL_INCISOR:left lower incisor:STP]', 'LL_INCISOR:лівий нижній різець:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
 
 Problematic tag pair: '[BP:U_F_TOOTH:upper front tooth:upper front teeth]', 'U_F_TOOTH:верхній передній зуб:верхні передні зуби]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[INDIVIDUAL_NAME:first upper right incisor:STP]', 'перший правий верхній різець:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[INDIVIDUAL_NAME:first upper left incisor:STP]', 'перший верхній лівий різець:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[INDIVIDUAL_NAME:second upper right incisor:STP]', 'другий верхній правий різець:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[INDIVIDUAL_NAME:second upper left incisor:STP]', 'другий верхній лівий різець:STP]'
 Problems:
 Error: Wrong tag translation format (fix square brackets)
 
@@ -300,147 +30,75 @@ Problematic tag pair: '[BP:L_F_TOOTH:lower front tooth:lower front teeth]', 'L_F
 Problems:
 Error: Wrong tag translation format (fix square brackets)
 
-Problematic tag pair: '[INDIVIDUAL_NAME:first lower right incisor:STP]', 'перший нижній правий різець:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[INDIVIDUAL_NAME:first lower left incisor:STP]', 'перший нижній лівий різець:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[INDIVIDUAL_NAME:second lower right incisor:STP]', 'другий нижній правий різець:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[INDIVIDUAL_NAME:second lower left incisor:STP]', 'другий нижній лівий різець:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[INDIVIDUAL_NAME:lower right canine:STP]', 'нижнє праве ікло:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[INDIVIDUAL_NAME:lower left canine:STP]', 'нижнє ліве ікло:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
 Problematic tag pair: '[BP:U_R_B_TOOTH:upper right back tooth:upper right back teeth]', 'U_R_B_TOOTH:верхній правий задній зуб:верхні праві задні зуби]'
 Problems:
 Error: Wrong tag translation format (fix square brackets)
 
-Problematic tag pair: '[INDIVIDUAL_NAME:first upper right premolar:STP]', 'перший верхній правий премоляр:STP]'
+Problematic tag pair: '[INDIVIDUAL_NAME:second upper right premolar:STP]', '[INDIVIDUAL_NAME:другий верхній правий премоляр:STP]'
 Problems:
-Error: Wrong tag translation format (fix square brackets)
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[INDIVIDUAL_NAME:second upper right premolar:STP]', 'другий верхній правий премоляр:STP]'
+Problematic tag pair: '[INDIVIDUAL_NAME:first upper right molar:STP]', '[INDIVIDUAL_NAME:перший верхній правий моляр:STP]'
 Problems:
-Error: Wrong tag translation format (fix square brackets)
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[INDIVIDUAL_NAME:first upper right molar:STP]', 'перший верхній правий моляр:STP]'
+Problematic tag pair: '[INDIVIDUAL_NAME:second upper right molar:STP]', '[INDIVIDUAL_NAME:другий верхній правий моляр:STP]'
 Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[INDIVIDUAL_NAME:second upper right molar:STP]', 'другий верхній правий моляр:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
 Problematic tag pair: '[BP:L_R_B_TOOTH:lower right back tooth:lower right back teeth]', 'L_R_B_TOOTH:нижній правий задній зуб:нижні праві задні зуби]'
 Problems:
 Error: Wrong tag translation format (fix square brackets)
 
-Problematic tag pair: '[INDIVIDUAL_NAME:first lower right premolar:STP]', 'перший нижній правий премоляр:STP]'
+Problematic tag pair: '[INDIVIDUAL_NAME:first lower right premolar:STP]', '[INDIVIDUAL_NAME:перший нижній правий премоляр:STP]'
 Problems:
-Error: Wrong tag translation format (fix square brackets)
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[INDIVIDUAL_NAME:second lower right premolar:STP]', 'другий нижній правий премоляр:STP]'
+Problematic tag pair: '[INDIVIDUAL_NAME:second lower right premolar:STP]', '[INDIVIDUAL_NAME:другий нижній правий премоляр:STP]'
 Problems:
-Error: Wrong tag translation format (fix square brackets)
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[INDIVIDUAL_NAME:first lower right molar:STP]', 'перший нижній правий моляр:STP]'
+Problematic tag pair: '[INDIVIDUAL_NAME:first lower right molar:STP]', '[INDIVIDUAL_NAME:перший нижній правий моляр:STP]'
 Problems:
-Error: Wrong tag translation format (fix square brackets)
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
 Problematic tag pair: '[INDIVIDUAL_NAME:second lower right molar:STP]', '[INDIVIDUAL_NAME:перший нижній правий моляр:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:U_L_B_TOOTH:upper left back tooth:upper left back teeth]', 'first lower right molar:STP]'
+Problematic tag pair: '[INDIVIDUAL_NAME:first upper left premolar:STP]', '[INDIVIDUAL_NAME:перший верхній лівий премоляр:STP]'
 Problems:
-Error: Wrong tag translation format (fix square brackets)
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[INDIVIDUAL_NAME:first upper left premolar:STP]', 'перший верхній лівий премоляр:STP]'
+Problematic tag pair: '[INDIVIDUAL_NAME:second upper left premolar:STP]', '[INDIVIDUAL_NAME:другий верхній лівий премоляр:STP]'
 Problems:
-Error: Wrong tag translation format (fix square brackets)
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[INDIVIDUAL_NAME:second upper left premolar:STP]', 'другий верхній лівий премоляр:STP]'
+Problematic tag pair: '[INDIVIDUAL_NAME:first upper left molar:STP]', '[INDIVIDUAL_NAME:перший верхній лівий моляр:STP]'
 Problems:
-Error: Wrong tag translation format (fix square brackets)
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[INDIVIDUAL_NAME:first upper left molar:STP]', 'перший верхній лівий моляр:STP]'
+Problematic tag pair: '[INDIVIDUAL_NAME:second upper left molar:STP]', '[INDIVIDUAL_NAME:другий верхній лівий моляр:STP]'
 Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[INDIVIDUAL_NAME:second upper left molar:STP]', 'другий верхній лівий моляр:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
 Problematic tag pair: '[BP:L_L_B_TOOTH:lower left back tooth:lower left back teeth]', 'L_L_B_TOOTH:нижній лівий задній зуб:нижні ліві задні зуби]'
 Problems:
 Error: Wrong tag translation format (fix square brackets)
 
-Problematic tag pair: '[INDIVIDUAL_NAME:first lower left premolar:STP]', 'перший нижній лівий премоляр:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[INDIVIDUAL_NAME:second lower left premolar:STP]', 'другий нижній лівий премоляр:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[INDIVIDUAL_NAME:first lower left molar:STP]', 'перший нижній лівий моляр:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[INDIVIDUAL_NAME:second lower left molar:STP]', 'другий нижній лівий моляр:STP]'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:права передня нога:STP]'
+Problematic tag pair: '[INDIVIDUAL_NAME:first lower left premolar:STP]', '[INDIVIDUAL_NAME:перший нижній лівий премоляр:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:ліва передня нога:STP]'
+Problematic tag pair: '[INDIVIDUAL_NAME:second lower left premolar:STP]', '[INDIVIDUAL_NAME:другий нижній лівий премоляр:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:права задня нога:STP]'
+Problematic tag pair: '[INDIVIDUAL_NAME:first lower left molar:STP]', '[INDIVIDUAL_NAME:перший нижній лівий моляр:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
-Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:ліва задня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA1:right first leg:STP]', '[BP:RA1:права перша нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA1:left first leg:STP]', '[BP:LA1:ліва перша нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA1:right first leg:STP]', '[BP:RA1:права перша нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA1:left first leg:STP]', '[BP:LA1:ліва перша нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA2:right second leg:STP]', '[BP:RA2:права друга нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA2:left second leg:STP]', '[BP:LA2:ліва друга нога:STP]'
+Problematic tag pair: '[INDIVIDUAL_NAME:second lower left molar:STP]', '[INDIVIDUAL_NAME:другий нижній лівий моляр:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
@@ -449,30 +107,6 @@ Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
 Problematic tag pair: '[BP:LA3:left third leg:STP]', '[BP:LA3:ліва третя нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:права передня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:ліва передня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RA:right front leg:STP]', '[BP:RA:права передня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LA:left front leg:STP]', '[BP:LA:ліва передня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:RL:right rear leg:STP]', '[BP:RL:права задня нога:STP]'
-Problems:
-Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-
-Problematic tag pair: '[BP:LL:left rear leg:STP]', '[BP:LL:ліва задня нога:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
