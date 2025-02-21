@@ -22,6 +22,10 @@ Problematic tag pair: '[DESCRIPTION:A tiny burrowing creature, found in moist so
 Problems:
 Error: Wrong tag translation format (fix square brackets)
 
+Problematic tag pair: '[DESCRIPTION:A worm-like creature with the torso of a man.]', '[DESCRIPTION:Хробакоподібна істота з тулубом людини].'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
 Problematic tag pair: '[DESCRIPTION:A small blue-crested bird living in temperate woodlands, known for its harsh chirps.]', '[DESCRIPTION:Невеликий синьошийний птах, що мешкає в лісах помірного поясу, знаний своїм різким щебетанням].'
 Problems:
 Error: Wrong tag translation format (fix square brackets)
