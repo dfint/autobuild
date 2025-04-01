@@ -9,7 +9,7 @@ readme = "README.md"
 python = "^3.10"
 typer = "^0.12.5"
 loguru = "^0.7.3"
-pydantic = "^2.10"
+pydantic = "^2.11"
 strictyaml = "^1.7.3"
 df-translation-toolkit = {version = "^0.7.0", source = "dfint"}
 alternative-encodings = {version = "^0.3.1", source = "dfint"}
