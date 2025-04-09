@@ -78,3 +78,39 @@ Problematic tag pair: '[BP:LH:left hand:STP]', '[BP:LH:sol el:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
+Problematic tag pair: '[BP:NK1:first neck:STP]', '[BP:NK1:birinci boyun:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:NK2:second neck:STP]', '[BP:NK2:ikinci boyun:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:NK3:third neck:STP]', '[BP:NK3:üçüncü boyun:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:NK4:fourth neck:STP]', '[BP:NK4:dördüncü boyun:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:NK5:fifth neck:STP]', '[BP:NK5:beşinci boyun:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:NK6:sixth neck:STP]', '[BP:NK6:altıncı boyun:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:NK7:seventh neck:STP]', '[BP:NK7:yedinci boyun:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:HD1:first head:STP]', '[BP:HD1:birinci kafa:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[BP:HD2:second head:STP]', '[BP:HD2:ikinci kafa:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
