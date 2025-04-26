@@ -90,6 +90,10 @@ Problematic tag pair: '[GROWTH_NAME:plum flower:STP]', '[GROWTH_NAME:kwiaty śli
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
+Problematic tag pair: '[GROWTH_NAME:willow pollen catkin:STP]', '[GROWTH_NAME:pyłek wierzby:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
 Problematic tag pair: '[GROWTH_NAME:coconut:STP]', '[GROWTH_NAME:kokos:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
