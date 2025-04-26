@@ -30,6 +30,22 @@ Problematic tag pair: '[DESCRIPTION:A medium-sized mammal that lives in the tree
 Problems:
 Error: Extra spaces at the beginning or at the end of the translation
 
+Problematic tag pair: '[SEED:caper seed:caper seeds:]', '[SEED:nasiono kaparu;nasiona kaparu:]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[GROWTH_NAME:caper leaf:caper leaves]', '[GROWTH_NAME:liść kaparu;liście kaparu]'
+Problems:
+Error: Tag parts count mismatch
+
+Problematic tag pair: '[GROWTH_NAME:caper:STP]', '[GROWTH_NAME:kapar:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:caper flower:STP]', '[GROWTH_NAME:kwiaty kaparu:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
 Problematic tag pair: '[SEED:long yam seed:long yam seeds:]', '[SEED:nasiono pochrzynu ołówkowego:nasiona pochrzynu ołówkowego]'
 Problems:
 Error: Tag parts count mismatch
