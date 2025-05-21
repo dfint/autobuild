@@ -4694,6 +4694,10 @@ Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 
+Problematic tag pair: '[DESCRIPTION:A medium-sized, flat fish.  It lives near the beach and will defend itself with sharp barbs.]', '[DESCRIPTION:Um, peixe achatado de médio porte. Ele mora perto da praia e vai se defender com farpas afiadas.] '
+Problems:
+Error: Extra spaces at the beginning or at the end of the translation
+
 Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
@@ -7561,7 +7565,7 @@ Error: Part '20000' should not be translated
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part '4000' should not be translated
 
-Problematic tag pair: '[ATTACK:BLUNT:100:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 100: 1000: greve: greves: pomo:]'
+Problematic tag pair: '[ATTACK:BLUNT:100:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 100: 1000:golpe:golpes:pomo:]'
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'BLUNT' should not be translated
@@ -7654,7 +7658,7 @@ Error: Part '100000' should not be translated
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part '8000' should not be translated
 
-Problematic tag pair: '[ATTACK:BLUNT:100:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 100: 1000: greve: greves: pomo:]'
+Problematic tag pair: '[ATTACK:BLUNT:100:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 100: 1000:golpe:golpes:pomo:]'
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'BLUNT' should not be translated
@@ -7672,7 +7676,7 @@ Error: Part '60000' should not be translated
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part '6000' should not be translated
 
-Problematic tag pair: '[ATTACK:BLUNT:100:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 100: 1000: greve: greves: pomo:]'
+Problematic tag pair: '[ATTACK:BLUNT:100:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 100: 1000:golpe:golpes:pomo:]'
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'BLUNT' should not be translated
@@ -7701,7 +7705,7 @@ Error: Part '60000' should not be translated
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part '8000' should not be translated
 
-Problematic tag pair: '[ATTACK:BLUNT:100:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 100: 1000: greve: greves: pomo:]'
+Problematic tag pair: '[ATTACK:BLUNT:100:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 100: 1000:golpe:golpes:pomo:]'
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'BLUNT' should not be translated
@@ -7714,7 +7718,7 @@ Problematic tag pair: '[ADJECTIVE:large]', '[Adjetivo: grande]'
 Problems:
 Error: Part 'ADJECTIVE' should not be translated
 
-Problematic tag pair: '[ATTACK:BLUNT:20:600:strike:strikes:pommel:]', '[ATTACK: BLUNT: 20: 600: greve: greves: pomo:]'
+Problematic tag pair: '[ATTACK:BLUNT:20:600:strike:strikes:pommel:]', '[ATTACK: BLUNT: 20: 600:golpe:golpes:pomo:]'
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'BLUNT' should not be translated
@@ -7734,7 +7738,7 @@ Error: Part '4000' should not be translated
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'NO_SUB' should not be translated
 
-Problematic tag pair: '[ATTACK:BLUNT:50:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 50: 1000: greve: greves: pomo:]'
+Problematic tag pair: '[ATTACK:BLUNT:50:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 50: 1000:golpe:golpes:pomo:]'
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'BLUNT' should not be translated
@@ -7752,7 +7756,7 @@ Error: Part '20000' should not be translated
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part '4000' should not be translated
 
-Problematic tag pair: '[ATTACK:BLUNT:50:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 50: 1000: greve: greves: pomo:]'
+Problematic tag pair: '[ATTACK:BLUNT:50:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 50: 1000:golpe:golpes:pomo:]'
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'BLUNT' should not be translated
@@ -7781,7 +7785,7 @@ Error: Part '30000' should not be translated
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part '6000' should not be translated
 
-Problematic tag pair: '[ATTACK:BLUNT:100:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 100: 1000: greve: greves: pomo:]'
+Problematic tag pair: '[ATTACK:BLUNT:100:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 100: 1000:golpe:golpes:pomo:]'
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'BLUNT' should not be translated
@@ -7821,7 +7825,7 @@ Error: Part '20000' should not be translated
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part '4000' should not be translated
 
-Problematic tag pair: '[ATTACK:BLUNT:100:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 100: 1000: greve: greves: pomo:]'
+Problematic tag pair: '[ATTACK:BLUNT:100:1000:strike:strikes:pommel:]', '[ATTACK: BLUNT: 100: 1000:golpe:golpes:pomo:]'
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'BLUNT' should not be translated
