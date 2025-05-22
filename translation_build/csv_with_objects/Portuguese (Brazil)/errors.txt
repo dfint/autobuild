@@ -4992,6 +4992,10 @@ Problematic tag pair: '[NAME:elephant man:elephant men:elephant man]', '[NAME:ho
 Problems:
 Error: Extra spaces at the beginning or at the end of the translation
 
+Problematic tag pair: '[GENERAL_CHILD_NAME:warthog piglet:warthog piglets]', '[GENERAL_CHILD_NAME:leitão de javali de guerra:leitões de javali de guerra] '
+Problems:
+Error: Extra spaces at the beginning or at the end of the translation
+
 Problematic tag pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: marfim]'
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
@@ -7007,6 +7011,10 @@ Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant wild boar piglet:giant wild boar piglets]', '[GENERAL_CHILD_NAME: leitão de javali gigante:leitões de javali gigante] '
+Problems:
+Error: Extra spaces at the beginning or at the end of the translation
+
 Problematic tag pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
@@ -7497,6 +7505,10 @@ Problematic tag pair: '[SQUAD:10:ranger:rangers]', '[SQUAD: 10: ranger: guardas 
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part '10' should not be translated
+
+Problematic tag pair: '[NAME:mail shirt:mail shirts]', '[NAME:camisa de malha:camisas de malha] '
+Problems:
+Error: Extra spaces at the beginning or at the end of the translation
 
 Problematic tag pair: '[ADJECTIVE:short]', '[Adjetivo: short]'
 Problems:
@@ -7993,7 +8005,7 @@ Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'ALL_SOLID' should not be translated
 
-Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:adamantine]', '[STATE_NAME_ADJ: ALL_SOLID: adamantine]'
+Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:adamantine]', '[STATE_NAME_ADJ: ALL_SOLID: adamantina]'
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'ALL_SOLID' should not be translated
@@ -8921,10 +8933,18 @@ Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'ALL_SOLID' should not be translated
 
-Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:raw adamantine]', '[STATE_NAME_ADJ: ALL_SOLID: adamantine cru]'
+Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:raw adamantine]', '[STATE_NAME_ADJ: ALL_SOLID: adamantina crua]'
 Problems:
 Error: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'ALL_SOLID' should not be translated
+
+Problematic tag pair: '[STATE_NAME_ADJ:LIQUID:molten raw adamantine]', '[STATE_NAME_ADJ:LIQUID: adamantina crua derretida] '
+Problems:
+Error: Extra spaces at the beginning or at the end of the translation
+
+Problematic tag pair: '[STATE_NAME_ADJ:GAS:boiling raw adamantine]', '[STATE_NAME_ADJ:GAS:adamantina crua fervente] '
+Problems:
+Error: Extra spaces at the beginning or at the end of the translation
 
 Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:slade]', '[STATE_NAME_ADJ: ALL_SOLID: Slade]'
 Problems:
