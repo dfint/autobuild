@@ -18,7 +18,7 @@ scour = "^0.38.2"
 tqdm = "^4.67.1"
 
 [tool.poetry.group.dev.dependencies]
-ruff = "^0.11.7"
+ruff = "^0.11.12"
 
 [[tool.poetry.source]]
 name = "dfint"
