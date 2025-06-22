@@ -3315,6 +3315,11 @@ Problematic tag pair: '[DESCRIPTION:A person with the head and neck of a giraffe
 Problems:
 Error: Extra spaces at the beginning or at the end of the translation
 
+Problematic tag pair: '[RETRACT_INTO_BP:BY_CATEGORY:SHELL:retract into <pro_pos> shell:retracts into <pro_pos> shell:come out of <pro_pos> shell:comes out of <pro_pos> shell]', '[RETRACT_INTO_BP:BY_CATEGORY:껍질:들어갔다 <pro_pos> 껍질:들어갔다 <pro_pos> 껍질:나왔다 <pro_pos> 껍질:나왔다 <pro_pos> 껍질] '
+Problems:
+Error: Extra spaces at the beginning or at the end of the translation
+Error: Part 'SHELL' should not be translated
+
 Problematic tag pair: '[NAME:floating guts:floating guts:floating guts]', '[NAME:이상한 부유물:이상한 부유물들]'
 Problems:
 Error: Tag parts count mismatch
@@ -3342,6 +3347,10 @@ Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[GAIT:WALK:Wamble:]', '[GAIT:WALK:비틀비틀 걷기]'
 Problems:
 Error: Tag parts count mismatch
+
+Problematic tag pair: '[RETRACT_INTO_BP:BY_CATEGORY:SHELL:retract into <pro_pos> shell:retracts into <pro_pos> shell:come out of <pro_pos> shell:comes out of <pro_pos> shell]', '[RETRACT_INTO_BP:BY_CATEGORY:껍질:들어갔다<pro_pos>껍질:들어갔다<pro_pos>껍질:나왔다<pro_pos> 껍질:나왔다<pro_pos>껍질]'
+Problems:
+Error: Part 'SHELL' should not be translated
 
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant chipmunk pup:giant chipmunk pups]', '[GENERAL_CHILD_NAME:새끼 거대 다람쥐:새끼 거대 다람쥐들:새끼 거대 다람쥐]'
 Problems:
@@ -4736,6 +4745,14 @@ Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
 Problematic tag pair: '[GROWTH_NAME:highwood flower:STP]', '[GROWTH_NAME:하이우드 꽃:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:larch needle:STP]', '[GROWTH_NAME:낙엽송 바늘:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic tag pair: '[GROWTH_NAME:larch seed cone:STP]', '[GROWTH_NAME:낙엽송 솔방울 씨앗:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
