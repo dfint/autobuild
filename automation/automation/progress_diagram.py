@@ -15,6 +15,10 @@ from tqdm import tqdm
 DEFAULT_WIDTH = 600
 DEFAULT_LINE_HEIGHT = 14
 
+EXCLUDE_LANGUAGES_FROM_NOTRANSLATED_COUNT = {
+    "Chinese (Simplified)",
+}
+
 
 LanguageName = NewType("LanguageName", str)
 ResourceName = NewType("ResourceName", str)
@@ -60,7 +64,7 @@ class Dataset:
         return self.with_languages(languages)
 
 
-def translated_lines(path: Path) -> CountTranslatedLinesResult:
+def count_translated_lines(path: Path) -> CountTranslatedLinesResult:
     entries: int = 0
     translated_entries: set[StringWithContext] = set()
     notranslated_entries: set[StringWithContext] = set()
@@ -79,27 +83,33 @@ def translated_lines(path: Path) -> CountTranslatedLinesResult:
     return CountTranslatedLinesResult(entries, translated_entries, notranslated_entries)
 
 
-def resource_stat(path: Path) -> tuple[dict[LanguageName, int], int]:
+@dataclass
+class ResourceStats:
+    stats_per_language: dict[LanguageName, int]
+    total_lines: int
+
+
+def get_resource_stat(path: Path) -> ResourceStats:
     path = Path(path)
-    output: dict[LanguageName, int] = {}
+    stats_per_language: dict[LanguageName, int] = {}
     total_lines: int = 0
-    all_translated: set[StringWithContext] = set()
     all_notranslated: set[StringWithContext] = set()
+    translated_items_per_language: dict[LanguageName, int] = {}
 
     for file in tqdm(sorted(filter(Path.is_file, path.glob("*.po"))), leave=False):
         language = LanguageName(Language.get(file.stem).display_name())
-        result = translated_lines(file)
-        translated_count = len(result.translated_entries)
-        output[language] = translated_count
+        translated_lines_info = count_translated_lines(file)
+        translated_items_per_language[language] = translated_lines_info.translated_entries
 
-        total_lines = max(total_lines, result.total_lines_count)
-        all_translated.update(result.translated_entries)
-        all_notranslated.update(result.notranslated_entries)
+        total_lines = max(total_lines, translated_lines_info.total_lines_count)
 
-    # Estimate number of lines with "notranslate" tag on transifex
-    notranslate_count = len(all_notranslated - all_translated)
+        if language not in EXCLUDE_LANGUAGES_FROM_NOTRANSLATED_COUNT:
+            all_notranslated &= translated_lines_info.notranslated_entries
 
-    return output, total_lines - notranslate_count
+    for language, translated_items in translated_items_per_language.items():
+        stats_per_language[language] = len(translated_items - all_notranslated)
+
+    return ResourceStats(stats_per_language, total_lines - len(all_notranslated))
 
 
 def prepare_chart_data(dataset: Dataset) -> dict[str, Any]:
@@ -155,11 +165,11 @@ def prepare_dataset(path: Path) -> Dataset:
 
     for resource_directory in sorted(filter(Path.is_dir, path.glob("*"))):
         logger.info(f"processing directory: {resource_directory}")
-        resource_stats, resource_total_lines = resource_stat(resource_directory)
-        data[ResourceName(resource_directory.name)] = resource_stats
-        logger.info(f"{resource_total_lines=}")
-        total_lines += resource_total_lines
-        languages.update(resource_stats.keys())
+        resource_stats = get_resource_stat(resource_directory)
+        data[ResourceName(resource_directory.name)] = resource_stats.stats_per_language
+        logger.info(f"{resource_stats.total_lines=}")
+        total_lines += resource_stats.total_lines
+        languages.update(resource_stats.stats_per_language.keys())
 
     return Dataset(data=data, languages=languages, total_lines=total_lines)
 
