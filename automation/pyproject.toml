@@ -32,8 +32,6 @@ build-backend = "poetry.core.masonry.api"
 [tool.poetry.scripts]
 # poetry run process ../
 process = "automation.process:app"
-# poetry run progress_diagram ../translations-backup/translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.svg
-progress_diagram = "automation.progress_diagram:app"
 
 [tool.ruff]
 target-version = "py310"

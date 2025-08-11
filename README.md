@@ -20,7 +20,3 @@ If the language is missing on transifex too, create a request to add the languag
 Keep in mind, that some languages cannot be used with Dwarf Fortress at the moment (at least with our version of **df-steam-hook**): in particular, no languages with rigt-to-left and hieroglyphic wrighting systems are supported.
 
 There are forks of **df-steam-hook** for [Korean](https://github.com/Kheeman/df-steam-hook) and [Chinese](https://github.com/trotsky1997/df-steam-hook), so for these languages try to contact owners of these repositories.
-
-## Translation Progress
-
-![Chart](images/dwarf-fortress-steam.svg)
