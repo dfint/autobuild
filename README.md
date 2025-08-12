@@ -1,6 +1,9 @@
 # autobuild
 
-An automated repository which builds csv files with a translation for several languages to use with [dfint/df-steam-hook-rs](https://github.com/dfint/df-steam-hook-rs) (and earlier with [dfint/df-steam-hook](https://github.com/dfint/df-steam-hook)). It updates twice a day on data from [dfint/translations-backup](https://github.com/dfint/translations-backup).
+> [!IMPORTANT]  
+> You don't need to put things together manually anymore. Just use the [installer](https://github.com/dfint/installer) or the [package builder](https://dfint-package-build.streamlit.app).
+
+This is an automated repository which builds csv files with a translation for several languages to use with [dfint/df-steam-hook-rs](https://github.com/dfint/df-steam-hook-rs) (and earlier with [dfint/df-steam-hook](https://github.com/dfint/df-steam-hook)). It updates twice a day on data from [dfint/translations-backup](https://github.com/dfint/translations-backup).
 
 Ready to use csv files are in the [translation_build](https://github.com/dfint/autobuild/tree/main/translation_build) directory.
 It contains two more directories: `csv` and `csv_with_objects`. The first one contains csv files with text only from `hardcoded` resource on transifex (only text from the exe file of the game). The second one additionaly contains text from the `objects` resource (animals, ores, stones, plants and other things).
