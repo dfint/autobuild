@@ -10,7 +10,7 @@ on:
       - main
     paths:
       - 'automation/pyproject.toml'
-      - 'automation/poetry.lock'
+      - 'automation/uv.lock'
       - '**.py'
       - 'config.yaml'
       - '.github/workflows/build.yml'
@@ -20,7 +20,7 @@ on:
       - main
     paths:
       - 'automation/pyproject.toml'
-      - 'automation/poetry.lock'
+      - 'automation/uv.lock'
       - '**.py'
       - 'config.yaml'
       - '.github/workflows/build.yml'
@@ -39,25 +39,26 @@ jobs:
     - name: Checkout and update the translation-backup submodule
       run: git submodule update --init --remote
 
-    - name: Install Poetry
-      run: pipx install poetry
-
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: 3.11
-        cache: "poetry"
-        cache-dependency-path: automation/poetry.lock
+        python-version: 3.12
+
+    - name: Install uv
+      uses: astral-sh/setup-uv@v6
+      with:
+        version: latest
 
     - name: Install library and dependencies
       run: |
         cd automation
-        poetry install --no-interaction --without dev
+        uv sync --no-group dev
+        pipx install poethepoet
 
     - name: Process po files
       run: |
         cd automation
-        poetry run process ../
+        poe process ../
 
     - name: Push changes to the repository
       if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}

@@ -12,7 +12,7 @@ def load_config(config_path: Path) -> Config:
 
 
 def main(config_path: Path) -> None:
-    from pprint import pprint
+    from pprint import pprint  # noqa: PLC0415
 
     pprint(load_config(config_path).model_dump(), width=120)
 

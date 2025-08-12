@@ -1,38 +1,34 @@
-[tool.poetry]
+[project]
 name = "automation"
 version = "0.1.0"
 description = ""
-authors = ["insolor <insolor@gmail.com>"]
+authors = [{ name = "insolor", email = "insolor@gmail.com" }]
+requires-python = ">=3.12"
 readme = "README.md"
+dependencies = [
+    "typer>=0.15.4,<0.16",
+    "loguru>=0.7.3,<0.8",
+    "pydantic~=2.11",
+    "strictyaml>=1.7.3,<2",
+    "df-translation-toolkit>=0.8.0,<0.9",
+    "alternative-encodings>=0.3.1,<0.4",
+    "tqdm>=4.67.1,<5",
+]
 
-[tool.poetry.dependencies]
-python = "^3.10"
-typer = "^0.15.4"
-loguru = "^0.7.3"
-pydantic = "^2.11"
-strictyaml = "^1.7.3"
-df-translation-toolkit = {version = "^0.8.0", source = "dfint"}
-alternative-encodings = {version = "^0.3.1", source = "dfint"}
-tqdm = "^4.67.1"
+[dependency-groups]
+dev = ["ruff>=0.12.7,<0.13"]
 
-[tool.poetry.group.dev.dependencies]
-ruff = "^0.12.7"
-
-[[tool.poetry.source]]
+[[tool.uv.index]]
 name = "dfint"
 url = "https://dfint.github.io/pypi-index/"
-priority = "explicit"
+explicit = true
 
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
-
-[tool.poetry.scripts]
-# poetry run process ../
-process = "automation.process:app"
+[tool.uv.sources]
+df-translation-toolkit = { index = "dfint" }
+alternative-encodings = { index = "dfint" }
 
 [tool.ruff]
-target-version = "py310"
+target-version = "py312"
 line-length = 120
 
 [tool.ruff.lint]
@@ -43,3 +39,6 @@ ignore = [
     "C408",
     "T203",
 ]
+
+[tool.poe.tasks]
+process.script = "automation.process:app"
