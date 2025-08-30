@@ -1,5 +1,5 @@
 # automation
 
 ```commandline
-poetry run process ../
+uv run process ../
 ```
