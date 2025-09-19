@@ -36,7 +36,7 @@ jobs:
       with:
         name: data
         path: deploy
-        include-hidden-file: true
+        include-hidden-files: true
 
   deploy_to_gh_pages:
     runs-on: ubuntu-latest
