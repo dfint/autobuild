@@ -1,0 +1,52 @@
+Problematic tag pair: '[TOOLTIP:Use tallow (rendered fat) or oil here with lye to make soap.]', '[TOOLTIP:Використовуйте сало (витоплений жир) або олію з лугом, щоб зробити мило].'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[TOOLTIP:A useful workshop for pressing liquids from various sources. Some plants might need to be milled first before they can be used.  Empty jugs are required to store the liquid products.]', '[TOOLTIP:Корисна майстерня для пресування рідин з різних джерел. Деякі рослини, можливо, доведеться спочатку подрібнити, перш ніж їх можна буде використовувати. Порожні глечики потрібні для зберігання рідких продуктів].'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[DESCRIPTION:A squat amphibian with leathery skin, found in relatively dry areas.]', '[DESCRIPTION:Земноводна зі згрубілою шкірою, що мешкають у відносно сухих районах].'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[DESCRIPTION:A dark green man with the distinct head of a toad.]', '[DESCRIPTION:Темно-зелений чоловік з чітко вираженою головою жаби].'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[DESCRIPTION:A huge monster in the shape of a toad.]', '[DESCRIPTION:Величезне чудовисько у формі жаби].'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[DESCRIPTION:A tiny burrowing creature, found in moist soil.  It is legless, long and thin.]', '[DESCRIPTION:Крихітна риюча істота, що мешкає у вологому ґрунті. Вона безнога, довга і тонка].'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[DESCRIPTION:A worm-like creature with the torso of a man.]', '[DESCRIPTION:Хробакоподібна істота з тулубом людини].'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[DESCRIPTION:A small blue-crested bird living in temperate woodlands, known for its harsh chirps.]', '[DESCRIPTION:Невеликий синьошийний птах, що мешкає в лісах помірного поясу, знаний своїм різким щебетанням].'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[DESCRIPTION:A person with the head and wings of a bluejay.]', '[DESCRIPTION:Людина з головою і крилами сойки].'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[DESCRIPTION:A person with the head and wings of a cardinal.]', '[DESCRIPTION:Людина з головою і крилами кардинала].'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[DESCRIPTION:A huge monster in the form of a cardinal.]', '[DESCRIPTION:Величезне чудовисько в образі кардинала].'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[DESCRIPTION:A tiny, brightly-colored tree parrot.  It uses its tongue to feed on plants.]', '[DESCRIPTION:Крихітний, яскраво забарвлений деревний папуга. Він використовує язик, щоб харчуватися рослинами].'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
+Problematic tag pair: '[DESCRIPTION:A large monster taking the shape of a tick.]', '[DESCRIPTION:Велике чудовисько у формі кліща].'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+
