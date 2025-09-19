@@ -1,0 +1,58 @@
+name: Deploy
+on:
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/deploy.yml'
+      - 'translation_build/**'
+
+  workflow_run:
+    workflows: 
+      - Build
+    branches: [main]
+    types: 
+      - completed
+
+permissions:
+  contents: write
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v5
+
+    - name: Prepare to deploy
+      run: |
+        mkdir deploy
+        cp -r translation_build deploy/translation_build
+        touch deploy/.nojekyll
+    
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: update-data
+        path: deploy
+
+  deploy_to_gh_pages:
+    runs-on: ubuntu-latest
+    needs: prepare
+    steps:
+    - uses: actions/checkout@v5
+
+    - name: Download artifact
+      uses: actions/download-artifact@v5
+      with:
+        name: update-data
+        path: deploy
+
+    - name: Deploy to Github Pages
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        git-config-name: github-actions[bot]
+        git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
+        folder: deploy
+        single-commit: true
