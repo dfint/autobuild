@@ -67,7 +67,7 @@ jobs:
         path: translation_build/csv
 
     - name: Upload csv_with_objects artifact
-      uses: actions/upload-artifact@v5
+      uses: actions/upload-artifact@v4
       with:
         name: artifact_csv
         path: translation_build/csv_with_objects
