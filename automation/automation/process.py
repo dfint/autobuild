@@ -11,6 +11,7 @@ import typer
 from df_translation_toolkit.convert import hardcoded_po_to_csv, objects_po_to_csv
 from df_translation_toolkit.utils.csv_utils import writer
 from df_translation_toolkit.utils.po_utils import simple_read_po
+from df_translation_toolkit.validation.validation_models import Diagnostics
 from loguru import logger
 
 from automation.load_config import load_config
@@ -37,13 +38,6 @@ def load_po_file(file_path: Path) -> list[tuple[str, str]]:
 
 async def convert_hardcoded(po_data: list[tuple[str, str]]) -> Iterable[tuple[str, str]]:
     return hardcoded_po_to_csv.prepare_dictionary(po_data)
-
-
-async def convert_objects(po_data: bytes, errors_file: io.BytesIO) -> str:
-    po_data_buffer = io.StringIO(po_data.decode(encoding="utf-8"))
-    result = io.StringIO(newline="")
-    await asyncio.to_thread(objects_po_to_csv.convert, po_data_buffer, result, errors_file)
-    return result.getvalue()
 
 
 def process_hardcoded(*, csv_file_path: Path, language: LanguageInfo, context: Context) -> Iterable[tuple[str, str]]:
@@ -90,18 +84,17 @@ def process_objects(
     po_data = load_po_file(file_path=po_file_path)
     po_data = [(source, translation) for source, translation in po_data if source not in exclude]
 
-    error_buffer = io.StringIO()
-    prepared_dictionary = objects_po_to_csv.prepare_dictionary(po_data, error_buffer)
+    diagnostics = Diagnostics()
+    prepared_dictionary = objects_po_to_csv.prepare_dictionary(po_data, diagnostics)
     filtered_dictionary = {source: translation for source, translation in prepared_dictionary if source not in exclude}
 
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
     csv_writer.writerows(cast("Iterable[list[str]]", filtered_dictionary.items()))
 
-    errors = error_buffer.getvalue()
-    if errors:
+    if diagnostics:
         with errors_file_path.open("w", encoding="utf-8") as errors_file:
-            errors_file.write(errors)
+            errors_file.write(str(diagnostics))
 
     with csv_file_path.open("ab") as csv_file:
         csv_file.write(codecs.encode(csv_data_buffer.getvalue(), encoding=language.encoding))

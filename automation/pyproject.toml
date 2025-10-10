@@ -3,14 +3,14 @@ name = "automation"
 version = "0.1.0"
 description = ""
 authors = [{ name = "insolor", email = "insolor@gmail.com" }]
-requires-python = ">=3.12"
+requires-python = ">=3.12,<3.13"
 readme = "README.md"
 dependencies = [
-    "typer>=0.15.4,<0.16",
+    "typer>=0.15.4,<0.20",
     "loguru>=0.7.3,<0.8",
-    "pydantic~=2.11",
+    "pydantic>=2,<3",
     "strictyaml>=1.7.3,<2",
-    "df-translation-toolkit>=0.8.0,<0.9",
+    "df-translation-toolkit>=0.9.0,<0.10",
     "alternative-encodings>=0.3.1,<0.4",
     "tqdm>=4.67.1,<5",
 ]
