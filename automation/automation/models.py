@@ -15,5 +15,9 @@ class SourceInfo(BaseModel):
 
 class Config(BaseModel):
     source: SourceInfo
-    working_directory: Path | None = None
     languages: list[LanguageInfo]
+
+
+class Context(BaseModel):
+    config: Config
+    working_directory: Path

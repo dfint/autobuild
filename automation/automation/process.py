@@ -4,6 +4,7 @@ import io
 import shutil
 from collections.abc import Iterable
 from pathlib import Path
+from typing import cast
 
 import alternative_encodings
 import typer
@@ -13,7 +14,7 @@ from df_translation_toolkit.utils.po_utils import simple_read_po
 from loguru import logger
 
 from automation.load_config import load_config
-from automation.models import Config, LanguageInfo
+from automation.models import Context, LanguageInfo
 
 alternative_encodings.register_all()
 
@@ -39,16 +40,16 @@ async def convert_hardcoded(po_data: list[tuple[str, str]]) -> Iterable[tuple[st
 
 
 async def convert_objects(po_data: bytes, errors_file: io.BytesIO) -> str:
-    po_data = io.StringIO(po_data.decode(encoding="utf-8"))
+    po_data_buffer = io.StringIO(po_data.decode(encoding="utf-8"))
     result = io.StringIO(newline="")
-    await asyncio.to_thread(objects_po_to_csv.convert, po_data, result, errors_file)
+    await asyncio.to_thread(objects_po_to_csv.convert, po_data_buffer, result, errors_file)
     return result.getvalue()
 
 
-def process_hardcoded(*, csv_file_path: Path, language: LanguageInfo, config: Config) -> Iterable[tuple[str, str]]:
+def process_hardcoded(*, csv_file_path: Path, language: LanguageInfo, context: Context) -> Iterable[tuple[str, str]]:
     po_file_path = get_po_file_path(
-        working_directory=config.working_directory,
-        project_name=config.source.project,
+        working_directory=context.working_directory,
+        project_name=context.config.source.project,
         resource_name="hardcoded_steam",
         language_code=language.code,
     )
@@ -57,7 +58,7 @@ def process_hardcoded(*, csv_file_path: Path, language: LanguageInfo, config: Co
 
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
-    csv_writer.writerows(prepared_dictionary)
+    csv_writer.writerows(cast("Iterable[list[str]]", prepared_dictionary))
 
     with csv_file_path.open("wb") as csv_file:
         csv_file.write(codecs.encode(csv_data_buffer.getvalue(), encoding=language.encoding))
@@ -69,7 +70,7 @@ def process_objects(
     *,
     csv_file_path: Path,
     language: LanguageInfo,
-    config: Config,
+    context: Context,
     exclude: set[str] | None = None,
 ) -> None:
     if not exclude:
@@ -81,8 +82,8 @@ def process_objects(
         errors_file_path.unlink()
 
     po_file_path = get_po_file_path(
-        working_directory=config.working_directory,
-        project_name=config.source.project,
+        working_directory=context.working_directory,
+        project_name=context.config.source.project,
         resource_name="objects",
         language_code=language.code,
     )
@@ -95,7 +96,7 @@ def process_objects(
 
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
-    csv_writer.writerows(filtered_dictionary.items())
+    csv_writer.writerows(cast("Iterable[list[str]]", filtered_dictionary.items()))
 
     errors = error_buffer.getvalue()
     if errors:
@@ -107,8 +108,8 @@ def process_objects(
 
 
 @logger.catch(reraise=True)
-async def process(language: LanguageInfo, config: Config) -> None:
-    translation_build_directory = config.working_directory / "translation_build"
+async def process(language: LanguageInfo, context: Context) -> None:
+    translation_build_directory = context.working_directory / "translation_build"
     csv_directory = translation_build_directory / "csv" / language.name
     csv_directory.mkdir(parents=True, exist_ok=True)
     hardcoded_csv_file_path = csv_directory / "dfint_dictionary.csv"
@@ -116,10 +117,10 @@ async def process(language: LanguageInfo, config: Config) -> None:
         process_hardcoded,
         csv_file_path=hardcoded_csv_file_path,
         language=language,
-        config=config,
+        context=context,
     )
 
-    logger.info(f"{hardcoded_csv_file_path.relative_to(config.working_directory)} written")
+    logger.info(f"{hardcoded_csv_file_path.relative_to(context.working_directory)} written")
 
     exclude = {first for first, _ in csv_hardcoded_data}
 
@@ -133,25 +134,25 @@ async def process(language: LanguageInfo, config: Config) -> None:
         process_objects,
         csv_file_path=with_objects_csv_file_path,
         language=language,
-        config=config,
+        context=context,
         exclude=exclude,
     )
 
-    logger.info(f"{with_objects_csv_file_path.relative_to(config.working_directory)} written")
+    logger.info(f"{with_objects_csv_file_path.relative_to(context.working_directory)} written")
 
 
-async def process_all(config: Config) -> None:
-    await asyncio.gather(*(process(language, config) for language in config.languages))
+async def process_all(context: Context) -> None:
+    await asyncio.gather(*(process(language, context) for language in context.config.languages))
 
 
 app = typer.Typer()
 
 
 @app.command()
-def main(working_directory: Path | None) -> None:
+def main(working_directory: Path) -> None:
     config = load_config(working_directory / "config.yaml")
-    config.working_directory = working_directory
-    asyncio.run(process_all(config))
+    context = Context(config=config, working_directory=working_directory)
+    asyncio.run(process_all(context))
 
 
 if __name__ == "__main__":
