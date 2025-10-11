@@ -42,3 +42,4 @@ ignore = [
 
 [tool.poe.tasks]
 process.script = "automation.process:app"
+create-mo.script = "automation.create_mo_files:app"

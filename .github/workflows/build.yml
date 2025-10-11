@@ -66,6 +66,42 @@ jobs:
         name: artifact_csv
         path: translation_build
 
+  produce-mo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+    - uses: actions/checkout@v5
+
+    - name: Checkout and update the translation-backup submodule
+      run: git submodule update --init --remote
+
+    - name: Set up Python
+      uses: actions/setup-python@v6
+      with:
+        python-version: 3.12
+
+    - name: Install uv
+      uses: astral-sh/setup-uv@v6
+      with:
+        version: latest
+
+    - name: Install library and dependencies
+      run: |
+        cd automation
+        uv sync --no-group dev
+        pipx install poethepoet
+
+    - name: Create mo files
+      run: |
+        cd automation
+        poe create-mo ../
+
+    - name: Upload mo artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: artifact_mo
+        path: translation_build
+
   push-changes:
     needs: produce-csv
     runs-on: ubuntu-latest
