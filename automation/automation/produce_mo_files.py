@@ -49,9 +49,8 @@ app = typer.Typer()
 
 
 @app.command()
-def main(working_directory: Path, destination_directory: Path | None = None) -> None:
+def main(working_directory: Path, destination_directory: Path) -> None:
     config = load_config(working_directory / "config.yaml")
-    destination_directory = destination_directory or working_directory / "translation_build"
     context = Context(config=config, working_directory=working_directory, destintion_directory=destination_directory)
     process_all(context)
 
