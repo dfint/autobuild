@@ -72,7 +72,10 @@ jobs:
     timeout-minutes: 60
     steps:
     - uses: actions/checkout@v5
-    
+
+    - name: Remove old data
+      run: rm -rf translation_build
+
     - name: Download artifacts
       uses: actions/download-artifact@v5
       with:
