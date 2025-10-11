@@ -15,19 +15,9 @@ from loguru import logger
 
 from automation.load_config import load_config
 from automation.models import Context, LanguageInfo
+from automation.utils import get_po_file_path
 
 alternative_encodings.register_all()
-
-
-def get_po_file_path(*, working_directory: Path, project_name: str, resource_name: str, language_code: str) -> Path:
-    return (
-        working_directory
-        / "translations-backup"
-        / "translations"
-        / project_name
-        / resource_name
-        / f"{language_code}.po"
-    )
 
 
 def load_po_file(file_path: Path) -> list[tuple[str, str]]:
@@ -96,7 +86,7 @@ def process_objects(
 
 
 @logger.catch(reraise=True)
-def process(language: LanguageInfo, context: Context) -> None:
+def process_language(language: LanguageInfo, context: Context) -> None:
     translation_build_directory = context.working_directory / "translation_build"
     csv_directory = translation_build_directory / "csv" / language.name
     csv_directory.mkdir(parents=True, exist_ok=True)
@@ -129,7 +119,7 @@ def process(language: LanguageInfo, context: Context) -> None:
 
 def process_all(context: Context) -> None:
     for language in context.config.languages:
-        process(language, context)
+        process_language(language, context)
 
 
 app = typer.Typer()
