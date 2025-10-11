@@ -92,7 +92,7 @@ def process_objects(
     csv_writer = writer(csv_data_buffer)
     csv_writer.writerows(cast("Iterable[list[str]]", filtered_dictionary.items()))
 
-    if diagnostics:
+    if diagnostics.contains_problems():
         with errors_file_path.open("w", encoding="utf-8") as errors_file:
             errors_file.write(str(diagnostics))
 
