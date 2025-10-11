@@ -1,4 +1,3 @@
-import asyncio
 import codecs
 import io
 import shutil
@@ -97,13 +96,12 @@ def process_objects(
 
 
 @logger.catch(reraise=True)
-async def process(language: LanguageInfo, context: Context) -> None:
+def process(language: LanguageInfo, context: Context) -> None:
     translation_build_directory = context.working_directory / "translation_build"
     csv_directory = translation_build_directory / "csv" / language.name
     csv_directory.mkdir(parents=True, exist_ok=True)
     hardcoded_csv_file_path = csv_directory / "dfint_dictionary.csv"
-    csv_hardcoded_data = await asyncio.to_thread(
-        process_hardcoded,
+    csv_hardcoded_data = process_hardcoded(
         csv_file_path=hardcoded_csv_file_path,
         language=language,
         context=context,
@@ -119,8 +117,7 @@ async def process(language: LanguageInfo, context: Context) -> None:
     with_objects_csv_file_path = csv_with_objects_directory / "dfint_dictionary.csv"
     shutil.copy(hardcoded_csv_file_path, with_objects_csv_file_path)
 
-    await asyncio.to_thread(
-        process_objects,
+    process_objects(
         csv_file_path=with_objects_csv_file_path,
         language=language,
         context=context,
@@ -130,8 +127,9 @@ async def process(language: LanguageInfo, context: Context) -> None:
     logger.info(f"{with_objects_csv_file_path.relative_to(context.working_directory)} written")
 
 
-async def process_all(context: Context) -> None:
-    await asyncio.gather(*(process(language, context) for language in context.config.languages))
+def process_all(context: Context) -> None:
+    for language in context.config.languages:
+        process(language, context)
 
 
 app = typer.Typer()
@@ -141,7 +139,7 @@ app = typer.Typer()
 def main(working_directory: Path) -> None:
     config = load_config(working_directory / "config.yaml")
     context = Context(config=config, working_directory=working_directory)
-    asyncio.run(process_all(context))
+    process_all(context)
 
 
 if __name__ == "__main__":
