@@ -1,0 +1,96 @@
+Problematic tag pair: '[BP:RFTOE4:fourth right finger:STP]', '[BP:RFTOE4:kvara dekstra manfingro:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:L_EYELID:left eyelid:STP]', '[BP:L_EYELID:maldekstra palpebro:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:R_EYELID:right eyelid:STP]', '[BP:R_EYELID:dekstra palpebro:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:HEAD_HORN_4:fourth horn:STP]', '[BP:kapo_HORN_4:kvara korno:kvaraj kornoj]'
+Problems:
+Error: Part 'HEAD_HORN_4' should not be translated
+Problematic tag pair: '[CV_NEW_TAG:GAIT:WALK:Slow Crawl:]', '[CV_NEW_TAG:GAIT:WALK:Malrapida Rampo]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:ostrich man:ostrich men:ostrich man]', '[CASTE_NAME:homstruto:homstrutoj:de homstruto]'
+Problems:
+Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:swan:swans:swan]', '[NAME:cigno:cignoj:de cigno] '
+Problems:
+Warning: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[ATTACK_VERB:kick:kicks]', '[ATTACK_VERB:ATTACK_VERB:piedbatas:piedbatas]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[GENERAL_CHILD_NAME:nurse shark pup:nurse shark pups]', '[GENERAL_CHILD_NAME:ginglimostomido:ginglimostomidoj:de ginglimostomo]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[DESCRIPTION:A huge predatory mammal covered in white hair.  It hunts the shores along tundra and glaciers.]', '[DESCRIPTION:Grandega predanta mamulo kovrita kun blanka hararo. Ĝi ĉasas laŭ la bordojn de la tundroj kaj la glaciejoj.}'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[TLCM_NOUN:flesh:SINGULAR]', '[TLCM_NOUN:karno:SiNGULAR]'
+Problems:
+Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+Problematic tag pair: '[DESCRIPTION:A tiny underground creature made of a mass of appendages resembling human fingers.  It creeps across the ground like a starfish and eats with a mouth on the bottom of its body.]', '1[DESCRIPTION:Eta subtera kreatiĵo farita el membromaso simila al homa manfingroj. Ĝi rampas trans la tereno kiel asterio kaj ĝi manĝas per buŝo en la fundo de sia korpo.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[STATE_NAME:GAS:boiling corrupted blood]', '[STATE_NAME:GAS:bolanta koruptita sango'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[STATE_NAME:ALL_SOLID:frozen cave blob fluid]', '[STATE_NAME:ALL:SOLID:glaciiĝita fluaĵo de kavbulo]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[STATE_NAME_ADJ:ALL_SOLID:frozen cave blob fluid]', '[STATE_NAME_ADJ:ALL:SOLID:de glaciiĝita fluaĵo de kavbulo]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[STATE_ADJ:GAS:boiling mog juice]', '[STATE_ADJ:GAS:GAS:de bolanta mogsuko]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[DESCRIPTION:A relatively large lizard.  It can be found in most climates, foraging for bugs during daylight hours.]', '[DESCRIPTION:Relative granda lacerto. Ĝi troviĝas en la plimulto de la klimatoj, ĉasante je insektojn tage.] '
+Problems:
+Warning: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[DESCRIPTION:A large reptile with a thick ridged shell.  It has been known to consume snakes and smaller turtles, and its bite can amputate fingers.]', '1[DESCRIPTION:Granda reptilio kun dika tubera karapaco. Ĝi estas konita por konsumi serpentojn kaj pli malgrandajn testudojn, kaj ĝia mordo povas amputi fingrojn.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:NOSE:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:BEAK:furaĝas en:furaĝas en]'
+Problems:
+Error: Part 'NOSE' should not be translated
+Problematic tag pair: '[STATE_NAME:GAS:boiling dwarven cheese]', '[STATE_NAME:GAS:bolanta dvarfa fromaĝo'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:monitor lizard man:monitor lizard men:monitor lizard man]', '[NAME:homvarano:homvaranoj]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[ROOT_AROUND:BY_CATEGORY:NOSE:root around in:roots around in]', '[ROOT_AROUND:BY_CATEGORY:BEAK:furaĝas en:furaĝas en]'
+Problems:
+Error: Part 'NOSE' should not be translated
+Problematic tag pair: '[PREPLURAL:suits of]', '[PREPLURAL::kunaĵoj de]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[PREPLURAL:pairs of]', '[PREPLURAL:]'
+Problems:
+Error: Translation should not be empty
+Problematic tag pair: '[ATTACK:EDGE:500:300:slash:slashes:NO_SUB:]', '[ATTACK:EDGE:500:500:tranĉvundas:tranĉvundas:NO_SUB:]'
+Problems:
+Error: Part '300' should not be translated
+Problematic tag pair: '[ATTACK:BLUNT:20000:6000:bash:bashes:shaft:]', '[ATTACK:BLUNT:20000:6000:frapas:frapas:fusto]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[IS_GEM:yellow jasper:STP:]', '[IS_GEM:flava jaspo:flavaj jaspoj]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[GROWTH_NAME:bilberry flower:STP]', '[GROWTH_NAME:floro de mirtelofloroj de mirtelo]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[GROWTH_NAME:apricot leaf:apricot leaves]', '[GROWTH_NAME:folio de abrikoto:folioj de abrikoto:]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[GROWTH_NAME:ginkgo seed:STP]', '[GROWTH_NAME:semo de ginko:semoj de ginko:]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[REAGENT:liquid container:]', '[REAGENT:likvaĵujo]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[REAGENT:milk of lime:]', '[REAGENT:kalklakto]'
+Problems:
+Error: Tag parts count mismatch
