@@ -103,7 +103,7 @@ jobs:
         path: translation_build
 
   push-changes:
-    needs: produce-csv
+    needs: [produce-csv, produce-mo]
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
