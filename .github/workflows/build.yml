@@ -55,10 +55,10 @@ jobs:
         uv sync --no-group dev
         pipx install poethepoet
 
-    - name: Process po files
+    - name: Produce csv files
       run: |
         cd automation
-        poe process ../
+        poe produce-csv ../
 
     - name: Upload csv artifact
       uses: actions/upload-artifact@v4
@@ -91,10 +91,10 @@ jobs:
         uv sync --no-group dev
         pipx install poethepoet
 
-    - name: Create mo files
+    - name: Produce mo files
       run: |
         cd automation
-        poe create-mo ../
+        poe produce-mo ../
 
     - name: Upload mo artifact
       uses: actions/upload-artifact@v4

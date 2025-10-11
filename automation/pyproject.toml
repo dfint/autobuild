@@ -41,5 +41,5 @@ ignore = [
 ]
 
 [tool.poe.tasks]
-process.script = "automation.process:app"
-create-mo.script = "automation.create_mo_files:app"
+produce-csv.script = "automation.produce_csv_files:app"
+produce-mo.script = "automation.produce_mo_files:app"
