@@ -45,7 +45,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "alternative-encodings", specifier = ">=0.3.1,<0.4", index = "https://dfint.github.io/pypi-index/" },
-    { name = "df-translation-toolkit", specifier = ">=0.11.2,<0.12", index = "https://dfint.github.io/pypi-index/" },
+    { name = "df-translation-toolkit", specifier = ">=0.12.0,<0.13", index = "https://dfint.github.io/pypi-index/" },
     { name = "loguru", specifier = ">=0.7.3,<0.8" },
     { name = "pydantic", specifier = ">=2,<3" },
     { name = "strictyaml", specifier = ">=1.7.3,<2" },
@@ -203,7 +203,7 @@ wheels = [
 
 [[package]]
 name = "df-translation-toolkit"
-version = "0.11.2"
+version = "0.12.0"
 source = { registry = "https://dfint.github.io/pypi-index/" }
 dependencies = [
     { name = "babel" },
@@ -215,7 +215,7 @@ dependencies = [
     { name = "unidecode" },
 ]
 wheels = [
-    { url = "https://github.com/dfint/df-translation-toolkit/releases/download/0.11.2/df_translation_toolkit-0.11.2-py3-none-any.whl" },
+    { url = "https://github.com/dfint/df-translation-toolkit/releases/download/0.12.0/df_translation_toolkit-0.12.0-py3-none-any.whl" },
 ]
 
 [[package]]
