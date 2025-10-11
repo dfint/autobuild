@@ -34,8 +34,7 @@ def process_resource(mo_directory: Path, language: LanguageInfo, resource: str, 
 
 @logger.catch(reraise=True)
 def process_language(language: LanguageInfo, context: Context) -> None:
-    translation_build_directory = context.working_directory / "translation_build"
-    mo_directory = translation_build_directory / "mo" / language.name
+    mo_directory = context.destintion_directory / "mo" / language.name
     mo_directory.mkdir(parents=True, exist_ok=True)
     for resource in ("objects", "text_set"):
         process_resource(mo_directory, language, resource, context)
@@ -50,9 +49,10 @@ app = typer.Typer()
 
 
 @app.command()
-def main(working_directory: Path) -> None:
+def main(working_directory: Path, destination_directory: Path | None = None) -> None:
     config = load_config(working_directory / "config.yaml")
-    context = Context(config=config, working_directory=working_directory)
+    destination_directory = destination_directory or working_directory / "translation_build"
+    context = Context(config=config, working_directory=working_directory, destintion_directory=destination_directory)
     process_all(context)
 
 

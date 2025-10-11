@@ -87,8 +87,7 @@ def process_objects(
 
 @logger.catch(reraise=True)
 def process_language(language: LanguageInfo, context: Context) -> None:
-    translation_build_directory = context.working_directory / "translation_build"
-    csv_directory = translation_build_directory / "csv" / language.name
+    csv_directory = context.destintion_directory / "csv" / language.name
     csv_directory.mkdir(parents=True, exist_ok=True)
     hardcoded_csv_file_path = csv_directory / "dfint_dictionary.csv"
     csv_hardcoded_data = process_hardcoded(
@@ -101,7 +100,7 @@ def process_language(language: LanguageInfo, context: Context) -> None:
 
     exclude = {first for first, _ in csv_hardcoded_data}
 
-    csv_with_objects_directory = translation_build_directory / "csv_with_objects" / language.name
+    csv_with_objects_directory = context.destintion_directory / "csv_with_objects" / language.name
     csv_with_objects_directory.mkdir(parents=True, exist_ok=True)
 
     with_objects_csv_file_path = csv_with_objects_directory / "dfint_dictionary.csv"
@@ -126,9 +125,10 @@ app = typer.Typer()
 
 
 @app.command()
-def main(working_directory: Path) -> None:
+def main(working_directory: Path, destination_directory: Path | None = None) -> None:
     config = load_config(working_directory / "config.yaml")
-    context = Context(config=config, working_directory=working_directory)
+    destination_directory = destination_directory or working_directory / "translation_build"
+    context = Context(config=config, working_directory=working_directory, destintion_directory=destination_directory)
     process_all(context)
 
 

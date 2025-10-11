@@ -58,13 +58,13 @@ jobs:
     - name: Produce csv files
       run: |
         cd automation
-        poe produce-csv ../
+        poe produce-csv ../ ../output
 
     - name: Upload csv artifact
       uses: actions/upload-artifact@v4
       with:
         name: artifact_csv
-        path: translation_build
+        path: output
 
   produce-mo:
     runs-on: ubuntu-latest
@@ -94,13 +94,13 @@ jobs:
     - name: Produce mo files
       run: |
         cd automation
-        poe produce-mo ../
+        poe produce-mo ../ ../output
 
     - name: Upload mo artifact
       uses: actions/upload-artifact@v4
       with:
         name: artifact_mo
-        path: translation_build
+        path: output
 
   push-changes:
     needs: [produce-csv, produce-mo]
