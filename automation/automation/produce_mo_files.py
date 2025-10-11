@@ -15,7 +15,7 @@ def process_resource(mo_directory: Path, language: LanguageInfo, resource: str, 
     po_file_path = get_po_file_path(
         working_directory=context.working_directory,
         project_name=context.config.source.project,
-        resource_name="hardcoded_steam",
+        resource_name=resource,
         language_code=language.code,
     )
     mo_file_path = mo_directory / f"{resource}.mo"
