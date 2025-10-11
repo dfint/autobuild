@@ -36,10 +36,6 @@ def load_po_file(file_path: Path) -> list[tuple[str, str]]:
         return simple_read_po(file)
 
 
-async def convert_hardcoded(po_data: list[tuple[str, str]]) -> Iterable[tuple[str, str]]:
-    return hardcoded_po_to_csv.prepare_dictionary(po_data)
-
-
 def process_hardcoded(*, csv_file_path: Path, language: LanguageInfo, context: Context) -> Iterable[tuple[str, str]]:
     po_file_path = get_po_file_path(
         working_directory=context.working_directory,
