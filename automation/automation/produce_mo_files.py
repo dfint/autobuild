@@ -2,13 +2,18 @@
 from pathlib import Path
 
 import typer
-from df_translation_toolkit.convert import text_to_mo
+from df_translation_toolkit.convert import objects_po_to_mo, text_set_po_to_mo
 from df_translation_toolkit.validation.validation_models import Diagnostics
 from loguru import logger
 
 from automation.load_config import load_config
 from automation.models import Context, LanguageInfo
 from automation.utils import get_po_file_path
+
+conversion_functions = {
+    "objects": objects_po_to_mo.convert,
+    "text_set": text_set_po_to_mo.convert,
+}
 
 
 def process_resource(mo_directory: Path, language: LanguageInfo, resource: str, context: Context) -> None:
@@ -21,7 +26,7 @@ def process_resource(mo_directory: Path, language: LanguageInfo, resource: str, 
     mo_file_path = mo_directory / f"{resource}.mo"
     diagnostics = Diagnostics()
     with po_file_path.open("rt", encoding="utf-8") as po_file, mo_file_path.open("wb") as mo_file:
-        text_to_mo.convert(po_file, mo_file, diagnostics)
+        conversion_functions[resource](po_file, mo_file, diagnostics)
 
     errors_file_path = mo_directory / f"{resource}_errors.txt"
     if errors_file_path.exists():
