@@ -45,7 +45,7 @@ jobs:
         python-version: 3.12
 
     - name: Install uv
-      uses: astral-sh/setup-uv@v6
+      uses: astral-sh/setup-uv@v7
       with:
         version: latest
 
@@ -61,7 +61,7 @@ jobs:
         poe process ../
 
     - name: Upload csv artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: artifact_csv
         path: translation_build
@@ -77,7 +77,7 @@ jobs:
       run: rm -rf translation_build
 
     - name: Download artifacts
-      uses: actions/download-artifact@v5
+      uses: actions/download-artifact@v6
       with:
         pattern: artifact_*
         merge-multiple: true
@@ -98,7 +98,7 @@ jobs:
 
     steps:
     - name: Dispatch dictionary manifest update
-      uses: peter-evans/repository-dispatch@v3
+      uses: peter-evans/repository-dispatch@v4
       with:
         token: ${{ secrets.REPOSITORY_DISPATCH_PAT }}
         repository: dfint/update-data
