@@ -3911,6 +3911,7 @@
 "Verifying squad orders","Проверка приказов отрядов"
 "Scheduling squads","Расписание отрядов"
 " Version "," версия "
+"FPS has dropped below 50. Multithreading is not on, and may improve performance. Do you wish to enable it? (You can always turn it off or on in the options later.)","FPS упал ниже 50. Включение многопоточности может улучшить производительность. Включить? (Вы всегда можете выключить или выключить её в настройках.)"
 "Seed text","Текст зерна"
 "humanoid","гуманоид"
 "lord","лорд"
