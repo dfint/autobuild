@@ -67,8 +67,7 @@
 "Write","Yaz"
 "Write about ","Hakknda yazmak "
 "Copy","Kopyala"
-"Meditate on ","meditasyon yap
-  "
+"Meditate on ","meditasyon yap "
 "Pray to ","dua "
 "Go to Combat Training","SavaŸ e§itimine git"
 "Organize Combat Training","SavaŸ e§itimini organize et"
@@ -96,8 +95,7 @@
 "Stoicism","Dayankllk"
 "Introspection","˜‡g”zlem"
 "Self-Control","™z kontrol"
-"Tranquility","Huzur
- "
+"Tranquility","Huzur"
 "Harmony","Uyum"
 "Merriment","Arjantin *"
 "Craftsmanship","Zanaatkarlk"
@@ -455,34 +453,28 @@
 "Loading...","Ykleniyor..."
 "Historical figure marriages","TarihŒ figr evlilikleri "
 "trusted","gvenilir"
-"Start War","SavaŸ BaŸlat
- "
-"minecarts","maden arabalar
- "
+"Start War","SavaŸ BaŸlat"
+"minecarts","maden arabalar"
 "Wood","Odun"
 "Bone","Kemik"
 "Shell","Kabuk"
 "Standard","Standart"
-"Rotten raw hide","€rmŸ ham deri
- "
+"Rotten raw hide","€rmŸ ham deri"
 "Soap","Sabun"
 "Coal","K”mr"
 "Merchants from ","tccarlar "
 "A few facts","Birka‡ ger‡ek"
-"All tasks","Tm g”revler
- "
+"All tasks","Tm g”revler"
 "Animals","Hayvanlar"
 "Food","Gda"
 "Stone","TaŸ"
-"Finished goods","BitmiŸ mallar
- "
+"Finished goods","BitmiŸ mallar"
 "Cloth","kumaŸ"
 "Armor","Zrh"
 "Unprepared fish","HazrlanmamŸ balk "
 "Plants","Bitkiler"
 "Seeds","tohumlar"
-"Item types","™§e trleri
- "
+"Item types","™§e trleri"
 "Type","Tr"
 "Clay","Kil"
 "Legs","Bacaklar"
@@ -548,12 +540,9 @@
 "Tool","Alet"
 "Farm Plot","Tarm Arazisi"
 "Construction","˜nŸaat"
-"Crafts Market","El Sanatlar Pazar
- "
-"General Store","Genel ma§aza
- "
-"Custom Workshop","™zel At”lye
- "
+"Crafts Market","El Sanatlar Pazar"
+"General Store","Genel ma§aza"
+"Custom Workshop","™zel At”lye"
 " Door"," Kap"
 "Home","Ev"
 "Bone Carving Workshop","Kemik Oymacl§ At”lyesi"
@@ -565,8 +554,7 @@
 "effortlessly ","‡aba gerektirmeden "
 "Trap Components","Tuzak Par‡alar"
 "profaned our homes","evlerimizi kirletti"
-"the throne room","taht odas
- "
+"the throne room","taht odas"
 "the worthlessness","De§ersizlik"
 "you.","sen"
 " an enemy fighter."," bir dŸman savaŸ‡s."
@@ -975,16 +963,11 @@
 "The item ","EŸya "
 "The image ","Resim "
 "Something has collapsed on the surface!","Yzeyde bir Ÿey ‡”kt!"
-"You have discovered a river.","Bir nehir keŸfettiniz.
- "
-"You have discovered a great magma sea.","Harika bir magma denizi keŸfettiniz.
- "
-"You have discovered a cave entrance.","Bir ma§ara giriŸi keŸfettiniz.
- "
-"You have discovered a deep pit.","Derin bir ‡ukur keŸfettiniz.
- "
-"You have discovered a magma pool.","Bir magma havuzu keŸfettiniz.
- "
+"You have discovered a river.","Bir nehir keŸfettiniz."
+"You have discovered a great magma sea.","Harika bir magma denizi keŸfettiniz."
+"You have discovered a cave entrance.","Bir ma§ara giriŸi keŸfettiniz."
+"You have discovered a deep pit.","Derin bir ‡ukur keŸfettiniz."
+"You have discovered a magma pool.","Bir magma havuzu keŸfettiniz."
 "!  Praise the miners!","! Madencilere Ÿkr!"
 " in the water"," suda"
 " in the lava"," lavda"
