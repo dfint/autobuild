@@ -34,7 +34,7 @@ jobs:
     timeout-minutes: 60
 
     steps:
-    - uses: actions/checkout@v5
+    - uses: actions/checkout@v6
 
     - name: Checkout and update the translation-backup submodule
       run: git submodule update --init --remote
@@ -71,7 +71,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
-    - uses: actions/checkout@v5
+    - uses: actions/checkout@v6
 
     - name: Remove old data
       run: rm -rf translation_build
