@@ -23,5 +23,5 @@ If the language is missing on transifex too, create a request to add the languag
 Keep in mind, that some languages cannot be used with Dwarf Fortress at the moment (at least with our version of **df-steam-hook-rs**): in particular, no languages with rigt-to-left and hieroglyphic wrighting systems are supported.
 
 > [!NOTE]
-> We do not add csv files directly here. Please, use [transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam/dashboard/) for translation instead of editing a csv file.
-> This repository is a part of an automated pipeline. Next pull from transifex will rewrite manually replaced csv file.
+> We do not add csv files directly here. Please, use [transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam/dashboard/) for translation instead of editing a csv file.  
+> This repository is a part of an automated pipeline, so the next automated pull from transifex will rewrite any manually replaced csv file.
