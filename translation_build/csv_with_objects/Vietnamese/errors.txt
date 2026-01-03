@@ -2607,3 +2607,180 @@ Error: Tag parts count mismatch
 Problematic tag pair: '[CASTE_NAME:giant ostrich cock:giant ostrich cocks:giant ostrich cock]', '[CASTE_NAME:  chim đà điểu trống: chim đà điểu trống:: chim đà điểu trống]'
 Problems:
 Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:octahedron:octahedra]', '[NAME:octahedron: hình bát diện:octahedra: các hình bát diện]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[ADJ:octahedral]', '[ADJ:octahedral: dạng bát diện]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:dodecahedron:dodecahedra]', '[NAME:dodecahedron: hình thập nhị diện:dodecahedra: các hình thập nhị diện]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[ADJ:dodecahedral]', '[ADJ:dodecahedral: dạng thập nhị diện]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:icosahedron:icosahedra]', '[NAME:icosahedron: hình nhị thập diện:icosahedra: các hình nhị thập diện]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[ADJ:icosahedral]', '[ADJ:icosahedral: dạng nhị thập diện]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:four-sided prism:four-sided prisms]', '[NAME:four-sided prism: lăng trụ tứ giác:four-sided prisms: các lăng trụ tứ giác]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[ADJ:four-sided long]', '[ADJ:four-sided long: lăng trụ tứ giác dạng dài]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:six-sided prism:six-sided prisms]', '[NAME:six-sided prism: lăng trụ lục giác:six-sided prisms: các lăng trụ lục giác]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[ADJ:six-sided long]', '[ADJ:six-sided long: lăng trụ lục giác dạng dài]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:eight-sided prism:eight-sided prisms]', '[NAME:eight-sided prism: lăng trụ bát giác:eight-sided prisms: các lăng trụ bát giác]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[ADJ:eight-sided long]', '[ADJ:eight-sided long: lăng trụ bát giác dạng dài]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:monarch:monarchs]', '[NAME:monarch: quân vương:monarchs: các quân vương]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME_MALE:king:kings]', '[NAME_MALE:king: vua:kings: các vua]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME_FEMALE:queen:queens]', '[NAME_FEMALE:queen: hoàng hậu:queens: các hoàng hậu]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[SPOUSE_MALE:king consort:kings consort]', '[SPOUSE_MALE:king consort: vương phu:kings consort: các vương phu]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[SPOUSE_FEMALE:queen consort:queens consort]', '[SPOUSE_FEMALE:queen consort: vương phi:queens consort: các vương phi]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:general:generals]', '[NAME:general: tướng quân:generals: các tướng quân]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[SQUAD:10:soldier:soldiers]', '[SQUAD:10:soldier: binh sĩ:soldiers: các binh sĩ]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:captain:captains]', '[NAME:captain: đội trưởng:captains: các đội trưởng]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:militia commander:militia commanders]', '[NAME:militia commander: chỉ huy dân quân:militia commanders: các chỉ huy dân quân]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[SQUAD:10:militia-dwarf:militia-dwarves]', '[SQUAD:10:militia-dwarf: dân quân lùn:militia-dwarves: các dân quân lùn]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:militia captain:militia captains]', '[NAME:militia captain: đội trưởng dân quân:militia captains: các đội trưởng dân quân]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:captain of the guard:captains of the guard]', '[NAME:captain of the guard: đội trưởng cận vệ:captains of the guard: các đội trưởng cận vệ]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[SQUAD:10:fortress guard:fortress guards]', '[SQUAD:10:fortress guard: cận vệ pháo đài:fortress guards: các cận vệ pháo đài]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:expedition leader:expedition leaders]', '[NAME:expedition leader: thủ lĩnh đoàn thám hiểm:expedition leaders: các thủ lĩnh đoàn thám hiểm]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:mayor:mayors]', '[NAME:mayor: thị trưởng:mayors: các thị trưởng]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:manager:managers]', '[NAME:manager: quản lý:managers: các quản lý]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[DESCRIPTION:The manager handles work orders. Once your fortress reaches a certain population, the manager must work in an office to validate work orders.]', '[DESCRIPTION:The manager handles work orders. Once your fortress reaches a certain population, the manager must work in an office to validate work orders.: Người quản lý xử lý các lệnh sản xuất. Khi pháo đài của bạn đạt đến một số lượng dân nhất định, người quản lý phải làm việc trong văn phòng để phê duyệt các lệnh sản xuất.]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:chief medical dwarf:chief medical dwarves]', '[NAME:chief medical dwarf: trưởng y lùn:chief medical dwarves: các trưởng y lùn]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[DESCRIPTION:The chief medical dwarf allows you to see the overall health of dwarves in your fortress.]', '[DESCRIPTION:The chief medical dwarf allows you to see the overall health of dwarves in your fortress.: Trưởng y lùn cho phép bạn xem tình trạng sức khỏe tổng thể của những người lùn trong pháo đài của bạn.]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:broker:brokers]', '[NAME:broker: người môi giới:brokers: những người môi giới]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[DESCRIPTION:The broker uses their appraisal skill to allow you to see the value of items in the fortress. They are also the default negotiator with visiting merchants.]', '[DESCRIPTION:The broker uses their appraisal skill to allow you to see the value of items in the fortress. They are also the default negotiator with visiting merchants.: Người môi giới sử dụng kỹ năng định giá của họ để bạn có thể thấy giá trị của các vật phẩm trong pháo đài. Họ cũng là người đàm phán mặc định với các thương nhân đến thăm.]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:bookkeeper:bookkeepers]', '[NAME:bookkeeper: kế toán trưởng:bookkeepers: các kế toán trưởng]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[DESCRIPTION:The bookkeeper keeps an accurate count of items in the fortress. They work in their office to improve the precision of the count.]', '[DESCRIPTION:The bookkeeper keeps an accurate count of items in the fortress. They work in their office to improve the precision of the count.: Kế toán trưởng giữ một bản đếm chính xác các vật phẩm trong pháo đài. Họ làm việc trong văn phòng để cải thiện độ chính xác của số liệu đếm.]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:outpost liaison:outpost liaisons]', '[NAME:outpost liaison: sĩ quan liên lạc tiền đồn:outpost liaisons: các sĩ quan liên lạc tiền đồn]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:diplomat:diplomats]', '[NAME:diplomat: nhà ngoại giao:diplomats: các nhà ngoại giao]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME_MALE:duke:dukes]', '[NAME_MALE:duke: công tước:dukes: các công tước]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME_FEMALE:duchess:duchesses]', '[NAME_FEMALE:duchess: nữ công tước:duchesses: các nữ công tước]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[SPOUSE_MALE:duke consort:dukes consort]', '[SPOUSE_MALE:duke consort: công phu:dukes consort: các công phu]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[SPOUSE_FEMALE:duchess consort:duchesses consort]', '[SPOUSE_FEMALE:duchess consort: công nương:duchesses consort: các công nương]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[LAND_NAME:a duchy]', '[LAND_NAME:a duchy: một công quốc]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME_MALE:count:counts]', '[NAME_MALE:count: bá tước:counts: các bá tước]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME_FEMALE:countess:countesses]', '[NAME_FEMALE:countess: nữ bá tước:countesses: các nữ bá tước]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[SPOUSE_MALE:count consort:counts consort]', '[SPOUSE_MALE:count consort: bá phu:counts consort: các bá phu]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[SPOUSE_FEMALE:countess consort:countesses consort]', '[SPOUSE_FEMALE:countess consort: bá nương:countesses consort: các bá nương]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[LAND_NAME:a county]', '[LAND_NAME:a county: một bá quốc]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME_FEMALE:baroness:baronesses]', '[NAME_FEMALE:baroness: nữ nam tước:baronesses: các nữ nam tước]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[SPOUSE_MALE:baron consort:barons consort]', '[SPOUSE_MALE:baron consort: nam phu:barons consort: các nam phu]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[SPOUSE_FEMALE:baroness consort:baronesses consort]', '[SPOUSE_FEMALE:baroness consort: nam nương:baronesses consort: các nam nương]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[LAND_NAME:a barony]', '[LAND_NAME:a barony: một lãnh địa nam tước]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:hammerer:hammerers]', '[NAME:hammerer: người hành quyết:hammerers: những người hành quyết]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:dungeon master:dungeon masters]', '[NAME:dungeon master: chủ ngục:dungeon masters: các chủ ngục]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:administrator:administrators]', '[NAME:administrator: quản trị viên:administrators: các quản trị viên]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:messenger:messengers]', '[NAME:messenger: sứ giả:messengers: các sứ giả]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:druid:druids]', '[NAME:druid: pháp sư Druid:druids: các pháp sư Druid]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:acolyte:acolytes]', '[NAME:acolyte: đệ tử:Môn đệ]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:queen:queens]', '[NAME:queen: hoàng hậu:queens: các hoàng hậu]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[NAME:diplomat:diplomats]', '[NAME:diplomat: nhà ngoại giao:diplomats: các nhà ngoại giao]'
+Problems:
+Error: Tag parts count mismatch
