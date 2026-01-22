@@ -21,3 +21,4 @@ class Config(BaseModel):
 class Context(BaseModel):
     config: Config
     working_directory: Path
+    destintion_directory: Path
