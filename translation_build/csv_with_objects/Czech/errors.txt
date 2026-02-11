@@ -574,6 +574,9 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[GENERAL_CHILD_NAME:giant walrus pup:giant walrus pups]', '[GENERAL_CHILD_NAME:mládě obřího mrože:mláďata obřích mrožů'
 Problems:
 Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CHILDNAME:dragon hatchling:dragon hatchlings]', '[CHILDNAME dračí mládě:dračí mláďata]'
+Problems:
+Error: Tag parts count mismatch
 Problematic tag pair: '[GROWTH_NAME:flax flower:STP]', '[GROWTH_NAME:květ lnu:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
