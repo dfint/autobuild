@@ -22,6 +22,15 @@ Error: Tag parts count mismatch
 Problematic tag pair: '[DESCRIPTION:A medium-sized mammal that lives in the trees.  It is known for its easy-going nature.]', '[DESCRIPTION:Średniej wielkości ssak żyjący na drzewach. Jest znany ze swojego łagodnego usposobienia.]\n\xa0\n\xa0'
 Problems:
 Warning: Extra spaces at the beginning or at the end of the translation
+Problematic tag pair: '[CASTE_NAME:sloth bear woman:sloth bear women:sloth bear woman]', 'kobieta niedźwiedź leniwa: kobieta niedźwiedź leniwa: kobieta niedźwiedź leniwa]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:sloth bear man:sloth bear men:sloth bear man]', 'leniwy niedźwiedź człowiek :lenistwo niedźwiedź mężczyźni:lenistwo niedźwiedź człowiek]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant sloth bear:giant sloth bears:giant sloth bear]', 'gigantyczny leniwy niedźwiedź:gigantyczny leniwy niedźwiedzie:gigantyczny leniwy niedźwiedź]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[SEED:caper seed:caper seeds:]', '[SEED:nasiono kaparu;nasiona kaparu:]'
 Problems:
 Error: Tag parts count mismatch
