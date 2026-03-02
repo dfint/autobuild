@@ -1,0 +1,3 @@
+Problematic tag pair: '[NAME:cardinal man:cardinal men:cardinal man]', 'кардиналолюду чоловік:кардиналолюду чоловіки:кардиналолюдського чоловіка]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
