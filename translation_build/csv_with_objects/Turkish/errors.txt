@@ -1,7 +1,7 @@
 Problematic tag pair: '[BP:RUA:right upper arm:STP]', '[BP:RUA:sağ üst kol:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:sol alt kol:STP]'
+Problematic tag pair: '[BP:LUA:left upper arm:STP]', '[BP:LUA:sol üst kol:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 Problematic tag pair: '[BP:RLA:right lower arm:STP]', '[BP:RLA:sağ alt kol:STP]'
@@ -2425,6 +2425,1044 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[TISSUE_NAME:scale:STP]', '[TISSUE_NAME:pul:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[TOOLTIP:Use tallow (rendered fat) or oil here with lye to make soap.]', '[TOOLTIP:Use tallow (rendered fat) or oil here with lye to make soap.][TOOLTIP:Buradan sodyum hidroksit ile talg (eritilmiş yağ) veya yağ kullanarak sabun yapın.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A worm-like creature with the torso of a man.]', '[DESCRIPTION:A worm-like creature with the torso of a man.][DESCRIPTION:İnsan gövdesine sahip solucan benzeri bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant bluejay hatchling:giant bluejay hatchlings]', '[GENERAL_CHILD_NAME:giant bluejay hatchling:giant bluejay hatchlings][GENERAL_CHILD_NAME:dev mavi alakarga yavrusu:dev mavi alakarga yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant grackle hatchling:giant grackle hatchlings]', '[GENERAL_CHILD_NAME:giant grackle hatchling:giant grackle hatchlings][GENERAL_CHILD_NAME:dev grackle kuşu yavrusu:dev grackle kuşu yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant oriole hatchling:giant oriole hatchlings]', '[GENERAL_CHILD_NAME:giant oriole hatchling:giant oriole hatchlings][GENERAL_CHILD_NAME:dev oriole kuşu yavrusu:dev oriole kuşu yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]', '[NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird][NAME:kırmızı kanatlı kara kuş:kırmızı kanatlı kara kuşları:kırmızı kanatlı kara kuş]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:emperor penguin:emperor penguins:emperor penguin]', '[CASTE_NAME:emperor penguin:emperor penguins:emperor penguin][CASTE_NAME:imparator pengueni:imparator penguenleri:imparator pengueni]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:emperor penguin chick:emperor penguin chicks]', '[GENERAL_CHILD_NAME:emperor penguin chick:emperor penguin chicks][GENERAL_CHILD_NAME:imparator pengueni yavrusu:imparator pengueni yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A large monster with a long nose and brown feathers.]', '[DESCRIPTION:A large monster with a long nose and brown feathers.][DESCRIPTION:Uzun burun ve kahverengi tüyleri olan geniş bir canavar.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A huge bird monster with extremely long legs and neck.]', '[DESCRIPTION:A huge bird monster with extremely long legs and neck.][DESCRIPTION:Son derece uzun bacakları ve boynuyla dev bir kuş canavarı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant ostrich cock:giant ostrich cocks:giant ostrich cock]', '[CASTE_NAME:giant ostrich cock:giant ostrich cocks:giant ostrich cock][CASTE_NAME:dev deve kuşu erkek:dev deve kuşu erkekleri:dev deve kuşu erkek]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant ostrich hen:giant ostrich hens:giant ostrich hen]', '[CASTE_NAME:giant ostrich hen:giant ostrich hens:giant ostrich hen][CASTE_NAME:dev deve kuşu dişi:dev deve kuşu dişileri:dev deve kuşu dişi]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant cassowary chick:giant cassowary chicks]', '[GENERAL_CHILD_NAME:giant cassowary chick:giant cassowary chicks][GENERAL_CHILD_NAME:dev kasuarı kuşu yavrusu:dev kasuarı kuşu yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A monster many times the size of an ordinary kea.]', '[DESCRIPTION:A monster many times the size of an ordinary kea.][DESCRIPTION:Sıradan bir kea papağanının boyutunun birçok katı büyüklüğünde canavar.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant snowy owl chick:giant snowy owl chicks]', '[GENERAL_CHILD_NAME:giant snowy owl chick:giant snowy owl chicks][GENERAL_CHILD_NAME:dev kar baykuşu yavrusu:dev kar baykuşu yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:white stork woman:white stork women:white stork woman]', '[CASTE_NAME:white stork woman:white stork women:white stork woman][CASTE_NAME:beyaz leylek kadın:beyaz leylek kadınlar:beyaz leylek kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant loon chick:giant loon chicks]', '[GENERAL_CHILD_NAME:giant loon chick:giant loon chicks][GENERAL_CHILD_NAME:dev dalgıç kuşu yavrusu:dev dalgıç kuşu yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:barn owl woman:barn owl women:barn owl woman]', '[CASTE_NAME:barn owl woman:barn owl women:barn owl woman][CASTE_NAME:ahır baykuşu kadın:ahır baykuşu kadınlar:ahır baykuşu kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant barn owl chick:giant barn owl chicks]', '[GENERAL_CHILD_NAME:giant barn owl chick:giant barn owl chicks][GENERAL_CHILD_NAME:dev ahır baykuşu yavrusu:dev ahır baykuşu yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:parakeet man:parakeet men:parakeet man]', '[CASTE_NAME:parakeet man:parakeet men:parakeet man][CASTE_NAME:muhabbet kuşu adam:muhabbet kuşu adamlar:muhabbet kuşu adam]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:parakeet woman:parakeet women:parakeet woman]', '[CASTE_NAME:parakeet woman:parakeet women:parakeet woman][CASTE_NAME:muhabbet kuşu kadın:muhabbet kuşu kadınlar:muhabbet kuşu kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant kakapo:giant kakapo:giant kakapo]', '[CASTE_NAME:giant kakapo:giant kakapo:giant kakapo][CASTE_NAME:dev kakapo papağanı:dev kakapo papağanları:dev kakapo papağanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant grey parrot chick:giant grey parrot chicks]', '[GENERAL_CHILD_NAME:giant grey parrot chick:giant grey parrot chicks][GENERAL_CHILD_NAME:dev gri papağan yavrusu:dev gri papağan yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:puffin:puffins:puffin]', '[CASTE_NAME:puffin:puffins:puffin][CASTE_NAME:deniz papağanı kuşu:deniz papağanı kuşları:deniz papağanı kuşu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:puffin man:puffin men:puffin man]', '[CASTE_NAME:puffin man:puffin men:puffin man][CASTE_NAME:deniz papağanı adam:deniz papağanı adamlar:deniz papağanı adam]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:puffin woman:puffin women:puffin woman]', '[CASTE_NAME:puffin woman:puffin women:puffin woman][CASTE_NAME:dişi deniz papağanı:dişi deniz papağanları:dişi deniz papağanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant puffin:giant puffins:giant puffin]', '[NAME:giant puffin:giant puffins:giant puffin][NAME:dev deniz papağanı kuşu:dev deniz papağanı kuşları:dev deniz papağanı kuşu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant puffin:giant puffins:giant puffin]', '[CASTE_NAME:giant puffin:giant puffins:giant puffin][CASTE_NAME:dev deniz papağanı kuşu:dev deniz papağanı kuşları:dev deniz papağanı kuşu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant puffin chick:giant puffin chicks]', '[GENERAL_CHILD_NAME:giant puffin chick:giant puffin chicks][GENERAL_CHILD_NAME:dev deniz papağanı yavrusu:dev deniz papağanı yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A colorful person with the head and wings of a lorikeet.]', '[DESCRIPTION:A colorful person with the head and wings of a lorikeet.][DESCRIPTION:Lorikeet papağanının baş ve kanatlarına sahip renkli bir kişi.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant lorikeet:giant lorikeets:giant lorikeet]', '[NAME:giant lorikeet:giant lorikeets:giant lorikeet][NAME:dev lorikeet papağanı:dev lorikeet papağanları:dev lorikeet papağanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant lorikeet:giant lorikeets:giant lorikeet]', '[CASTE_NAME:giant lorikeet:giant lorikeets:giant lorikeet][CASTE_NAME:dev lorikeet papağanı:dev lorikeet papağanları:dev lorikeet papağanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A tiny brown bird given to singing complex songs.]', '[DESCRIPTION:A tiny brown bird given to singing complex songs.][DESCRIPTION:Karmaşık şarkılar söylemek için minik kahverengi bir kuş.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:osprey man:osprey men:osprey man]', '[CASTE_NAME:osprey man:osprey men:osprey man][CASTE_NAME:balık kartalı adam:balık kartalı adamlar:balık kartalı adam]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:osprey woman:osprey women:osprey woman]', '[CASTE_NAME:osprey woman:osprey women:osprey woman][CASTE_NAME:balık kartalı kadın:balık kartalı kadınlar:balık kartalı kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the head and wings of an osprey.]', '[DESCRIPTION:A person with the head and wings of an osprey.][DESCRIPTION:kızıl akbaba şahininin baş ve kanatlarına sahip bir kişi.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant osprey chick:giant osprey chicks]', '[GENERAL_CHILD_NAME:giant osprey chick:giant osprey chicks][GENERAL_CHILD_NAME:dev balık kartalı yavrusu:dev balık kartalı yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:cockatiel hatchling:cockatiel hatchlings]', '[GENERAL_CHILD_NAME:cockatiel hatchling:cockatiel hatchlings][GENERAL_CHILD_NAME:sultan papağanı yavrusu:sultan papağanı yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:cockatiel man:cockatiel men:cockatiel man]', '[CASTE_NAME:cockatiel man:cockatiel men:cockatiel man][CASTE_NAME:erkek sultan papağanı:erkek sultan papağanları:erkek sultan papağanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:cockatiel woman:cockatiel women:cockatiel woman]', '[CASTE_NAME:cockatiel woman:cockatiel women:cockatiel woman][CASTE_NAME:dişi sultan papağanı:dişi sultan papağanları:dişi sultan papağanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:cockatiel man:cockatiel men:cockatiel man]', '[NAME:cockatiel man:cockatiel men:cockatiel man][NAME:erkek sultan papağanı:erkek sultan papağanları:erkek sultan papağanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A crested person with the head and wings of a cockatiel.]', '[DESCRIPTION:A crested person with the head and wings of a cockatiel.][DESCRIPTION:sultan papağanının baş ve kanatlarına sahip tepeli fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant cockatiel:giant cockatiels:giant cockatiel]', '[CASTE_NAME:giant cockatiel:giant cockatiels:giant cockatiel][CASTE_NAME:dev sultan papağanı:dev sultan papağanları:dev sultan papağanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:peach-faced lovebird:peach-faced lovebirds:peach-faced lovebird]', '[NAME:peach-faced lovebird:peach-faced lovebirds:peach-faced lovebird][NAME:şeftali yüzlü muhabbet kuşu:şeftali yüzlü muhabbet kuşları:şeftali yüzlü muhabbet kuşu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:magpie man:magpie men:magpie man]', '[CASTE_NAME:magpie man:magpie men:magpie man][CASTE_NAME:saksağan fantastik canlı:saksağan fantastik canlılar:saksağan fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:magpie woman:magpie women:magpie woman]', '[CASTE_NAME:magpie woman:magpie women:magpie woman][CASTE_NAME:saksağan fantastik kadın:saksağan fantastik kadınlar:saksağan fantastik kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:magpie man:magpie men:magpie man]', '[NAME:magpie man:magpie men:magpie man][NAME:saksağan fantastik canlı:saksağan fantastik canlılar:saksağan fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:kestrel man:kestrel men:kestrel man]', '[CASTE_NAME:kestrel man:kestrel men:kestrel man][CASTE_NAME:çil şahini fantastik canlı:çil şahini fantastik canlılar:çil şahini fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:kestrel woman:kestrel women:kestrel woman]', '[CASTE_NAME:kestrel woman:kestrel women:kestrel woman][CASTE_NAME:çil şahini fantastik kadın:çil şahini fantastik kadınlar:çil şahini fantastik kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:kestrel man:kestrel men:kestrel man]', '[NAME:kestrel man:kestrel men:kestrel man][NAME:çil şahini fantastik canlı:çil şahini fantastik canlılar:çil şahini fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:albatross man:albatross men:albatross man]', '[CASTE_NAME:albatross man:albatross men:albatross man][CASTE_NAME:albatros fantastik canlı:albatros fantastik canlılar:albatros fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:albatross woman:albatross women:albatross woman]', '[CASTE_NAME:albatross woman:albatross women:albatross woman][CASTE_NAME:albatros fantastik kadın:albatros fantastik kadınlar:albatros fantastik kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:albatross man:albatross men:albatross man]', '[NAME:albatross man:albatross men:albatross man][NAME:albatros fantastik canlı:albatros fantastik canlılar:albatros fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:great horned owl chick:great horned owl chicks]', '[GENERAL_CHILD_NAME:great horned owl chick:great horned owl chicks][GENERAL_CHILD_NAME:boynuzlu baykuş yavrusu:boynuzlu baykuş yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:great horned owl man:great horned owl men:great horned owl man]', '[NAME:great horned owl man:great horned owl men:great horned owl man][NAME:boynuzlu baykuş fantastik canlı:boynuzlu baykuş fantastik canlılar:boynuzlu baykuş fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:eagle man:eagle men:eagle man]', '[CASTE_NAME:eagle man:eagle men:eagle man][CASTE_NAME:kartal fantastik canlı:kartal fantastik canlılar:kartal fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:eagle woman:eagle women:eagle woman]', '[CASTE_NAME:eagle woman:eagle women:eagle woman][CASTE_NAME:kartal fantastik kadın:kartal fantastik kadınlar:kartal fantastik kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:eagle man:eagle men:eagle man]', '[NAME:eagle man:eagle men:eagle man][NAME:kartal fantastik canlı:kartal fantastik canlılar:kartal fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A feathered person with the head and wings of an eagle.]', '[DESCRIPTION:A feathered person with the head and wings of an eagle.][DESCRIPTION:Kartalın baş ve kanatlarına sahip tüylü fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:hornbill man:hornbill men:hornbill man]', '[CASTE_NAME:hornbill man:hornbill men:hornbill man][CASTE_NAME:hornbill kuşu fantastik canlı:hornbill kuşu fantastik canlılar:hornbill kuşu fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:hornbill woman:hornbill women:hornbill woman]', '[CASTE_NAME:hornbill woman:hornbill women:hornbill woman][CASTE_NAME:hornbill kuşu fantastik kadın:hornbill kuşu fantastik kadınlar:hornbill kuşu fantastik kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:hornbill man:hornbill men:hornbill man]', '[NAME:hornbill man:hornbill men:hornbill man][NAME:hornbill kuşu fantastik canlı:hornbill kuşu fantastik canlılar:hornbill kuşu fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant hornbill chick:giant hornbill chicks]', '[GENERAL_CHILD_NAME:giant hornbill chick:giant hornbill chicks][GENERAL_CHILD_NAME:dev hornbill kuşu yavrusu:dev hornbill kuşu yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:masked lovebird:masked lovebirds:masked lovebird]', '[NAME:masked lovebird:masked lovebirds:masked lovebird][NAME:maskeli muhabbet kuşu:maskeli muhabbet kuşları:maskeli muhabbet kuşu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:masked lovebird:masked lovebirds:masked lovebird]', '[CASTE_NAME:masked lovebird:masked lovebirds:masked lovebird][CASTE_NAME:maskeli muhabbet kuşu:maskeli muhabbet kuşları:maskeli muhabbet kuşu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:masked lovebird man:masked lovebird men:masked lovebird man]', '[NAME:masked lovebird man:masked lovebird men:masked lovebird man][NAME:maskeli muhabbet kuşu fantastik canlı:maskeli muhabbet kuşu fantastik canlılar:maskeli muhabbet kuşu fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:bushtit man:bushtit men:bushtit man]', '[CASTE_NAME:bushtit man:bushtit men:bushtit man][CASTE_NAME:çalı kuşu fantastik canlı:çalı kuşu fantastik canlılar:çalı kuşu fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:bushtit woman:bushtit women:bushtit woman]', '[CASTE_NAME:bushtit woman:bushtit women:bushtit woman][CASTE_NAME:çalı kuşu fantastik kadın:çalı kuşu fantastik kadınlar:çalı kuşu fantastik kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:bushtit man:bushtit men:bushtit man]', '[NAME:bushtit man:bushtit men:bushtit man][NAME:çalı kuşu fantastik canlı:çalı kuşu fantastik canlılar:çalı kuşu fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:damselfly man:damselfly men:damselfly man]', '[CASTE_NAME:damselfly man:damselfly men:damselfly man][CASTE_NAME:kız yusufçuk fantastik canlı:kız yusufçuk fantastik canlılar:kız yusufçuk fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:damselfly woman:damselfly women:damselfly woman]', '[CASTE_NAME:damselfly woman:damselfly women:damselfly woman][CASTE_NAME:kız yusufçuk fantastik kadın:kız yusufçuk fantastik kadınlar:kız yusufçuk fantastik kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:damselfly man:damselfly men:damselfly man]', '[NAME:damselfly man:damselfly men:damselfly man][NAME:kız yusufçuk fantastik canlı:kız yusufçuk fantastik canlılar:kız yusufçuk fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:moth man:moth men:moth man]', '[CASTE_NAME:moth man:moth men:moth man][CASTE_NAME:güve fantastik canlı:güve fantastik canlılar:güve fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:moth woman:moth women:moth woman]', '[CASTE_NAME:moth woman:moth women:moth woman][CASTE_NAME:güve fantastik kadın:güve fantastik kadınlar:güve fantastik kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:moth man:moth men:moth man]', '[NAME:moth man:moth men:moth man][NAME:güve fantastik canlı:güve fantastik canlılar:güve fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:bark scorpion man:bark scorpion men:bark scorpion man]', '[CASTE_NAME:bark scorpion man:bark scorpion men:bark scorpion man][CASTE_NAME:erkek kabuk akrebi:erkek kabuk akrepleri:erkek kabuk akrebi]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:mantis man:mantis men:mantis man]', '[CASTE_NAME:mantis man:mantis men:mantis man][CASTE_NAME:erkek peygamberdevesi:erkek peygamberdeveleri:erkek peygamberdevesi]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:mantis woman:mantis women:mantis woman]', '[CASTE_NAME:mantis woman:mantis women:mantis woman][CASTE_NAME:dişi peygamberdevesi:dişi peygamberdeveleri:dişi peygamberdevesi]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:mantis man:mantis men:mantis man]', '[NAME:mantis man:mantis men:mantis man][NAME:erkek peygamberdevesi:erkek peygamberdeveleri:erkek peygamberdevesi]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A green person with the head and arms of a mantis.]', '[DESCRIPTION:A green person with the head and arms of a mantis.][DESCRIPTION:Peygamberdevesi başlı ve kollu yeşil bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant mantis:giant mantises:giant mantis]', '[CASTE_NAME:giant mantis:giant mantises:giant mantis][CASTE_NAME:dev peygamberdevesi:dev peygamberdeveleri:dev peygamberdevesi]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:thrips man:thrips men:thrips man]', '[CASTE_NAME:thrips man:thrips men:thrips man][CASTE_NAME:erkek thrips böceği:erkek thrips böcekleri:erkek thrips böceği]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:thrips woman:thrips women:thrips woman]', '[CASTE_NAME:thrips woman:thrips women:thrips woman][CASTE_NAME:dişi thrips böceği:dişi thrips böcekleri:dişi thrips böceği]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:slug man:slug men:slug man]', '[CASTE_NAME:slug man:slug men:slug man][CASTE_NAME:erkek sümüklü böcek:erkek sümüklü böcekler:erkek sümüklü böcek]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:jumping spider man:jumping spider men:jumping spider man]', '[CASTE_NAME:jumping spider man:jumping spider men:jumping spider man][CASTE_NAME:erkek zıplayan örümcek:erkek zıplayan örümcekler:erkek zıplayan örümcek]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:jumping spider man:jumping spider men:jumping spider man]', '[NAME:jumping spider man:jumping spider men:jumping spider man][NAME:erkek zıplayan örümcek:erkek zıplayan örümcekler:erkek zıplayan örümcek]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant jumping spider:giant jumping spiders:giant jumping spider]', '[NAME:giant jumping spider:giant jumping spiders:giant jumping spider][NAME:dev zıplayan örümcek:dev zıplayan örümcekler:dev zıplayan örümcek]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:moon snail man:moon snail men:moon snail man]', '[CASTE_NAME:moon snail man:moon snail men:moon snail man][CASTE_NAME:erkek ay salyangozu:erkek ay salyangozları:erkek ay salyangozu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:moon snail woman:moon snail women:moon snail woman]', '[CASTE_NAME:moon snail woman:moon snail women:moon snail woman][CASTE_NAME:dişi ay salyangozu:dişi ay salyangozları:dişi ay salyangozu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:brown recluse spider:brown recluse spiders:brown recluse spider]', '[NAME:brown recluse spider:brown recluse spiders:brown recluse spider][NAME:kahverengi münzevi örümcek:kahverengi münzevi örümcekler:kahverengi münzevi örümcek]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:leopard gecko:leopard geckos:leopard gecko]', '[CASTE_NAME:leopard gecko:leopard geckos:leopard gecko][CASTE_NAME:leopar kertenkelesi:leopar kertenkeleleri:leopar kertenkelesi]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:leopard gecko man:leopard gecko men:leopard gecko man]', '[CASTE_NAME:leopard gecko man:leopard gecko men:leopard gecko man][CASTE_NAME:erkek leopar kertenkelesi:erkek leopar kertenkelesiler:erkek leopar kertenkelesi]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:leopard gecko man:leopard gecko men:leopard gecko man]', '[NAME:leopard gecko man:leopard gecko men:leopard gecko man][NAME:erkek leopar kertenkelesi:erkek leopar kertenkeleleri:erkek leopar kertenkelesi]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant leopard gecko:giant leopard geckos:giant leopard gecko]', '[NAME:giant leopard gecko:giant leopard geckos:giant leopard gecko][NAME:dev leopar kertenkelesi:dev leopar kertenkeleleri:dev leopar kertenkelesi]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:desert tortoise man:desert tortoise men:desert tortoise man]', '[NAME:desert tortoise man:desert tortoise men:desert tortoise man][NAME:erkek çöl kaplumbağası:erkek çöl kaplumbağaları:erkek çöl kaplumbağası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:gila monster man:gila monster men:gila monster man]', '[CASTE_NAME:gila monster man:gila monster men:gila monster man][CASTE_NAME:erkek gila canavarı:erkek gila canavarları:erkek gila canavarı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:gila monster woman:gila monster women:gila monster woman]', '[CASTE_NAME:gila monster woman:gila monster women:gila monster woman][CASTE_NAME:dişi gila canavarı:dişi gila canavarları:dişi gila canavarı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:blue peahen:blue peahens:blue peahen]', '[CASTE_NAME:blue peahen:blue peahens:blue peahen][CASTE_NAME:dişi mavi tavuskuşu:dişi mavi tavuskuşları:dişi mavi tavuskuşu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:blue peacock:blue peacocks:blue peacock]', '[CASTE_NAME:blue peacock:blue peacocks:blue peacock][CASTE_NAME:mavi tavuskuşu (erkek):mavi tavuskuşları (erkek):mavi tavuskuşu (erkek)]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A tiny insect that can be found almost anywhere outside.]', '[DESCRIPTION:A tiny insect that can be found almost anywhere outside.][DESCRIPTION:Dışarıda neredeyse her yerde bulunabilen minik bir böcek.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A relatively large insect found in swamps and marshland.]', '[DESCRIPTION:A relatively large insect found in swamps and marshland.][DESCRIPTION:Bataklıklarda ve sulak alanlarda bulunan nispeten büyük bir böcek.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:bumblebee drone:bumblebee drones:bumblebee drone]', '[CASTE_NAME:bumblebee drone:bumblebee drones:bumblebee drone][CASTE_NAME:erkek bombus arısı:erkek bombus arıları:erkek bombus arısı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:bumblebee queen:bumblebee queens:bumblebee queen]', '[CASTE_NAME:bumblebee queen:bumblebee queens:bumblebee queen][CASTE_NAME:kraliçe bombus arısı:kraliçe bombus arıları:kraliçe bombus arısı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:hoary marmot pup:hoary marmot pups]', '[GENERAL_CHILD_NAME:hoary marmot pup:hoary marmot pups][GENERAL_CHILD_NAME:yavru kırçıl dağ sıçanı:yavru kırçıl dağ sıçanları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:hoary marmot man:hoary marmot men:hoary marmot man]', '[CASTE_NAME:hoary marmot man:hoary marmot men:hoary marmot man][CASTE_NAME:erkek kırçıl dağ sıçanı:erkek kırçıl dağ sıçanları:erkek kırçıl dağ sıçanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:hoary marmot woman:hoary marmot women:hoary marmot woman]', '[CASTE_NAME:hoary marmot woman:hoary marmot women:hoary marmot woman][CASTE_NAME:dişi kırçıl dağ sıçanı:dişi kırçıl dağ sıçanları:dişi kırçıl dağ sıçanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:hoary marmot man:hoary marmot men:hoary marmot man]', '[NAME:hoary marmot man:hoary marmot men:hoary marmot man][NAME:erkek kırçıl dağ sıçanı:erkek kırçıl dağ sıçanları:erkek kırçıl dağ sıçanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant hoary marmot:giant hoary marmots:giant hoary marmot]', '[NAME:giant hoary marmot:giant hoary marmots:giant hoary marmot][NAME:dev kırçıl dağ sıçanı:dev kırçıl dağ sıçanları:dev kırçıl dağ sıçanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant hoary marmot:giant hoary marmots:giant hoary marmot]', '[CASTE_NAME:giant hoary marmot:giant hoary marmots:giant hoary marmot][CASTE_NAME:dev kırçıl dağ sıçanı:dev kırçıl dağ sıçanları:dev kırçıl dağ sıçanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant hoary marmot pup:giant hoary marmot pups]', '[GENERAL_CHILD_NAME:giant hoary marmot pup:giant hoary marmot pups][GENERAL_CHILD_NAME:yavru dev kırçıl dağ sıçanı:yavru dev kırçıl dağ sıçanları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:great white shark:great white sharks:great white shark]', '[NAME:great white shark:great white sharks:great white shark][NAME:büyük beyaz köpekbalığı:büyük beyaz köpekbalıkları:büyük beyaz köpekbalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:great white shark:great white sharks:great white shark]', '[CASTE_NAME:great white shark:great white sharks:great white shark][CASTE_NAME:büyük beyaz köpekbalığı:büyük beyaz köpekbalıkları:büyük beyaz köpekbalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:great white shark pup:great white shark pups]', '[GENERAL_CHILD_NAME:great white shark pup:great white shark pups][GENERAL_CHILD_NAME:yavru büyük beyaz köpekbalığı:yavru büyük beyaz köpekbalıkları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A large eel-like fish found in coastal waters.]', '[DESCRIPTION:A large eel-like fish found in coastal waters.][DESCRIPTION:Kıyı sularında bulunan yılanbalığı benzeri büyük bir balık.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:frill shark:frill sharks:frill shark]', '[NAME:frill shark:frill sharks:frill shark][NAME:fırfırlı köpekbalığı:fırfırlı köpekbalıkları:fırfırlı köpekbalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:frill shark:frill sharks:frill shark]', '[CASTE_NAME:frill shark:frill sharks:frill shark][CASTE_NAME:fırfırlı köpekbalığı:fırfırlı köpekbalıkları:fırfırlı köpekbalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:frill shark pup:frill shark pups]', '[GENERAL_CHILD_NAME:frill shark pup:frill shark pups][GENERAL_CHILD_NAME:yavru fırfırlı köpekbalığı:yavru fırfırlı köpekbalıkları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:spotted wobbegong pup:spotted wobbegong pups]', '[GENERAL_CHILD_NAME:spotted wobbegong pup:spotted wobbegong pups][GENERAL_CHILD_NAME:yavru benekli wobbegong:yavru benekli wobbegonglar]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A gigantic filter-feeding fish found in tropical oceans.]', '[DESCRIPTION:A gigantic filter-feeding fish found in tropical oceans.][DESCRIPTION:Tropikal okyanuslarda bulunan, süzerek beslenen devasa bir balık.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:whale shark:whale sharks:whale shark]', '[CASTE_NAME:whale shark:whale sharks:whale shark][CASTE_NAME:balina köpekbalığı:balina köpekbalıkları:balina köpekbalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:whale shark pup:whale shark pups]', '[GENERAL_CHILD_NAME:whale shark pup:whale shark pups][GENERAL_CHILD_NAME:yavru balina köpekbalığı:yavru balina köpekbalıkları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:nurse shark:nurse sharks:nurse shark]', '[CASTE_NAME:nurse shark:nurse sharks:nurse shark][CASTE_NAME:hemşire köpekbalığı:hemşire köpekbalıkları:hemşire köpekbalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:nurse shark pup:nurse shark pups]', '[GENERAL_CHILD_NAME:nurse shark pup:nurse shark pups][GENERAL_CHILD_NAME:yavru hemşire köpekbalığı:yavru hemşire köpekbalıkları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:shortfin mako shark:shortfin mako sharks:shortfin mako shark]', '[NAME:shortfin mako shark:shortfin mako sharks:shortfin mako shark][NAME:kısa yüzgeçli mako köpekbalığı:kısa yüzgeçli mako köpekbalıkları:kısa yüzgeçli mako köpekbalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:shortfin mako shark pup:shortfin mako shark pup]', '[GENERAL_CHILD_NAME:shortfin mako shark pup:shortfin mako shark pup][GENERAL_CHILD_NAME:yavru kısa yüzgeçli mako köpekbalığı:yavru kısa yüzgeçli mako köpekbalıkları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:longfin mako shark:longfin mako sharks:longfin mako shark]', '[NAME:longfin mako shark:longfin mako sharks:longfin mako shark][NAME:uzun yüzgeçli mako köpekbalığı:uzun yüzgeçli mako köpekbalıkları:uzun yüzgeçli mako köpekbalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:longfin mako shark:longfin mako sharks:longfin mako shark]', '[CASTE_NAME:longfin mako shark:longfin mako sharks:longfin mako shark][CASTE_NAME:uzun yüzgeçli mako köpekbalığı:uzun yüzgeçli mako köpekbalıkları:uzun yüzgeçli mako köpekbalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:longfin mako shark pup:longfin mako shark pup]', '[GENERAL_CHILD_NAME:longfin mako shark pup:longfin mako shark pup][GENERAL_CHILD_NAME:yavru uzun yüzgeçli mako köpekbalığı:yavru uzun yüzgeçli mako köpekbalıkları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:tiger shark:tiger sharks:tiger shark]', '[CASTE_NAME:tiger shark:tiger sharks:tiger shark][CASTE_NAME:kaplan köpekbalığı:kaplan köpekbalıkları:kaplan köpekbalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:tiger shark pup:tiger shark pups]', '[GENERAL_CHILD_NAME:tiger shark pup:tiger shark pups][GENERAL_CHILD_NAME:yavru kaplan köpekbalığı:yavru kaplan köpekbalıkları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A medium-sized fish found in shallow oceanic waters.]', '[DESCRIPTION:A medium-sized fish found in shallow oceanic waters.][DESCRIPTION:Sığ okyanus sularında bulunan orta büyüklükte bir balık.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:blacktip reef shark:blacktip reef sharks:blacktip reef shark]', '[NAME:blacktip reef shark:blacktip reef sharks:blacktip reef shark][NAME:siyah uçlu resif köpekbalığı:siyah uçlu resif köpekbalıkları:siyah uçlu resif köpekbalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:blacktip reef shark pup:blacktip reef shark pups]', '[GENERAL_CHILD_NAME:blacktip reef shark pup:blacktip reef shark pups][GENERAL_CHILD_NAME:yavru siyah uçlu resif köpekbalığı:yavru siyah uçlu resif köpekbalıkları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:whitetip reef shark:whitetip reef sharks:whitetip reef shark]', '[NAME:whitetip reef shark:whitetip reef sharks:whitetip reef shark][NAME:beyaz uçlu resif köpekbalığı:beyaz uçlu resif köpekbalıkları:beyaz uçlu resif köpekbalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:whitetip reef shark pup:whitetip reef shark pups]', '[GENERAL_CHILD_NAME:whitetip reef shark pup:whitetip reef shark pups][GENERAL_CHILD_NAME:yavru beyaz uçlu resif köpekbalığı:yavru beyaz uçlu resif köpekbalıkları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:hammerhead shark:hammerhead sharks:hammerhead shark]', '[NAME:hammerhead shark:hammerhead sharks:hammerhead shark][NAME:çekiç başlı köpekbalığı:çekiç başlı köpekbalıkları:çekiç başlı köpekbalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:hammerhead shark:hammerhead sharks:hammerhead shark]', '[CASTE_NAME:hammerhead shark:hammerhead sharks:hammerhead shark][CASTE_NAME:çekiç başlı köpekbalığı:çekiç başlı köpekbalıkları:çekiç başlı köpekbalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:hammerhead shark pup:hammerhead shark pups]', '[GENERAL_CHILD_NAME:hammerhead shark pup:hammerhead shark pups][GENERAL_CHILD_NAME:yavru çekiç başlı köpekbalığı:yavru çekiç başlı köpekbalıkları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:angelshark pup:angelshark pups]', '[GENERAL_CHILD_NAME:angelshark pup:angelshark pups][GENERAL_CHILD_NAME:yavru melek köpekbalığı:yavru melek köpekbalıkları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:An elusive medium-sized fish found in coastal waters.]', '[DESCRIPTION:An elusive medium-sized fish found in coastal waters.][DESCRIPTION:Kıyı sularında bulunan, yakalanması zor, orta büyüklükte bir balık.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A medium-sized oceanic fish, often hunted for its meat.]', '[DESCRIPTION:A medium-sized oceanic fish, often hunted for its meat.][DESCRIPTION:Genellikle eti için avlanan orta büyüklükte bir okyanus balığı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A large oceanic fish.  It is flat, round and red.]', '[DESCRIPTION:A large oceanic fish.  It is flat, round and red.][DESCRIPTION:Büyük bir okyanus balığı. Yassı, yuvarlak ve kırmızıdır.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A large, big-mouthed fish, found around coral reefs.]', '[DESCRIPTION:A large, big-mouthed fish, found around coral reefs.][DESCRIPTION:Mercan resifleri çevresinde bulunan büyük, koca ağızlı bir balık.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:ocean sunfish:ocean sunfish:ocean sunfish]', '[NAME:ocean sunfish:ocean sunfish:ocean sunfish][NAME:okyanus güneş balığı:okyanus güneş balıkları:okyanus güneş balığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:ocean sunfish:ocean sunfish:ocean sunfish]', '[CASTE_NAME:ocean sunfish:ocean sunfish:ocean sunfish][CASTE_NAME:okyanus güneş balığı:okyanus güneş balıkları:okyanus güneş balığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:ocean sunfish fry:ocean sunfish fry]', '[GENERAL_CHILD_NAME:ocean sunfish fry:ocean sunfish fry][GENERAL_CHILD_NAME:yavru okyanus güneş balığı:yavru okyanus güneş balıkları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:bluefin tuna:bluefin tuna:bluefin tuna]', '[NAME:bluefin tuna:bluefin tuna:bluefin tuna][NAME:mavi yüzgeçli orkinos:mavi yüzgeçli orkinoslar:mavi yüzgeçli orkinos]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:bluefin tuna:bluefin tuna:bluefin tuna]', '[CASTE_NAME:bluefin tuna:bluefin tuna:bluefin tuna][CASTE_NAME:mavi yüzgeçli orkinos:mavi yüzgeçli orkinoslar:mavi yüzgeçli orkinos]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:bluefin fry:bluefin fry]', '[GENERAL_CHILD_NAME:bluefin fry:bluefin fry][GENERAL_CHILD_NAME:yavru mavi yüzgeçli orkinos:yavru mavi yüzgeçli orkinoslar]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A huge sea monster with an enormous horn on its nose.]', '[DESCRIPTION:A huge sea monster with an enormous horn on its nose.][DESCRIPTION:Burnunda muazzam bir boynuzu olan dev bir deniz canavarı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:longnose gar:longnose gars:longnose gar]', '[NAME:longnose gar:longnose gars:longnose gar][NAME:uzun burunlu zargana:uzun burunlu zarganalar:uzun burunlu zargana]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:longnose gar:longnose gars:longnose gar]', '[CASTE_NAME:longnose gar:longnose gars:longnose gar][CASTE_NAME:uzun burunlu zargana:uzun burunlu zarganalar:uzun burunlu zargana]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:longnose gar fry:longnose gar fry]', '[GENERAL_CHILD_NAME:longnose gar fry:longnose gar fry][GENERAL_CHILD_NAME:yavru uzun burunlu zargana:yavru uzun burunlu zarganalar]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A medium-sized, green fish found in temperate lakes.]', '[DESCRIPTION:A medium-sized, green fish found in temperate lakes.][DESCRIPTION:Ilıman göllerde bulunan orta büyüklükte, yeşil bir balık.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:rhesus macaque man:rhesus macaque men:rhesus macaque man]', '[CASTE_NAME:rhesus macaque man:rhesus macaque men:rhesus macaque man][CASTE_NAME:erkek rhesus maymunu:erkek rhesus maymunları:erkek rhesus maymunu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:rhesus macaque man:rhesus macaque men:rhesus macaque man]', '[NAME:rhesus macaque man:rhesus macaque men:rhesus macaque man][NAME:erkek rhesus maymunu:erkek rhesus maymunları:erkek rhesus maymunu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:buzzard man:buzzard men:buzzard man]', '[CASTE_NAME:buzzard man:buzzard men:buzzard man][CASTE_NAME:erkek kızıl akbaba:erkek kızıl akbabalar:erkek kızıl akbaba]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[SOUND:ALERT:100:1000:VOCALIZATION:bark:barks:a loud bark]', '[SOUND:ALERT:100:1000:VOCALIZATION:bark:barks:a loud bark][SOUND:ALERT:100:1000:VOCALIZATION:havla:havlar:yüksek sesli bir havlama]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:purr:purrs:a purr]', '[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:purr:purrs:a purr][SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:mırıldan:mırıldanır:bir mırıltı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:25:10000:NONE:click:clicks:a click]', '[SOUND:PEACEFUL_INTERMITTENT:25:10000:NONE:click:clicks:a click][SOUND:PEACEFUL_INTERMITTENT:25:10000:NONE:tıkırda:tıkırdar:bir tıkırtı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[SOUND:PEACEFUL_INTERMITTENT:50:10000:NONE:click:clicks:a loud click]', '[SOUND:PEACEFUL_INTERMITTENT:50:10000:NONE:click:clicks:a loud click][SOUND:PEACEFUL_INTERMITTENT:50:10000:NONE:tıkırda:tıkırdar:yüksek sesli bir tıkırtı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A humanoid with the head and stripes of a badger.]', '[DESCRIPTION:A humanoid with the head and stripes of a badger.][DESCRIPTION:Porsuk başına ve çizgilerine sahip insansı bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A humanoid with the head and antlers of a moose.]', '[DESCRIPTION:A humanoid with the head and antlers of a moose.][DESCRIPTION:Sığın başına ve boynuzlarına sahip insansı bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A large person with the trunk and ears of an elephant.]', '[DESCRIPTION:A large person with the trunk and ears of an elephant.][DESCRIPTION:Fil hortumuna ve kulaklarına sahip büyük bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:warthog man:warthog men:warthog man]', '[CASTE_NAME:warthog man:warthog men:warthog man][CASTE_NAME:erkek yaban domuzu:erkek yaban domuzları:erkek yaban domuzu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A small ape found in pairs, swinging from the trees.]', '[DESCRIPTION:A small ape found in pairs, swinging from the trees.][DESCRIPTION:Çiftler halinde bulunan, ağaçlarda sallanan küçük bir maymun.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:one-humped camel calf:one-humped camel calves]', '[GENERAL_CHILD_NAME:one-humped camel calf:one-humped camel calves][GENERAL_CHILD_NAME:yavru tek hörgüçlü deve:yavru tek hörgüçlü develer]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:one-humped camel man:one-humped camel men:one-humped camel man]', '[NAME:one-humped camel man:one-humped camel men:one-humped camel man][NAME:erkek tek hörgüçlü deve:erkek tek hörgüçlü develer:erkek tek hörgüçlü deve]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the head and hump of a one-humped camel.]', '[DESCRIPTION:A person with the head and hump of a one-humped camel.][DESCRIPTION:Tek hörgüçlü deve başına ve hörgücüne sahip bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:two-humped camel:two-humped camels:two-humped camel]', '[CASTE_NAME:two-humped camel:two-humped camels:two-humped camel][CASTE_NAME:çift hörgüçlü deve:çift hörgüçlü develer:çift hörgüçlü deve]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:two-humped camel calf:two-humped camel calves]', '[GENERAL_CHILD_NAME:two-humped camel calf:two-humped camel calves][GENERAL_CHILD_NAME:yavru çift hörgüçlü deve:yavru çift hörgüçlü develer]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:two-humped camel man:two-humped camel men:two-humped camel man]', '[NAME:two-humped camel man:two-humped camel men:two-humped camel man][NAME:erkek çift hörgüçlü deve:erkek çift hörgüçlü develer:erkek çift hörgüçlü deve]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the head and humps of a two-humped camel.]', '[DESCRIPTION:A person with the head and humps of a two-humped camel.][DESCRIPTION:Çift hörgüçlü deve başına ve hörgüçlerine sahip bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A humanoid with the head and stripes of a honey badger.]', '[DESCRIPTION:A humanoid with the head and stripes of a honey badger.][DESCRIPTION:Bal porsuğu başına ve çizgilerine sahip insansı bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant tortoise man:giant tortoise men:giant tortoise man]', '[CASTE_NAME:giant tortoise man:giant tortoise men:giant tortoise man][CASTE_NAME:erkek dev kaplumbağa:erkek dev kaplumbağalar:erkek dev kaplumbağa]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant tortoise man:giant tortoise men:giant tortoise man]', '[NAME:giant tortoise man:giant tortoise men:giant tortoise man][NAME:erkek dev kaplumbağa:erkek dev kaplumbağalar:erkek dev kaplumbağa]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:elk man:elk men:elk man]', '[CASTE_NAME:elk man:elk men:elk man][CASTE_NAME:erkek Kanada geyiği:erkek Kanada geyikleri:erkek Kanada geyiği]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:elk woman:elk women:elk woman]', '[CASTE_NAME:elk woman:elk women:elk woman][CASTE_NAME:dişi Kanada geyiği:dişi Kanada geyikleri:dişi Kanada geyiği]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant elk fawn:giant elk fawns]', '[GENERAL_CHILD_NAME:giant elk fawn:giant elk fawns][GENERAL_CHILD_NAME:yavru dev Kanada geyiği:yavru dev Kanada geyikleri]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:plump helmet man:plump helmet men:plump helmet man]', '[CASTE_NAME:plump helmet man:plump helmet men:plump helmet man][CASTE_NAME:tombul miğfer adam:tombul miğfer adamlar:tombul miğfer adam]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the head and pincers of a crab.]', '[DESCRIPTION:A person with the head and pincers of a crab.][DESCRIPTION:Yengeç başına ve kıskaçlarına sahip bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:cuttlefish man:cuttlefish men:cuttlefish man]', '[CASTE_NAME:cuttlefish man:cuttlefish men:cuttlefish man][CASTE_NAME:erkek mürekkep balığı:erkek mürekkep balıkları:erkek mürekkep balığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:cuttlefish woman:cuttlefish women:cuttlefish woman]', '[CASTE_NAME:cuttlefish woman:cuttlefish women:cuttlefish woman][CASTE_NAME:dişi mürekkep balığı:dişi mürekkep balıkları:dişi mürekkep balığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:cuttlefish man:cuttlefish men:cuttlefish man]', '[NAME:cuttlefish man:cuttlefish men:cuttlefish man][NAME:erkek mürekkep balığı:erkek mürekkep balıkları:erkek mürekkep balığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with a cuttlefish in place of a head.]', '[DESCRIPTION:A person with a cuttlefish in place of a head.][DESCRIPTION:Kafası yerinde mürekkep balığı olan bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant cuttlefish:giant cuttlefish:giant cuttlefish]', '[CASTE_NAME:giant cuttlefish:giant cuttlefish:giant cuttlefish][CASTE_NAME:dev mürekkep balığı:dev mürekkep balıkları:dev mürekkep balığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:orca man:orca men:orca man]', '[CASTE_NAME:orca man:orca men:orca man][CASTE_NAME:erkek katil balina:erkek katil balinalar:erkek katil balina]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:An aquatic person in the shape of an orca with arms.]', '[DESCRIPTION:An aquatic person in the shape of an orca with arms.][DESCRIPTION:Kolları olan, katil balina şeklinde sucul bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person in the form of a sponge with arms and legs.]', '[DESCRIPTION:A person in the form of a sponge with arms and legs.][DESCRIPTION:Kolları ve bacakları olan sünger formunda bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:horseshoe crab man:horseshoe crab men:horseshoe crab man]', '[CASTE_NAME:horseshoe crab man:horseshoe crab men:horseshoe crab man][CASTE_NAME:erkek at nalı yengeci:erkek at nalı yengeçleri:erkek at nalı yengeci]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:horseshoe crab man:horseshoe crab men:horseshoe crab man]', '[NAME:horseshoe crab man:horseshoe crab men:horseshoe crab man][NAME:erkek at nalı yengeci:erkek at nalı yengeçleri:erkek at nalı yengeci]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:sperm whale:sperm whales:sperm whale]', '[CASTE_NAME:sperm whale:sperm whales:sperm whale][CASTE_NAME:İspermeçet Balinası:İspermeçet Balinaları:İspermeçet Balinası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:sperm whale calf:sperm whale calves]', '[GENERAL_CHILD_NAME:sperm whale calf:sperm whale calves][GENERAL_CHILD_NAME:yavru İspermeçet Balinası:yavru İspermeçet Balinaları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:sperm whale man:sperm whale men:sperm whale man]', '[CASTE_NAME:sperm whale man:sperm whale men:sperm whale man][CASTE_NAME:erkek İspermeçet Balinası:erkek İspermeçet Balinaları:erkek İspermeçet Balinası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:sperm whale woman:sperm whale women:sperm whale woman]', '[CASTE_NAME:sperm whale woman:sperm whale women:sperm whale woman][CASTE_NAME:dişi İspermeçet Balinası:dişi İspermeçet Balinaları:dişi İspermeçet Balinası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:sperm whale man:sperm whale men:sperm whale man]', '[NAME:sperm whale man:sperm whale men:sperm whale man][NAME:erkek İspermeçet Balinası:erkek İspermeçet Balinaları:erkek İspermeçet Balinası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant sperm whale:giant sperm whales:giant sperm whale]', '[NAME:giant sperm whale:giant sperm whales:giant sperm whale][NAME:dev İspermeçet Balinası:dev İspermeçet Balinaları:dev İspermeçet Balinası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant sperm whale:giant sperm whales:giant sperm whale]', '[CASTE_NAME:giant sperm whale:giant sperm whales:giant sperm whale][CASTE_NAME:dev İspermeçet Balinası:dev İspermeçet Balinaları:dev İspermeçet Balinası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant sperm whale calf:giant sperm whale calves]', '[GENERAL_CHILD_NAME:giant sperm whale calf:giant sperm whale calves][GENERAL_CHILD_NAME:yavru dev İspermeçet Balinası:yavru dev İspermeçet Balinaları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the head and flippers of an elephant seal.]', '[DESCRIPTION:A person with the head and flippers of an elephant seal.][DESCRIPTION:Deniz fili başına ve yüzgeçlerine sahip bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:harp seal man:harp seal men:harp seal man]', '[CASTE_NAME:harp seal man:harp seal men:harp seal man][CASTE_NAME:erkek grönland foku:erkek grönland fokları:erkek grönland foku]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:harp seal woman:harp seal women:harp seal woman]', '[CASTE_NAME:harp seal woman:harp seal women:harp seal woman][CASTE_NAME:dişi grönland foku:dişi grönland fokları:dişi grönland foku]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the head and flippers of a harp seal.]', '[DESCRIPTION:A person with the head and flippers of a harp seal.][DESCRIPTION:Grönland foku başına ve yüzgeçlerine sahip bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant harp seal pup:giant harp seal pups]', '[GENERAL_CHILD_NAME:giant harp seal pup:giant harp seal pups][GENERAL_CHILD_NAME:yavru dev grönland foku:yavru dev grönland fokları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A tiny, mollusk with a large shell and many tentacles.]', '[DESCRIPTION:A tiny, mollusk with a large shell and many tentacles.][DESCRIPTION:Büyük bir kabuğu ve çok sayıda dokunacı olan minik bir yumuşakça.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the shell and tentacles of a nautilus.]', '[DESCRIPTION:A person with the shell and tentacles of a nautilus.][DESCRIPTION:Nautilüs kabuğuna ve dokunaçlarına sahip bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A tiny translucent creature, found in evil forests.]', '[DESCRIPTION:A tiny translucent creature, found in evil forests.][DESCRIPTION:Kötücül ormanlarda bulunan minik, yarı şeffaf bir yaratık.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:acorn fly:acorn flies:acorn fly]', '[NAME:acorn fly:acorn flies:acorn fly][NAME:meşe palamudu sineği:meşe palamudu sinekleri:meşe palamudu sineği]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:acorn fly:acorn flies:acorn fly]', '[CASTE_NAME:acorn fly:acorn flies:acorn fly][CASTE_NAME:meşe palamudu sineği:meşe palamudu sinekleri:meşe palamudu sineği]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:skink man:skink men:skink man]', '[CASTE_NAME:skink man:skink men:skink man][CASTE_NAME:erkek parlak kertenkele:erkek parlak kertenkeleler:erkek parlak kertenkele]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:skink woman:skink women:skink woman]', '[CASTE_NAME:skink woman:skink women:skink woman][CASTE_NAME:dişi parlak kertenkele:dişi parlak kertenkeleler:dişi parlak kertenkele]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:skink man:skink men:skink man]', '[NAME:skink man:skink men:skink man][NAME:erkek parlak kertenkele:erkek parlak kertenkeleler:erkek parlak kertenkele]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A long-bodied person with the head and tail of a skink.]', '[DESCRIPTION:A long-bodied person with the head and tail of a skink.][DESCRIPTION:Parlak kertenkele başına ve kuyruğuna sahip, uzun gövdeli bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant skink:giant skinks:giant skink]', '[NAME:giant skink:giant skinks:giant skink][NAME:dev parlak kertenkele:dev parlak kertenkeleler:dev parlak kertenkele]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant skink:giant skinks:giant skink]', '[CASTE_NAME:giant skink:giant skinks:giant skink][CASTE_NAME:dev parlak kertenkele:dev parlak kertenkeleler:dev parlak kertenkele]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A colorful person with the head and tail of a chameleon.]', '[DESCRIPTION:A colorful person with the head and tail of a chameleon.][DESCRIPTION:Bukalemun başına ve kuyruğuna sahip renkli bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the long body and head of an otter.]', '[DESCRIPTION:A person with the long beden and head of an otter.][DESCRIPTION:Su samuru başına ve uzun gövdesine sahip bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:snapping turtle man:snapping turtle men:snapping turtle man]', '[NAME:snapping turtle man:snapping turtle men:snapping turtle man][NAME:erkek kapan kaplumbağa:erkek kapan kaplumbağalar:erkek kapan kaplumbağa]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the shell and head of a snapping turtle.]', '[DESCRIPTION:A person with the shell and head of a snapping turtle.][DESCRIPTION:Kapan kaplumbağa kabuğuna ve başına sahip bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the head and flat tail of a beaver.]', '[DESCRIPTION:A person with the head and flat tail of a beaver.][DESCRIPTION:Kunduz başına ve yassı kuyruğuna sahip bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A tiny, aquatic, worm-like creature that feeds on blood.]', '[DESCRIPTION:A tiny, aquatic, worm-like creature that feeds on blood.][DESCRIPTION:Kanla beslenen minik, sucul, solucan benzeri bir yaratık.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:pond turtle:pond turtles:pond turtle]', '[CASTE_NAME:pond turtle:pond turtles:pond turtle][CASTE_NAME:gölet kaplumbağası:gölet kaplumbağaları:gölet kaplumbağası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:pond turtle man:pond turtle men:pond turtle man]', '[CASTE_NAME:pond turtle man:pond turtle men:pond turtle man][CASTE_NAME:erkek gölet kaplumbağası:erkek gölet kaplumbağaları:erkek gölet kaplumbağası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:pond turtle woman:pond turtle women:pond turtle woman]', '[CASTE_NAME:pond turtle woman:pond turtle women:pond turtle woman][CASTE_NAME:dişi gölet kaplumbağası:dişi gölet kaplumbağaları:dişi gölet kaplumbağası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:pond turtle man:pond turtle men:pond turtle man]', '[NAME:pond turtle man:pond turtle men:pond turtle man][NAME:erkek gölet kaplumbağası:erkek gölet kaplumbağaları:erkek gölet kaplumbağası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the head and shell of a pond turtle.]', '[DESCRIPTION:A person with the head and shell of a pond turtle.][DESCRIPTION:Gölet kaplumbağası başına ve kabuğuna sahip bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant pond turtle:giant pond turtles:giant pond turtle]', '[NAME:giant pond turtle:giant pond turtles:giant pond turtle][NAME:dev gölet kaplumbağası:dev gölet kaplumbağaları:dev gölet kaplumbağası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant pond turtle:giant pond turtles:giant pond turtle]', '[CASTE_NAME:giant pond turtle:giant pond turtles:giant pond turtle][CASTE_NAME:dev gölet kaplumbağası:dev gölet kaplumbağaları:dev gölet kaplumbağası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the head and wings of a flying squirrel.]', '[DESCRIPTION:A person with the head and wings of a flying squirrel.][DESCRIPTION:Uçan sincap başına ve kanatlarına sahip bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the head and tail of a gray squirrel.]', '[DESCRIPTION:A person with the head and tail of a gray squirrel.][DESCRIPTION:Gri sincap başına ve kuyruğuna sahip bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:red squirrel man:red squirrel men:red squirrel man]', '[CASTE_NAME:red squirrel man:red squirrel men:red squirrel man][CASTE_NAME:erkek kızıl sincap:erkek kızıl sincaplar:erkek kızıl sincap]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the head and tail of a red squirrel.]', '[DESCRIPTION:A person with the head and tail of a red squirrel.][DESCRIPTION:Kızıl sincap başına ve kuyruğuna sahip bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:chipmunk man:chipmunk men:chipmunk man]', '[CASTE_NAME:chipmunk man:chipmunk men:chipmunk man][CASTE_NAME:erkek çizgili sincap:erkek çizgili sincaplar:erkek çizgili sincap]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:chipmunk woman:chipmunk women:chipmunk woman]', '[CASTE_NAME:chipmunk woman:chipmunk women:chipmunk woman][CASTE_NAME:dişi çizgili sincap:dişi çizgili sincaplar:dişi çizgili sincap]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:chipmunk man:chipmunk men:chipmunk man]', '[NAME:chipmunk man:chipmunk men:chipmunk man][NAME:erkek çizgili sincap:erkek çizgili sincaplar:erkek çizgili sincap]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A striped person with the head and tail of a chipmunk.]', '[DESCRIPTION:A striped person with the head and tail of a chipmunk.][DESCRIPTION:Çizgili sincap başına ve kuyruğuna sahip, çizgili bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant chipmunk:giant chipmunks:giant chipmunk]', '[CASTE_NAME:giant chipmunk:giant chipmunks:giant chipmunk][CASTE_NAME:dev çizgili sincap:dev çizgili sincaplar:dev çizgili sincap]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant chipmunk pup:giant chipmunk pups]', '[GENERAL_CHILD_NAME:giant chipmunk pup:giant chipmunk pups][GENERAL_CHILD_NAME:yavru dev çizgili sincap:yavru dev çizgili sincaplar]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:hagfish:hagfish:hagfish]', '[CASTE_NAME:hagfish:hagfish:hagfish][CASTE_NAME:balçık yılan balığı:balçık yılan balıkları:balçık yılan balığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:spotted ratfish:spotted ratfish:spotted ratfish]', '[NAME:spotted ratfish:spotted ratfish:spotted ratfish][NAME:benekli sıçan balığı:benekli sıçan balıkları:benekli sıçan balığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:spotted ratfish:spotted ratfish:spotted ratfish]', '[CASTE_NAME:spotted ratfish:spotted ratfish:spotted ratfish][CASTE_NAME:benekli sıçan balığı:benekli sıçan balıkları:benekli sıçan balığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A medium-sized fish found in tributaries and oceans.]', '[DESCRIPTION:A medium-sized fish found in tributaries and oceans.][DESCRIPTION:Kollarda ve okyanuslarda bulunan orta büyüklükte bir balık.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:steelhead trout:steelhead trout:steelhead trout]', '[CASTE_NAME:steelhead trout:steelhead trout:steelhead trout][CASTE_NAME:gökkuşağı alabalığı:gökkuşağı alabalıkları:gökkuşağı alabalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A tiny, curved and colorful fish found in coral reefs.]', '[DESCRIPTION:A tiny, curved and colorful fish found in coral reefs.][DESCRIPTION:Mercan resiflerinde bulunan minik, kıvrımlı ve renkli bir balık.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:white-spotted puffer:white-spotted puffers:white-spotted puffer]', '[NAME:white-spotted puffer:white-spotted puffers:white-spotted puffer][NAME:beyaz benekli balon balığı:beyaz benekli balon balıkları:beyaz benekli balon balığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A medium-sized oceanic fish prized for its meat.]', '[DESCRIPTION:A medium-sized oceanic fish prized for its meat.][DESCRIPTION:Eti için değer verilen orta büyüklükte bir okyanus balığı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:sea nettle jellyfish:sea nettle jellyfish:sea nettle jellyfish]', '[NAME:sea nettle jellyfish:sea nettle jellyfish:sea nettle jellyfish][NAME:deniz ısırganı denizanası:deniz ısırganı denizanaları:deniz ısırganı denizanası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A small person with a head bearing ten tentacles.]', '[DESCRIPTION:A small person with a head bearing ten tentacles.][DESCRIPTION:On dokunaç taşıyan bir kafası olan küçük bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:clown loach:clown loaches:clown loach]', '[CASTE_NAME:clown loach:clown loaches:clown loach][CASTE_NAME:palyaço makrakanta:palyaço makrakantalar:palyaço makrakanta]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:brown bullhead:brown bullheads:brown bullhead]', '[NAME:brown bullhead:brown bullheads:brown bullhead][NAME:kahverengi yayın balığı:kahverengi yayın balıkları:kahverengi yayın balığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:brown bullhead:brown bullheads:brown bullhead]', '[CASTE_NAME:brown bullhead:brown bullheads:brown bullhead][CASTE_NAME:kahverengi yayın balığı:kahverengi yayın balıkları:kahverengi yayın balığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:black bullhead:black bullheads:black bullhead]', '[CASTE_NAME:black bullhead:black bullheads:black bullhead][CASTE_NAME:siyah yayın balığı:siyah yayın balıkları:siyah yayın balığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A small spotted fish found in tropical rivers and lakes.]', '[DESCRIPTION:A small spotted fish found in tropical rivers and lakes.][DESCRIPTION:Tropikal nehirlerde ve göllerde bulunan küçük, benekli bir balık.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:banded knifefish:banded knifefish:banded knifefish]', '[CASTE_NAME:banded knifefish:banded knifefish:banded knifefish][CASTE_NAME:bantlı bıçak balığı:bantlı bıçak balıkları:bantlı bıçak balığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:rainbow trout:rainbow trout:rainbow trout]', '[CASTE_NAME:rainbow trout:rainbow trout:rainbow trout][CASTE_NAME:gökkuşağı alabalığı:gökkuşağı alabalıkları:gökkuşağı alabalığı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:sailfin molly:sailfin mollies:sailfin molly]', '[NAME:sailfin molly:sailfin mollies:sailfin molly][NAME:yelken yüzgeçli moli:yelken yüzgeçli moliler:yelken yüzgeçli moli]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:sailfin molly:sailfin mollies:sailfin molly]', '[CASTE_NAME:sailfin molly:sailfin mollies:sailfin molly][CASTE_NAME:yelken yüzgeçli moli:yelken yüzgeçli moliler:yelken yüzgeçli moli]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A tiny colorful fish found in tropical lakes and rivers.]', '[DESCRIPTION:A tiny colorful fish found in tropical lakes and rivers.][DESCRIPTION:Tropikal göllerde ve nehirlerde bulunan minik, renkli bir balık.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A tiny, giggling humanoid with lacy wings.]', '[DESCRIPTION:A tiny, giggling humanoid with lacy wings.][DESCRIPTION:Dantelimsi kanatlara sahip, kıkırdayan minik bir insansı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A giant dragon-like monster with seven biting heads.]', '[DESCRIPTION:A giant dragon-like monster with seven biting heads.][DESCRIPTION:Yedi ısıran kafası olan dev ejderha benzeri bir canavar.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant cave toad:giant cave toads:giant cave toad]', '[NAME:giant cave toad:giant cave toads:giant cave toad][NAME:dev mağara kurbağası:dev mağara kurbağaları:dev mağara kurbağası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant cave toad:giant cave toads:giant cave toad]', '[CASTE_NAME:giant cave toad:giant cave toads:giant cave toad][CASTE_NAME:dev mağara kurbağası:dev mağara kurbağaları:dev mağara kurbağası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant olm:giant olms:giant olm]', '[NAME:giant olm:giant olms:giant olm][NAME:dev mağara semenderi:dev mağara semenderleri:dev mağara semenderi]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant olm:giant olms:giant olm]', '[CASTE_NAME:giant olm:giant olms:giant olm][CASTE_NAME:dev mağara semenderi:dev mağara semenderleri:dev mağara semenderi]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:naked mole dog:naked mole dogs:naked mole dog]', '[NAME:naked mole dog:naked mole dogs:naked mole dog][NAME:çıplak köstebek köpeği:çıplak köstebek köpekleri:çıplak köstebek köpeği]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:naked mole dog:naked mole dogs:naked mole dog]', '[CASTE_NAME:naked mole dog:naked mole dogs:naked mole dog][CASTE_NAME:çıplak köstebek köpeği:çıplak köstebek köpekleri:çıplak köstebek köpeği]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:naked mole puppy:naked mole puppies]', '[GENERAL_CHILD_NAME:naked mole puppy:naked mole puppies][GENERAL_CHILD_NAME:çıplak köstebek köpeği yavrusu:çıplak köstebek köpeği yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant cave spider:giant cave spiders:giant cave spider]', '[CASTE_NAME:giant cave spider:giant cave spiders:giant cave spider][CASTE_NAME:dev mağara örümceği:dev mağara örümcekleri:dev mağara örümceği]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:cave fish man:cave fish men:cave fish man]', '[CASTE_NAME:cave fish man:cave fish men:cave fish man][CASTE_NAME:mağara balığı adam:mağara balığı adamlar:mağara balığı adam]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:cave fish woman:cave fish women:cave fish woman]', '[CASTE_NAME:cave fish woman:cave fish women:cave fish woman][CASTE_NAME:mağara balığı kadın:mağara balığı kadınlar:mağara balığı kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:olm man:olm men:olm man]', '[CASTE_NAME:olm man:olm men:olm man][CASTE_NAME:mağara semenderi adam:mağara semenderi adamlar:mağara semenderi adam]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:olm woman:olm women:olm woman]', '[CASTE_NAME:olm woman:olm women:olm woman][CASTE_NAME:mağara semenderi kadın:mağara semenderi kadınlar:mağara semenderi kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:olm man:olm men:olm man]', '[NAME:olm man:olm men:olm man][NAME:mağara semenderi adamı:mağara semenderi adamları:fantastik canlı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:purring maggot:purring maggots:purring maggot]', '[CASTE_NAME:purring maggot:purring maggots:purring maggot][CASTE_NAME:mırıldanan kurtçuk:mırıldanan kurtçuklar:mırıldanan kurtçuk]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:cave swallow hatchling:cave swallow hatchlings]', '[GENERAL_CHILD_NAME:cave swallow hatchling:cave swallow hatchlings][GENERAL_CHILD_NAME:mağara kırlangıcı yavrusu:mağara kırlangıcı yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:cave swallow man:cave swallow men:cave swallow man]', '[CASTE_NAME:cave swallow man:cave swallow men:cave swallow man][CASTE_NAME:mağara kırlangıcı adam:mağara kırlangıcı adamlar:mağara kırlangıcı adam]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:cave swallow woman:cave swallow women:cave swallow woman]', '[CASTE_NAME:cave swallow woman:cave swallow women:cave swallow woman][CASTE_NAME:mağara kırlangıcı kadın:mağara kırlangıcı kadınlar:mağara kırlangıcı kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:cave swallow man:cave swallow men:cave swallow man]', '[NAME:cave swallow man:cave swallow men:cave swallow man][NAME:mağara kırlangıcı adamı:mağara kırlangıcı adamları:kırlangıcı adam]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant cave swallow:giant cave swallows:giant cave swallow]', '[NAME:giant cave swallow:giant cave swallows:giant cave swallow][NAME:dev mağara kırlangıcı:dev mağara kırlangıçları:dev mağara kırlangıcı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant cave swallow:giant cave swallows:giant cave swallow]', '[CASTE_NAME:giant cave swallow:giant cave swallows:giant cave swallow][CASTE_NAME:dev mağara kırlangıcı:dev mağara kırlangıçları:dev mağara kırlangıcı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:worker ant woman:worker ant women:worker ant woman]', '[CASTE_NAME:worker ant woman:worker ant women:worker ant woman][CASTE_NAME:işçi karınca kadın:işçi karınca kadınlar:işçi karınca kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:soldier ant woman:soldier ant women:soldier ant woman]', '[CASTE_NAME:soldier ant woman:soldier ant women:soldier ant woman][CASTE_NAME:asker karınca kadın:asker karınca kadınlar:asker karınca kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:drone ant man:drone ant men:drone ant man]', '[CASTE_NAME:drone ant man:drone ant men:drone ant man][CASTE_NAME:erkek karınca adam:erkek karınca adamlar:erkek karınca adam]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:queen ant woman:queen ant women:queen ant woman]', '[CASTE_NAME:queen ant woman:queen ant women:queen ant woman][CASTE_NAME:kraliçe karınca kadın:kraliçe karınca kadınlar:kraliçe karınca kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:wild boar man:wild boar men:wild boar man]', '[CASTE_NAME:wild boar man:wild boar men:wild boar man][CASTE_NAME:erkek yaban domuzu:erkek yaban domuzları:erkek yaban domuzu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant wild boar piglet:giant wild boar piglets]', '[GENERAL_CHILD_NAME:giant wild boar piglet:giant wild boar piglets][GENERAL_CHILD_NAME:dev yaban domuzu yavrusu:dev yaban domuzu yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A large dog-like monster with a haunting howl.]', '[DESCRIPTION:A large dog-like monster with a haunting howl.][DESCRIPTION:Akıldan çıkmayan bir ulumaya sahip, köpek benzeri büyük bir canavar.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person with the head and powerful legs of a kangaroo.]', '[DESCRIPTION:A person with the head and powerful legs of a kangaroo.][DESCRIPTION:Kanguru kafasına ve güçlü bacaklarına sahip bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A large adder with the torso and arms of a man.]', '[DESCRIPTION:A large adder with the torso and arms of a man.][DESCRIPTION:Bir insanın gövdesine ve kollarına sahip büyük bir engerek.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:echidna:echidnas:echidna]', '[NAME:echidna:echidnas:echidna][NAME:dikenli karıncayiyen:dikenli karıncayiyenler:dikenli karıncayiyen]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:echidna:echidnas:echidna]', '[CASTE_NAME:echidna:echidnas:echidna][CASTE_NAME:dikenli karıncayiyen:dikenli karıncayiyenler:dikenli karıncayiyen]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:puggle:puggles]', '[GENERAL_CHILD_NAME:puggle:puggles][GENERAL_CHILD_NAME:dikenli karıncayiyen yavrusu:dikenli karıncayiyen yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:echidna man:echidna men:echidna man]', '[CASTE_NAME:echidna man:echidna men:echidna man][CASTE_NAME:dikenli karıncayiyen adam:dikenli karıncayiyen adamlar:dikenli karıncayiyen adam]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:echidna woman:echidna women:echidna woman]', '[CASTE_NAME:echidna woman:echidna women:echidna woman][CASTE_NAME:dikenli karıncayiyen kadın:dikenli karıncayiyen kadınlar:dikenli karıncayiyen kadın]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:echidna man:echidna men:echidna man]', '[NAME:echidna man:echidna men:echidna man][NAME:dikenli karıncayiyen adam:dikenli karıncayiyen adamlar:dikenli karıncayiyen adam]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant echidna:giant echidnas:giant echidna]', '[NAME:giant echidna:giant echidnas:giant echidna][NAME:dev dikenli karıncayiyen:dev dikenli karıncayiyenler:dev dikenli karıncayiyen]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant echidna:giant echidnas:giant echidna]', '[CASTE_NAME:giant echidna:giant echidnas:giant echidna][CASTE_NAME:dev dikenli karıncayiyen:dev dikenli karıncayiyenler:dev dikenli karıncayiyen]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant echidna puggle:giant echidna puggles]', '[GENERAL_CHILD_NAME:giant echidna puggle:giant echidna puggles][GENERAL_CHILD_NAME:dev dikenli karıncayiyen yavrusu:dev dikenli karıncayiyen yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A legless person with the head and tail of a kingsnake.]', '[DESCRIPTION:A legless person with the head and tail of a kingsnake.][DESCRIPTION:Kral yılanı kafasına ve kuyruğuna sahip bacaksız bir kişi.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A striped person with the head and tail of a skunk.]', '[DESCRIPTION:A striped person with the head and tail of a skunk.][DESCRIPTION:Kokarca kafasına ve kuyruğuna sahip çizgili fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:green tree frog:green tree frogs:green tree frog]', '[NAME:green tree frog:green tree frogs:green tree frog][NAME:yeşil ağaç kurbağası:yeşil ağaç kurbağaları:yeşil ağaç kurbağası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:green tree frog:green tree frogs:green tree frog]', '[CASTE_NAME:green tree frog:green tree frogs:green tree frog][CASTE_NAME:yeşil ağaç kurbağası:yeşil ağaç kurbağaları:yeşil ağaç kurbağası]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:green tree frog man:green tree frog men:green tree frog man]', '[NAME:green tree frog man:green tree frog men:green tree frog man][NAME:yeşil ağaç kurbağası adam:yeşil ağaç kurbağası adamlar:yeşil ağaç kurbağası adam]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:doe hare:doe hares:doe hare]', '[CASTE_NAME:doe hare:doe hares:doe hare][CASTE_NAME:dişi yabani tavşan:dişi yabani tavşanlar:dişi yabani tavşan]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:buck hare:buck hares:buck hare]', '[CASTE_NAME:buck hare:buck hares:buck hare][CASTE_NAME:erkek yabani tavşan:erkek yabani tavşanlar:erkek yabani tavşan]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:hare man:hare men:hare man]', '[CASTE_NAME:hare man:hare men:hare man][CASTE_NAME:erkek yabani tavşan:erkek yabani tavşanlar:erkek yabani tavşan]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:hare woman:hare women:hare woman]', '[CASTE_NAME:hare woman:hare women:hare woman][CASTE_NAME:dişi yabani tavşan:dişi yabani tavşanlar:dişi yabani tavşan]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A long-eared person with the head and tail of a hare.]', '[DESCRIPTION:A long-eared person with the head and tail of a hare.][DESCRIPTION:Yabani tavşan kafasına ve kuyruğuna sahip fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant leveret:giant leverets]', '[GENERAL_CHILD_NAME:giant leveret:giant leverets][GENERAL_CHILD_NAME:dev yabani tavşan yavrusu:dev yabani tavşan yavruları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:rattlesnake man:rattlesnake men:rattlesnake man]', '[CASTE_NAME:rattlesnake man:rattlesnake men:rattlesnake man][CASTE_NAME:erkek çıngıraklı yılan:erkek çıngıraklı yılanlar:erkek çıngıraklı yılan]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:rattlesnake woman:rattlesnake women:rattlesnake woman]', '[CASTE_NAME:rattlesnake woman:rattlesnake women:rattlesnake woman][CASTE_NAME:dişi çıngıraklı yılan:dişi çıngıraklı yılanlar:dişi çıngıraklı yılan]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:rattlesnake man:rattlesnake men:rattlesnake man]', '[NAME:rattlesnake man:rattlesnake men:rattlesnake man][NAME:erkek çıngıraklı yılan:erkek çıngıraklı yılanlar:erkek çıngıraklı yılan]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A person resembling a large rattlesnake with arms.]', '[DESCRIPTION:A person resembling a large rattlesnake with arms.][DESCRIPTION:Kolları olan büyük bir çıngıraklı yılanı andıran fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:giant rattlesnake:giant rattlesnakes:giant rattlesnake]', '[NAME:giant rattlesnake:giant rattlesnakes:giant rattlesnake][NAME:dev çıngıraklı yılan:dev çıngıraklı yılanlar:dev çıngıraklı yılan]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant rattlesnake:giant rattlesnakes:giant rattlesnake]', '[CASTE_NAME:giant rattlesnake:giant rattlesnakes:giant rattlesnake][CASTE_NAME:dev çıngıraklı yılan:dev çıngıraklı yılanlar:dev çıngıraklı yılan]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:weasel man:weasel men:weasel man]', '[CASTE_NAME:weasel man:weasel men:weasel man][CASTE_NAME:erkek gelincik insanı:erkek gelincik insanları:erkek gelincik insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:weasel woman:weasel women:weasel woman]', '[CASTE_NAME:weasel woman:weasel women:weasel woman][CASTE_NAME:dişi gelincik insanı:dişi gelincik insanları:dişi gelincik insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A tiny venomous snake found in the woods and swamps.]', '[DESCRIPTION:A tiny venomous snake found in the woods and swamps.][DESCRIPTION:Ormanlarda ve bataklıklarda bulunan, küçük ve zehirli bir yılan.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:copperhead snake man:copperhead snake men:copperhead snake man]', '[NAME:copperhead snake man:copperhead snake men:copperhead snake man][NAME:bakırbaş yılan insanı:bakırbaş yılan insanları:bakırbaş yılan insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:ibex man:ibex men:ibex man]', '[CASTE_NAME:ibex man:ibex men:ibex man][CASTE_NAME:erkek dağ keçisi insanı:erkek dağ keçisi insanları:erkek dağ keçisi insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:ibex woman:ibex women:ibex woman]', '[CASTE_NAME:ibex woman:ibex women:ibex woman][CASTE_NAME:dişi dağ keçisi insanı:dişi dağ keçisi insanları:dişi dağ keçisi insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:wombat man:wombat men:wombat man]', '[CASTE_NAME:wombat man:wombat men:wombat man][CASTE_NAME:erkek vombat insanı:erkek vombat insanları:erkek vombat insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:wombat woman:wombat women:wombat woman]', '[CASTE_NAME:wombat woman:wombat women:wombat woman][CASTE_NAME:dişi vombat insanı:dişi vombat insanları:dişi vombat insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:dingo man:dingo men:dingo man]', '[CASTE_NAME:dingo man:dingo men:dingo man][CASTE_NAME:erkek dingo insanı:erkek dingo insanları:erkek dingo insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:coati man:coati men:coati man]', '[CASTE_NAME:coati man:coati men:coati man][CASTE_NAME:erkek koati insanı:erkek koati insanları:erkek koati insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:opossum man:opossum men:opossum man]', '[CASTE_NAME:opossum man:opossum men:opossum man][CASTE_NAME:erkek keseli sıçan insanı:erkek keseli sıçan insanları:erkek keseli sıçan insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:opossum woman:opossum women:opossum woman]', '[CASTE_NAME:opossum woman:opossum women:opossum woman][CASTE_NAME:dişi keseli sıçan insanı:dişi keseli sıçan insanları:dişi keseli sıçan insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:mongoose man:mongoose men:mongoose man]', '[CASTE_NAME:mongoose man:mongoose men:mongoose man][CASTE_NAME:erkek firavun faresi insanı:erkek firavun faresi insanları:erkek firavun faresi insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:mongoose woman:mongoose women:mongoose woman]', '[CASTE_NAME:mongoose woman:mongoose women:mongoose woman][CASTE_NAME:dişi firavun faresi insanı:dişi firavun faresi insanları:dişi firavun faresi insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:mongoose man:mongoose men:mongoose man]', '[NAME:mongoose man:mongoose men:mongoose man][NAME:firavun faresi insanı:firavun faresi insanları:firavun faresi insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A small person with the head and tail of a mongoose.]', '[DESCRIPTION:A small person with the head and tail of a mongoose.][DESCRIPTION:Bir firavun faresinin başına ve kuyruğuna sahip küçük bir kişi.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:giant mongoose:giant mongooses:giant mongoose]', '[CASTE_NAME:giant mongoose:giant mongooses:giant mongoose][CASTE_NAME:dev firavun faresi:dev firavun fareleri:dev firavun faresi]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[GENERAL_CHILD_NAME:giant mongoose pup:giant mongoose pups]', '[GENERAL_CHILD_NAME:giant mongoose pup:giant mongoose pups][GENERAL_CHILD_NAME:yavru dev firavun faresi:yavru dev firavun fareleri]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:hyena man:hyena men:hyena man]', '[CASTE_NAME:hyena man:hyena men:hyena man][CASTE_NAME:erkek sırtlan insanı:erkek sırtlan insanları:erkek sırtlan insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:hyena woman:hyena women:hyena woman]', '[CASTE_NAME:hyena woman:hyena women:hyena woman][CASTE_NAME:dişi sırtlan insanı:dişi sırtlan insanları:dişi sırtlan insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:anaconda man:anaconda men:anaconda man]', '[CASTE_NAME:anaconda man:anaconda men:anaconda man][CASTE_NAME:erkek anakonda insanı:erkek anakonda insanları:erkek anakonda insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:anaconda woman:anaconda women:anaconda woman]', '[CASTE_NAME:anaconda woman:anaconda women:anaconda woman][CASTE_NAME:dişi anakonda insanı:dişi anakonda insanları:dişi anakonda insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A large anaconda with the torso and arms of a man.]', '[DESCRIPTION:A large anaconda with the torso and arms of a man.][DESCRIPTION:Bir insanın gövdesine ve kollarına sahip büyük bir anakonda.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:monitor lizard man:monitor lizard men:monitor lizard man]', '[CASTE_NAME:monitor lizard man:monitor lizard men:monitor lizard man][CASTE_NAME:erkek varan insanı:erkek varan insanları:erkek varan insanı]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[DESCRIPTION:A legless person with the head and tail of a king cobra.]', '[DESCRIPTION:A legless person with the head and tail of a king cobra.][DESCRIPTION:Bir kral kobranın başına ve kuyruğuna sahip bacaksız bir fantastik canlı.]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:sloth man:sloth men:sloth man]', '[CASTE_NAME:sloth man:sloth men:sloth man][CASTE_NAME:erkek tembel hayvan:erkek tembel hayvanlar:erkek tembel hayvan]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:sloth woman:sloth women:sloth woman]', '[CASTE_NAME:sloth woman:sloth women:sloth woman][CASTE_NAME:dişi tembel hayvan:dişi tembel hayvanlar:dişi tembel hayvan]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:spider monkey man:spider monkey men:spider monkey man]', '[CASTE_NAME:spider monkey man:spider monkey men:spider monkey man][CASTE_NAME:erkek örümcek maymunu:erkek örümcek maymunları:erkek örümcek maymunu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[NAME:spider monkey man:spider monkey men:spider monkey man]', '[NAME:spider monkey man:spider monkey men:spider monkey man][NAME:erkek örümcek maymunu:erkek örümcek maymunları:erkek örümcek maymunu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:lion tamarin man:lion tamarin men:lion tamarin man]', '[CASTE_NAME:lion tamarin man:lion tamarin men:lion tamarin man][CASTE_NAME:erkek aslan maymunu:erkek aslan maymunları:erkek aslan maymunu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
+Problematic tag pair: '[CASTE_NAME:lion tamarin woman:lion tamarin women:lion tamarin woman]', '[CASTE_NAME:lion tamarin woman:lion tamarin women:lion tamarin woman][CASTE_NAME:dişi aslan maymunu:dişi aslan maymunları:dişi aslan maymunu]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[IS_GEM:schorl:STP:]', '[IS_GEM:şorl:STP:]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
@@ -2752,6 +3790,9 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[IS_GEM:star sapphire:STP:]', '[IS_GEM:yıldız safir:STP:]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:two-grain wheat leaf:two-grain wheat leaves]', '[GROWTH_NAME:two-grain wheat leaf:two-grain wheat leaves][GROWTH_NAME:çift taneli buğday yaprağı:çift taneli buğday yaprakları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[GROWTH_NAME:buckwheat flower:STP]', '[GROWTH_NAME:karabuğday çiçeği:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
@@ -2812,6 +3853,9 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[GROWTH_NAME:asparagus flower:STP]', '[GROWTH_NAME:kuşkonmaz çiçeği:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:bambara groundnut leaf:bambara groundnut leaves]', '[GROWTH_NAME:bambara groundnut leaf:bambara groundnut leaves][GROWTH_NAME:bambara yer fıstığı yaprağı:bambara yer fıstığı yaprakları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[GROWTH_NAME:bambara groundnut flower:STP]', '[GROWTH_NAME:bambara yer fıstığı çiçeği:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
@@ -3022,6 +4066,9 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[GROWTH_NAME:white yam flower:STP]', '[GROWTH_NAME:beyaz yam çiçeği:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:passion fruit leaf:passion fruit leaves]', '[GROWTH_NAME:passion fruit leaf:passion fruit leaves][GROWTH_NAME:çarkıfelek meyvesi yaprağı:çarkıfelek meyvesi yaprakları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[GROWTH_NAME:passion fruit flower:STP]', '[GROWTH_NAME:çarkıfelek meyvesi çiçeği:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
@@ -3439,6 +4486,9 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[GROWTH_NAME:cacao pod:STP]', '[GROWTH_NAME:kakao meyvesi:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:coconut palm frond blade:coconut palm frond blades]', '[GROWTH_NAME:coconut palm frond blade:coconut palm frond blades][GROWTH_NAME:hindistan cevizi yaprak ayası:hindistan cevizi yaprak ayaları]'
+Problems:
+Error: Wrong tag translation format (fix square brackets)
 Problematic tag pair: '[GROWTH_NAME:coconut palm spathe:STP]', '[GROWTH_NAME:hindistan cevizi kılıfı:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
