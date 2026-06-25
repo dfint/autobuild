@@ -1113,9 +1113,6 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[BP:L_UB_PINCER:left pincer:STP]', '[BP:L_UB_PINCER:左のハサミ:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-Problematic tag pair: '[BODYGLOSS:CLAW_FOOT:foot:claw:feet:claws]', '[BODYGLOSS:CLAW_足:足:爪:足:爪]'
-Problems:
-Error: Part 'CLAW_FOOT' should not be translated
 Problematic tag pair: '[BP:REYE:right eye:STP]', '[BP:REYE:右眼:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.

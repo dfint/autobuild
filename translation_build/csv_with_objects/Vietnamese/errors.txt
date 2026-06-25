@@ -1189,18 +1189,6 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[BP:L_UB_PINCER:left pincer:STP]', '[BP:L_UB_PINCER:gọng kìm trái:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-Problematic tag pair: '[BODYGLOSS:CLAW_FOOT:foot:claw:feet:claws]', '[BODYGLOSS:HOOF:bàn chân:móng vuốt:bàn chân:móng vuốt]'
-Problems:
-Error: Part 'CLAW_FOOT' should not be translated
-Problematic tag pair: '[BODYGLOSS:HOOF:foot:hoof:feet:hooves]', '[BODYGLOSS:TRUNK:bàn chân:móng guốc:bàn chân:móng guốc]'
-Problems:
-Error: Part 'HOOF' should not be translated
-Problematic tag pair: '[BODYGLOSS:TRUNK:body:trunk:bodies:trunks]', '[BODYGLOSS:BRANCH_ARM:thân:thân:thân:thân:thân]'
-Problems:
-Error: Tag parts count mismatch
-Problematic tag pair: '[BODYGLOSS:BRANCH_ARM:arm:branch:arms:branches]', '[BODYGLOSS:LEG_STUMP:Cánh tay:Cánh tay:Cánh tay:Cánh tay]'
-Problems:
-Error: Part 'BRANCH_ARM' should not be translated
 Problematic tag pair: '[BP:REYE:right eye:STP]', '[BP:REYE:mắt phải:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
