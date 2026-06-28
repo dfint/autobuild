@@ -75,7 +75,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Echo
-        run: echo ${{ matrix.name }}, ${{ matrix.code }}, ${{ matrix.encoding }}
+        run: echo "${{ matrix.name }}, ${{ matrix.code }}, ${{ matrix.encoding }}"
 
       - name: Download artifact
         uses: actions/download-artifact@v8
