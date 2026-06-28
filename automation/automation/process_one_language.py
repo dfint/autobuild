@@ -9,7 +9,13 @@ app = typer.Typer()
 
 
 @app.command()
-def main(working_directory: Path, language_name: str, language_code: str, encoding: str, project: str="dwarf-fortress-steam") -> None:
+def main(
+    working_directory: Path,
+    language_name: str,
+    language_code: str,
+    encoding: str,
+    project: str = "dwarf-fortress-steam",
+) -> None:
     context = Context(
         config=Config(source=SourceInfo(project=project), languages=[]),
         working_directory=working_directory,
