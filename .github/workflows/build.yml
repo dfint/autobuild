@@ -151,7 +151,7 @@ jobs:
       - name: Show diff
         run: |
           git diff --name-only --output=${{ runner.temp }}/diff.txt
-          cat ${{ runner.temp }}/diff.txt
+          cat ${{ runner.temp }}/diff.txt >> "$GITHUB_OUTPUT"
           rm ${{ runner.temp }}/diff.txt
 
       - name: Push changes to the repository
