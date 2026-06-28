@@ -124,7 +124,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
         with:
-          fetch-depth: 1
+          fetch-depth: 0
 
       - name: Remove old data
         run: rm -rf translation_build
@@ -136,8 +136,17 @@ jobs:
           merge-multiple: true
           path: translation_build
 
-      - name: Show changes
-        run: git diff --name-only
+      - uses: GrantBirki/git-diff-action@v3.0.0
+        id: git-diff-action
+        with:
+          json_diff_file_output: diff.json
+          raw_diff_file_output: diff.txt
+          file_output_only: true
+
+      - name: Print raw diff
+        env:
+          DIFF: ${{ steps.git-diff-action.outputs.raw-diff-path }}
+        run: cat $DIFF
 
       - name: Push changes to the repository
         if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
