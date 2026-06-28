@@ -138,7 +138,9 @@ jobs:
 
       - name: Show changed files
         run: |
+          echo "## Changed files" >> $GITHUB_STEP_SUMMARY
           git status --porcelain >> $GITHUB_STEP_SUMMARY
+          echo "End" >> $GITHUB_STEP_SUMMARY
 
       - name: Push changes to the repository
         if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
