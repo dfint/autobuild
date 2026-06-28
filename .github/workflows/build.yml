@@ -137,7 +137,7 @@ jobs:
           path: translation_build
 
       - name: Show changes
-        run: git diff --names-only
+        run: git diff --name-only
 
       - name: Push changes to the repository
         if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
