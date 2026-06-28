@@ -54,9 +54,9 @@ jobs:
       - name: Read JSON matrix
         id: set-matrix
         run: |
-          matrix_json=$(jq -c '{ include: [to_entries[] | {name: .key} + .value] }' config.json)
+          matrix_json=$(cat config.json | jq -c '.')
           echo "matrix=$matrix_json" >> $GITHUB_OUTPUT
-
+          
           echo "Generated matrix:"
           echo "$matrix_json" | jq '.'
         
