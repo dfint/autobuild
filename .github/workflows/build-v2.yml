@@ -3,48 +3,33 @@ name: Build V2
 on:
   workflow_dispatch:
   repository_dispatch:
-    types: [update]
+    types:
+      - update
 
   push:
     branches:
       - main
     paths:
-      - 'automation/pyproject.toml'
-      - 'automation/uv.lock'
-      - '**.py'
-      - 'config.json'
-      - '.github/workflows/build-v2.yml'
+      - "automation/pyproject.toml"
+      - "automation/uv.lock"
+      - "**.py"
+      - "config.json"
+      - ".github/workflows/build-v2.yml"
 
   pull_request:
     branches:
       - main
     paths:
-      - 'automation/pyproject.toml'
-      - 'automation/uv.lock'
-      - '**.py'
-      - 'config.json'
-      - '.github/workflows/build-v2.yml'
+      - "automation/pyproject.toml"
+      - "automation/uv.lock"
+      - "**.py"
+      - "config.json"
+      - ".github/workflows/build-v2.yml"
 
 permissions:
   contents: write
 
 jobs:
-  get-translations-backup:
-    runs-on: ubuntu-latest
-    timeout-minutes: 60
-    steps:
-    - uses: actions/checkout@v6
-    
-    - name: Checkout and update the translation-backup submodule
-      run: git submodule update --init --remote
-    
-    - name: Upload artifact
-      uses: actions/upload-artifact@v7
-      with:
-        name: translations-backup
-        path: translations-backup
-        include-hidden-files: false
-
   generate-matrix:
     runs-on: ubuntu-latest
     outputs:
@@ -56,42 +41,63 @@ jobs:
         run: |
           matrix_json=$(cat config.json | jq -c '.')
           echo "matrix=$matrix_json" >> $GITHUB_OUTPUT
-          
+
           echo "Generated matrix:"
           echo "$matrix_json" | jq '.'
-        
+
+  get-translations-backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Checkout and update the translation-backup submodule
+        run: git submodule update --init --remote
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: translations-backup
+          path: translations-backup
+          include-hidden-files: false
+
   produce-csv:
     runs-on: ubuntu-latest
     timeout-minutes: 60
     needs:
-    - generate-matrix
-    - get-translations-backup
+      - generate-matrix
+      - get-translations-backup
 
     strategy:
       matrix: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
-    
+
     steps:
-    - uses: actions/checkout@v6
-    
-    - name: Echo
-      run:
-        echo ${{ matrix.code }}, ${{ matrix.encoding }}
+      - uses: actions/checkout@v6
 
-  #   - name: Set up Python
-  #     uses: actions/setup-python@v6
-  #     with:
-  #       python-version: 3.12
+      - name: Echo
+        run: echo ${{ matrix.code }}, ${{ matrix.encoding }}
 
-  #   - name: Install uv
-  #     uses: astral-sh/setup-uv@v7
-  #     with:
-  #       version: latest
+      - name: Download artifact
+        uses: actions/download-artifact@v8
+        with:
+          name: translations-backup
+          path: translations-backup
 
-  #   - name: Install library and dependencies
-  #     run: |
-  #       cd automation
-  #       uv sync --no-group dev
-  #       pipx install poethepoet
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: 3.12
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          version: latest
+
+      - name: Install library and dependencies
+        run: |
+          cd automation
+          uv sync --no-group dev
+          pipx install poethepoet
 
   #   - name: Process po files
   #     run: |
