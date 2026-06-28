@@ -64,6 +64,7 @@ jobs:
   produce-csv:
     runs-on: ubuntu-latest
     timeout-minutes: 60
+    continue-on-error: true
     needs:
       - generate-matrix
       - get-translations-backup
@@ -101,28 +102,28 @@ jobs:
           cd automation
           poe process_one_language ../ "${{ matrix.name }}" "${{ matrix.code }}" "${{ matrix.encoding }}"
 
-  #   - name: Upload csv artifact
-  #     uses: actions/upload-artifact@v7
-  #     with:
-  #       name: artifact_csv
-  #       path: translation_build
+      - name: Upload csv artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: artifact_csv_${{ matrix.code }}
+          path: translation_build
 
-  # push-changes:
-  #   needs: produce-csv
-  #   runs-on: ubuntu-latest
-  #   timeout-minutes: 60
-  #   steps:
-  #   - uses: actions/checkout@v6
+  push-changes:
+    needs: produce-csv
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+    - uses: actions/checkout@v6
 
-  #   - name: Remove old data
-  #     run: rm -rf translation_build
+    - name: Remove old data
+      run: rm -rf translation_build
 
-  #   - name: Download artifacts
-  #     uses: actions/download-artifact@v8
-  #     with:
-  #       pattern: artifact_*
-  #       merge-multiple: true
-  #       path: translation_build
+    - name: Download artifacts
+      uses: actions/download-artifact@v8
+      with:
+        pattern: artifact_*
+        merge-multiple: true
+        path: translation_build
 
   #   - name: Push changes to the repository
   #     if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
