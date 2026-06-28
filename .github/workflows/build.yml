@@ -98,13 +98,6 @@ jobs:
           uv sync --no-group dev
           pipx install poethepoet
 
-      - name: Check and fail for specific code
-        run: |
-          if [ "${{ matrix.code }}" = "ru" ]; then
-            echo "❌ Failing intentionally"
-            exit 1
-          fi
-
       - name: Process po files
         run: |
           cd automation
@@ -136,11 +129,11 @@ jobs:
           merge-multiple: true
           path: translation_build
 
-      - name: Show changed files
-        run: |
-          echo "## Changed files" >> $GITHUB_STEP_SUMMARY
-          git status --porcelain >> $GITHUB_STEP_SUMMARY
-          echo "End" >> $GITHUB_STEP_SUMMARY
+      # - name: Show changed files
+      #   run: |
+      #     echo "## Changed files" >> $GITHUB_STEP_SUMMARY
+      #     git status --porcelain >> $GITHUB_STEP_SUMMARY
+      #     echo "End" >> $GITHUB_STEP_SUMMARY
 
       - name: Push changes to the repository
         if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
