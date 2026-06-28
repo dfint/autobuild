@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 
 class LanguageInfo(BaseModel):
@@ -15,7 +15,7 @@ class SourceInfo(BaseModel):
 
 class Config(BaseModel):
     source: SourceInfo
-    languages: list[LanguageInfo]
+    languages: list[LanguageInfo] = Field(default_factory=list)
 
 
 class Context(BaseModel):
