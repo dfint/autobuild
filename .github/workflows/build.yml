@@ -100,8 +100,8 @@ jobs:
 
       - name: Check and fail for specific code
         run: |
-          if [ "${{ matrix.code }}" = "be" ]; then
-            echo "❌ Failing intentionally for Belarusian (code: be)"
+          if [ "${{ matrix.code }}" = "ru" ]; then
+            echo "❌ Failing intentionally"
             exit 1
           fi
 
