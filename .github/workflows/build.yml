@@ -136,21 +136,9 @@ jobs:
           merge-multiple: true
           path: translation_build
 
-      # - uses: GrantBirki/git-diff-action@v3.0.0
-      #   id: git-diff-action
-      #   with:
-      #     raw_diff_file_output: diff.txt
-      #     file_output_only: true
-      #     git_options: "--name-only"
-
-      # - name: Print raw diff
-      #   env:
-      #     DIFF: ${{ steps.git-diff-action.outputs.raw-diff-path }}
-      #   run: cat $DIFF
-
       - name: Show changed files
         run: |
-          git status --porcelain >> "$GITHUB_OUTPUT"
+          git status --porcelain >> $GITHUB_STEP_SUMMARY
 
       - name: Push changes to the repository
         if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
