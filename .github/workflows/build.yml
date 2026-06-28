@@ -148,11 +148,9 @@ jobs:
       #     DIFF: ${{ steps.git-diff-action.outputs.raw-diff-path }}
       #   run: cat $DIFF
 
-      - name: Show diff
+      - name: Show changed files
         run: |
-          git diff --name-only --output=${{ runner.temp }}/diff.txt
-          cat ${{ runner.temp }}/diff.txt >> "$GITHUB_OUTPUT"
-          rm ${{ runner.temp }}/diff.txt
+          git status --porcelain
 
       - name: Push changes to the repository
         if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
