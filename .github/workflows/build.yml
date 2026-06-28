@@ -119,7 +119,7 @@ jobs:
   report-failure:
     needs: produce-csv
     runs-on: ubuntu-latest
-    if: needs.produce-csv.result == 'failure'
+    if: ${{ failure() }}
     steps:
       - run:
           echo "Workflow for one of the lanuguages failed"
