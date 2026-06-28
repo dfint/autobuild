@@ -16,16 +16,6 @@
             "encoding": "cp850"
         },
         {
-            "name": "Chinese Simplified",
-            "code": "zh-Hans",
-            "encoding": "utf-8"
-        },
-        {
-            "name": "Chinese Traditional",
-            "code": "zh-Hant",
-            "encoding": "utf-8"
-        },
-        {
             "name": "Czech",
             "code": "cs",
             "encoding": "cp852"
@@ -44,11 +34,6 @@
             "name": "French",
             "code": "fr",
             "encoding": "cp859"
-        },
-        {
-            "name": "Japanese",
-            "code": "ja",
-            "encoding": "utf-8"
         },
         {
             "name": "Japanese (Romaji)",
