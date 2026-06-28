@@ -1,122 +1,98 @@
-[
-    {
-        "name": "Belarusian",
+{
+    "Belarusian": {
         "code": "be",
         "encoding": "cp866i"
     },
-    {
-        "name": "Bulgarian",
+    "Bulgarian": {
         "code": "bg",
         "encoding": "cp866"
     },
-    {
-        "name": "Catalan",
+    "Catalan": {
         "code": "ca",
         "encoding": "cp850"
     },
-    {
-        "name": "Chinese Simplified",
+    "Chinese Simplified": {
         "code": "zh-Hans",
         "encoding": "utf-8"
     },
-    {
-        "name": "Chinese Traditional",
+    "Chinese Traditional": {
         "code": "zh-Hant",
         "encoding": "utf-8"
     },
-    {
-        "name": "Czech",
+    "Czech": {
         "code": "cs",
         "encoding": "cp852"
     },
-    {
-        "name": "Dutch",
+    "Dutch": {
         "code": "nl",
         "encoding": "cp857"
     },
-    {
-        "name": "Esperanto",
+    "Esperanto": {
         "code": "eo",
         "encoding": "latin3"
     },
-    {
-        "name": "French",
+    "French": {
         "code": "fr",
         "encoding": "cp859"
     },
-    {
-        "name": "Japanese",
+    "Japanese": {
         "code": "ja",
         "encoding": "utf-8"
     },
-    {
-        "name": "Japanese (Romaji)",
+    "Japanese (Romaji)": {
         "code": "ja",
         "encoding": "romaji"
     },
-    {
-        "name": "Korean",
+    "Korean": {
         "code": "ko",
         "encoding": "utf-8"
     },
-    {
-        "name": "German",
+    "German": {
         "code": "de",
         "encoding": "cp437"
     },
-    {
-        "name": "Hungarian",
+    "Hungarian": {
         "code": "hu",
         "encoding": "cp852"
     },
-    {
-        "name": "Italian",
+    "Italian": {
         "code": "it",
         "encoding": "cp850"
     },
-    {
-        "name": "Polish",
+    "Polish": {
         "code": "pl",
         "encoding": "cp852"
     },
-    {
-        "name": "Portuguese (Brazil)",
+    "Portuguese (Brazil)": {
         "code": "pt_BR",
         "encoding": "cp850"
     },
-    {
-        "name": "Portuguese",
+    "Portuguese": {
         "code": "pt",
         "encoding": "cp850"
     },
-    {
-        "name": "Russian (cp1251)",
+    "Russian (cp1251)": {
         "code": "ru",
         "encoding": "cp1251"
     },
-    {
-        "name": "Russian",
+    "Russian": {
         "code": "ru",
         "encoding": "cp866"
     },
-    {
-        "name": "Spanish",
+    "Spanish": {
         "code": "es",
         "encoding": "cp850"
     },
-    {
-        "name": "Turkish",
+    "Turkish": {
         "code": "tr",
         "encoding": "cp857"
     },
-    {
-        "name": "Ukrainian",
+    "Ukrainian": {
         "code": "uk",
         "encoding": "cp866u"
     },
-    {
-        "name": "Vietnamese",
+    "Vietnamese": {
         "code": "vi",
         "encoding": "viscii"
     }
-]
+}
