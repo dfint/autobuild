@@ -54,8 +54,8 @@ jobs:
       - name: Read JSON matrix
         id: set-matrix
         run: |
-          # Просто читаем файл - никаких преобразований!
-          echo "matrix=$(cat config.json)" >> $GITHUB_OUTPUT
+          matrix_json=$(jq -c '.' config.json)
+          echo "matrix=$matrix_json" >> $GITHUB_OUTPUT
         
   produce-csv:
     runs-on: ubuntu-latest
