@@ -1,0 +1,140 @@
+name: Build V2
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [update]
+
+  push:
+    branches:
+      - main
+    paths:
+      - 'automation/pyproject.toml'
+      - 'automation/uv.lock'
+      - '**.py'
+      - 'config.json'
+      - '.github/workflows/build-v2.yml'
+
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'automation/pyproject.toml'
+      - 'automation/uv.lock'
+      - '**.py'
+      - 'config.json'
+      - '.github/workflows/build-v2.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  get-translations-backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+    - uses: actions/checkout@v6
+    
+    - name: Checkout and update the translation-backup submodule
+      run: git submodule update --init --remote
+    
+    - name: Upload artifact
+      uses: actions/upload-artifact@v7
+      with:
+        name: translations-backup
+        path: translations-backup
+        include-hidden-files: false
+
+  generate-matrix:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read JSON matrix
+        id: set-matrix
+        run: |
+          # Просто читаем файл - никаких преобразований!
+          echo "matrix=$(cat config.json)" >> $GITHUB_OUTPUT
+        
+  produce-csv:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    needs:
+    - generate-matrix
+    - get-translations-backup
+
+    strategy:
+      matrix: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
+    
+    steps:
+    - uses: actions/checkout@v6
+    
+    - name: Echo
+      run:
+        echo ${{ matrix.name }}, ${{ matrix.code }}, ${{ matrix.encoding }}
+
+  #   - name: Set up Python
+  #     uses: actions/setup-python@v6
+  #     with:
+  #       python-version: 3.12
+
+  #   - name: Install uv
+  #     uses: astral-sh/setup-uv@v7
+  #     with:
+  #       version: latest
+
+  #   - name: Install library and dependencies
+  #     run: |
+  #       cd automation
+  #       uv sync --no-group dev
+  #       pipx install poethepoet
+
+  #   - name: Process po files
+  #     run: |
+  #       cd automation
+  #       poe process ../
+
+  #   - name: Upload csv artifact
+  #     uses: actions/upload-artifact@v7
+  #     with:
+  #       name: artifact_csv
+  #       path: translation_build
+
+  # push-changes:
+  #   needs: produce-csv
+  #   runs-on: ubuntu-latest
+  #   timeout-minutes: 60
+  #   steps:
+  #   - uses: actions/checkout@v6
+
+  #   - name: Remove old data
+  #     run: rm -rf translation_build
+
+  #   - name: Download artifacts
+  #     uses: actions/download-artifact@v8
+  #     with:
+  #       pattern: artifact_*
+  #       merge-multiple: true
+  #       path: translation_build
+
+  #   - name: Push changes to the repository
+  #     if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
+  #     uses: EndBug/add-and-commit@v10.0.0
+  #     with:
+  #       author_name: github-actions[bot]
+  #       author_email: 41898282+github-actions[bot]@users.noreply.github.com
+
+  # trigger-update-data:
+  #   if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
+  #   needs: push-changes
+  #   runs-on: ubuntu-latest
+  #   timeout-minutes: 60
+
+  #   steps:
+  #   - name: Dispatch dictionary manifest update
+  #     uses: peter-evans/repository-dispatch@v4
+  #     with:
+  #       token: ${{ secrets.REPOSITORY_DISPATCH_PAT }}
+  #       repository: dfint/update-data
+  #       event-type: dict
