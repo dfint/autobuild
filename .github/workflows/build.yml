@@ -98,6 +98,13 @@ jobs:
           uv sync --no-group dev
           pipx install poethepoet
 
+      - name: Check and fail for specific code
+        run: |
+          if [ "${{ matrix.code }}" = "be" ]; then
+            echo "❌ Failing intentionally for Belarusian (code: be)"
+            exit 1
+          fi
+
       - name: Process po files
         run: |
           cd automation
