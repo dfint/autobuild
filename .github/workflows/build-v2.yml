@@ -105,7 +105,7 @@ jobs:
       - name: Upload csv artifact
         uses: actions/upload-artifact@v7
         with:
-          name: artifact_csv_${{ matrix.code }}
+          name: artifact_csv_${{ matrix.code }}_${{ matrix.encoding }}
           path: translation_build
 
   push-changes:
