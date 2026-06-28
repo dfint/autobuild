@@ -15,7 +15,7 @@ class SourceInfo(BaseModel):
 
 class Config(BaseModel):
     source: SourceInfo
-    languages: list[LanguageInfo] = Field(default_factory=list)
+    languages: list[LanguageInfo]
 
 
 class Context(BaseModel):
