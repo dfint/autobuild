@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 
 class LanguageInfo(BaseModel):
@@ -10,7 +10,7 @@ class LanguageInfo(BaseModel):
 
 
 class SourceInfo(BaseModel):
-    project: str
+    project: str = ""
 
 
 class Config(BaseModel):

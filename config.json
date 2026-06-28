@@ -1,0 +1,114 @@
+{
+    "include": [
+        {
+            "name": "Belarusian",
+            "code": "be",
+            "encoding": "cp866i"
+        },
+        {
+            "name": "Bulgarian",
+            "code": "bg",
+            "encoding": "cp866"
+        },
+        {
+            "name": "Catalan",
+            "code": "ca",
+            "encoding": "cp850"
+        },
+        {
+            "name": "Czech",
+            "code": "cs",
+            "encoding": "cp852"
+        },
+        {
+            "name": "Dutch",
+            "code": "nl",
+            "encoding": "cp857"
+        },
+        {
+            "name": "Esperanto",
+            "code": "eo",
+            "encoding": "latin3"
+        },
+        {
+            "name": "French",
+            "code": "fr",
+            "encoding": "cp859"
+        },
+        {
+            "name": "Japanese",
+            "code": "ja",
+            "encoding": "utf-8"
+        },
+        {
+            "name": "Japanese (Romaji)",
+            "code": "ja",
+            "encoding": "romaji"
+        },
+        {
+            "name": "Korean",
+            "code": "ko",
+            "encoding": "utf-8"
+        },
+        {
+            "name": "German",
+            "code": "de",
+            "encoding": "cp437"
+        },
+        {
+            "name": "Hungarian",
+            "code": "hu",
+            "encoding": "cp852"
+        },
+        {
+            "name": "Italian",
+            "code": "it",
+            "encoding": "cp850"
+        },
+        {
+            "name": "Polish",
+            "code": "pl",
+            "encoding": "cp852"
+        },
+        {
+            "name": "Portuguese (Brazil)",
+            "code": "pt_BR",
+            "encoding": "cp850"
+        },
+        {
+            "name": "Portuguese",
+            "code": "pt",
+            "encoding": "cp850"
+        },
+        {
+            "name": "Russian (cp1251)",
+            "code": "ru",
+            "encoding": "cp1251"
+        },
+        {
+            "name": "Russian",
+            "code": "ru",
+            "encoding": "cp866"
+        },
+        {
+            "name": "Spanish",
+            "code": "es",
+            "encoding": "cp850"
+        },
+        {
+            "name": "Turkish",
+            "code": "tr",
+            "encoding": "cp857"
+        },
+        {
+            "name": "Ukrainian",
+            "code": "uk",
+            "encoding": "cp866u"
+        },
+        {
+            "name": "Vietnamese",
+            "code": "vi",
+            "encoding": "viscii"
+        }
+    ]
+}
