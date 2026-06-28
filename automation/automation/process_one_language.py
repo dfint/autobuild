@@ -1,7 +1,9 @@
-import typer
-from models import Config, Context, LanguageInfo, SourceInfo
-from process import process
 from pathlib import Path
+
+import typer
+
+from automation.models import Config, Context, LanguageInfo, SourceInfo
+from automation.process import process
 
 app = typer.Typer()
 
