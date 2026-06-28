@@ -134,6 +134,9 @@ jobs:
           merge-multiple: true
           path: translation_build
 
+      - name: Show changes
+        run: git diff
+
       - name: Push changes to the repository
         if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
         uses: EndBug/add-and-commit@v10.0.0
