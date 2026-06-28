@@ -150,7 +150,7 @@ jobs:
 
       - name: Show changed files
         run: |
-          git status --porcelain
+          git status --porcelain >> "$GITHUB_OUTPUT"
 
       - name: Push changes to the repository
         if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
