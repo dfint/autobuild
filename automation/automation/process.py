@@ -6,14 +6,12 @@ from pathlib import Path
 from typing import cast
 
 import alternative_encodings
-import typer
 from df_translation_toolkit.convert import hardcoded_po_to_csv, objects_po_to_csv
 from df_translation_toolkit.utils.csv_utils import writer
 from df_translation_toolkit.utils.po_utils import simple_read_po
 from df_translation_toolkit.validation.validation_models import Diagnostics
 from loguru import logger
 
-from automation.load_config import load_config
 from automation.models import Context, LanguageInfo
 
 alternative_encodings.register_all()
@@ -125,22 +123,3 @@ def process(language: LanguageInfo, context: Context) -> None:
     )
 
     logger.info(f"{with_objects_csv_file_path.relative_to(context.working_directory)} written")
-
-
-def process_all(context: Context) -> None:
-    for language in context.config.languages:
-        process(language, context)
-
-
-app = typer.Typer()
-
-
-@app.command()
-def main(working_directory: Path) -> None:
-    config = load_config(working_directory / "config.yaml")
-    context = Context(config=config, working_directory=working_directory)
-    process_all(context)
-
-
-if __name__ == "__main__":
-    app()

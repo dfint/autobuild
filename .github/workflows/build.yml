@@ -58,7 +58,7 @@ jobs:
     - name: Process po files
       run: |
         cd automation
-        poe process ../
+        poe process_all ../
 
     - name: Upload csv artifact
       uses: actions/upload-artifact@v7
