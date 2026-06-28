@@ -115,6 +115,15 @@ jobs:
         with:
           name: artifact_csv_${{ matrix.code }}_${{ matrix.encoding }}
           path: translation_build
+  
+  report-failure:
+    needs: produce-csv
+    runs-on: ubuntu-latest
+    if: needs.produce-csv.result == 'failure'
+    steps:
+      - run:
+          echo "Workflow for one of the lanuguages failed"
+          exit 1
 
   push-changes:
     needs: produce-csv
