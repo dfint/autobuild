@@ -42,3 +42,4 @@ ignore = [
 
 [tool.poe.tasks]
 process.script = "automation.process:app"
+process_one_language.script = "automation.process_one_language:app"

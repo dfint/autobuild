@@ -74,9 +74,6 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Echo
-        run: echo "${{ matrix.name }}, ${{ matrix.code }}, ${{ matrix.encoding }}"
-
       - name: Download artifact
         uses: actions/download-artifact@v8
         with:
@@ -99,10 +96,10 @@ jobs:
           uv sync --no-group dev
           pipx install poethepoet
 
-  #   - name: Process po files
-  #     run: |
-  #       cd automation
-  #       poe process ../
+      - name: Process po files
+        run: |
+          cd automation
+          poe process_one_language ../ "${{ matrix.name }}" "${{ matrix.code }}" "${{ matrix.encoding }}"
 
   #   - name: Upload csv artifact
   #     uses: actions/upload-artifact@v7

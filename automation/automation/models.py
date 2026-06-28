@@ -10,7 +10,7 @@ class LanguageInfo(BaseModel):
 
 
 class SourceInfo(BaseModel):
-    project: str
+    project: str = ""
 
 
 class Config(BaseModel):
