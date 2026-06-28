@@ -123,6 +123,8 @@ jobs:
     if: always()
     steps:
       - uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
 
       - name: Remove old data
         run: rm -rf translation_build
@@ -135,7 +137,7 @@ jobs:
           path: translation_build
 
       - name: Show changes
-        run: git diff
+        run: git diff --names-only
 
       - name: Push changes to the repository
         if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
