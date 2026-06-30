@@ -36,6 +36,11 @@
             "encoding": "cp859"
         },
         {
+            "name": "Irish",
+            "code": "ga",
+            "encoding": "cp437",
+        },
+        {
             "name": "Japanese",
             "code": "ja",
             "encoding": "utf-8"
