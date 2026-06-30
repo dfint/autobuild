@@ -38,7 +38,7 @@
         {
             "name": "Irish",
             "code": "ga",
-            "encoding": "cp437",
+            "encoding": "cp437"
         },
         {
             "name": "Japanese",
