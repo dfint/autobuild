@@ -35,7 +35,7 @@ jobs:
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Read JSON matrix
         id: set-matrix
         run: |
@@ -50,7 +50,7 @@ jobs:
     timeout-minutes: 60
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
       - name: Checkout and update the translation-backup submodule
         run: git submodule update --init --remote
@@ -74,7 +74,7 @@ jobs:
       matrix: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
       - name: Download artifact
         uses: actions/download-artifact@v8
@@ -115,7 +115,7 @@ jobs:
     timeout-minutes: 60
     if: always()
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
       - name: Remove old data
         run: rm -rf translation_build
