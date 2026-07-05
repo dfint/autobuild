@@ -105,7 +105,12 @@ def process_objects(
 def prepare_lua_string(source_string: str, translation: str) -> Iterator[tuple[str, str]]:
     source_string = source_string.rstrip("]")
     translation = translation.rstrip("]")
-    yield from zip(source_string.split(":"), translation.split(":"), strict=True)
+    source_parts = source_string.split(":")
+    translation_parts = translation.split(":")
+    if len(source_parts) != len(translation_parts):
+        yield source_string, translation
+
+    yield from zip(source_parts, translation_parts, strict=True)
 
 
 def process_lua_strings(prepared_dictionary: Iterable[tuple[str, str]]) -> Iterable[tuple[str, str]]:
