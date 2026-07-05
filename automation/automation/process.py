@@ -109,6 +109,7 @@ def prepare_lua_string(source_string: str, translation: str) -> Iterator[tuple[s
     translation_parts = translation.split(":")
     if len(source_parts) != len(translation_parts):
         yield source_string, translation
+        return
 
     yield from zip(source_parts, translation_parts, strict=True)
 
