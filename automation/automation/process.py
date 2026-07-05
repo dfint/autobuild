@@ -33,6 +33,19 @@ def load_po_file(file_path: Path) -> list[tuple[str, str]]:
         return simple_read_po(file)
 
 
+def check_possibility_to_encode_translations(
+    dictionary: Iterable[tuple[str, str]],
+    language: LanguageInfo,
+    resource_name: str,
+) -> None:
+    for original, translation in dictionary:
+        try:
+            codecs.encode(translation, encoding=language.encoding)
+        except UnicodeEncodeError as ex:
+            msg = f"Error trying encode translation: {translation!r}; original: {original!r}, resource: {resource_name}"
+            raise ValueError(msg) from ex
+
+
 def process_hardcoded(
     *,
     csv_file_path: Path,
@@ -48,6 +61,8 @@ def process_hardcoded(
     )
     po_data = load_po_file(file_path=po_file_path)
     prepared_dictionary = hardcoded_po_to_csv.prepare_dictionary(po_data)
+
+    check_possibility_to_encode_translations(prepared_dictionary, language, resource_name)
 
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
@@ -88,12 +103,7 @@ def process_objects(
     prepared_dictionary = objects_po_to_csv.prepare_dictionary(po_data, diagnostics)
     filtered_dictionary = {source: translation for source, translation in prepared_dictionary if source not in exclude}
 
-    for original, translation in filtered_dictionary.items():
-        try:
-            codecs.encode(translation, encoding=language.encoding)
-        except UnicodeEncodeError as ex:
-            msg = f"Error trying encode translation: {translation!r}; original: {original!r}, resource: {resource_name}"
-            raise ValueError(msg) from ex
+    check_possibility_to_encode_translations(filtered_dictionary.items(), language, resource_name)
 
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
@@ -149,16 +159,11 @@ def process_lua(
     prepared_dictionary = process_lua_strings(prepared_dictionary)
     filtered_dictionary = {source: translation for source, translation in prepared_dictionary if source not in exclude}
 
-    for original, translation in filtered_dictionary.items():
-        try:
-            codecs.encode(translation, encoding=language.encoding)
-        except UnicodeEncodeError as ex:
-            msg = f"Error trying encode translation: {translation!r}; original: {original!r}, resource: {resource_name}"
-            raise ValueError(msg) from ex
+    check_possibility_to_encode_translations(filtered_dictionary.items(), language, resource_name)
 
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
-    csv_writer.writerows(filtered_dictionary.items())
+    csv_writer.writerows(cast("Iterable[list[str]]", filtered_dictionary.items()))
 
     with csv_file_path.open("ab") as csv_file:
         csv_file.write(codecs.encode(csv_data_buffer.getvalue(), encoding=language.encoding))
