@@ -88,6 +88,13 @@ def process_objects(
     prepared_dictionary = objects_po_to_csv.prepare_dictionary(po_data, diagnostics)
     filtered_dictionary = {source: translation for source, translation in prepared_dictionary if source not in exclude}
 
+    for original, translation in filtered_dictionary.items():
+        try:
+            codecs.encode(translation, encoding=language.encoding)
+        except UnicodeEncodeError as ex:
+            msg = f"Error trying encode translation: {translation!r}; original: {original!r}, resource: {resource_name}"
+            raise ValueError(msg) from ex
+
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
     csv_writer.writerows(cast("Iterable[list[str]]", filtered_dictionary.items()))
@@ -141,6 +148,13 @@ def process_lua(
     prepared_dictionary = hardcoded_po_to_csv.prepare_dictionary(po_data)
     prepared_dictionary = process_lua_strings(prepared_dictionary)
     filtered_dictionary = {source: translation for source, translation in prepared_dictionary if source not in exclude}
+
+    for original, translation in filtered_dictionary.items():
+        try:
+            codecs.encode(translation, encoding=language.encoding)
+        except UnicodeEncodeError as ex:
+            msg = f"Error trying encode translation: {translation!r}; original: {original!r}, resource: {resource_name}"
+            raise ValueError(msg) from ex
 
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
