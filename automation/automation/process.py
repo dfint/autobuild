@@ -1,7 +1,7 @@
 import codecs
 import io
 import shutil
-from collections.abc import Iterable
+from collections.abc import Iterable, Iterator
 from pathlib import Path
 from typing import cast
 
@@ -33,11 +33,17 @@ def load_po_file(file_path: Path) -> list[tuple[str, str]]:
         return simple_read_po(file)
 
 
-def process_hardcoded(*, csv_file_path: Path, language: LanguageInfo, context: Context) -> Iterable[tuple[str, str]]:
+def process_hardcoded(
+    *,
+    csv_file_path: Path,
+    language: LanguageInfo,
+    context: Context,
+    resource_name: str,
+) -> Iterable[tuple[str, str]]:
     po_file_path = get_po_file_path(
         working_directory=context.working_directory,
         project_name=context.config.source.project,
-        resource_name="hardcoded_steam",
+        resource_name=resource_name,
         language_code=language.code,
     )
     po_data = load_po_file(file_path=po_file_path)
@@ -59,7 +65,8 @@ def process_objects(
     language: LanguageInfo,
     context: Context,
     exclude: set[str] | None = None,
-) -> None:
+    resource_name: str,
+) -> Iterable[tuple[str, str]]:
     if not exclude:
         exclude = set()
 
@@ -71,7 +78,7 @@ def process_objects(
     po_file_path = get_po_file_path(
         working_directory=context.working_directory,
         project_name=context.config.source.project,
-        resource_name="objects",
+        resource_name=resource_name,
         language_code=language.code,
     )
     po_data = load_po_file(file_path=po_file_path)
@@ -92,6 +99,52 @@ def process_objects(
     with csv_file_path.open("ab") as csv_file:
         csv_file.write(codecs.encode(csv_data_buffer.getvalue(), encoding=language.encoding))
 
+    return filtered_dictionary.items()
+
+
+def prepare_lua_string(source_string: str, translation: str) -> Iterator[tuple[str, str]]:
+    source_string = source_string.rstrip("]")
+    translation = translation.rstrip("]")
+    yield from zip(source_string.split(":"), translation.split(":"), strict=True)
+
+
+def process_lua_strings(prepared_dictionary: Iterable[tuple[str, str]]) -> Iterable[tuple[str, str]]:
+    for source, translation in prepared_dictionary:
+        yield from prepare_lua_string(source, translation)
+
+
+def process_lua(
+    *,
+    csv_file_path: Path,
+    language: LanguageInfo,
+    context: Context,
+    exclude: set[str] | None = None,
+    resource_name: str,
+) -> Iterable[tuple[str, str]]:
+    if not exclude:
+        exclude = set()
+
+    po_file_path = get_po_file_path(
+        working_directory=context.working_directory,
+        project_name=context.config.source.project,
+        resource_name=resource_name,
+        language_code=language.code,
+    )
+    po_data = load_po_file(file_path=po_file_path)
+    po_data = [(source, translation) for source, translation in po_data if source not in exclude]
+    prepared_dictionary = hardcoded_po_to_csv.prepare_dictionary(po_data)
+    prepared_dictionary = process_lua_strings(prepared_dictionary)
+    filtered_dictionary = {source: translation for source, translation in prepared_dictionary if source not in exclude}
+
+    csv_data_buffer = io.StringIO(newline="")
+    csv_writer = writer(csv_data_buffer)
+    csv_writer.writerows(filtered_dictionary.items())
+
+    with csv_file_path.open("ab") as csv_file:
+        csv_file.write(codecs.encode(csv_data_buffer.getvalue(), encoding=language.encoding))
+
+    return prepared_dictionary
+
 
 @logger.catch(reraise=True)
 def process(language: LanguageInfo, context: Context) -> None:
@@ -103,6 +156,7 @@ def process(language: LanguageInfo, context: Context) -> None:
         csv_file_path=hardcoded_csv_file_path,
         language=language,
         context=context,
+        resource_name="hardcoded_steam",
     )
 
     logger.info(f"{hardcoded_csv_file_path.relative_to(context.working_directory)} written")
@@ -115,11 +169,22 @@ def process(language: LanguageInfo, context: Context) -> None:
     with_objects_csv_file_path = csv_with_objects_directory / "dfint_dictionary.csv"
     shutil.copy(hardcoded_csv_file_path, with_objects_csv_file_path)
 
-    process_objects(
+    csv_objects_data = process_objects(
         csv_file_path=with_objects_csv_file_path,
         language=language,
         context=context,
         exclude=exclude,
+        resource_name="objects",
+    )
+
+    exclude |= {first for first, _ in csv_objects_data}
+
+    process_lua(
+        csv_file_path=with_objects_csv_file_path,
+        language=language,
+        context=context,
+        exclude=exclude,
+        resource_name="lua",
     )
 
     logger.info(f"{with_objects_csv_file_path.relative_to(context.working_directory)} written")
