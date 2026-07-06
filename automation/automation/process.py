@@ -53,6 +53,7 @@ def process_hardcoded(
     context: Context,
     resource_name: str,
 ) -> Iterable[tuple[str, str]]:
+    logger.info("Processing %s resource", resource_name)
     po_file_path = get_po_file_path(
         working_directory=context.working_directory,
         project_name=context.config.source.project,
@@ -67,6 +68,8 @@ def process_hardcoded(
 
     check_possibility_to_encode_translations(prepared_dictionary, language, resource_name)
 
+    logger.info("Processed lines: {len(prepared_dictionary)=}")
+
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
     csv_writer.writerows(cast("Iterable[list[str]]", prepared_dictionary))
@@ -74,9 +77,10 @@ def process_hardcoded(
     csv_data_buffer.seek(0)
 
     with csv_file_path.open("wb") as csv_file:
-        csv_file.write(codecs.encode(csv_data_buffer.read(), encoding=language.encoding))
-
-    assert csv_data_buffer.getvalue(), "Empty resulting buffer"
+        data = csv_data_buffer.read()
+        csv_file.write(codecs.encode(data, encoding=language.encoding))
+        logger.info("Written data size: {len(data)=}")
+        assert len(data) > 0
 
     return prepared_dictionary
 
@@ -89,6 +93,7 @@ def process_objects(
     exclude: set[str] | None = None,
     resource_name: str,
 ) -> Iterable[tuple[str, str]]:
+    logger.info("Processing %s resource", resource_name)
     if not exclude:
         exclude = set()
 
@@ -116,6 +121,8 @@ def process_objects(
         logger.warning("Empty filtered dictionary from %s resource, skipping.", resource_name)
         return []
 
+    logger.info("Filtered lines: {len(filtered_dictionary)=}")
+
     check_possibility_to_encode_translations(filtered_dictionary.items(), language, resource_name)
 
     csv_data_buffer = io.StringIO(newline="")
@@ -129,9 +136,10 @@ def process_objects(
             errors_file.write(str(diagnostics))
 
     with csv_file_path.open("ab") as csv_file:
-        csv_file.write(codecs.encode(csv_data_buffer.read(), encoding=language.encoding))
-
-    assert csv_data_buffer.getvalue(), "Empty resulting buffer"
+        data = csv_data_buffer.read()
+        csv_file.write(codecs.encode(data, encoding=language.encoding))
+        logger.info("Written data size: {len(data)=}")
+        assert len(data) > 0
 
     return filtered_dictionary.items()
 
@@ -161,6 +169,7 @@ def process_lua(
     exclude: set[str] | None = None,
     resource_name: str,
 ) -> Iterable[tuple[str, str]]:
+    logger.info("Processing %s resource", resource_name)
     if not exclude:
         exclude = set()
 
@@ -183,6 +192,8 @@ def process_lua(
         logger.warning("Empty filtered dictionary from %s resource, skipping.", resource_name)
         return []
 
+    logger.info("Filtered lines: {len(filtered_dictionary)=}")
+
     check_possibility_to_encode_translations(filtered_dictionary.items(), language, resource_name)
 
     csv_data_buffer = io.StringIO(newline="")
@@ -192,9 +203,10 @@ def process_lua(
     csv_data_buffer.seek(0)
 
     with csv_file_path.open("ab") as csv_file:
-        csv_file.write(codecs.encode(csv_data_buffer.read(), encoding=language.encoding))
-
-    assert csv_data_buffer.getvalue(), "Empty resulting buffer"
+        data = csv_data_buffer.read()
+        csv_file.write(codecs.encode(data, encoding=language.encoding))
+        logger.info("Written data size: {len(data)=}")
+        assert len(data) > 0
 
     return filtered_dictionary.items()
 
@@ -205,6 +217,7 @@ def process(language: LanguageInfo, context: Context) -> None:
     csv_directory = translation_build_directory / "csv" / language.name
     csv_directory.mkdir(parents=True, exist_ok=True)
     hardcoded_csv_file_path = csv_directory / "dfint_dictionary.csv"
+
     csv_hardcoded_data = process_hardcoded(
         csv_file_path=hardcoded_csv_file_path,
         language=language,
