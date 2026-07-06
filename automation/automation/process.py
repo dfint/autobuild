@@ -67,6 +67,7 @@ def process_hardcoded(
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
     csv_writer.writerows(cast("Iterable[list[str]]", prepared_dictionary))
+    csv_data_buffer.flush()
     csv_data_buffer.seek(0)
 
     with csv_file_path.open("wb") as csv_file:
@@ -109,6 +110,7 @@ def process_objects(
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
     csv_writer.writerows(cast("Iterable[list[str]]", filtered_dictionary.items()))
+    csv_data_buffer.flush()
     csv_data_buffer.seek(0)
 
     if diagnostics.contains_problems():
@@ -166,6 +168,7 @@ def process_lua(
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
     csv_writer.writerows(cast("Iterable[list[str]]", filtered_dictionary.items()))
+    csv_data_buffer.flush()
     csv_data_buffer.seek(0)
 
     with csv_file_path.open("ab") as csv_file:
