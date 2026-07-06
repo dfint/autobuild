@@ -215,7 +215,8 @@ def process_lua(
 def process(language: LanguageInfo, context: Context) -> None:
     translation_build_directory = context.working_directory / "translation_build"
     csv_directory = translation_build_directory / "csv" / language.name
-    csv_directory.mkdir(parents=True, exist_ok=True)
+    shutil.rmtree(csv_directory, ignore_errors=True)
+    csv_directory.mkdir(parents=True)
     hardcoded_csv_file_path = csv_directory / "dfint_dictionary.csv"
 
     csv_hardcoded_data = process_hardcoded(
@@ -230,7 +231,8 @@ def process(language: LanguageInfo, context: Context) -> None:
     exclude = {first for first, _ in csv_hardcoded_data}
 
     csv_with_objects_directory = translation_build_directory / "csv_with_objects" / language.name
-    csv_with_objects_directory.mkdir(parents=True, exist_ok=True)
+    shutil.rmtree(csv_with_objects_directory, ignore_errors=True)
+    csv_with_objects_directory.mkdir(parents=True)
 
     with_objects_csv_file_path = csv_with_objects_directory / "dfint_dictionary.csv"
     shutil.copy(hardcoded_csv_file_path, with_objects_csv_file_path)
