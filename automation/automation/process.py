@@ -183,7 +183,6 @@ def process(language: LanguageInfo, context: Context) -> None:
         context=context,
         resource_name="hardcoded_steam",
     )
-    csv_hardcoded_data = list(csv_hardcoded_data)
 
     logger.info(f"{hardcoded_csv_file_path.relative_to(context.working_directory)} written")
 
