@@ -169,7 +169,7 @@ def process_lua(
     exclude: set[str] | None = None,
     resource_name: str,
 ) -> Iterable[tuple[str, str]]:
-    logger.info(f"Processing {resource_name} resource", )
+    logger.info(f"Processing {resource_name} resource")
     if not exclude:
         exclude = set()
 
@@ -214,8 +214,8 @@ def process_lua(
 @logger.catch(reraise=True)
 def process(language: LanguageInfo, context: Context) -> None:
     translation_build_directory = context.working_directory / "translation_build"
+    shutil.rmtree(translation_build_directory, ignore_errors=True)
     csv_directory = translation_build_directory / "csv" / language.name
-    shutil.rmtree(csv_directory, ignore_errors=True)
     csv_directory.mkdir(parents=True)
     hardcoded_csv_file_path = csv_directory / "dfint_dictionary.csv"
 
