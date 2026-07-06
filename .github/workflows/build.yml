@@ -55,14 +55,6 @@ jobs:
       - name: Checkout and update the translation-backup submodule
         run: git submodule update --init --remote
 
-      - name: Push changes to the repository
-        if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
-        uses: EndBug/add-and-commit@v10.0.0
-        with:
-          message: Update translation_backup submodule
-          author_name: github-actions[bot]
-          author_email: 41898282+github-actions[bot]@users.noreply.github.com
-
       - name: Upload artifact
         uses: actions/upload-artifact@v7
         with:
@@ -145,7 +137,6 @@ jobs:
         if: ${{ !contains(fromJSON('["push", "pull_request"]'), github.event_name) }}
         uses: EndBug/add-and-commit@v10.0.0
         with:
-          message: Update translation_build directory
           author_name: github-actions[bot]
           author_email: 41898282+github-actions[bot]@users.noreply.github.com
 
