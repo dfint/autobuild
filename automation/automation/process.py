@@ -67,9 +67,10 @@ def process_hardcoded(
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
     csv_writer.writerows(cast("Iterable[list[str]]", prepared_dictionary))
+    csv_data_buffer.seek(0)
 
     with csv_file_path.open("wb") as csv_file:
-        csv_file.write(codecs.encode(csv_data_buffer.getvalue(), encoding=language.encoding))
+        csv_file.write(codecs.encode(csv_data_buffer.read(), encoding=language.encoding))
 
     return prepared_dictionary
 
@@ -108,13 +109,14 @@ def process_objects(
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
     csv_writer.writerows(cast("Iterable[list[str]]", filtered_dictionary.items()))
+    csv_data_buffer.seek(0)
 
     if diagnostics.contains_problems():
         with errors_file_path.open("w", encoding="utf-8") as errors_file:
             errors_file.write(str(diagnostics))
 
     with csv_file_path.open("ab") as csv_file:
-        csv_file.write(codecs.encode(csv_data_buffer.getvalue(), encoding=language.encoding))
+        csv_file.write(codecs.encode(csv_data_buffer.read(), encoding=language.encoding))
 
     return filtered_dictionary.items()
 
@@ -164,11 +166,12 @@ def process_lua(
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
     csv_writer.writerows(cast("Iterable[list[str]]", filtered_dictionary.items()))
+    csv_data_buffer.seek(0)
 
     with csv_file_path.open("ab") as csv_file:
-        csv_file.write(codecs.encode(csv_data_buffer.getvalue(), encoding=language.encoding))
+        csv_file.write(codecs.encode(csv_data_buffer.read(), encoding=language.encoding))
 
-    return prepared_dictionary
+    return filtered_dictionary.items()
 
 
 @logger.catch(reraise=True)
