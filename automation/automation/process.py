@@ -61,6 +61,9 @@ def process_hardcoded(
     )
     po_data = load_po_file(file_path=po_file_path)
     prepared_dictionary = list(hardcoded_po_to_csv.prepare_dictionary(po_data))
+    if not prepared_dictionary:
+        logger.warning("Empty %s resource, skipping.", resource_name)
+        return []
 
     check_possibility_to_encode_translations(prepared_dictionary, language, resource_name)
 
@@ -72,6 +75,8 @@ def process_hardcoded(
 
     with csv_file_path.open("wb") as csv_file:
         csv_file.write(codecs.encode(csv_data_buffer.read(), encoding=language.encoding))
+
+    assert csv_data_buffer.getvalue(), "Empty resulting buffer"
 
     return prepared_dictionary
 
@@ -100,10 +105,16 @@ def process_objects(
     )
     po_data = load_po_file(file_path=po_file_path)
     po_data = [(source, translation) for source, translation in po_data if source not in exclude]
+    if not po_data:
+        logger.warning("Empty %s resource, skipping.", resource_name)
+        return []
 
     diagnostics = Diagnostics()
     prepared_dictionary = objects_po_to_csv.prepare_dictionary(po_data, diagnostics)
     filtered_dictionary = {source: translation for source, translation in prepared_dictionary if source not in exclude}
+    if not filtered_dictionary:
+        logger.warning("Empty filtered dictionary from %s resource, skipping.", resource_name)
+        return []
 
     check_possibility_to_encode_translations(filtered_dictionary.items(), language, resource_name)
 
@@ -119,6 +130,8 @@ def process_objects(
 
     with csv_file_path.open("ab") as csv_file:
         csv_file.write(codecs.encode(csv_data_buffer.read(), encoding=language.encoding))
+
+    assert csv_data_buffer.getvalue(), "Empty resulting buffer"
 
     return filtered_dictionary.items()
 
@@ -159,9 +172,16 @@ def process_lua(
     )
     po_data = load_po_file(file_path=po_file_path)
     po_data = [(source, translation) for source, translation in po_data if source not in exclude]
+    if not po_data:
+        logger.warning("Empty %s resource, skipping.", resource_name)
+        return []
+
     prepared_dictionary = hardcoded_po_to_csv.prepare_dictionary(po_data)
     prepared_dictionary = process_lua_strings(prepared_dictionary)
     filtered_dictionary = {source: translation for source, translation in prepared_dictionary if source not in exclude}
+    if not filtered_dictionary:
+        logger.warning("Empty filtered dictionary from %s resource, skipping.", resource_name)
+        return []
 
     check_possibility_to_encode_translations(filtered_dictionary.items(), language, resource_name)
 
@@ -173,6 +193,8 @@ def process_lua(
 
     with csv_file_path.open("ab") as csv_file:
         csv_file.write(codecs.encode(csv_data_buffer.read(), encoding=language.encoding))
+
+    assert csv_data_buffer.getvalue(), "Empty resulting buffer"
 
     return filtered_dictionary.items()
 
