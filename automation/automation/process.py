@@ -60,7 +60,7 @@ def process_hardcoded(
         language_code=language.code,
     )
     po_data = load_po_file(file_path=po_file_path)
-    prepared_dictionary = hardcoded_po_to_csv.prepare_dictionary(po_data)
+    prepared_dictionary = list(hardcoded_po_to_csv.prepare_dictionary(po_data))
 
     check_possibility_to_encode_translations(prepared_dictionary, language, resource_name)
 
@@ -183,6 +183,7 @@ def process(language: LanguageInfo, context: Context) -> None:
         context=context,
         resource_name="hardcoded_steam",
     )
+    csv_hardcoded_data = list(csv_hardcoded_data)
 
     logger.info(f"{hardcoded_csv_file_path.relative_to(context.working_directory)} written")
 
