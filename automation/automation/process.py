@@ -53,7 +53,7 @@ def process_hardcoded(
     context: Context,
     resource_name: str,
 ) -> Iterable[tuple[str, str]]:
-    logger.info("Processing %s resource", resource_name)
+    logger.info(f"Processing {resource_name} resource")
     po_file_path = get_po_file_path(
         working_directory=context.working_directory,
         project_name=context.config.source.project,
@@ -63,7 +63,7 @@ def process_hardcoded(
     po_data = load_po_file(file_path=po_file_path)
     prepared_dictionary = list(hardcoded_po_to_csv.prepare_dictionary(po_data))
     if not prepared_dictionary:
-        logger.warning("Empty %s resource, skipping.", resource_name)
+        logger.warning(f"Empty {resource_name} resource, skipping.")
         return []
 
     check_possibility_to_encode_translations(prepared_dictionary, language, resource_name)
@@ -93,7 +93,7 @@ def process_objects(
     exclude: set[str] | None = None,
     resource_name: str,
 ) -> Iterable[tuple[str, str]]:
-    logger.info("Processing %s resource", resource_name)
+    logger.info(f"Processing {resource_name} resource")
     if not exclude:
         exclude = set()
 
@@ -111,14 +111,14 @@ def process_objects(
     po_data = load_po_file(file_path=po_file_path)
     po_data = [(source, translation) for source, translation in po_data if source not in exclude]
     if not po_data:
-        logger.warning("Empty %s resource, skipping.", resource_name)
+        logger.warning(f"Empty {resource_name} resource, skipping.")
         return []
 
     diagnostics = Diagnostics()
     prepared_dictionary = objects_po_to_csv.prepare_dictionary(po_data, diagnostics)
     filtered_dictionary = {source: translation for source, translation in prepared_dictionary if source not in exclude}
     if not filtered_dictionary:
-        logger.warning("Empty filtered dictionary from %s resource, skipping.", resource_name)
+        logger.warning(f"Empty filtered dictionary from {resource_name} resource, skipping.")
         return []
 
     logger.info(f"Filtered lines: {len(filtered_dictionary)=}")
@@ -169,7 +169,7 @@ def process_lua(
     exclude: set[str] | None = None,
     resource_name: str,
 ) -> Iterable[tuple[str, str]]:
-    logger.info("Processing %s resource", resource_name)
+    logger.info(f"Processing {resource_name} resource", )
     if not exclude:
         exclude = set()
 
@@ -182,14 +182,14 @@ def process_lua(
     po_data = load_po_file(file_path=po_file_path)
     po_data = [(source, translation) for source, translation in po_data if source not in exclude]
     if not po_data:
-        logger.warning("Empty %s resource, skipping.", resource_name)
+        logger.warning(f"Empty {resource_name} resource, skipping.")
         return []
 
     prepared_dictionary = hardcoded_po_to_csv.prepare_dictionary(po_data)
     prepared_dictionary = process_lua_strings(prepared_dictionary)
     filtered_dictionary = {source: translation for source, translation in prepared_dictionary if source not in exclude}
     if not filtered_dictionary:
-        logger.warning("Empty filtered dictionary from %s resource, skipping.", resource_name)
+        logger.warning(f"Empty filtered dictionary from {resource_name} resource, skipping.")
         return []
 
     logger.info(f"Filtered lines: {len(filtered_dictionary)=}")
