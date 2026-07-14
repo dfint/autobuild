@@ -10,15 +10,3 @@ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to
 Problematic tag pair: '[TLCM_NOUN:eyes:PLURAL]', '[TLCM_NOUN:глаза:МНОЖЕСТВЕННОЕ]'
 Problems:
 Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
-Problematic tag pair: '[CASTE_NAME:trilobite woman:trilobite women:trilobite woman]', 'женщина трилобит:женщины трилобиты:женщина трилобит'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-Problematic tag pair: '[NAME:trilobite man:trilobite men:trilobite man]', 'человек трилобит:люди трилобиты:человек трилобит'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-Problematic tag pair: '[DESCRIPTION:A small person with the segmented body and antennae of a trilobite.]', 'Маленькое существо с сегментированным телом и усиками трилобита.'
-Problems:
-Error: Wrong tag translation format (fix square brackets)
-Problematic tag pair: '[DESCRIPTION:A tiny hemispherical arthropod with protective spines.]', 'Крошечное полусферическое членистоногое с защитными шипами'
-Problems:
-Error: Wrong tag translation format (fix square brackets)

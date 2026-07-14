@@ -30644,6 +30644,12 @@
 "trilobite","трилобит"
 "trilobites","трилобиты"
 "juvenile trilobite","молодой трилобит"
+"trilobite woman","женщина трилобит"
+"trilobite women","женщины трилобиты"
+"trilobite man","человек трилобит"
+"trilobite men","люди трилобиты"
+"A small person with the segmented body and antennae of a trilobite.","Маленькое существо с сегментированным телом и усиками трилобита."
+"A tiny hemispherical arthropod with protective spines.","Крошечное полусферическое членистоногое с защитными шипами"
 "slice","бьёте"
 "slices","бьёт"
 "bashes","бьёт"
@@ -34107,10 +34113,7 @@
 "rigid","строгий"
 "deceitful","обманчивый"
 "electrical","электрический"
-"long-lived","долгоживущий
-долгожитель
-длинная жизнь
-долговечный"
+"long-lived","долгоживущий"
 "loving","любящий"
 "loyal","верный"
 "lucky","удачливый"
