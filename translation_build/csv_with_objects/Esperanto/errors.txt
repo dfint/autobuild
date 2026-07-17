@@ -67,6 +67,9 @@ Error: Part 'NOSE' should not be translated
 Problematic tag pair: '[NAME:buitreraptor man:buitreraptor men:buitreraptor man]', '[CASTE_NAME:hombuitreraptoro:hombuitreraptoroj:hombuitreraptora]'
 Problems:
 Error: Part 'NAME' should not be translated
+Problematic tag pair: '[NAME:jeholopterus man:jeholopterus men:jeholopterus man]', '[NAME:homĵeholoptero:homĵeholopterojhomĵeholoptera]'
+Problems:
+Error: Tag parts count mismatch
 Problematic tag pair: '[PREPLURAL:suits of]', '[PREPLURAL::kunaĵoj de]'
 Problems:
 Error: Tag parts count mismatch
