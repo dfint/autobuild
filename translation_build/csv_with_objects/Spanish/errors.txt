@@ -1117,6 +1117,14 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[BP:SHELL:shell:STP]', '[BP:SHELL:caparazon:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:UB_CARAPACE:upper carapace:STP]', '[BP: UB_CARAPACE:caparazón superior:caparazones superiores]'
+Problems:
+Warning: Don't add extra spaces at the beginning or at the end of a tag part
+Error: Part 'UB_CARAPACE' should not be translated
+Problematic tag pair: '[BP:LB_CARAPACE:lower carapace:STP]', '[BP: LB_CARAPACE:caparazón inferior:caparazones inferiores]'
+Problems:
+Warning: Don't add extra spaces at the beginning or at the end of a tag part
+Error: Part 'LB_CARAPACE' should not be translated
 Problematic tag pair: '[BP:TAIL:tail:STP]', '[BP:TAIL:rabo:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
@@ -1129,6 +1137,14 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[BP:L_UB_PINCER:left pincer:STP]', '[BP:L_UB_PINCER:pinza izquierda:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:R_HD_PINCER:right pincer:STP]', '[BP: R_HD_PINCER:pinza derecha:pinzas derechas]'
+Problems:
+Warning: Don't add extra spaces at the beginning or at the end of a tag part
+Error: Part 'R_HD_PINCER' should not be translated
+Problematic tag pair: '[BP:L_HD_PINCER:left pincer:STP]', '[BP: L_HD_PINCER:pinza izquierda:pinzas izquierdas]'
+Problems:
+Warning: Don't add extra spaces at the beginning or at the end of a tag part
+Error: Part 'L_HD_PINCER' should not be translated
 Problematic tag pair: '[BP:REYE:right eye:STP]', '[BP:REYE:ojo derecho:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
