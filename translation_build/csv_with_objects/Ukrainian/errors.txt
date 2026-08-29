@@ -121,6 +121,9 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[PROFESSION_NAME:HAMMERMAN:hammerdwarf:hammerdwarves]', '[PROFESSION_NAME:МОЛОТОБОРЕЦЬ:дварф-молотоборець:дварфи-молотоборці]'
 Problems:
 Error: Part 'HAMMERMAN' should not be translated
+Problematic tag pair: '[IS_GEM:bone opal:STP:]', '[IS_GEM:кістковий опал:STP:]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 Problematic tag pair: '[GROWTH_NAME:mangrove flower:STP]', '[GROWTH_NAME:квітка мангрового дерева:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
