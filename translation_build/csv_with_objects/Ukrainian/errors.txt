@@ -445,6 +445,12 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[IS_GEM:star sapphire:STP:]', '[IS_GEM:зоряний сапфір:STP:]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:horned melon flower:STP]', '[GROWTH_NAME:квітка рогатої дині:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:horned melon:STP]', '[GROWTH_NAME:рогата диня:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 Problematic tag pair: '[GROWTH_NAME:mangrove flower:STP]', '[GROWTH_NAME:квітка мангрового дерева:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
