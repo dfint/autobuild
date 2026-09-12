@@ -457,6 +457,198 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[GROWTH_NAME:horned melon:STP]', '[GROWTH_NAME:рогата диня:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:purple yam flower:STP]', '[GROWTH_NAME:квітка фіолетового ямсу:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:white yam flower:STP]', '[GROWTH_NAME:квітка білого ямсу:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:passion fruit flower:STP]', '[GROWTH_NAME:квітка пасифлори:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:passion fruit:STP]', '[GROWTH_NAME:маракуя:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:grape inflorescence:STP]', '[GROWTH_NAME:грона винограду:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:grape:STP]', '[GROWTH_NAME:виноград:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:cranberry flower:STP]', '[GROWTH_NAME:квітка журавлини:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:bilberry flower:STP]', '[GROWTH_NAME:квітка чорниці:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:blueberry flower:STP]', '[GROWTH_NAME:квітка лохини:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:blackberry flower:STP]', '[GROWTH_NAME:квітка ожини:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:raspberry flower:STP]', '[GROWTH_NAME:квітка малини:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:pineapple flower:STP]', '[GROWTH_NAME:квітка ананасу:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:pineapple:STP]', '[GROWTH_NAME:ананас:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:baby toes succulent bud:STP]', '[GROWTH_NAME:бруньки фенестрарії:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:baby toes succulent flower:STP]', '[GROWTH_NAME:квітка фенестрарії:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:pebble plant bud:STP]', '[GROWTH_NAME:брунька живого каменю:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:pebble plant flower:STP]', '[GROWTH_NAME:квітка живого каменю:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:meadowsweet bud:STP]', '[GROWTH_NAME:брунька таволги:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:meadowsweet flower:STP]', '[GROWTH_NAME:квітка таволги:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:rush bud:STP]', '[GROWTH_NAME:брунька ситника:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:rush flower:STP]', '[GROWTH_NAME:квітка ситника:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:marsh thistle bud:STP]', '[GROWTH_NAME:брунька болотяного чортополоху:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:marsh thistle flower:STP]', '[GROWTH_NAME:квітка болотяного чортополоху:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:cottongrass bud:STP]', '[GROWTH_NAME:брунька заячого хвостику:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:cottongrass tuft:STP]', '[GROWTH_NAME:китиця заячого хвостику:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:mountain avens bud:STP]', '[GROWTH_NAME:брунька куріпкової трави:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:mountain avens flower:STP]', '[GROWTH_NAME:квітка куріпкової трави:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:cloudberry bud:STP]', '[GROWTH_NAME:брунька морошки:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:cloudberry flower:STP]', '[GROWTH_NAME:квітки мороші:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:abaca flower:STP]', '[GROWTH_NAME:квітка абаки:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:banana leaf:banana leaves]', '[GROWTH_NAME:листок бананулистя банану]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[GROWTH_NAME:banana flower:STP]', '[GROWTH_NAME:квітка банану:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:banana:STP]', '[GROWTH_NAME:банан:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:carambola flower:STP]', '[GROWTH_NAME:квітка карамболи:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:carambola:STP]', '[GROWTH_NAME:карамбола:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:cashew flower:STP]', "[GROWTH_NAME:квітка кеш'ю:STP]"
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:cashew apple:STP]', "[GROWTH_NAME:яблуко кеш'ю:STP]"
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:coffee flower cluster:STP]', '[GROWTH_NAME:суцвіття кавового дерева:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:durian flower:STP]', '[GROWTH_NAME:квітка дуріану:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:durian:STP]', '[GROWTH_NAME:дуріан:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:guava flower:STP]', '[GROWTH_NAME:квітки гуави:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:guava:STP]', '[GROWTH_NAME:гуава:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:papaya flower:STP]', '[GROWTH_NAME:квітка папаї:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:papaya:STP]', '[GROWTH_NAME:папая:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:paradise nut raceme:STP]', '[GROWTH_NAME:китиця райського горіху:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:paradise nut fruit:STP]', '[GROWTH_NAME:плід райського горіху:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:rambutan flower:STP]', '[GROWTH_NAME:квітка рамбутану:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:rambutan:STP]', '[GROWTH_NAME:рамбутан:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:tea flower:STP]', '[GROWTH_NAME:чайна квітка:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:tea tree capsule:STP]', '[GROWTH_NAME:тригніздова коробочка чайного дерева:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:avocado flower:STP]', '[GROWTH_NAME:квітка авокадо:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:avocado:STP]', '[GROWTH_NAME:авокадо:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:lime flower:STP]', '[GROWTH_NAME:квітка лайму:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:lime:STP]', '[GROWTH_NAME:лайм:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:pomelo flower:STP]', '[GROWTH_NAME:квітка помело:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:pomelo:STP]', '[GROWTH_NAME:помело:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:citron flower:STP]', '[GROWTH_NAME:квітка цитрону:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:citron:STP]', '[GROWTH_NAME:цитрон:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:orange flower:STP]', '[GROWTH_NAME:квітка апельсину:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:orange:STP]', '[GROWTH_NAME:апельсин:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:bitter orange flower:STP]', '[GROWTH_NAME:квітка гіркого апельсину:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:bitter orange:STP]', '[GROWTH_NAME:гіркий апельсин:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:finger lime flower:STP]', '[GROWTH_NAME:квітка пальчикового лайму:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[GROWTH_NAME:finger lime:STP]', '[GROWTH_NAME:пальчиковий лайм:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 Problematic tag pair: '[GROWTH_NAME:round lime flower:STP]', '[GROWTH_NAME:квітка круглого лайму:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
