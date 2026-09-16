@@ -4,7 +4,70 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[BP:LTC:left tentacle club:STP]', '[BP:LTC:klacek levého chapadla:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:UB_CARAPACE:upper carapace:STP]', '[BP:UB_CARAPACE:horní krunýř:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:LB_CARAPACE:lower carapace:STP]', '[BP:LB_CARAPACE:spodní krunýř:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:R_HD_PINCER:right pincer:STP]', '[BP:R_HD_PINCER:pravé klepeto:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:L_HD_PINCER:left pincer:STP]', '[BP:L_HD_PINCER:levé klepeto:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:R_HD_PINCER:right frontal appendage:STP]', '[BP:R_HD_PINCER:pravý čelní přívěsek:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:L_HD_PINCER:left frontal appendage:STP]', '[BP:L_HD_PINCER:levý čelní přívěsek:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:EYE1:first eye:STP]', '[BP:EYE1:první oko:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:EYE2:second eye:STP]', '[BP:EYE2:druhé oko:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:EYE3:third eye:STP]', '[BP:EYE3:třetí oko:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:EYE4:fourth eye:STP]', '[BP:EYE4:čtvrté oko:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:EYE5:fifth eye:STP]', '[BP:EYE5:páté oko:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:BRAIN:brain:STP]', '[BP:BRAIN:mozek:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 Problematic tag pair: '[BP:CASQUE:casque:STP]', '[BP:CASQUE:přilba:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:CREST:crest:STP]', '[BP:CREST:hřeben:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:RHORN:front horn:STP]', '[BP:RHORN:přední roh:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:RHORN:right horn:STP]', '[BP:RHORN:pravý roh:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:LHORN:left horn:STP]', '[BP:LHORN:levý roh:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:RHORN:right upper horn:STP]', '[BP:RHORN:pravý horní roh:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:LHORN:left upper horn:STP]', '[BP:LHORN:levý horní roh:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:RHORN:right lower horn:STP]', '[BP:RHORN:pravý spodní roh:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:LHORN:left lower horn:STP]', '[BP:LHORN:levý spodní roh:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:FINGER1:finger:STP]', '[BP:FINGER1:prst:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 Problematic tag pair: '[BP:RRTOE1:first right rear toe:STP]', '[BP:RRTOE1:první pravý zadní prst:STP]'
@@ -190,6 +253,18 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[BP:LRFLIP:left rear flipper:STP]', '[BP:LRFLIP:levá zadní ploutev:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:RFFIN:right front fin:STP]', '[BP:RFFIN:pravá přední ploutev:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:LFFIN:left front fin:STP]', '[BP:LFFIN:levá přední ploutev:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:RRFIN:right rear fin:STP]', '[BP:RRFIN:pravá zadní ploutev:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:LRFIN:left rear fin:STP]', '[BP:LRFIN:levá zadní ploutev:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 Problematic tag pair: '[BP:HUMP1:hump:STP]', '[BP:HUMP1:hrb:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
@@ -269,6 +344,12 @@ Problematic tag pair: '[BP:RL_INCISOR:right lower incisor:STP]', '[BP:RL_INCISOR
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 Problematic tag pair: '[BP:LL_INCISOR:left lower incisor:STP]', '[BP:LL_INCISOR:levý dolní řezák:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:RU_INCISOR:right tooth:STP]', '[BP:RU_INCISOR:pravý zub:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:LU_INCISOR:left tooth:STP]', '[BP:LU_INCISOR:levý zub:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 Problematic tag pair: '[INDIVIDUAL_NAME:first upper right incisor:STP]', '[INDIVIDUAL_NAME:první horní pravý řezák:STP]'
@@ -359,6 +440,39 @@ Problematic tag pair: '[BP:BILL:bill:STP]', '[BP:BILL:účtovat:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 Problematic tag pair: '[BP:TUSK:tusk:STP]', '[BP:TUSK:kel:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:RF_ENDITE:right frontal endite:STP]', '[BP:RF_ENDITE:pravý čelní endit:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:LF_ENDITE:left frontal endite:STP]', '[BP:LF_ENDITE:levý čelní endit:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:HEAD_SCLERITE:head sclerite:STP]', '[BP:HEAD_SCLERITE:hlavový sklerit:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:TOOTH_WHORL:tooth whorl:STP]', '[BP:TOOTH_WHORL:zubový přeslen:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:R_ANT:right antenna:STP]', '[BP:R_ANT:pravé tykadlo:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:L_ANT:left antenna:STP]', '[BP:L_ANT:levé tykadlo:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:TAIL_THAGOMIZER:thagomizer:STP]', '[BP:TAIL_THAGOMIZER:thagomizér:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:TAIL_CLUB:tail club:STP]', '[BP:TAIL_CLUB:ocasní kyj:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:SAIL:sail:STP]', '[BP:SAIL:plachta:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:R_SHOULDER_SPINE:right shoulder spine:STP]', '[BP:R_SHOULDER_SPINE:pravý ramenní trn:STP]'
+Problems:
+Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[BP:L_SHOULDER_SPINE:left shoulder spine:STP]', '[BP:L_SHOULDER_SPINE:levý ramenní trn:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 Problematic tag pair: '[BP:R_UB_PINCER:right claw:STP]', '[BP:R_UB_PINCER:pravý dráp:STP]'
