@@ -691,7 +691,7 @@ Warning: Replace STP with a translation of the previous word in the tag in a plu
 Problematic tag pair: '[GROWTH_NAME:lesser yam flower:STP]', '[GROWTH_NAME:квітка малого ямсу:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
-Problematic tag pair: '[GROWTH_NAME:long yam flower:STP]', '[GROWTH_NAME:квітка довгого ямсу:STP]'
+Problematic tag pair: '[GROWTH_NAME:long yam flower:STP]', '[GROWTH_NAME:цвіт довгого ямсу:STP]'
 Problems:
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 Problematic tag pair: '[GROWTH_NAME:purple yam flower:STP]', '[GROWTH_NAME:квітка фіолетового ямсу:STP]'
