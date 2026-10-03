@@ -118,6 +118,12 @@ Problems:
 Warning: Don't add extra spaces at the beginning or at the end of a tag part
 Error: Part 'L_SHOULDER_SPINE' should not be translated
 Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+Problematic tag pair: '[NAME:brown bullhead:brown bullheads:brown bullhead]', '[NAME:коричневий американський сомик:коричневі американські]'
+Problems:
+Error: Tag parts count mismatch
+Problematic tag pair: '[CASTE_NAME:brown bullhead:brown bullheads:brown bullhead]', '[CASTE_NAME:коричневий американський сомик:коричневі американські]'
+Problems:
+Error: Tag parts count mismatch
 Problematic tag pair: '[PROFESSION_NAME:HAMMERMAN:hammerdwarf:hammerdwarves]', '[PROFESSION_NAME:МОЛОТОБОРЕЦЬ:дварф-молотоборець:дварфи-молотоборці]'
 Problems:
 Error: Part 'HAMMERMAN' should not be translated
