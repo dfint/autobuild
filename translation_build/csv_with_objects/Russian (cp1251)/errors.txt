@@ -1,12 +1,15 @@
-Problematic tag pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN:кожа:ЕДИНСТВЕННОЕ]'
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN:кожа:ЕДИНСТВЕННОЕ]'
 Problems:
-Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
-Problematic tag pair: '[TLCM_NOUN:eyes:PLURAL]', '[TLCM_NOUN:глаза:МНОЖЕСТВЕННОЕ]'
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:eyes:PLURAL]', '[TLCM_NOUN:глаза:МНОЖЕСТВЕННОЕ]'
 Problems:
-Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
-Problematic tag pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN:хитин:ЕДИНСТВЕННОЕ]'
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN:хитин:ЕДИНСТВЕННОЕ]'
 Problems:
-Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
-Problematic tag pair: '[TLCM_NOUN:eyes:PLURAL]', '[TLCM_NOUN:глаза:МНОЖЕСТВЕННОЕ]'
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:eyes:PLURAL]', '[TLCM_NOUN:глаза:МНОЖЕСТВЕННОЕ]'
 Problems:
-Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
