@@ -1,6 +1,8 @@
 import codecs
-from collections.abc import Iterable
+from collections.abc import Generator, Iterable
+from contextlib import contextmanager
 from pathlib import Path
+from tempfile import NamedTemporaryFile
 
 from babel.messages.pofile import read_po
 from df_translation_toolkit.utils.po_utils import simple_read_po
@@ -42,6 +44,25 @@ def load_po_file_with_context(file_path: Path) -> list[tuple[str, str, str]]:
             for item in read_po(file)
             if item.id and item.string
         ]
+
+
+@contextmanager
+def temporary_csv_path(csv_file_path: Path) -> Generator[Path, None, None]:
+    csv_file_path.parent.mkdir(parents=True, exist_ok=True)
+    with NamedTemporaryFile(
+        dir=csv_file_path.parent,
+        prefix=f".{csv_file_path.name}.",
+        suffix=".tmp",
+        delete=False,
+    ) as temporary_file:
+        temporary_csv_file_path = Path(temporary_file.name)
+
+    try:
+        yield temporary_csv_file_path
+        if temporary_csv_file_path.stat().st_size > 0:
+            temporary_csv_file_path.replace(csv_file_path)
+    finally:
+        temporary_csv_file_path.unlink(missing_ok=True)
 
 
 def check_possibility_to_encode_translations(

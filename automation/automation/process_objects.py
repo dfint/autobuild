@@ -1,6 +1,5 @@
 import codecs
 import io
-import shutil
 from pathlib import Path
 
 import alternative_encodings
@@ -15,6 +14,7 @@ from automation.process_utils import (
     check_possibility_to_encode_translations,
     get_po_file_path,
     load_po_file_with_context,
+    temporary_csv_path,
     validate_language_name,
 )
 
@@ -87,15 +87,15 @@ def process_objects_only(language: LanguageInfo, context: Context) -> None:
     validate_language_name(language.name)
     translation_build_directory = context.working_directory / "translation_build"
     csv_objects_directory = translation_build_directory / "csv_objects" / language.name
-    shutil.rmtree(csv_objects_directory, ignore_errors=True)
-    csv_objects_directory.mkdir(parents=True)
+    csv_objects_directory.mkdir(parents=True, exist_ok=True)
     objects_csv_file_path = csv_objects_directory / "dfint_dictionary.csv"
-    process_objects_with_context(
-        csv_file_path=objects_csv_file_path,
-        language=language,
-        context=context,
-        resource_name="objects",
-    )
+    with temporary_csv_path(objects_csv_file_path) as temporary_csv_file_path:
+        process_objects_with_context(
+            csv_file_path=temporary_csv_file_path,
+            language=language,
+            context=context,
+            resource_name="objects",
+        )
     logger.info(f"{objects_csv_file_path.relative_to(context.working_directory)} written")
 
 app = typer.Typer()
