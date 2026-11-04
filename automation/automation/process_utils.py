@@ -2,6 +2,9 @@ import codecs
 from collections.abc import Iterable
 from pathlib import Path
 
+from babel.messages.pofile import read_po
+from df_translation_toolkit.utils.po_utils import simple_read_po
+
 from automation.models import LanguageInfo
 
 
@@ -25,6 +28,20 @@ def get_po_file_path(*, working_directory: Path, project_name: str, resource_nam
         / resource_name
         / f"{language_code}.po"
     )
+
+
+def load_po_file(file_path: Path) -> list[tuple[str, str]]:
+    with file_path.open(encoding="utf-8") as file:
+        return simple_read_po(file)
+
+
+def load_po_file_with_context(file_path: Path) -> list[tuple[str, str, str]]:
+    with file_path.open(encoding="utf-8") as file:
+        return [
+            (str(item.id), str(item.context or ""), str(item.string))
+            for item in read_po(file)
+            if item.id and item.string
+        ]
 
 
 def check_possibility_to_encode_translations(

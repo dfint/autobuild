@@ -1,27 +1,27 @@
 import codecs
 import io
 import shutil
-from collections.abc import Iterable, Iterator
+from collections.abc import Iterable
 from pathlib import Path
 from typing import cast
 
 import alternative_encodings
 from df_translation_toolkit.convert import hardcoded_po_to_csv, objects_po_to_csv
 from df_translation_toolkit.utils.csv_utils import writer
-from df_translation_toolkit.utils.po_utils import simple_read_po
 from df_translation_toolkit.validation.validation_models import Diagnostics
 from loguru import logger
 
 from automation.models import Context, LanguageInfo
+from automation.process_lua_only import process_lua, process_lua_only
 from automation.process_objects_only import process_objects_only
-from automation.process_utils import check_possibility_to_encode_translations, get_po_file_path, validate_language_name
+from automation.process_utils import (
+    check_possibility_to_encode_translations,
+    get_po_file_path,
+    load_po_file,
+    validate_language_name,
+)
 
 alternative_encodings.register_all()
-
-
-def load_po_file(file_path: Path) -> list[tuple[str, str]]:
-    with file_path.open(encoding="utf-8") as file:
-        return simple_read_po(file)
 
 
 def process_hardcoded(
@@ -123,73 +123,6 @@ def process_objects(
     return filtered_dictionary.items()
 
 
-def prepare_lua_string(source_string: str, translation: str) -> Iterator[tuple[str, str]]:
-    source_string = source_string.rstrip("]")
-    translation = translation.rstrip("]")
-    source_parts = source_string.split(":")
-    translation_parts = translation.split(":")
-    if len(source_parts) != len(translation_parts):
-        yield source_string, translation
-        return
-
-    yield from zip(source_parts, translation_parts, strict=True)
-
-
-def process_lua_strings(prepared_dictionary: Iterable[tuple[str, str]]) -> Iterable[tuple[str, str]]:
-    for source, translation in prepared_dictionary:
-        yield from prepare_lua_string(source, translation)
-
-
-def process_lua(
-    *,
-    csv_file_path: Path,
-    language: LanguageInfo,
-    context: Context,
-    exclude: set[str] | None = None,
-    resource_name: str,
-) -> Iterable[tuple[str, str]]:
-    logger.info(f"Processing {resource_name} resource")
-    if not exclude:
-        exclude = set()
-
-    po_file_path = get_po_file_path(
-        working_directory=context.working_directory,
-        project_name=context.config.source.project,
-        resource_name=resource_name,
-        language_code=language.code,
-    )
-    po_data = load_po_file(file_path=po_file_path)
-    po_data = [(source, translation) for source, translation in po_data if source not in exclude]
-    if not po_data:
-        logger.warning(f"Empty {resource_name} resource, skipping.")
-        return []
-
-    prepared_dictionary = hardcoded_po_to_csv.prepare_dictionary(po_data)
-    prepared_dictionary = process_lua_strings(prepared_dictionary)
-    filtered_dictionary = {source: translation for source, translation in prepared_dictionary if source not in exclude}
-    if not filtered_dictionary:
-        logger.warning(f"Empty filtered dictionary from {resource_name} resource, skipping.")
-        return []
-
-    logger.info(f"Filtered lines: {len(filtered_dictionary)=}")
-
-    check_possibility_to_encode_translations(filtered_dictionary.items(), language, resource_name)
-
-    csv_data_buffer = io.StringIO(newline="")
-    csv_writer = writer(csv_data_buffer)
-    csv_writer.writerows(cast("Iterable[list[str]]", filtered_dictionary.items()))
-    csv_data_buffer.flush()
-    csv_data_buffer.seek(0)
-
-    with csv_file_path.open("ab") as csv_file:
-        data = csv_data_buffer.read()
-        csv_file.write(codecs.encode(data, encoding=language.encoding))
-        logger.info(f"Written data size: {len(data)=}")
-        assert len(data) > 0
-
-    return filtered_dictionary.items()
-
-
 @logger.catch(reraise=True)
 def process(language: LanguageInfo, context: Context) -> None:
     validate_language_name(language.name)
@@ -239,3 +172,4 @@ def process(language: LanguageInfo, context: Context) -> None:
     )
 
     logger.info(f"{with_objects_csv_file_path.relative_to(context.working_directory)} written")
+    process_lua_only(language, context)
