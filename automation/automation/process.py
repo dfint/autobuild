@@ -18,6 +18,7 @@ from automation.process_utils import (
     check_possibility_to_encode_translations,
     get_po_file_path,
     load_po_file,
+    temporary_csv_path,
     validate_language_name,
 )
 
@@ -88,16 +89,16 @@ def process(language: LanguageInfo, context: Context) -> None:
     translation_build_directory = context.working_directory / "translation_build"
 
     csv_directory = translation_build_directory / "csv" / language.name
-    shutil.rmtree(csv_directory, ignore_errors=True)
-    csv_directory.mkdir(parents=True)
+    csv_directory.mkdir(parents=True, exist_ok=True)
     hardcoded_csv_file_path = csv_directory / "dfint_dictionary.csv"
 
-    csv_hardcoded_data = process_hardcoded(
-        csv_file_path=hardcoded_csv_file_path,
-        language=language,
-        context=context,
-        resource_name="hardcoded_steam",
-    )
+    with temporary_csv_path(hardcoded_csv_file_path) as temporary_csv_file_path:
+        csv_hardcoded_data = process_hardcoded(
+            csv_file_path=temporary_csv_file_path,
+            language=language,
+            context=context,
+            resource_name="hardcoded_steam",
+        )
 
     logger.info(f"{hardcoded_csv_file_path.relative_to(context.working_directory)} written")
 
@@ -106,29 +107,30 @@ def process(language: LanguageInfo, context: Context) -> None:
     process_objects_only(language, context)
 
     csv_with_objects_directory = translation_build_directory / "csv_with_objects" / language.name
-    shutil.rmtree(csv_with_objects_directory, ignore_errors=True)
-    csv_with_objects_directory.mkdir(parents=True)
+    csv_with_objects_directory.mkdir(parents=True, exist_ok=True)
 
     with_objects_csv_file_path = csv_with_objects_directory / "dfint_dictionary.csv"
-    shutil.copy(hardcoded_csv_file_path, with_objects_csv_file_path)
+    with temporary_csv_path(with_objects_csv_file_path) as temporary_csv_file_path:
+        if hardcoded_csv_file_path.exists():
+            shutil.copy(hardcoded_csv_file_path, temporary_csv_file_path)
 
-    csv_objects_data = process_objects(
-        csv_file_path=with_objects_csv_file_path,
-        language=language,
-        context=context,
-        exclude=exclude,
-        resource_name="objects",
-    )
+        csv_objects_data = process_objects(
+            csv_file_path=temporary_csv_file_path,
+            language=language,
+            context=context,
+            exclude=exclude,
+            resource_name="objects",
+        )
 
-    exclude |= {first for first, _ in csv_objects_data}
+        exclude |= {first for first, _ in csv_objects_data}
 
-    process_lua(
-        csv_file_path=with_objects_csv_file_path,
-        language=language,
-        context=context,
-        exclude=exclude,
-        resource_name="lua",
-    )
+        process_lua(
+            csv_file_path=temporary_csv_file_path,
+            language=language,
+            context=context,
+            exclude=exclude,
+            resource_name="lua",
+        )
 
     logger.info(f"{with_objects_csv_file_path.relative_to(context.working_directory)} written")
     process_lua_only(language, context)

@@ -1,6 +1,5 @@
 import codecs
 import io
-import shutil
 from collections.abc import Iterable, Iterator
 from pathlib import Path
 from typing import cast
@@ -17,6 +16,7 @@ from automation.process_utils import (
     get_po_file_path,
     load_po_file,
     load_po_file_with_context,
+    temporary_csv_path,
     validate_language_name,
 )
 
@@ -145,15 +145,15 @@ def process_lua_only(language: LanguageInfo, context: Context) -> None:
     validate_language_name(language.name)
     translation_build_directory = context.working_directory / "translation_build"
     csv_lua_directory = translation_build_directory / "csv_lua" / language.name
-    shutil.rmtree(csv_lua_directory, ignore_errors=True)
-    csv_lua_directory.mkdir(parents=True)
+    csv_lua_directory.mkdir(parents=True, exist_ok=True)
     lua_csv_file_path = csv_lua_directory / "dfint_dictionary.csv"
-    process_lua_with_context(
-        csv_file_path=lua_csv_file_path,
-        language=language,
-        context=context,
-        resource_name="lua",
-    )
+    with temporary_csv_path(lua_csv_file_path) as temporary_csv_file_path:
+        process_lua_with_context(
+            csv_file_path=temporary_csv_file_path,
+            language=language,
+            context=context,
+            resource_name="lua",
+        )
     logger.info(f"{lua_csv_file_path.relative_to(context.working_directory)} written")
 
 
