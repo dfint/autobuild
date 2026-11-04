@@ -12,7 +12,11 @@ from df_translation_toolkit.validation.validation_models import Diagnostics
 from loguru import logger
 
 from automation.models import Config, Context, LanguageInfo, SourceInfo
-from automation.process_utils import check_possibility_to_encode_translations, get_po_file_path
+from automation.process_utils import (
+    check_possibility_to_encode_translations,
+    get_po_file_path,
+    validate_language_name,
+)
 
 alternative_encodings.register_all()
 
@@ -89,6 +93,7 @@ def process_objects_with_context(
 
 
 def process_objects_only(language: LanguageInfo, context: Context) -> None:
+    validate_language_name(language.name)
     translation_build_directory = context.working_directory / "translation_build"
     csv_objects_directory = translation_build_directory / "csv_objects" / language.name
     shutil.rmtree(csv_objects_directory, ignore_errors=True)
@@ -113,6 +118,11 @@ def main(
     encoding: str,
     project: str = "dwarf-fortress-steam",
 ) -> None:
+    try:
+        validate_language_name(language_name)
+    except ValueError as ex:
+        raise typer.BadParameter(str(ex)) from ex
+
     context = Context(
         config=Config(source=SourceInfo(project=project), languages=[]),
         working_directory=working_directory,

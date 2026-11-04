@@ -5,6 +5,17 @@ from pathlib import Path
 from automation.models import LanguageInfo
 
 
+def validate_language_name(language_name: str) -> None:
+    if (
+        not language_name
+        or language_name in {".", ".."}
+        or Path(language_name).name != language_name
+        or "\\" in language_name
+    ):
+        error_message = "language_name must be a single path component"
+        raise ValueError(error_message)
+
+
 def get_po_file_path(*, working_directory: Path, project_name: str, resource_name: str, language_code: str) -> Path:
     return (
         working_directory
