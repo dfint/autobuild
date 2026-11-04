@@ -56,6 +56,10 @@ def process_objects_with_context(
         for source, prepared_translation in prepared_entries:
             filtered_dictionary[source, object_context] = prepared_translation
 
+    if diagnostics.contains_problems():
+        with errors_file_path.open("w", encoding="utf-8") as errors_file:
+            errors_file.write(str(diagnostics))
+
     if not filtered_dictionary:
         logger.warning(f"Empty filtered dictionary from {resource_name} resource, skipping.")
         return
@@ -66,10 +70,6 @@ def process_objects_with_context(
         language,
         resource_name,
     )
-
-    if diagnostics.contains_problems():
-        with errors_file_path.open("w", encoding="utf-8") as errors_file:
-            errors_file.write(str(diagnostics))
 
     csv_data_buffer = io.StringIO(newline="")
     csv_writer = writer(csv_data_buffer)
