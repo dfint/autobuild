@@ -50,11 +50,11 @@ def process_objects_with_context(
         return
 
     diagnostics = Diagnostics()
-    filtered_dictionary: dict[str, tuple[str, str]] = {}
+    filtered_dictionary: dict[tuple[str, str], str] = {}
     for original, object_context, translation in po_data:
         prepared_entries = objects_po_to_csv.prepare_dictionary([(original, translation)], diagnostics)
         for source, prepared_translation in prepared_entries:
-            filtered_dictionary[source] = (object_context, prepared_translation)
+            filtered_dictionary[source, object_context] = prepared_translation
 
     if not filtered_dictionary:
         logger.warning(f"Empty filtered dictionary from {resource_name} resource, skipping.")
@@ -62,7 +62,7 @@ def process_objects_with_context(
 
     logger.info(f"Filtered lines: {len(filtered_dictionary)=}")
     check_possibility_to_encode_translations(
-        ((source, translation) for source, (_, translation) in filtered_dictionary.items()),
+        ((source, translation) for (source, _), translation in filtered_dictionary.items()),
         language,
         resource_name,
     )
@@ -75,7 +75,7 @@ def process_objects_with_context(
     csv_writer = writer(csv_data_buffer)
     rows = [
         [source, object_context, translation]
-        for source, (object_context, translation) in filtered_dictionary.items()
+        for (source, object_context), translation in filtered_dictionary.items()
     ]
     csv_writer.writerows(rows)
     csv_data_buffer.flush()
