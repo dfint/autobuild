@@ -6,9 +6,9 @@
 This is an automated repository which builds csv files with a translation for several languages to use with [dfint/df-steam-hook-rs](https://github.com/dfint/df-steam-hook-rs) (and earlier with [dfint/df-steam-hook](https://github.com/dfint/df-steam-hook)). It updates twice a day on data from [dfint/translations-backup](https://github.com/dfint/translations-backup).
 
 Ready to use csv files are in the [translation_build](https://github.com/dfint/autobuild/tree/main/translation_build) directory.
-It contains two more directories: `csv` and `csv_with_objects`. The first one contains csv files with text only from `hardcoded` resource on transifex (only text from the exe file of the game). The second one additionaly contains text from the `objects` resource (animals, ores, stones, plants and other things).
+It contains three directories: `csv`, `csv_with_objects`, and `csv_objects`. The `csv` directory contains csv files with text only from the `hardcoded` resource on transifex (only text from the exe file of the game). The `csv_with_objects` directory additionally contains text from the `objects` resource (animals, ores, stones, plants and other things), together with `hardcoded` and `lua` text. The `csv_objects` directory contains entries from `objects` only, with the source string, context, and translation in separate columns.
 
-Also, next to csv files in the `csv_with_objects` directory there are files with list of errors which were found during processing the objects.po resource file.
+Also, next to csv files in the `csv_with_objects` and `csv_objects` directories there are files with lists of errors found while processing the `objects.po` resource file.
 
 To download a file you need to open it (click on it in the file list), then click on "Download raw file" icon button in the top right area of the file area.
 

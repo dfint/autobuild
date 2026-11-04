@@ -9,7 +9,7 @@ dependencies = [
     "typer>=0.15.4,<0.20",
     "loguru>=0.7.3,<0.8",
     "pydantic>=2,<3",
-    "strictyaml>=1.7.3,<2",
+    "babel>=2,<3",
     "df-translation-toolkit>=0.13.0,<0.14",
     "alternative-encodings>=0.3.1,<0.4",
     "tqdm>=4.67.1,<5",
@@ -43,3 +43,4 @@ ignore = [
 [tool.poe.tasks]
 process_all.script = "automation.process_all:app"
 process_one_language.script = "automation.process_one_language:app"
+process_objects_only.script = "automation.process_objects_only:app"
