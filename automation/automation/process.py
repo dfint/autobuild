@@ -14,7 +14,7 @@ from loguru import logger
 
 from automation.models import Context, LanguageInfo
 from automation.process_objects_only import process_objects_only
-from automation.process_utils import check_possibility_to_encode_translations, get_po_file_path
+from automation.process_utils import check_possibility_to_encode_translations, get_po_file_path, validate_language_name
 
 alternative_encodings.register_all()
 
@@ -192,6 +192,7 @@ def process_lua(
 
 @logger.catch(reraise=True)
 def process(language: LanguageInfo, context: Context) -> None:
+    validate_language_name(language.name)
     translation_build_directory = context.working_directory / "translation_build"
 
     csv_directory = translation_build_directory / "csv" / language.name
