@@ -5,7 +5,6 @@ from pathlib import Path
 
 import alternative_encodings
 import typer
-from babel.messages.pofile import read_po
 from df_translation_toolkit.convert import objects_po_to_csv
 from df_translation_toolkit.utils.csv_utils import writer
 from df_translation_toolkit.validation.validation_models import Diagnostics
@@ -15,19 +14,11 @@ from automation.models import Config, Context, LanguageInfo, SourceInfo
 from automation.process_utils import (
     check_possibility_to_encode_translations,
     get_po_file_path,
+    load_po_file_with_context,
     validate_language_name,
 )
 
 alternative_encodings.register_all()
-
-
-def load_po_file_with_context(file_path: Path) -> list[tuple[str, str, str]]:
-    with file_path.open(encoding="utf-8") as file:
-        return [
-            (str(item.id), str(item.context or ""), str(item.string))
-            for item in read_po(file)
-            if item.id and item.string
-        ]
 
 
 def process_objects_with_context(
