@@ -13,37 +13,15 @@ from df_translation_toolkit.validation.validation_models import Diagnostics
 from loguru import logger
 
 from automation.models import Context, LanguageInfo
+from automation.process_objects_only import process_objects_only
+from automation.process_utils import check_possibility_to_encode_translations, get_po_file_path
 
 alternative_encodings.register_all()
-
-
-def get_po_file_path(*, working_directory: Path, project_name: str, resource_name: str, language_code: str) -> Path:
-    return (
-        working_directory
-        / "translations-backup"
-        / "translations"
-        / project_name
-        / resource_name
-        / f"{language_code}.po"
-    )
 
 
 def load_po_file(file_path: Path) -> list[tuple[str, str]]:
     with file_path.open(encoding="utf-8") as file:
         return simple_read_po(file)
-
-
-def check_possibility_to_encode_translations(
-    dictionary: Iterable[tuple[str, str]],
-    language: LanguageInfo,
-    resource_name: str,
-) -> None:
-    for original, translation in dictionary:
-        try:
-            codecs.encode(translation, encoding=language.encoding)
-        except UnicodeEncodeError as ex:
-            msg = f"Error trying encode translation: {translation!r}; original: {original!r}, resource: {resource_name}"
-            raise ValueError(msg) from ex
 
 
 def process_hardcoded(
@@ -230,6 +208,8 @@ def process(language: LanguageInfo, context: Context) -> None:
     logger.info(f"{hardcoded_csv_file_path.relative_to(context.working_directory)} written")
 
     exclude = {first for first, _ in csv_hardcoded_data}
+
+    process_objects_only(language, context)
 
     csv_with_objects_directory = translation_build_directory / "csv_with_objects" / language.name
     shutil.rmtree(csv_with_objects_directory, ignore_errors=True)
