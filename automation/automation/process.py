@@ -12,8 +12,8 @@ from loguru import logger
 
 from automation.models import Context, LanguageInfo
 from automation.process_hardcoded import process_hardcoded
-from automation.process_lua_only import process_lua, process_lua_only
-from automation.process_objects_only import process_objects_only
+from automation.process_lua import process_lua, process_lua_only
+from automation.process_objects import process_objects_only
 from automation.process_utils import (
     check_possibility_to_encode_translations,
     get_po_file_path,
