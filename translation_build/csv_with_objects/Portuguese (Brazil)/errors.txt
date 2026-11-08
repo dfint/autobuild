@@ -1462,6 +1462,14 @@ Problematic pair: '[BP:SHELL:shell:STP]', '[BP:SHELL:casca:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
+Problematic pair: '[BP:UB_CARAPACE:upper carapace:STP]', '[BP:UB_CARAPACE:carapaça superior:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:LB_CARAPACE:lower carapace:STP]', '[BP:LB_CARAPACE:carapaça inferior:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
 Problematic pair: '[BP:TAIL:tail:STP]', '[BP:TAIL:cauda:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
@@ -1475,6 +1483,22 @@ Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
 Problematic pair: '[BP:L_UB_PINCER:left pincer:STP]', '[BP:L_UB_PINCER:pinça esquerda:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:R_HD_PINCER:right pincer:STP]', '[BP:R_HD_PINCER:pinça direita:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:L_HD_PINCER:left pincer:STP]', '[BP:L_HD_PINCER:pinça esquerda:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:R_HD_PINCER:right frontal appendage:STP]', '[BP:R_HD_PINCER:apêndice frontal direito:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:L_HD_PINCER:left frontal appendage:STP]', '[BP:L_HD_PINCER:apêndice frontal esquerdo:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
@@ -1511,6 +1535,26 @@ Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
 Problematic pair: '[BP:EYE4:fourth eye:STP]', '[BP:EYE4:quarto olho:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:EYE1:first eye:STP]', '[BP:EYE1:primeiro olho:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:EYE2:second eye:STP]', '[BP:EYE2:segundo olho:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:EYE3:third eye:STP]', '[BP:EYE3:terceiro olho:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:EYE4:fourth eye:STP]', '[BP:EYE4:quarto olho:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:EYE5:fifth eye:STP]', '[BP:EYE5:quinto olho:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
@@ -1662,11 +1706,19 @@ Problematic pair: '[BP:BRAIN:brain:STP]', '[BP:BRAIN:cérebro:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
+Problematic pair: '[BP:BRAIN:brain:STP]', '[BP:BRAIN:cérebro:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
 Problematic pair: '[BP:SKULL:skull:STP]', '[BP:SKULL:crânio:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
 Problematic pair: '[BP:CASQUE:casque:STP]', '[BP:CASQUE:casco:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:CREST:crest:STP]', '[BP:CREST:crista:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
@@ -1687,6 +1739,34 @@ Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
 Problematic pair: '[BP:LHORN:second horn:STP]', '[BP:LHORN:segundo chifre:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:RHORN:front horn:STP]', '[BP:RHORN:chifre frontal:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:RHORN:right horn:STP]', '[BP:RHORN:chifre direito:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:LHORN:left horn:STP]', '[BP:LHORN:chifre esquerdo:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:RHORN:right upper horn:STP]', '[BP:RHORN:chifre superior direito:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:LHORN:left upper horn:STP]', '[BP:LHORN:chifre superior esquerdo:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:RHORN:right lower horn:STP]', '[BP:RHORN:chifre inferior direito:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:LHORN:left lower horn:STP]', '[BP:LHORN:chifre inferior esquerdo:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
@@ -1763,6 +1843,10 @@ Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
 Problematic pair: '[BP:FINGER2:second finger:STP]', '[BP:FINGER2:segundo dedo:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:FINGER1:finger:STP]', '[BP:FINGER1:dedo:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
@@ -2162,6 +2246,22 @@ Problematic pair: '[BP:LRFLIP:left rear flipper:STP]', '[BP:LRFLIP:nadadeira tra
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
+Problematic pair: '[BP:RFFIN:right front fin:STP]', '[BP:RFFIN:nadadeira dianteira direita:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:LFFIN:left front fin:STP]', '[BP:LFFIN:nadadeira dianteira esquerda:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:RRFIN:right rear fin:STP]', '[BP:RRFIN:nadadeira traseira direita:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:LRFIN:left rear fin:STP]', '[BP:LRFIN:nadadeira traseira esquerda:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
 Problematic pair: '[BP:HUMP1:hump:STP]', '[BP:HUMP1:corcunda:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
@@ -2271,6 +2371,14 @@ Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
 Problematic pair: '[BP:LL_INCISOR:left lower incisor:STP]', '[BP:LL_INCISOR:incisivo inferior esquerdo:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:RU_INCISOR:right tooth:STP]', '[BP:RU_INCISOR:dente direito:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:LU_INCISOR:left tooth:STP]', '[BP:LU_INCISOR:dente esquerdo:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
@@ -2463,6 +2571,50 @@ Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
 Problematic pair: '[BP:TUSK:tusk:STP]', '[BP:TUSK:presa:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:RF_ENDITE:right frontal endite:STP]', '[BP:RF_ENDITE:endito frontal direito:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:LF_ENDITE:left frontal endite:STP]', '[BP:LF_ENDITE:endito frontal esquerdo:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:HEAD_SCLERITE:head sclerite:STP]', '[BP:HEAD_SCLERITE:esclerito da cabeça:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:TOOTH_WHORL:tooth whorl:STP]', '[BP:TOOTH_WHORL:espiral de dentes:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:R_ANT:right antenna:STP]', '[BP:R_ANT:antena direita:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:L_ANT:left antenna:STP]', '[BP:L_ANT:antena esquerda:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:TAIL_THAGOMIZER:thagomizer:STP]', '[BP:TAIL_THAGOMIZER:tagomizador:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:TAIL_CLUB:tail club:STP]', '[BP:TAIL_CLUB:clava da cauda:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:SAIL:sail:STP]', '[BP:SAIL:vela:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:R_SHOULDER_SPINE:right shoulder spine:STP]', '[BP:R_SHOULDER_SPINE:espinho do ombro direito:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:L_SHOULDER_SPINE:left shoulder spine:STP]', '[BP:L_SHOULDER_SPINE:espinho do ombro esquerdo:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
@@ -4239,10 +4391,6 @@ Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
 Problems:
  Warning: Don't add extra spaces at the beginning or at the end of a tag part
  Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
-
-Problematic pair: '[NAME:horse:horses:equine]', '[NAME:cavalo:cavalos:equino}'
-Problems:
- Error: Wrong tag translation format (fix square brackets)
 
 Problematic pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
 Problems:
@@ -7469,6 +7617,430 @@ Problems:
  Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
 
 Problematic pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: marfim]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: Part 'ALL_SOLID' should not be translated
+
+Problematic pair: '[STATE_ADJ:ALL_SOLID:ivory]', '[STATE_ADJ: ALL_SOLID: marfim]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: Part 'ALL_SOLID' should not be translated
+
+Problematic pair: '[TISSUE_NAME:ivory:NP]', '[TISSUE_NAME: marfim: NP]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: marfim]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: Part 'ALL_SOLID' should not be translated
+
+Problematic pair: '[STATE_ADJ:ALL_SOLID:ivory]', '[STATE_ADJ: ALL_SOLID: marfim]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: Part 'ALL_SOLID' should not be translated
+
+Problematic pair: '[TISSUE_NAME:ivory:NP]', '[TISSUE_NAME: marfim: NP]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: marfim]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: Part 'ALL_SOLID' should not be translated
+
+Problematic pair: '[STATE_ADJ:ALL_SOLID:ivory]', '[STATE_ADJ: ALL_SOLID: marfim]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: Part 'ALL_SOLID' should not be translated
+
+Problematic pair: '[TISSUE_NAME:ivory:NP]', '[TISSUE_NAME: marfim: NP]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[STATE_NAME:ALL_SOLID:ivory]', '[STATE_NAME: ALL_SOLID: marfim]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: Part 'ALL_SOLID' should not be translated
+
+Problematic pair: '[STATE_ADJ:ALL_SOLID:ivory]', '[STATE_ADJ: ALL_SOLID: marfim]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: Part 'ALL_SOLID' should not be translated
+
+Problematic pair: '[TISSUE_NAME:ivory:NP]', '[TISSUE_NAME: marfim: NP]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:hair:SINGULAR]', '[TLCM_NOUN: cabelo: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:scales:SINGULAR]', '[TLCM_NOUN: Escalas: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[SOUND:ALERT:100:1000:VOCALIZATION:whistle harshly:whistles harshly:a harsh whistle]', '[SOUND: ALERTA: 100: 1000: VOCALIZAÇÃO: assobiar asperamente: assobiar asperamente: um assobio áspero]'
+Problems:
+ Error: Part 'ALERT' should not be translated
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: Part '100' should not be translated
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: Part '1000' should not be translated
+ Error: Part 'VOCALIZATION' should not be translated
+
+Problematic pair: '[SOUND:PEACEFUL_INTERMITTENT:25:10000:VOCALIZATION:blow softly:blows softly:a soft blowing sound]', '[SOUND:PEACEFUL_INTERMITTENT:25:10000:VOCALIZAÇÃO:sopra suavemente:sopra suavemente:um som suave de sopro]'
+Problems:
+ Error: Part 'VOCALIZATION' should not be translated
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:feathers:PLURAL]', '[TLCM_NOUN: Penas: PLURAL]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:scales:SINGULAR]', '[TLCM_NOUN: Escalas: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:skin:SINGULAR]', '[TLCM_NOUN: pele: SINGULAR]'
+Problems:
+ Warning: Don't add extra spaces at the beginning or at the end of a tag part
+ Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
+
+Problematic pair: '[TLCM_NOUN:chitin:SINGULAR]', '[TLCM_NOUN: quitina: SINGULAR]'
 Problems:
  Warning: Don't add extra spaces at the beginning or at the end of a tag part
  Error: SINGULAR can be changed only to PLURAL, and PLURAL can be changed only to SINGULAR
