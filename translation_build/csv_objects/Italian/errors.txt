@@ -1493,6 +1493,46 @@ Problems:
  Error: Part 'L_HD_PINCER' should not be translated
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
+Problematic pair: '[BODYGLOSS:MAW:mouth:maw:mouths:maws]', 'MAW:bocca:fauce:bocche:fauci]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
+
+Problematic pair: '[BODYGLOSS:CLAW_HAND:hand:claw:hands:claws]', 'CLAW_HAND:mano:artiglio:mani:artigli]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
+
+Problematic pair: '[BODYGLOSS:CLAW_FOOT:foot:claw:feet:claws]', 'CLAW_FOOT:piede:artiglio:piedi:artigli]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
+
+Problematic pair: '[BODYGLOSS:HOOF:foot:hoof:feet:hooves]', 'HOOF:piede:zoccolo:piedi:zoccoli]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
+
+Problematic pair: '[BODYGLOSS:TRUNK:body:trunk:bodies:trunks]', 'TRUNK:corpo:tronco:corpi:tronchi]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
+
+Problematic pair: '[BODYGLOSS:BRANCH_ARM:arm:branch:arms:branches]', 'BRANCH_ARM:braccio:ramo:braccia:rami]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
+
+Problematic pair: '[BODYGLOSS:LEG_STUMP:leg:stump:legs:stumps]', 'LEG_STUMP:gamba:moncherino:gambe:moncherini]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
+
+Problematic pair: '[BODYGLOSS:ROOTS_FOOT:foot:roots:feet:roots]', 'ROOTS_FOOT:piede:radici:piedi:radici]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
+
+Problematic pair: '[BODYGLOSS:INSECT_UPPERBODY:upper body:thorax:upper bodies:thoraxes]', 'INSECT_UPPERBODY:parte superiore del corpo:torace:parti superiori del corpo:toraci]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
+
+Problematic pair: '[BODYGLOSS:INSECT_LOWERBODY:lower body:abdomen:lower bodies:abdomens]', 'INSECT_LOWERBODY:parte inferiore del corpo:addome:parti inferiori del corpo:addomi]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
+
 Problematic pair: '[BP:REYE:right eye:STP]', '[BP:REYE:occhio destro:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
@@ -1713,6 +1753,34 @@ Problematic pair: '[BP:LHORN:second horn:STP]', '[BP:LHORN:secondo corno:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
 
+Problematic pair: '[BP:RHORN:front horn:STP]', '[BP:RHORN:tentacolo frontale:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:RHORN:right horn:STP]', '[BP:RHORN:tentacolo destro:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:LHORN:left horn:STP]', '[BP:LHORN:tentacolo sinistro:STP]'
+Problems:
+ Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:RHORN:right upper horn:STP]', 'RHORN:tentacolo alto destro:STP]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
+
+Problematic pair: '[BP:LHORN:left upper horn:STP]', 'RHORN:tentacolo alto sinistro:STP]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
+
+Problematic pair: '[BP:RHORN:right lower horn:STP]', 'RHORN:tentacolo bassodestro:STP]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
+
+Problematic pair: '[BP:LHORN:left lower horn:STP]', 'RHORN:tentacolo basso sinistro:STP]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
+
 Problematic pair: '[BP:RHORN:right antler:STP]', '[BP:RHORN:palco destro:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
@@ -1780,6 +1848,10 @@ Problems:
 Problematic pair: '[BP:FINGER2:second finger:STP]', '[BP:FINGER2:secondo dito:STP]'
 Problems:
  Warning: Replace STP with a translation of the previous word in the tag in a plural form, otherwise, the game will create a plural form with adding -s at the end. If the translation with adding -s at the end is valid for your language, just ignore this message.
+
+Problematic pair: '[BP:FINGER1:finger:STP]', 'FINGER1:dita:STP]'
+Problems:
+ Error: Wrong tag translation format (fix square brackets)
 
 Problematic pair: '[BP:TOE1:first toe:STP]', '[BP:TOE1:primo dito:STP]'
 Problems:
